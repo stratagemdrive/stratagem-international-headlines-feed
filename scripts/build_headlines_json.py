@@ -7,6 +7,8 @@ Format: [{ "title": "...", "url": "...", "source": "...", "publishedAt": "..." }
 
 Goal:
 - 20 unique, major, international affairs stories
+- Focus on: major economic deals, trade agreements, sanctions, geopolitics, conflicts,
+  diplomacy, security crises, and major abroad stories with US/global impact
 - NO US domestic policy/news (unless clearly foreign policy / intl context)
 - Return ONLY one link/headline per story (even if multiple sources cover it)
 - Update on a schedule (recommended: GitHub Actions every 4 hours)
@@ -25,8 +27,8 @@ import re
 import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from typing import Dict, List, Optional
-from urllib.parse import urlparse, parse_qs
+from typing import Dict, List, Optional, Tuple
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 import feedparser
 import requests
@@ -64,12 +66,16 @@ OFFICIAL_RSS: Dict[str, str] = {
     "NPR": "https://www.npr.org/rss/rss.php?id=1004",  # NPR World
 }
 
-# Title cleanup
+# -------- Headline cleaning / junk removal --------
 TITLE_PREFIXES_TO_DROP = [
     r"^watch( now)?:\s*",
     r"^live( now)?:\s*",
     r"^video:\s*",
     r"^analysis:\s*",
+    r"^explainer:\s*",
+    r"^opinion:\s*",
+    r"^what to know:\s*",
+    r"^fact check:\s*",
 ]
 TITLE_SUFFIXES_TO_DROP = [
     r"\s*-\s*ap news\s*$",
@@ -80,36 +86,68 @@ TITLE_SUFFIXES_TO_DROP = [
     r"\s*\|\s*bbc news\s*$",
     r"\s*\|\s*npr\s*$",
     r"\s*-\s*cbc news\s*$",
+    r"\s*\|\s*the guardian\s*$",
+    r"\s*-\s*dw\s*$",
+    r"\s*\|\s*dw\s*$",
+]
+# Remove trailing clutter like "(Video)", "[Update]", etc.
+TITLE_TRAILING_BRACKETS = [
+    r"\s*\((?:video|watch|live|updated?|update|analysis|opinion)\)\s*$",
+    r"\s*\[(?:video|watch|live|updated?|update|analysis|opinion)\]\s*$",
 ]
 
-# ---- International affairs gate ----
-# If a story doesn't look like "international affairs", drop it even if it's international.
 
-# Keywords that strongly indicate international affairs / geopolitics
-AFFAIRS_KEYWORDS = [
-    # diplomacy/governance
-    "diplom", "sanction", "tariff", "trade deal", "embassy", "ambassador",
-    "summit", "treaty", "negotiat", "ceasefire", "peace talks", "talks",
-    "united nations", "un ", "security council", "human rights council",
-    "european union", "eu ", "nato", "asean", "opec", "g7", "g20",
-    "imf", "world bank", "wto",
+# ---------------- AFFAIRS FOCUS FILTERS ----------------
 
+HARD_KEEP = [
     # conflict/security
     "war", "invasion", "strike", "airstrike", "missile", "drone", "rocket",
     "shelling", "front line", "troops", "military", "defence", "defense",
-    "armed", "insurgent", "militant", "hostage", "prisoner", "siege",
-    "terror", "terrorist", "attack", "bomb", "explosion",
+    "armed", "insurgent", "militant", "terror", "terrorist", "attack", "bomb",
+    "hostage", "prisoner", "siege", "blockade",
 
-    # politics abroad / state power
-    "election", "referendum", "coup", "protest", "crackdown",
-    "parliament", "president", "prime minister", "opposition",
+    # diplomacy / geopolitics / governance
+    "diplom", "sanction", "tariff", "trade", "trade deal", "trade pact",
+    "agreement", "deal", "talks", "negotiat", "treaty", "summit",
+    "embassy", "ambassador", "normaliz", "recognition",
+    "nato", "un ", "united nations", "security council", "eu ", "european union",
+    "g7", "g20", "asean", "opec", "wto", "imf", "world bank",
 
-    # crisis / forced movement
-    "refugee", "migrant", "displaced", "humanitarian", "aid convoy",
+    # energy / supply / strategic economy
+    "oil", "gas", "lng", "pipeline", "shipping", "red sea", "strait",
+    "supply chain", "export ban", "import ban", "shipping lane",
+    "rare earth", "chip", "semiconductor",
+
+    # major instability abroad
+    "coup", "martial law", "protest", "crackdown", "uprising",
+    "refugee", "migrant", "displaced", "humanitarian", "aid",
 ]
 
-# Non-US geographic anchors (very lightweight list — just enough to avoid false positives)
-# This acts as a fallback: if it mentions a non-US place + isn't a banned topic, it's likely okay.
+HARD_DROP = [
+    # entertainment/sports/lifestyle
+    "celebrity", "movie", "film", "music", "album", "fashion",
+    "oscars", "grammys", "royal family",
+    "nfl", "nba", "mlb", "tennis", "soccer", "football", "olympics",
+
+    # soft science / animals / quirky human interest
+    "polar bear", "recipe", "cooking", "diet", "wellness",
+    "travel", "tourism", "festival",
+
+    # consumer tech / product launches
+    "iphone", "android", "netflix", "tiktok", "gaming",
+
+    # narrow markets/earnings (unless trade/sanctions/energy/geopolitics)
+    "earnings", "quarter", "shares", "stock", "stocks", "wall street", "nasdaq", "dow",
+]
+
+IMPORTANCE_HINTS = [
+    "major", "crisis", "urgent", "deadly", "massive", "historic", "largest",
+    "escalat", "standoff", "showdown", "collapse", "surge",
+    "global", "worldwide", "international", "regional",
+    "markets", "prices", "inflation", "growth", "recession",
+    "shipping", "trade routes",
+]
+
 NON_US_ANCHORS = [
     "ukraine","russia","moscow","kyiv","kiev",
     "china","beijing","shanghai","taiwan","hong kong",
@@ -124,27 +162,16 @@ NON_US_ANCHORS = [
     "london","brussels","geneva","the hague",
 ]
 
-# Topics we usually do NOT want in an "international affairs" feed
-# (unless the title also has clear affairs keywords)
-NON_AFFAIRS_BLOCKLIST = [
-    # pure finance/markets/companies
-    "stocks", "shares", "wall street", "earnings", "profit", "quarter",
-    "microsoft", "apple", "google", "meta", "tesla", "bitcoin", "crypto",
-    "gold", "oil price", "market", "bond", "nasdaq", "dow",
-
-    # lifestyle/entertainment
-    "movie", "film", "music", "album", "celebrity", "fashion",
-    "oscars", "grammys",
-
-    # sports
-    "football", "soccer", "nba", "nfl", "mlb", "tennis", "olympics",
-
-    # science/animals/human interest that isn't geopolitics
-    "polar bear", "recipe", "health", "diet", "travel", "weather",
-    "wildfire", "hurricane", "tornado", "blizzard",
+US_IMPACT_HINTS = [
+    "u.s.", "united states", "washington",
+    "american", "pentagon", "state department",
+    "nato", "allies", "alliance",
+    "sanction", "tariff", "trade", "chip", "semiconductor",
+    "oil", "gas", "lng", "shipping", "supply chain",
 ]
 
-# ---- US domestic blocker ----
+
+# ---------------- US DOMESTIC BLOCKERS ----------------
 
 FOREIGN_POLICY_HINTS = [
     "state department", "pentagon", "national security",
@@ -176,13 +203,11 @@ US_STATE_WORDS = [
 
 US_COUNTRY_TERMS = ["u.s.", " us ", "united states", "washington"]
 
-# Outlet-specific domestic URL blockers (extra tight)
 OUTLET_DOMESTIC_URL_BLOCKLIST: Dict[str, List[str]] = {
     "PBS": ["/politics/", "/nation/", "/economy/", "/arts/", "/science/", "/health/"],
     "The Guardian": ["/us-news", "/world/usa", "/us/"],
     "NPR": ["/sections/politics/", "/sections/national/", "/sections/business/", "/sections/health/"],
     "CBC": ["/canada", "/business", "/politics"],
-    # BBC World RSS is usually okay; still block obvious US sections
     "BBC": ["/news/us", "/news/world/us"],
 }
 
@@ -203,21 +228,58 @@ def clean_headline(title: str) -> str:
     if not title:
         return ""
     t = title.strip()
+
+    # Drop common prefixes
     for pat in TITLE_PREFIXES_TO_DROP:
         t = re.sub(pat, "", t, flags=re.IGNORECASE)
+
+    # Drop common suffix branding
     for pat in TITLE_SUFFIXES_TO_DROP:
         t = re.sub(pat, "", t, flags=re.IGNORECASE)
-    t = re.sub(r"\s+", " ", t)
-    return t.strip()
 
-def strip_utm(url: str) -> str:
+    # Drop trailing bracketed junk like "(Video)" or "[Update]"
+    for pat in TITLE_TRAILING_BRACKETS:
+        t = re.sub(pat, "", t, flags=re.IGNORECASE)
+
+    # Remove double branding like " - Something | Something"
+    t = re.sub(r"\s+[\|\-]\s*(?:news|newshour|world|international)\s*$", "", t, flags=re.IGNORECASE)
+
+    # Collapse whitespace
+    t = re.sub(r"\s+", " ", t).strip()
+
+    # Final: if title still starts with a label-like token, strip it
+    t = re.sub(r"^(?:watch|live|video|analysis|opinion)\s*[:\-]\s*", "", t, flags=re.IGNORECASE).strip()
+
+    return t
+
+def canonicalize_url(url: str) -> str:
+    """
+    More aggressive URL normalization to reduce duplicates:
+    - Remove utm params
+    - Remove fragments
+    - For some sites, remove trailing slashes
+    """
     try:
         u = urlparse(url)
         qs = parse_qs(u.query, keep_blank_values=True)
-        for p in ("utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"):
-            qs.pop(p, None)
-        new_query = "&".join(f"{k}={v[0]}" for k, v in qs.items() if v)
-        return u._replace(query=new_query).geturl()
+
+        # Strip common tracking params
+        drop_params = {
+            "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+            "fbclid", "gclid", "mc_cid", "mc_eid"
+        }
+        for p in list(qs.keys()):
+            if p.lower() in drop_params:
+                qs.pop(p, None)
+
+        # Rebuild query
+        new_q = urlencode({k: v[0] for k, v in qs.items() if v}, doseq=False)
+
+        path = u.path or ""
+        if path != "/" and path.endswith("/"):
+            path = path[:-1]
+
+        return urlunparse((u.scheme, u.netloc, path, u.params, new_q, ""))  # remove fragment
     except Exception:
         return url
 
@@ -275,27 +337,21 @@ def is_us_domestic(title: str, url: str, source: str) -> bool:
     t = _norm(title)
     path = _url_path(url)
 
-    # If it screams foreign policy / international, keep
     if any(h in t for h in FOREIGN_POLICY_HINTS):
         return False
 
-    # Outlet-specific domestic URL blockers
     if _blocked_by_outlet_url(source, url):
         return True
 
-    # Generic domestic URL sections
     if any(seg in path for seg in ("/politics/", "/nation/", "/us/", "/u.s/", "/usa/")):
         return True
 
-    # Domestic markers in title
     if any(m in t for m in US_DOMESTIC_MARKERS):
         return True
 
-    # Strong US framing without foreign-policy hints
     if any(c in t for c in US_COUNTRY_TERMS):
         return True
 
-    # State/local references
     if any(state in t for state in US_STATE_WORDS):
         return True
 
@@ -303,31 +359,44 @@ def is_us_domestic(title: str, url: str, source: str) -> bool:
 
 def looks_like_international_affairs(title: str) -> bool:
     """
-    True = keep (looks like international affairs)
+    True = keep
     False = drop
     """
     t = _norm(title)
 
-    # If it matches strong affairs keywords, keep
-    if any(k in t for k in AFFAIRS_KEYWORDS):
-        return True
-
-    # If it matches a non-affairs topic, drop (unless it ALSO matches affairs keywords)
-    if any(b in t for b in NON_AFFAIRS_BLOCKLIST):
+    # Drop non-affairs (unless also has a hard keep signal)
+    if any(b in t for b in HARD_DROP) and not any(k in t for k in HARD_KEEP):
         return False
 
-    # Otherwise, keep only if it references non-US anchors (countries/regions/institutions)
-    if any(a in t for a in NON_US_ANCHORS):
+    # Hard keep signals
+    if any(k in t for k in HARD_KEEP):
         return True
+
+    # Otherwise, require (non-US anchor) AND (importance OR US-impact framing)
+    if any(a in t for a in NON_US_ANCHORS):
+        if any(i in t for i in IMPORTANCE_HINTS) or any(u in t for u in US_IMPACT_HINTS):
+            return True
 
     return False
 
-def similarity_key(title: str) -> str:
+def story_signature(title: str) -> str:
+    """
+    Stronger duplicate grouping:
+    - normalize
+    - remove stopwords & short tokens
+    - take first ~10 informative tokens
+    """
     t = _norm(title)
-    for ch in [":", "-", "—", "–", "(", ")", "[", "]", ",", ".", "!", "?", '"', "'"]:
-        t = t.replace(ch, " ")
-    t = " ".join(t.split())
-    return " ".join(t.split()[:12])
+    t = re.sub(r"[^a-z0-9\s]", " ", t)
+    tokens = [x for x in t.split() if len(x) >= 3]
+    stop = {
+        "the","and","for","with","from","that","this","after","over","into",
+        "says","say","said","will","could","would","should","amid","about",
+        "new","more","than","they","their","its","his","her","your","our",
+        "report","reports","update","latest","live","watch"
+    }
+    tokens = [x for x in tokens if x not in stop]
+    return " ".join(tokens[:10])
 
 def fetch_feed(source: str, url: str, window_hours: int) -> List[dict]:
     txt = fetch_text(url)
@@ -346,7 +415,8 @@ def fetch_feed(source: str, url: str, window_hours: int) -> List[dict]:
             continue
 
         title = clean_headline(raw_title)
-        link = strip_utm(link)
+        link = canonicalize_url(link)
+
         if not title or not link:
             continue
 
@@ -354,7 +424,7 @@ def fetch_feed(source: str, url: str, window_hours: int) -> List[dict]:
         if dt and dt < cutoff:
             continue
 
-        # Must be international affairs
+        # Must be international affairs (focused)
         if not looks_like_international_affairs(title):
             continue
 
@@ -373,25 +443,31 @@ def fetch_feed(source: str, url: str, window_hours: int) -> List[dict]:
 def rank_and_select_unique(items: List[dict], limit: int) -> List[dict]:
     """
     Approx “most talked about”:
-      - group similar stories across sources
+      - group similar stories across sources using story_signature
       - prefer clusters with more source coverage
       - then prefer newer
     Return ONE representative item per story cluster.
     """
-    seen_exact = set()
-    exact: List[dict] = []
+    # Exact dedupe by (canonical url) first
+    seen_url = set()
+    url_dedup: List[dict] = []
     for it in items:
-        k = _hash(it.get("source", ""), _norm(it.get("title", "")))
-        if k not in seen_exact:
-            seen_exact.add(k)
-            exact.append(it)
+        u = it.get("url") or ""
+        if u and u not in seen_url:
+            seen_url.add(u)
+            url_dedup.append(it)
 
+    # Group by story signature
     groups: Dict[str, List[dict]] = {}
-    for it in exact:
-        groups.setdefault(similarity_key(it["title"]), []).append(it)
+    for it in url_dedup:
+        sig = story_signature(it["title"])
+        if not sig:
+            continue
+        groups.setdefault(sig, []).append(it)
 
-    ranked: List[tuple] = []
+    ranked: List[Tuple[float, dict]] = []
     for _, group in groups.items():
+        # representative = newest item in the group
         rep = group[0]
         rep_ts = 0.0
         for g in group:
@@ -403,18 +479,24 @@ def rank_and_select_unique(items: List[dict], limit: int) -> List[dict]:
                 rep, rep_ts = g, ts
 
         unique_sources = len(set(g["source"] for g in group))
-        score = (unique_sources * 1_000_000) + rep_ts
+
+        # score = cross-source boost + recency + slight boost if it has importance hints
+        t = _norm(rep["title"])
+        importance_bonus = 50_000 if any(i in t for i in IMPORTANCE_HINTS) else 0
+        us_impact_bonus = 50_000 if any(i in t for i in US_IMPACT_HINTS) else 0
+
+        score = (unique_sources * 1_000_000) + rep_ts + importance_bonus + us_impact_bonus
         ranked.append((score, rep))
 
     ranked.sort(key=lambda x: x[0], reverse=True)
 
     out: List[dict] = []
-    seen_story = set()
+    seen_sig = set()
     for _, rep in ranked:
-        sk = similarity_key(rep["title"])
-        if sk in seen_story:
+        sig = story_signature(rep["title"])
+        if sig in seen_sig:
             continue
-        seen_story.add(sk)
+        seen_sig.add(sig)
         out.append(rep)
         if len(out) >= limit:
             break
