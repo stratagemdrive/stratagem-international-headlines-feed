@@ -56,7 +56,7 @@ LIMIT = 20
 OFFICIAL_RSS: Dict[str, str] = {
     "BBC": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "PBS": "https://www.pbs.org/newshour/feeds/rss/world",
-    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",  # broad feed; we filter hard
     "DW": "https://rss.dw.com/rdf/rss-en-world",
     "CBC": "https://rss.cbc.ca/lineup/world.xml",
     "UN News": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
@@ -64,57 +64,7 @@ OFFICIAL_RSS: Dict[str, str] = {
     "NPR": "https://www.npr.org/rss/rss.php?id=1004",  # NPR World
 }
 
-# ---- Filtering strategy ----
-# 1) Keep if clear foreign policy / international context
-# 2) Otherwise drop if it looks US domestic by title or URL path patterns
-
-FOREIGN_POLICY_HINTS = [
-    "state department", "pentagon", "national security",
-    "diplom", "sanction", "tariff", "trade", "nato", "un ", "united nations",
-    "ceasefire", "peace talks", "embassy", "ambassador", "summit",
-    "g7", "g20", "eu", "european union", "asean", "opec",
-    "ukraine", "russia", "china", "taiwan", "iran", "israel", "gaza",
-    "syria", "yemen", "venezuela", "myanmar", "sudan", "haiti",
-    "north korea", "south korea", "saudi", "uae", "qatar", "iraq",
-    "pakistan", "india", "afghanistan", "japan", "philippines",
-    "red sea", "strait", "missile", "drone", "hostage", "coup", "military",
-]
-
-US_DOMESTIC_MARKERS = [
-    "campaign", "primary", "caucus", "ballot", "election", "polls",
-    "congress", "senate", "house", "governor", "mayor",
-    "supreme court", "federal court", "trial", "indicted", "sentenced", "arrested",
-    "ice ", "border czar", "border patrol",
-    "wall street", "dow", "nasdaq",
-    "nfl", "nba", "mlb", "grammys", "oscars",
-]
-
-US_STATE_WORDS = [
-    "alabama","alaska","arizona","arkansas","california","colorado",
-    "connecticut","delaware","florida","georgia","hawaii","idaho",
-    "illinois","indiana","iowa","kansas","kentucky","louisiana",
-    "maine","maryland","massachusetts","michigan","minnesota",
-    "mississippi","missouri","montana","nebraska","nevada",
-    "new hampshire","new jersey","new mexico","new york",
-    "north carolina","north dakota","ohio","oklahoma","oregon",
-    "pennsylvania","rhode island","south carolina","south dakota",
-    "tennessee","texas","utah","vermont","virginia","washington",
-    "west virginia","wisconsin","wyoming",
-]
-
-US_COUNTRY_TERMS = ["u.s.", "us ", "united states", "washington"]
-
-# Tight URL-based domestic blockers (outlet-specific)
-OUTLET_DOMESTIC_URL_BLOCKLIST: Dict[str, List[str]] = {
-    "PBS": ["/politics/", "/nation/", "/economy/"],
-    "BBC": ["/news/us", "/news/world/us", "/news/articles/cq", "/news/articles/c8"],  # BBC can mix; URL hints help a bit
-    "The Guardian": ["/us-news", "/world/usa", "/us/"],
-    "NPR": ["/sections/politics/", "/sections/national/", "/sections/business/"],
-    "CBC": ["/canada", "/business", "/politics"],
-    # DW/UN News are typically international; keep minimal
-}
-
-# Title cleanup: remove presentation junk
+# Title cleanup
 TITLE_PREFIXES_TO_DROP = [
     r"^watch( now)?:\s*",
     r"^live( now)?:\s*",
@@ -131,6 +81,110 @@ TITLE_SUFFIXES_TO_DROP = [
     r"\s*\|\s*npr\s*$",
     r"\s*-\s*cbc news\s*$",
 ]
+
+# ---- International affairs gate ----
+# If a story doesn't look like "international affairs", drop it even if it's international.
+
+# Keywords that strongly indicate international affairs / geopolitics
+AFFAIRS_KEYWORDS = [
+    # diplomacy/governance
+    "diplom", "sanction", "tariff", "trade deal", "embassy", "ambassador",
+    "summit", "treaty", "negotiat", "ceasefire", "peace talks", "talks",
+    "united nations", "un ", "security council", "human rights council",
+    "european union", "eu ", "nato", "asean", "opec", "g7", "g20",
+    "imf", "world bank", "wto",
+
+    # conflict/security
+    "war", "invasion", "strike", "airstrike", "missile", "drone", "rocket",
+    "shelling", "front line", "troops", "military", "defence", "defense",
+    "armed", "insurgent", "militant", "hostage", "prisoner", "siege",
+    "terror", "terrorist", "attack", "bomb", "explosion",
+
+    # politics abroad / state power
+    "election", "referendum", "coup", "protest", "crackdown",
+    "parliament", "president", "prime minister", "opposition",
+
+    # crisis / forced movement
+    "refugee", "migrant", "displaced", "humanitarian", "aid convoy",
+]
+
+# Non-US geographic anchors (very lightweight list — just enough to avoid false positives)
+# This acts as a fallback: if it mentions a non-US place + isn't a banned topic, it's likely okay.
+NON_US_ANCHORS = [
+    "ukraine","russia","moscow","kyiv","kiev",
+    "china","beijing","shanghai","taiwan","hong kong",
+    "iran","tehran","israel","gaza","jerusalem","hamas","hezbollah",
+    "syria","damascus","yemen","saudi","uae","qatar","iraq",
+    "afghanistan","pakistan","india",
+    "north korea","south korea","seoul","pyongyang","japan","tokyo",
+    "philippines","vietnam","thailand","myanmar",
+    "sudan","ethiopia","somalia","nigeria","congo","sahel",
+    "venezuela","cuba","haiti",
+    "europe","germany","france","italy","spain","poland","uk ",
+    "london","brussels","geneva","the hague",
+]
+
+# Topics we usually do NOT want in an "international affairs" feed
+# (unless the title also has clear affairs keywords)
+NON_AFFAIRS_BLOCKLIST = [
+    # pure finance/markets/companies
+    "stocks", "shares", "wall street", "earnings", "profit", "quarter",
+    "microsoft", "apple", "google", "meta", "tesla", "bitcoin", "crypto",
+    "gold", "oil price", "market", "bond", "nasdaq", "dow",
+
+    # lifestyle/entertainment
+    "movie", "film", "music", "album", "celebrity", "fashion",
+    "oscars", "grammys",
+
+    # sports
+    "football", "soccer", "nba", "nfl", "mlb", "tennis", "olympics",
+
+    # science/animals/human interest that isn't geopolitics
+    "polar bear", "recipe", "health", "diet", "travel", "weather",
+    "wildfire", "hurricane", "tornado", "blizzard",
+]
+
+# ---- US domestic blocker ----
+
+FOREIGN_POLICY_HINTS = [
+    "state department", "pentagon", "national security",
+    "diplom", "sanction", "tariff", "trade", "nato", "un ", "united nations",
+    "summit", "g7", "g20", "eu", "european union",
+    "ukraine", "russia", "china", "taiwan", "iran", "israel", "gaza",
+]
+
+US_DOMESTIC_MARKERS = [
+    "campaign", "primary", "caucus", "ballot", "election", "polls",
+    "congress", "senate", "house", "governor", "mayor",
+    "supreme court", "federal court", "trial", "indicted", "sentenced", "arrested",
+    "ice ", "border czar", "border patrol",
+    "school board", "district attorney",
+]
+
+US_STATE_WORDS = [
+    "alabama","alaska","arizona","arkansas","california","colorado",
+    "connecticut","delaware","florida","georgia","hawaii","idaho",
+    "illinois","indiana","iowa","kansas","kentucky","louisiana",
+    "maine","maryland","massachusetts","michigan","minnesota",
+    "mississippi","missouri","montana","nebraska","nevada",
+    "new hampshire","new jersey","new mexico","new york",
+    "north carolina","north dakota","ohio","oklahoma","oregon",
+    "pennsylvania","rhode island","south carolina","south dakota",
+    "tennessee","texas","utah","vermont","virginia","washington",
+    "west virginia","wisconsin","wyoming",
+]
+
+US_COUNTRY_TERMS = ["u.s.", " us ", "united states", "washington"]
+
+# Outlet-specific domestic URL blockers (extra tight)
+OUTLET_DOMESTIC_URL_BLOCKLIST: Dict[str, List[str]] = {
+    "PBS": ["/politics/", "/nation/", "/economy/", "/arts/", "/science/", "/health/"],
+    "The Guardian": ["/us-news", "/world/usa", "/us/"],
+    "NPR": ["/sections/politics/", "/sections/national/", "/sections/business/", "/sections/health/"],
+    "CBC": ["/canada", "/business", "/politics"],
+    # BBC World RSS is usually okay; still block obvious US sections
+    "BBC": ["/news/us", "/news/world/us"],
+}
 
 
 # ---------------- HELPERS ----------------
@@ -221,19 +275,19 @@ def is_us_domestic(title: str, url: str, source: str) -> bool:
     t = _norm(title)
     path = _url_path(url)
 
-    # If it's clearly foreign policy / international, keep even if it mentions US
+    # If it screams foreign policy / international, keep
     if any(h in t for h in FOREIGN_POLICY_HINTS):
         return False
 
-    # Outlet-specific domestic URL blockers (tightening)
+    # Outlet-specific domestic URL blockers
     if _blocked_by_outlet_url(source, url):
         return True
 
-    # General URL domestic sections
+    # Generic domestic URL sections
     if any(seg in path for seg in ("/politics/", "/nation/", "/us/", "/u.s/", "/usa/")):
         return True
 
-    # Title-based domestic markers
+    # Domestic markers in title
     if any(m in t for m in US_DOMESTIC_MARKERS):
         return True
 
@@ -243,6 +297,27 @@ def is_us_domestic(title: str, url: str, source: str) -> bool:
 
     # State/local references
     if any(state in t for state in US_STATE_WORDS):
+        return True
+
+    return False
+
+def looks_like_international_affairs(title: str) -> bool:
+    """
+    True = keep (looks like international affairs)
+    False = drop
+    """
+    t = _norm(title)
+
+    # If it matches strong affairs keywords, keep
+    if any(k in t for k in AFFAIRS_KEYWORDS):
+        return True
+
+    # If it matches a non-affairs topic, drop (unless it ALSO matches affairs keywords)
+    if any(b in t for b in NON_AFFAIRS_BLOCKLIST):
+        return False
+
+    # Otherwise, keep only if it references non-US anchors (countries/regions/institutions)
+    if any(a in t for a in NON_US_ANCHORS):
         return True
 
     return False
@@ -272,7 +347,6 @@ def fetch_feed(source: str, url: str, window_hours: int) -> List[dict]:
 
         title = clean_headline(raw_title)
         link = strip_utm(link)
-
         if not title or not link:
             continue
 
@@ -280,6 +354,11 @@ def fetch_feed(source: str, url: str, window_hours: int) -> List[dict]:
         if dt and dt < cutoff:
             continue
 
+        # Must be international affairs
+        if not looks_like_international_affairs(title):
+            continue
+
+        # Must not be US domestic
         if is_us_domestic(title, link, source):
             continue
 
