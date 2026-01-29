@@ -10,8 +10,9 @@ Goal:
 - Focus on: major economic deals, trade agreements, sanctions, geopolitics, conflicts,
   diplomacy, security crises, and major abroad stories with US/global impact
 - NO US domestic policy/news (unless clearly foreign policy / intl context)
+- ALSO INCLUDE: "local" foreign stories (e.g., disasters, price shifts, port closures,
+  industry disruptions) WHEN they plausibly impact the US via trade/supply chains/commodities.
 - Return ONLY one link/headline per story (even if multiple sources cover it)
-- Update on a schedule (recommended: GitHub Actions every 4 hours)
 
 Install deps (requirements.txt):
   feedparser
@@ -136,7 +137,7 @@ HARD_DROP = [
     # consumer tech / product launches
     "iphone", "android", "netflix", "tiktok", "gaming",
 
-    # narrow markets/earnings (unless trade/sanctions/energy/geopolitics)
+    # narrow markets/earnings (unless trade/sanctions/energy/geopolitics/impact)
     "earnings", "quarter", "shares", "stock", "stocks", "wall street", "nasdaq", "dow",
 ]
 
@@ -155,7 +156,7 @@ NON_US_ANCHORS = [
     "syria","damascus","yemen","saudi","uae","qatar","iraq",
     "afghanistan","pakistan","india",
     "north korea","south korea","seoul","pyongyang","japan","tokyo",
-    "philippines","vietnam","thailand","myanmar",
+    "philippines","vietnam","thailand","myanmar","indonesia","jakarta",
     "sudan","ethiopia","somalia","nigeria","congo","sahel",
     "venezuela","cuba","haiti",
     "europe","germany","france","italy","spain","poland","uk ",
@@ -168,6 +169,60 @@ US_IMPACT_HINTS = [
     "nato", "allies", "alliance",
     "sanction", "tariff", "trade", "chip", "semiconductor",
     "oil", "gas", "lng", "shipping", "supply chain",
+    # extra “impact” phrases that often appear in supply/price stories
+    "imports", "exports", "import", "export", "to the us", "into the us", "u.s. buyers",
+]
+
+# ---------------- NEW: FOREIGN LOCAL -> US IMPACT FILTERS ----------------
+# These are “local” events abroad that can move US prices/supply without being top geopolitical headlines.
+
+FOREIGN_LOCAL_SHOCKS = [
+    # natural hazards / disasters
+    "flood", "flooding", "flash flood", "landslide", "mudslide",
+    "earthquake", "aftershock", "tsunami",
+    "typhoon", "cyclone", "hurricane", "tropical storm",
+    "wildfire", "bushfire", "drought", "heatwave", "heat wave",
+    "storm", "monsoon", "eruption", "volcano", "ash cloud",
+
+    # industrial/logistics disruptions
+    "port", "harbor", "shipping", "freight", "container", "logistics",
+    "pipeline", "refinery", "smelter", "plant", "factory",
+    "shutdown", "closure", "halt", "suspends", "suspended",
+    "strike", "walkout", "lockout",
+    "outage", "blackout", "power cut",
+    "spill", "leak", "explosion", "fire",
+
+    # price/supply signals
+    "prices", "price", "surge", "spike", "jump", "soar",
+    "shortage", "ration", "rationing",
+    "export ban", "import ban", "export curb", "export curbs",
+    "export restriction", "export restrictions",
+    "production cut", "output cut",
+]
+
+COMMODITY_AND_INPUTS = [
+    # food/ag
+    "grain", "wheat", "corn", "maize", "rice", "soy", "soybean", "soybeans",
+    "sugar", "cocoa", "coffee", "tea",
+    "palm oil", "edible oil", "cooking oil",
+    "fertilizer", "potash", "urea",
+
+    # energy
+    "oil", "crude", "brent", "wti", "diesel", "gasoline", "jet fuel",
+    "natural gas", "lng", "propane",
+
+    # minerals / industrial inputs
+    "nickel", "copper", "aluminum", "lithium", "cobalt",
+    "rare earth", "rare-earth", "graphite",
+    "steel", "iron ore",
+    "semiconductor", "chip", "chips",
+]
+
+SUPPLY_CHAIN_FRAMING = [
+    "supply chain", "shipments", "cargo", "exports", "export", "imports", "import",
+    "deliveries", "global supply", "shortfall", "tight supply", "availability",
+    "prices rise", "price rises", "price increase", "price increases",
+    "hit", "impact", "disrupt", "disruption", "could affect", "may affect",
 ]
 
 
@@ -229,27 +284,18 @@ def clean_headline(title: str) -> str:
         return ""
     t = title.strip()
 
-    # Drop common prefixes
     for pat in TITLE_PREFIXES_TO_DROP:
         t = re.sub(pat, "", t, flags=re.IGNORECASE)
 
-    # Drop common suffix branding
     for pat in TITLE_SUFFIXES_TO_DROP:
         t = re.sub(pat, "", t, flags=re.IGNORECASE)
 
-    # Drop trailing bracketed junk like "(Video)" or "[Update]"
     for pat in TITLE_TRAILING_BRACKETS:
         t = re.sub(pat, "", t, flags=re.IGNORECASE)
 
-    # Remove double branding like " - Something | Something"
     t = re.sub(r"\s+[\|\-]\s*(?:news|newshour|world|international)\s*$", "", t, flags=re.IGNORECASE)
-
-    # Collapse whitespace
     t = re.sub(r"\s+", " ", t).strip()
-
-    # Final: if title still starts with a label-like token, strip it
     t = re.sub(r"^(?:watch|live|video|analysis|opinion)\s*[:\-]\s*", "", t, flags=re.IGNORECASE).strip()
-
     return t
 
 def canonicalize_url(url: str) -> str:
@@ -263,7 +309,6 @@ def canonicalize_url(url: str) -> str:
         u = urlparse(url)
         qs = parse_qs(u.query, keep_blank_values=True)
 
-        # Strip common tracking params
         drop_params = {
             "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
             "fbclid", "gclid", "mc_cid", "mc_eid"
@@ -272,14 +317,13 @@ def canonicalize_url(url: str) -> str:
             if p.lower() in drop_params:
                 qs.pop(p, None)
 
-        # Rebuild query
         new_q = urlencode({k: v[0] for k, v in qs.items() if v}, doseq=False)
 
         path = u.path or ""
         if path != "/" and path.endswith("/"):
             path = path[:-1]
 
-        return urlunparse((u.scheme, u.netloc, path, u.params, new_q, ""))  # remove fragment
+        return urlunparse((u.scheme, u.netloc, path, u.params, new_q, ""))
     except Exception:
         return url
 
@@ -337,6 +381,7 @@ def is_us_domestic(title: str, url: str, source: str) -> bool:
     t = _norm(title)
     path = _url_path(url)
 
+    # If it is clearly foreign policy / intl context, keep
     if any(h in t for h in FOREIGN_POLICY_HINTS):
         return False
 
@@ -357,12 +402,51 @@ def is_us_domestic(title: str, url: str, source: str) -> bool:
 
     return False
 
+
+# ---------------- NEW: FOREIGN LOCAL -> US IMPACT DETECTOR ----------------
+
+def looks_like_foreign_local_us_impact(title: str) -> bool:
+    """
+    True = keep
+    Captures stories like:
+      "Indonesia flood hits rice exports; US importers brace for higher prices"
+    Requirements (by design):
+      - Must have NON-US anchor (country/region token) OR clear non-US framing
+      - Must have a shock/disruption/price signal
+      - Must have commodity/supply-chain context
+      - Must have US-impact framing (explicit US mention OR US-impact hints)
+    """
+    t = _norm(title)
+
+    # Needs a non-US anchor (we use the same list as intl filtering)
+    if not any(a in t for a in NON_US_ANCHORS):
+        return False
+
+    # Must look like a disruption/price shock, not a generic business blurb
+    if not any(k in t for k in FOREIGN_LOCAL_SHOCKS):
+        return False
+
+    # Must mention commodity/inputs OR supply/logistics framing
+    if not (any(c in t for c in COMMODITY_AND_INPUTS) or any(s in t for s in SUPPLY_CHAIN_FRAMING)):
+        return False
+
+    # Must plausibly tie to US impact (explicit or strong hint)
+    if not any(u in t for u in US_IMPACT_HINTS):
+        return False
+
+    return True
+
+
 def looks_like_international_affairs(title: str) -> bool:
     """
     True = keep
     False = drop
     """
     t = _norm(title)
+
+    # Let the new "foreign local -> US impact" path qualify even if it contains stock/price words
+    if looks_like_foreign_local_us_impact(title):
+        return True
 
     # Drop non-affairs (unless also has a hard keep signal)
     if any(b in t for b in HARD_DROP) and not any(k in t for k in HARD_KEEP):
@@ -378,6 +462,7 @@ def looks_like_international_affairs(title: str) -> bool:
             return True
 
     return False
+
 
 def story_signature(title: str) -> str:
     """
@@ -424,8 +509,10 @@ def fetch_feed(source: str, url: str, window_hours: int) -> List[dict]:
         if dt and dt < cutoff:
             continue
 
-        # Must be international affairs (focused)
-        if not looks_like_international_affairs(title):
+        # Must match either:
+        #  - core international affairs logic, OR
+        #  - foreign local story with plausible US impact
+        if not (looks_like_international_affairs(title) or looks_like_foreign_local_us_impact(title)):
             continue
 
         # Must not be US domestic
@@ -448,7 +535,6 @@ def rank_and_select_unique(items: List[dict], limit: int) -> List[dict]:
       - then prefer newer
     Return ONE representative item per story cluster.
     """
-    # Exact dedupe by (canonical url) first
     seen_url = set()
     url_dedup: List[dict] = []
     for it in items:
@@ -457,7 +543,6 @@ def rank_and_select_unique(items: List[dict], limit: int) -> List[dict]:
             seen_url.add(u)
             url_dedup.append(it)
 
-    # Group by story signature
     groups: Dict[str, List[dict]] = {}
     for it in url_dedup:
         sig = story_signature(it["title"])
@@ -467,7 +552,6 @@ def rank_and_select_unique(items: List[dict], limit: int) -> List[dict]:
 
     ranked: List[Tuple[float, dict]] = []
     for _, group in groups.items():
-        # representative = newest item in the group
         rep = group[0]
         rep_ts = 0.0
         for g in group:
@@ -480,12 +564,14 @@ def rank_and_select_unique(items: List[dict], limit: int) -> List[dict]:
 
         unique_sources = len(set(g["source"] for g in group))
 
-        # score = cross-source boost + recency + slight boost if it has importance hints
         t = _norm(rep["title"])
         importance_bonus = 50_000 if any(i in t for i in IMPORTANCE_HINTS) else 0
         us_impact_bonus = 50_000 if any(i in t for i in US_IMPACT_HINTS) else 0
 
-        score = (unique_sources * 1_000_000) + rep_ts + importance_bonus + us_impact_bonus
+        # Small extra nudge for the “foreign local -> US impact” class, since it can be under-covered
+        local_us_impact_bonus = 75_000 if looks_like_foreign_local_us_impact(rep["title"]) else 0
+
+        score = (unique_sources * 1_000_000) + rep_ts + importance_bonus + us_impact_bonus + local_us_impact_bonus
         ranked.append((score, rep))
 
     ranked.sort(key=lambda x: x[0], reverse=True)
@@ -517,3 +603,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
