@@ -39,7 +39,7 @@ jobs:
         run: |
           python scripts/build_headlines_json.py
 
-            - name: Copy headlines.json to docs for GitHub Pages
+      - name: Copy headlines.json to docs for GitHub Pages
         run: |
           mkdir -p docs
           cp public/headlines.json docs/headlines.json
