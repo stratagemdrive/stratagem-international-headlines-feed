@@ -43,6 +43,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add public/headlines.json
           git diff --cached --quiet || git commit -m "Update headlines.json"
-          git push
+
+          # Pull latest main, rebase our commit on top, then push
+          git pull --rebase origin main
+          git push origin main
