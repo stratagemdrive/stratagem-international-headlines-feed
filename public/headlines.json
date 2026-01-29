@@ -1,5 +1,11 @@
 [
   {
+    "title": "Who controls Yemen now and why it matters",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-yem_2026pulsecheck_av_v2-290126?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-01-29T19:17:05Z"
+  },
+  {
     "title": "Trump orders immediate reopening of commercial airspace over Venezuela",
     "url": "https://www.theguardian.com/world/2026/jan/29/trump-reopens-commercial-airspace-venezuela",
     "source": "The Guardian",
@@ -10,24 +16,6 @@
     "url": "https://www.bbc.com/news/articles/cvgpd1x00exo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-01-29T19:10:20Z"
-  },
-  {
-    "title": "Why is the Doomsday Clock nearer to midnight than ever before?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/1/29/why-is-the-doomsday-clock-nearer-to-midnight-than-ever-before?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-29T19:07:13Z"
-  },
-  {
-    "title": "‘My idea of heaven’: Madonna sings praises of artists’ paradise Margate",
-    "url": "https://www.theguardian.com/uk-news/2026/jan/29/madonna-sings-praises-of-margate-heaven",
-    "source": "The Guardian",
-    "publishedAt": "2026-01-29T19:01:20Z"
-  },
-  {
-    "title": "The secret to long life? It could be in the genes after all, say scientists",
-    "url": "https://www.theguardian.com/science/2026/jan/29/long-life-age-health-genetics-science-research",
-    "source": "The Guardian",
-    "publishedAt": "2026-01-29T19:00:01Z"
   },
   {
     "title": "Iran slams ‘selective outrage’ after EU labels IRGC a ‘terrorist’ group",
@@ -78,22 +66,10 @@
     "publishedAt": "2026-01-29T18:18:16Z"
   },
   {
-    "title": "Organic salmon certifier forced to share findings amid claims consumers misled",
-    "url": "https://www.theguardian.com/environment/2026/jan/29/organic-salmon-certifier-share-findings-amid-claims-consumers-misled-soil-association-wildfish",
-    "source": "The Guardian",
-    "publishedAt": "2026-01-29T18:06:03Z"
-  },
-  {
     "title": "EU designates Iran’s Revolutionary Guards as a terrorist organisation",
     "url": "https://www.theguardian.com/world/2026/jan/29/eu-formally-designates-iran-irgc-revolutionary-guards-terrorist-organisation",
     "source": "The Guardian",
     "publishedAt": "2026-01-29T17:51:55Z"
-  },
-  {
-    "title": "Chips, anyone? German farm gives away millions of potatoes after bumper harvest",
-    "url": "https://www.bbc.com/news/articles/c5y2zqer8j2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-01-29T17:48:24Z"
   },
   {
     "title": "Trump says he personally asked Putin not to attack Kyiv amid brutal cold",
@@ -118,5 +94,29 @@
     "url": "https://www.pbs.org/newshour/world/watch-trump-says-hes-opening-up-all-commercial-airspace-over-venezuela",
     "source": "PBS",
     "publishedAt": "2026-01-29T17:18:02Z"
+  },
+  {
+    "title": "Heavy security deployed at airport in Niger capital after overnight explosions",
+    "url": "https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
+    "source": "The Guardian",
+    "publishedAt": "2026-01-29T17:09:30Z"
+  },
+  {
+    "title": "Is Trump about to attack Iran? – The Latest",
+    "url": "https://www.theguardian.com/world/audio/2026/jan/29/is-trump-about-to-attack-iran-the-latest",
+    "source": "The Guardian",
+    "publishedAt": "2026-01-29T17:09:18Z"
+  },
+  {
+    "title": "EU adds Iran's Revolutionary Guards to terrorist list",
+    "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-01-29T16:49:20Z"
+  },
+  {
+    "title": "Inside Gaza after Israel’s last captive is found",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-pal_lastcaptive_av_v3-270126?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-01-29T16:49:00Z"
   }
 ]
