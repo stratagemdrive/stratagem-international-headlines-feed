@@ -1,9 +1,45 @@
 [
   {
+    "title": "With decades-long restrictions lifted, a Pakistani brewery has started exporting beer",
+    "url": "https://www.npr.org/2026/01/31/g-s1-105888/pakistan-beer-exports-murree-brewery-alcohol",
+    "source": "NPR",
+    "publishedAt": "2026-01-31T10:03:00Z"
+  },
+  {
+    "title": "Trump blindsided Mexico with Cuba oil export tariff threat, says Mexican president",
+    "url": "https://www.cbc.ca/news/world/mexico-cuba-trump-oil-tariff-9.7069046?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-01-30T23:54:27Z"
+  },
+  {
     "title": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
     "url": "https://www.aljazeera.com/news/2026/1/31/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-01-31T06:44:11Z"
+  },
+  {
+    "title": "More than 200 killed in mine collapse in DR Congo",
+    "url": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-01-31T13:18:00Z"
+  },
+  {
+    "title": "Impose sanctions on refineries that buy Russian crude oil to end war, says Bill Browder",
+    "url": "https://www.theguardian.com/business/2026/jan/31/end-ukraine-war-sanction-refineries-buying-russian-crude-oil-bill-browder",
+    "source": "The Guardian",
+    "publishedAt": "2026-01-31T12:00:57Z"
+  },
+  {
+    "title": "Massive outage knocks out power across Ukraine, Moldova",
+    "url": "https://www.dw.com/en/massive-outage-knocks-out-power-across-ukraine-moldova/a-75738787?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-01-31T10:49:00Z"
+  },
+  {
+    "title": "Xi Jinping’s purge of China's top general spells uncertainty for world’s largest military",
+    "url": "https://www.cbc.ca/news/world/xi-jinping-china-zhang-youxia-purge-military-9.7067287?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-01-31T09:00:00Z"
   },
   {
     "title": "Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
@@ -18,10 +54,10 @@
     "publishedAt": "2026-01-31T07:06:44Z"
   },
   {
-    "title": "More than 200 killed in mine collapse in eastern DR Congo: Report",
-    "url": "https://www.aljazeera.com/news/2026/1/31/more-than-200-killed-in-mine-collapse-in-eastern-dr-congo-report?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T01:24:58Z"
+    "title": "Israel split over plans to bring back death penalty for deadly attacks",
+    "url": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-01-31T06:09:39Z"
   },
   {
     "title": "After massive protests and a deadly crackdown, how vulnerable is Iran's regime?",
@@ -36,87 +72,51 @@
     "publishedAt": "2026-01-31T00:19:00Z"
   },
   {
-    "title": "Unmentioned but present, Trump is a common denominator in Asia-Europe ties",
-    "url": "https://www.npr.org/2026/01/30/g-s1-108011/unmentioned-but-present-trump-is-a-common-denominator-in-asia-europe-ties",
-    "source": "NPR",
-    "publishedAt": "2026-01-30T19:55:36Z"
+    "title": "Israeli strikes kill at least 30 Palestinians, as Gaza ceasefire inches forward",
+    "url": "https://www.cbc.ca/news/world/israeli-strikes-gaza-city-9.7069493?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-01-31T13:34:22Z"
   },
   {
-    "title": "'No end in sight' as Myanmar marks 5-year anniversary of 2021 coup",
-    "url": "https://www.dw.com/en/no-end-in-sight-as-myanmar-marks-5-year-anniversary-of-2021-coup/a-75730711?maca=en-rss-en-world-4025-rdf",
+    "title": "Israeli air strikes kill at least 27 Palestinians in Gaza, rescue officials say",
+    "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-01-31T13:29:56Z"
+  },
+  {
+    "title": "Madison Square Garden warns brawlers of life bans before Lopez vs Stevenson",
+    "url": "https://www.aljazeera.com/sports/2026/1/31/madison-square-garden-to-life-ban-brawlers-ahead-of-lopez-vs-stevenson?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-01-31T13:01:07Z"
+  },
+  {
+    "title": "Israeli airstrikes on Gaza kill at least 30, with death toll expected to rise",
+    "url": "https://www.theguardian.com/world/2026/jan/31/israeli-strikes-gaza-kill-at-least-12-reports",
+    "source": "The Guardian",
+    "publishedAt": "2026-01-31T12:34:15Z"
+  },
+  {
+    "title": "US eyes Red Sea as state envoy visits Africa",
+    "url": "https://www.dw.com/en/us-eyes-red-sea-as-state-envoy-visits-africa/a-75731780?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
-    "publishedAt": "2026-01-31T08:03:00Z"
+    "publishedAt": "2026-01-31T11:19:00Z"
   },
   {
-    "title": "Protesters to demand resignation of Hungarian politician for anti-Roma remark",
-    "url": "https://www.theguardian.com/world/2026/jan/31/protest-janos-lazar-hungary-politician-anti-roma",
-    "source": "The Guardian",
-    "publishedAt": "2026-01-31T08:00:52Z"
-  },
-  {
-    "title": "Israeli forces kill 12 Palestinians across Gaza, attacks reported in Rafah",
-    "url": "https://www.aljazeera.com/news/2026/1/31/israeli-forces-kill-12-palestinians-across-gaza-attacks-reported-in-rafah?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T07:35:25Z"
-  },
-  {
-    "title": "UK and EU to explore renewed talks on defence cooperation",
-    "url": "https://www.theguardian.com/politics/2026/jan/31/uk-and-eu-to-explore-renewed-talks-on-defence-cooperation",
-    "source": "The Guardian",
-    "publishedAt": "2026-01-31T07:00:54Z"
-  },
-  {
-    "title": "Venezuela announces amnesty bill that could lead to release of political prisoners",
-    "url": "https://www.npr.org/2026/01/31/g-s1-108127/venezuela-amnesty-bill",
+    "title": "Israeli strikes kill 23 Palestinians as Gaza ceasefire inches forward",
+    "url": "https://www.npr.org/2026/01/31/g-s1-108142/israeli-strikes-kill-23-palestinians-gaza",
     "source": "NPR",
-    "publishedAt": "2026-01-31T06:55:45Z"
+    "publishedAt": "2026-01-31T11:13:24Z"
   },
   {
-    "title": "Wave of Israeli air strikes hit southern Lebanon despite ceasefire",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/1/31/wave-of-israeli-air-strikes-hit-southern-lebanon-despite-ceasefire?traffic_source=rss",
+    "title": "Why attacking UNRWA is attacking Gaza’s survival",
+    "url": "https://www.aljazeera.com/opinions/2026/1/31/why-attacking-unrwa-is-attacking-gazas-survival?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T06:42:47Z"
+    "publishedAt": "2026-01-31T09:55:45Z"
   },
   {
-    "title": "UN risks 'imminent financial collapse', secretary general warns",
-    "url": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-01-30T16:24:18Z"
-  },
-  {
-    "title": "Venezuela’s acting President Delcy Rodriguez announces prisoner amnesty",
-    "url": "https://www.aljazeera.com/news/2026/1/31/venezuelas-acting-president-delcy-rodriguez-announces-prisoner-amnesty?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T06:17:12Z"
-  },
-  {
-    "title": "Iran announces live-fire naval drills near US warships amid tensions",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-iran-announces-live-fire-naval-drills-near-us-warships-amid-tensions?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T06:07:41Z"
-  },
-  {
-    "title": "Islamic State claims attack on international airport and airbase in Niger",
-    "url": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
-    "source": "The Guardian",
-    "publishedAt": "2026-01-30T15:57:44Z"
-  },
-  {
-    "title": "US government partially shuts down despite last minute funding deal",
-    "url": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-01-31T05:10:27Z"
-  },
-  {
-    "title": "China has lifted sanctions from six serving British MPs and peers, Starmer says",
-    "url": "https://www.theguardian.com/world/2026/jan/30/china-lifts-sanctions-british-mps-peers",
-    "source": "The Guardian",
-    "publishedAt": "2026-01-30T14:37:28Z"
-  },
-  {
-    "title": "US approves $6.6bn sale of attack helicopters, assault vehicles to Israel",
-    "url": "https://www.aljazeera.com/news/2026/1/31/us-approves-6-6bn-sale-of-attack-helicopters-assault-vehicles-to-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T03:36:41Z"
+    "title": "Pakistan: Dozens killed in 'coordinated' Balochistan attacks",
+    "url": "https://www.dw.com/en/pakistan-dozens-killed-in-coordinated-balochistan-attacks/a-75737955?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-01-31T09:55:00Z"
   }
 ]
