@@ -1,9 +1,27 @@
 [
   {
+    "title": "Deadly blast in Iran’s Bandar Abbas caused by gas leak, official says",
+    "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-01-31T17:26:52Z"
+  },
+  {
     "title": "With decades-long restrictions lifted, a Pakistani brewery has started exporting beer",
     "url": "https://www.npr.org/2026/01/31/g-s1-105888/pakistan-beer-exports-murree-brewery-alcohol",
     "source": "NPR",
     "publishedAt": "2026-01-31T10:03:00Z"
+  },
+  {
+    "title": "Five killed in gas explosions in Iran, officials say",
+    "url": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-01T05:12:13Z"
+  },
+  {
+    "title": "Mine collapses in eastern Congo, leaving at least 200 dead",
+    "url": "https://www.npr.org/2026/01/31/g-s1-108208/mine-collapse-congo",
+    "source": "NPR",
+    "publishedAt": "2026-02-01T02:10:00Z"
   },
   {
     "title": "Trump blindsided Mexico with Cuba oil export tariff threat, says Mexican president",
@@ -12,28 +30,10 @@
     "publishedAt": "2026-01-30T23:54:27Z"
   },
   {
-    "title": "Five killed in gas explosions in Iran, officials say",
-    "url": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-01-31T19:31:16Z"
-  },
-  {
     "title": "Artemis II highlights a shift in U.S. space strategy since Apollo and contrasts with China's closed program",
     "url": "https://www.pbs.org/newshour/nation/artemis-ii-highlights-a-shift-in-u-s-space-strategy-since-apollo-and-contrasts-with-chinas-closed-program",
     "source": "PBS",
     "publishedAt": "2026-01-31T18:30:10Z"
-  },
-  {
-    "title": "Explosion in Iran’s Bandar Abbas caused by gas leak, official says",
-    "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T17:26:52Z"
-  },
-  {
-    "title": "What to know about the Strait of Hormuz as Iran-U.S. tensions rise",
-    "url": "https://www.cbc.ca/news/world/strait-hormuz-iran-us-tension-9.7069586?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-01-31T16:20:46Z"
   },
   {
     "title": "Canada's Poilievre sweeps Conservative party leadership test with 87.4%",
@@ -42,10 +42,22 @@
     "publishedAt": "2026-01-31T14:45:42Z"
   },
   {
+    "title": "Fela Kuti becomes first African to get Grammys Lifetime Achievement Award",
+    "url": "https://www.aljazeera.com/news/2026/2/1/fela-kuti-becomes-first-african-to-get-grammys-lifetime-achievement-award?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-01T03:57:22Z"
+  },
+  {
     "title": "More than 200 killed in mine collapse in DR Congo",
     "url": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-01-31T13:18:00Z"
+  },
+  {
+    "title": "Russia-Ukraine war: List of key events, day 1,438",
+    "url": "https://www.aljazeera.com/news/2026/2/1/russia-ukraine-war-list-of-key-events-day-1438?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-01T02:12:42Z"
   },
   {
     "title": "Impose sanctions on refineries that buy Russian crude oil to end war, says Bill Browder",
@@ -54,10 +66,34 @@
     "publishedAt": "2026-01-31T12:00:57Z"
   },
   {
+    "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+    "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-01T01:30:24Z"
+  },
+  {
+    "title": "Pakistan military says it has killed 92 militants in Balochistan",
+    "url": "https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-01T00:57:25Z"
+  },
+  {
+    "title": "Trump orders federal agents to stay away from protests in Democrat cities",
+    "url": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-01T00:52:03Z"
+  },
+  {
     "title": "Massive outage knocks out power across Ukraine, Moldova",
     "url": "https://www.dw.com/en/massive-outage-knocks-out-power-across-ukraine-moldova/a-75738787?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-01-31T10:49:00Z"
+  },
+  {
+    "title": "Grammy Awards 2026: How to watch and who will win",
+    "url": "https://www.bbc.com/news/articles/cwy12z197q8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-01T00:31:38Z"
   },
   {
     "title": "Xi Jinping’s purge of China's top general spells uncertainty for world’s largest military",
@@ -66,57 +102,21 @@
     "publishedAt": "2026-01-31T09:00:00Z"
   },
   {
+    "title": "Trump says Iran ‘talking to’ US and hints at deal to avoid military strikes",
+    "url": "https://www.theguardian.com/world/2026/jan/31/trump-hints-at-deal-with-iran-to-avoid-military-strikes",
+    "source": "The Guardian",
+    "publishedAt": "2026-01-31T22:28:37Z"
+  },
+  {
+    "title": "Iranian official says progress made on talks as US-Iran tensions persist",
+    "url": "https://www.aljazeera.com/news/2026/1/31/iranian-official-says-progress-made-on-talks-as-us-iran-tensions-persist?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-01-31T22:13:03Z"
+  },
+  {
     "title": "Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
     "url": "https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis",
     "source": "The Guardian",
     "publishedAt": "2026-01-30T18:08:10Z"
-  },
-  {
-    "title": "Israel split over plans to bring back death penalty for deadly attacks",
-    "url": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-01-31T06:09:39Z"
-  },
-  {
-    "title": "Belarus: Snow and cold used to torture political prisoners",
-    "url": "https://www.dw.com/en/belarus-snow-and-cold-used-to-torture-political-prisoners/a-75717969?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-01-31T19:57:00Z"
-  },
-  {
-    "title": "US envoy Witkoff says Ukraine talks with Russia ‘productive’",
-    "url": "https://www.aljazeera.com/news/2026/1/31/us-envoy-witkoff-says-ukraine-talks-with-russia-productive?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T18:25:14Z"
-  },
-  {
-    "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
-    "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-01-31T18:06:01Z"
-  },
-  {
-    "title": "Appropriating the death count: Manufacturing consent for an attack on Iran",
-    "url": "https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T18:01:03Z"
-  },
-  {
-    "title": "Israeli strikes in Gaza kill at least 30 Palestinians, including several children",
-    "url": "https://www.pbs.org/newshour/world/israeli-strikes-in-gaza-kill-at-least-30-palestinians-including-several-children",
-    "source": "PBS",
-    "publishedAt": "2026-01-31T18:00:50Z"
-  },
-  {
-    "title": "Israeli strikes kill more than 30 Palestinians in Gaza",
-    "url": "https://www.dw.com/en/israeli-strikes-kill-more-than-30-palestinians-in-gaza/a-75742841?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-01-31T17:47:00Z"
-  },
-  {
-    "title": "Bill Gates, Elon Musk, Howard Lutnick face new scrutiny over Epstein ties",
-    "url": "https://www.aljazeera.com/news/2026/1/31/bill-gates-elon-musk-howard-lutnick-face-new-scrutiny-over-epstein-ties?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-01-31T16:23:45Z"
   }
 ]
