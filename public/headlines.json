@@ -1,9 +1,21 @@
 [
   {
+    "title": "Iran's supreme leader warns any U.S. attack would spark 'regional war' in the Middle East",
+    "url": "https://www.pbs.org/newshour/world/irans-supreme-leader-warns-any-u-s-attack-would-spark-regional-war-in-the-middle-east",
+    "source": "PBS",
+    "publishedAt": "2026-02-01T20:12:47Z"
+  },
+  {
     "title": "India’s budget bets on infrastructure, manufacturing amid global trade war",
     "url": "https://www.aljazeera.com/news/2026/2/1/indias-budget-bets-on-infrastructure-manufacturing-amid-global-trade-war?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-02-01T11:34:47Z"
+  },
+  {
+    "title": "Iran's supreme leader warns of regional war if US attacks",
+    "url": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-01T17:40:37Z"
   },
   {
     "title": "Khamenei warns US of ‘regional war’ if Iran is attacked",
@@ -30,16 +42,22 @@
     "publishedAt": "2026-02-01T10:08:55Z"
   },
   {
-    "title": "Iran's supreme leader warns of regional war if US attacks",
-    "url": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-01T09:50:15Z"
-  },
-  {
     "title": "Rare earths and data centres: India pushes local industry as global tensions rise",
     "url": "https://www.bbc.com/news/articles/c3dm790vxlko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-02-01T09:15:44Z"
+  },
+  {
+    "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
+    "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-01T20:37:58Z"
+  },
+  {
+    "title": "How far will China go to back Iran if the US strikes?",
+    "url": "https://www.dw.com/en/how-far-will-china-go-to-back-iran-if-the-us-strikes/a-75741327?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-01T20:25:00Z"
   },
   {
     "title": "Five killed in gas explosions in Iran, officials say",
@@ -48,75 +66,57 @@
     "publishedAt": "2026-02-01T05:12:13Z"
   },
   {
-    "title": "Twelve killed by Russian strike near bus in Ukraine, official says",
-    "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+    "title": "Iranian protester Erfan Soltani released on bail, reports say",
+    "url": "https://www.bbc.com/news/articles/ceqz8r2j24do?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-02-01T16:36:35Z"
+    "publishedAt": "2026-02-01T19:00:01Z"
   },
   {
-    "title": "Ministers press Andrew to testify after second woman comes forward",
-    "url": "https://www.theguardian.com/uk-news/2026/feb/01/second-woman-alleges-epstein-sent-her-to-uk-to-have-sex-with-andrew-mountbatten-windsor",
+    "title": "India sets record budget for infrastructure, defense",
+    "url": "https://www.dw.com/en/india-sets-record-budget-for-infrastructure-defense/a-75753459?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-01T18:21:00Z"
+  },
+  {
+    "title": "Russian drone attack on bus in Ukraine kills at least 12",
+    "url": "https://www.aljazeera.com/news/2026/2/1/russian-drone-attack-on-bus-in-ukraine-kills-at-least-12?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-01T18:01:21Z"
+  },
+  {
+    "title": "UK should consider resuming talks on EU defence pact, Starmer says",
+    "url": "https://www.theguardian.com/politics/2026/feb/01/uk-should-consider-resuming-talks-on-eu-defence-pact-starmer-says",
     "source": "The Guardian",
-    "publishedAt": "2026-02-01T16:36:33Z"
+    "publishedAt": "2026-02-01T18:00:33Z"
+  },
+  {
+    "title": "Russian drone attack on bus carrying mine workers in Ukraine kills at least 12",
+    "url": "https://www.theguardian.com/world/2026/feb/01/russian-drone-attack-on-bus-carrying-mine-workers-ukraine-kills",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-01T17:07:43Z"
+  },
+  {
+    "title": "Man Utd strike late as Carrick extends perfect start in Fulham thriller",
+    "url": "https://www.aljazeera.com/sports/2026/2/1/man-utd-strike-late-as-carrick-extends-perfect-start-in-fulham-thriller?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-01T16:55:47Z"
+  },
+  {
+    "title": "Venezuela rights activist Javier Tarazona freed amid prisoner release",
+    "url": "https://www.aljazeera.com/news/2026/2/1/venezuela-rights-activist-freed-from-jail-amid-prisoner-release?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-01T16:43:00Z"
+  },
+  {
+    "title": "Trilateral Ukraine peace talks delayed after US, Russia meet",
+    "url": "https://www.dw.com/en/trilateral-ukraine-peace-talks-delayed-after-us-russia-meet/a-75752627?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-01T16:32:00Z"
   },
   {
     "title": "Mine collapses in eastern Congo, leaving at least 200 dead",
     "url": "https://www.npr.org/2026/01/31/g-s1-108208/mine-collapse-congo",
     "source": "NPR",
     "publishedAt": "2026-02-01T02:10:00Z"
-  },
-  {
-    "title": "Pakistan forces kill 145 separatist militants in 40-hour battle",
-    "url": "https://www.cbc.ca/news/world/pakistan-forces-militants-killed-9.7069890?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-01T14:32:05Z"
-  },
-  {
-    "title": "Pakistan: 145 militants killed after suicide and gun attacks",
-    "url": "https://www.dw.com/en/pakistan-145-militants-killed-after-suicide-and-gun-attacks/a-75750607?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-02-01T14:32:00Z"
-  },
-  {
-    "title": "Khartoum airport receives first scheduled flight since start of Sudan war",
-    "url": "https://www.aljazeera.com/news/2026/2/1/khartoum-airport-receives-first-scheduled-flight-since-start-of-sudan-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-01T14:27:09Z"
-  },
-  {
-    "title": "Trilateral Ukraine talks to resume in Abu Dhabi on Wednesday: Zelenskyy",
-    "url": "https://www.aljazeera.com/news/2026/2/1/trilateral-ukraine-talks-set-to-resume-in-abu-dhabi-on-wednesday-zelenskyy?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-01T14:26:36Z"
-  },
-  {
-    "title": "Ukraine talks set for next week, 2 killed in Russian drone strike",
-    "url": "https://www.cbc.ca/news/world/ukraine-talks-russian-drone-9.7069841?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-01T14:26:13Z"
-  },
-  {
-    "title": "Cuba on the brink as Trump turns up the pressure: ‘There is going to be a real blockade’",
-    "url": "https://www.theguardian.com/world/2026/feb/01/cuba-fuel-shortage-trump-tariffs",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-01T13:00:27Z"
-  },
-  {
-    "title": "Starmer’s visit to China was not a reset, but a new way forward",
-    "url": "https://www.aljazeera.com/opinions/2026/2/1/starmers-visit-to-china-was-not-a-reset-but-a-new-way-forward?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-01T12:56:09Z"
-  },
-  {
-    "title": "Fela Kuti becomes first African to get Grammy Lifetime Achievement Award",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/1/fela-kuti-becomes-first-african-to-get-grammy-lifetime-achievement-award?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-01T12:20:58Z"
-  },
-  {
-    "title": "Saint-Maximin leaves Club America after children face racist attacks",
-    "url": "https://www.aljazeera.com/sports/2026/2/1/saint-maximin-leaves-club-america-after-children-face-racist-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-01T12:20:55Z"
   }
 ]
