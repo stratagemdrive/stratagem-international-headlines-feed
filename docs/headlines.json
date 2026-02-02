@@ -1,9 +1,21 @@
 [
   {
+    "title": "UK manufacturing growth accelerates as export orders rise",
+    "url": "https://www.theguardian.com/business/2026/feb/02/uk-manufacturing-growth-export-orders-pmi-interest-rates",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-02T14:01:48Z"
+  },
+  {
     "title": "Iran warns U.S. attack would spark regional war. What's next for the country?",
     "url": "https://www.npr.org/2026/02/02/nx-s1-5693113/iran-warns-u-s-attack-would-spark-regional-war-whats-next-for-the-country",
     "source": "NPR",
     "publishedAt": "2026-02-02T09:54:50Z"
+  },
+  {
+    "title": "Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes",
+    "url": "https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-02T12:25:58Z"
   },
   {
     "title": "Iran's supreme leader warns any U.S. attack would spark 'regional war' in the Middle East",
@@ -12,7 +24,7 @@
     "publishedAt": "2026-02-01T20:12:47Z"
   },
   {
-    "title": "‘Redline’: Global NGOs working in Gaza defy Israel’s threats after MSF ban",
+    "title": "‘Red line’: Global NGOs working in Gaza defy Israel’s threats after MSF ban",
     "url": "https://www.aljazeera.com/news/2026/2/2/redline-global-ngos-working-in-gaza-defy-israels-threats-after-msf-ban?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-02-02T09:55:11Z"
@@ -36,12 +48,6 @@
     "publishedAt": "2026-02-02T07:06:54Z"
   },
   {
-    "title": "Pakistani forces kill 145 fighters in Balochistan after deadly attacks",
-    "url": "https://www.aljazeera.com/news/2026/2/2/pakistani-forces-kill-145-fighters-in-balochistan-after-deadly-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-02T05:10:40Z"
-  },
-  {
     "title": "International law meant to limit effects of war at breaking point, study finds",
     "url": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
     "source": "The Guardian",
@@ -60,16 +66,40 @@
     "publishedAt": "2026-02-02T01:38:10Z"
   },
   {
-    "title": "US shift away from Europe ‘didn’t really start with President Trump,’ says EU’s top diplomat – Europe live",
+    "title": "Spanish PM defends plans to regularise half a million undocumented migrants",
+    "url": "https://www.theguardian.com/world/2026/feb/02/pedro-sanchez-spain-defends-plans-regularise-migrants",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-02T14:02:16Z"
+  },
+  {
+    "title": "Current world order ‘dead’, Draghi warns Europe, as he outlines US and China threats – Europe live",
     "url": "https://www.theguardian.com/world/live/2026/feb/02/eu-us-foreign-policy-shift-security-defence-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-02-02T10:09:32Z"
+    "publishedAt": "2026-02-02T13:24:12Z"
+  },
+  {
+    "title": "Iran eyes progress towards US nuclear talks as tension eases",
+    "url": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-02T13:22:13Z"
+  },
+  {
+    "title": "Is Trump winning or losing his war on offshore wind power?",
+    "url": "https://www.theguardian.com/environment/2026/feb/02/trump-offshore-wind",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-02T12:30:08Z"
+  },
+  {
+    "title": "Japan deep-sea hunt finds rare earths as it seeks to cut reliance on China",
+    "url": "https://www.aljazeera.com/news/2026/2/2/japan-deep-sea-hunt-finds-rare-earths-as-it-seeks-to-cut-reliance-on-china?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-02T11:09:24Z"
   },
   {
     "title": "Bad Bunny makes Grammy history as stars protest against ICE",
     "url": "https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-02-02T08:40:43Z"
+    "publishedAt": "2026-02-02T10:31:58Z"
   },
   {
     "title": "A year after Hezbollah-Israel ceasefire, over 64,000 Lebanese displaced",
@@ -88,35 +118,5 @@
     "url": "https://www.bbc.com/news/articles/cqj2kyp29l7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-02-02T07:13:41Z"
-  },
-  {
-    "title": "Twelve miners killed by Russian strike in Ukraine, officials say",
-    "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-02T07:00:55Z"
-  },
-  {
-    "title": "Trump says Iran talking to US and hints at deal to avoid military strikes",
-    "url": "https://www.theguardian.com/world/2026/jan/31/trump-hints-at-deal-with-iran-to-avoid-military-strikes",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-02T03:57:03Z"
-  },
-  {
-    "title": "Mexico to send humanitarian aid to Cuba, Sheinbaum says",
-    "url": "https://www.dw.com/en/mexico-to-send-humanitarian-aid-to-cuba-sheinbaum-says/a-75755584?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-02-02T02:40:00Z"
-  },
-  {
-    "title": "Russia-Ukraine war: List of key events, day 1,439",
-    "url": "https://www.aljazeera.com/news/2026/2/2/russia-ukraine-war-list-of-key-events-day-1439?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-02T02:25:41Z"
-  },
-  {
-    "title": "UK’s ex-ambassador Mandelson quits Labour over Epstein links, reports say",
-    "url": "https://www.aljazeera.com/economy/2026/2/2/uks-ex-ambassador-mandelson-quits-labour-over-epstein-links-reports-say?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-02T01:07:27Z"
   }
 ]
