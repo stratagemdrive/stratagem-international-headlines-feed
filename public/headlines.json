@@ -1,21 +1,15 @@
 [
   {
-    "title": "UN warns of humanitarian collapse in Cuba as US seeks to block oil supplies",
-    "url": "https://www.aljazeera.com/news/2026/2/5/un-warns-of-humanitarian-collapse-in-cuba-as-us-seeks-to-block-oil-supplies?traffic_source=rss",
+    "title": "T20 World Cup: Can Pakistan face sanctions over India boycott?",
+    "url": "https://www.aljazeera.com/sports/2026/2/5/pakistan-confirms-india-t20-world-cup-boycott-can-it-face-sanctions-bans?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-02-05T04:57:53Z"
+    "publishedAt": "2026-02-05T11:31:07Z"
   },
   {
     "title": "New START treaty between the U.S. and Russia expires Thursday",
     "url": "https://www.npr.org/2026/02/05/nx-s1-5699376/new-start-treaty-between-the-u-s-and-russia-expires-thursday",
     "source": "NPR",
     "publishedAt": "2026-02-05T09:54:56Z"
-  },
-  {
-    "title": "Greens senator claims One Nation the party of ‘billionaires, not battlers’ – as it happened",
-    "url": "https://www.theguardian.com/australia-news/live/2026/feb/05/australian-politics-live-anthony-albanese-sussan-ley-labor-liberal-question-time-chalmers-budget-cost-of-living-marles-defence-leadership-challenge-spill-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-05T07:01:07Z"
   },
   {
     "title": "Sanctions having ‘significant impact’ on Russian economy, says EU special envoy",
@@ -42,6 +36,18 @@
     "publishedAt": "2026-02-05T00:50:00Z"
   },
   {
+    "title": "55,000 Ukrainian soldiers killed in war with Russia, Zelensky says",
+    "url": "https://www.bbc.com/news/articles/cvgn2dzwd1do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-05T14:10:57Z"
+  },
+  {
+    "title": "Zelenskyy says Ukraine-Russia talks ‘not easy’ but ‘constructive’ after prisoner swap agreed - Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/feb/05/ukraine-russia-us-talk-end-war-abu-dhabi-live-updates-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-05T13:58:16Z"
+  },
+  {
     "title": "Green energy sector drove more than 90% of China’s investment growth last year, analysis finds",
     "url": "https://www.theguardian.com/world/2026/feb/05/china-green-energy-sector-investment-growth",
     "source": "The Guardian",
@@ -60,63 +66,57 @@
     "publishedAt": "2026-02-04T23:50:22Z"
   },
   {
+    "title": "Russia-Ukraine talks end with agreement on prisoner swap",
+    "url": "https://www.aljazeera.com/news/2026/2/5/russia-ukraine-talks-end-with-agreement-on-prisoner-swap?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-05T13:43:22Z"
+  },
+  {
+    "title": "Famine conditions spread to more towns in Sudan’s Darfur, experts warn",
+    "url": "https://www.aljazeera.com/news/2026/2/5/famine-conditions-spread-to-more-towns-in-sudans-darfur-experts-warn?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-05T13:27:32Z"
+  },
+  {
+    "title": "Trigger warnings risk ‘mollycoddling’ theatre audiences, says Tony-winning director",
+    "url": "https://www.theguardian.com/stage/2026/feb/05/theatre-trigger-warnings-risk-mollycoddling-audiences-says-tony-winning-director-john-doyle",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-05T13:03:02Z"
+  },
+  {
+    "title": "British PM Starmer apologizes for appointing Mandelson, but says diplomat lied about Epstein ties",
+    "url": "https://www.cbc.ca/news/world/uk-starmer-apology-ambassador-mandelson-epstein-9.7075084?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-02-05T12:43:07Z"
+  },
+  {
+    "title": "Israeli air attacks on Lebanon reach highest level since ceasefire: Report",
+    "url": "https://www.aljazeera.com/news/2026/2/5/israeli-air-attacks-on-lebanon-reach-highest-level-since-ceasefire-report?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-05T12:26:54Z"
+  },
+  {
+    "title": "Russia says will act responsibly despite New START nuclear treaty expiry",
+    "url": "https://www.aljazeera.com/news/2026/2/5/russia-says-will-act-responsibly-despite-new-start-nuclear-treaty-expiry?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-05T12:03:16Z"
+  },
+  {
+    "title": "Nigeria: President deploys troops after Kwara state attack",
+    "url": "https://www.dw.com/en/nigeria-president-deploys-troops-after-kwara-state-attack/a-75815436?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-05T12:00:00Z"
+  },
+  {
+    "title": "More than 160 people killed by suspected Islamist militants in Nigeria",
+    "url": "https://www.npr.org/2026/02/05/nx-s1-5701384/more-than-160-people-killed-by-suspected-islamist-militants-in-nigeria",
+    "source": "NPR",
+    "publishedAt": "2026-02-05T11:45:12Z"
+  },
+  {
     "title": "After crushing protests, Iran's supreme leader now tries to avert a U.S. attack",
     "url": "https://www.pbs.org/newshour/world/after-crushing-protests-irans-supreme-leader-now-tries-to-avert-a-u-s-attack",
     "source": "PBS",
     "publishedAt": "2026-02-04T21:32:43Z"
-  },
-  {
-    "title": "Iran-U.S. nuclear talks will take place Friday in Oman, foreign minister says",
-    "url": "https://www.pbs.org/newshour/world/iran-u-s-nuclear-talks-will-take-place-friday-in-oman-foreign-minister-says",
-    "source": "PBS",
-    "publishedAt": "2026-02-04T21:15:36Z"
-  },
-  {
-    "title": "Trilateral talks to end Russia’s invasion of Ukraine restart in Abu Dhabi – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/feb/05/ukraine-russia-us-talk-end-war-abu-dhabi-live-updates-latest-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-05T10:04:25Z"
-  },
-  {
-    "title": "The New START treaty has expired. What it means for the world's superpowers",
-    "url": "https://www.npr.org/2026/02/05/nx-s1-5699491/the-new-start-treaty-has-expired-what-it-means-for-the-worlds-superpowers",
-    "source": "NPR",
-    "publishedAt": "2026-02-05T09:55:13Z"
-  },
-  {
-    "title": "On a frozen river, Ukrainian revelers party to keep their spirits and bodies warm",
-    "url": "https://www.npr.org/2026/02/05/nx-s1-5696325/on-a-frozen-river-ukrainian-revelers-party-to-keep-their-spirits-and-bodies-warm",
-    "source": "NPR",
-    "publishedAt": "2026-02-05T09:53:18Z"
-  },
-  {
-    "title": "Bristol church repair opens door to Edward Colston exhumation",
-    "url": "https://www.theguardian.com/uk-news/2026/feb/05/bristol-church-repair-opens-door-to-edward-colston-exhumation",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-05T09:51:14Z"
-  },
-  {
-    "title": "Man charged with ‘terrorism’ for bomb at Indigenous protest in Australia",
-    "url": "https://www.aljazeera.com/news/2026/2/5/man-charged-with-terrorism-for-bomb-at-indigenous-protest-in-australia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-05T09:18:23Z"
-  },
-  {
-    "title": "Gaza patients head to Rafah crossing as people return amid Israeli attacks",
-    "url": "https://www.aljazeera.com/news/2026/2/5/gaza-patients-head-to-rafah-crossing-as-people-return-amid-israeli-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-05T09:02:56Z"
-  },
-  {
-    "title": "The last U.S.-Russian nuclear pact is about to expire, ending a half-century of arms control",
-    "url": "https://www.pbs.org/newshour/world/the-last-u-s-russian-nuclear-pact-is-about-to-expire-ending-a-half-century-of-arms-control",
-    "source": "PBS",
-    "publishedAt": "2026-02-04T19:09:21Z"
-  },
-  {
-    "title": "The weapons the US has in place as it threatens to attack Iran",
-    "url": "https://www.aljazeera.com/video/project-force-2/2026/2/5/the-weapons-the-us-has-in-place-as-it-threatens-to-attack-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-05T08:34:02Z"
   }
 ]
