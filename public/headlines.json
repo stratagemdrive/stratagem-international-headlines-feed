@@ -1,9 +1,33 @@
 [
   {
-    "title": "UK economy limps along at 0.1% growth – but there are reasons for optimism in 2026",
-    "url": "https://www.theguardian.com/business/2026/feb/12/uk-economy-gdp-reasons-for-optimism-analysis",
+    "title": "Six Republicans join Democrats in vote to block Donald Trump’s Canada tariffs - US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/feb/12/trump-tariffs-canada-republicans-democrats-ice-bovino-pam-bondi-jeffrey-epstein-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-02-12T09:14:00Z"
+    "publishedAt": "2026-02-12T14:21:35Z"
+  },
+  {
+    "title": "Italy stun Nepal for historic first T20 World Cup win",
+    "url": "https://www.aljazeera.com/sports/2026/2/12/italy-stun-nepal-for-historic-first-t20-world-cup-win?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-12T14:13:49Z"
+  },
+  {
+    "title": "Port city in ruins as storm rips through Madagascar and on towards Mozambique",
+    "url": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-12T14:01:04Z"
+  },
+  {
+    "title": "Five plots to kill Syrian president or ministers were foiled last year, says UN",
+    "url": "https://www.theguardian.com/world/2026/feb/12/five-plots-to-kill-syrian-president-or-ministers-were-foiled-last-year-says-un",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-12T12:11:29Z"
+  },
+  {
+    "title": "UN begins clearing massive wartime waste dump in Gaza City",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/un-begins-clearing-massive-wartime-waste-dump-in-gaza-city?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-12T11:21:36Z"
   },
   {
     "title": "As tensions simmer between U.S. and Iran, Iraq is feeling the heat",
@@ -12,34 +36,10 @@
     "publishedAt": "2026-02-12T09:00:00Z"
   },
   {
-    "title": "Argentinian security forces fire water cannon and tear gas at protesters",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/argentinian-security-forces-fire-water-cannon-and-tear-gas-at-protesters?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-12T08:59:37Z"
-  },
-  {
     "title": "In blunt warning, the U.S. says Peru could lose its sovereignty to China",
     "url": "https://www.npr.org/2026/02/12/g-s1-109738/u-s-says-peru-could-lose-sovereignty-to-china",
     "source": "NPR",
     "publishedAt": "2026-02-12T06:30:05Z"
-  },
-  {
-    "title": "Russia evacuates tourists from Cuba as US-engineered fuel crisis deepens",
-    "url": "https://www.aljazeera.com/news/2026/2/12/russia-to-evacuate-tourists-from-cuba-amid-us-engineered-fuel-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-12T02:20:22Z"
-  },
-  {
-    "title": "Breaking with Trump, US House votes to pass a bill ending Canada tariffs",
-    "url": "https://www.aljazeera.com/news/2026/2/12/breaking-with-trump-us-house-votes-to-pass-a-bill-ending-canada-tariffs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-12T01:49:59Z"
-  },
-  {
-    "title": "US Energy Secretary Chris Wright touts oil production on Venezuela visit",
-    "url": "https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-12T01:48:46Z"
   },
   {
     "title": "US House votes to overturn Trump's tariffs on Canada",
@@ -66,10 +66,46 @@
     "publishedAt": "2026-02-11T23:35:37Z"
   },
   {
+    "title": "First German politician enters Gaza since October 7 attack",
+    "url": "https://www.dw.com/en/first-german-politician-enters-gaza-since-october-7-attack/a-75930895?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-12T12:57:00Z"
+  },
+  {
+    "title": "In Aleppo, art bridges Syria’s war divisions",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/in-aleppo-art-bridges-syrias-war-divisions?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-12T12:42:54Z"
+  },
+  {
+    "title": "Top Iran official accuses Israel of trying to sabotage US talks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/12/top-iran-official-accuses-israel-of-trying-to-sabotage-us-talks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-12T12:13:51Z"
+  },
+  {
     "title": "What to know as Iran and the U.S. weigh holding a second round of nuclear talks",
     "url": "https://www.pbs.org/newshour/world/what-to-know-as-iran-and-the-u-s-weigh-holding-a-second-round-of-nuclear-talks",
     "source": "PBS",
     "publishedAt": "2026-02-11T22:15:30Z"
+  },
+  {
+    "title": "Man Utd co-owner Ratcliffe’s anti-immigrant rhetoric sparks outrage",
+    "url": "https://www.aljazeera.com/news/2026/2/12/man-utd-co-owner-ratcliffes-anti-immigrant-rhetoric-sparks-outrage-in-uk?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-12T12:05:37Z"
+  },
+  {
+    "title": "Guardian nominated for more than 20 honours at 2026 Press Awards",
+    "url": "https://www.theguardian.com/media/2026/feb/12/guardian-nominated-more-than-20-honours-2026-press-awards",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-12T11:36:32Z"
+  },
+  {
+    "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
+    "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-12T11:10:55Z"
   },
   {
     "title": "Russia says it will stick to New START's nuclear arms limits as long as the U.S. does",
@@ -82,41 +118,5 @@
     "url": "https://www.pbs.org/newshour/world/nato-launches-arctic-sentry-military-effort-in-seeking-to-move-on-from-greenland-dispute",
     "source": "PBS",
     "publishedAt": "2026-02-11T20:55:31Z"
-  },
-  {
-    "title": "Russia orders block on WhatsApp in messaging app crackdown",
-    "url": "https://www.bbc.com/news/articles/clygd10pg5lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-12T10:15:47Z"
-  },
-  {
-    "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
-    "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-12T10:01:45Z"
-  },
-  {
-    "title": "Nearly 300,000 people in Ukrainian city of Odesa without power or water after Russian drone strikes - Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/feb/12/ukraine-russia-strikes-odesa-power-drone-strikes-zelenskyy-putin-portugal-floods-europe-live-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-12T09:59:17Z"
-  },
-  {
-    "title": "EU leaders to clash over ‘Buy European’ push at Belgium summit",
-    "url": "https://www.theguardian.com/world/2026/feb/12/eu-leaders-clash-buy-european-belgium-summit",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-12T09:38:59Z"
-  },
-  {
-    "title": "Jim Ratcliffe accused of hypocrisy after saying UK ‘colonised’ by immigrants",
-    "url": "https://www.theguardian.com/business/2026/feb/12/jim-ratcliffe-accused-hypocrisy-uk-colonised-immigrants",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-12T09:13:35Z"
-  },
-  {
-    "title": "Thousands gather at Melbourne Herzog protest – as it happened",
-    "url": "https://www.theguardian.com/australia-news/live/2026/feb/12/australia-politics-live-liberals-leadership-spill-challenge-angus-taylor-sussan-ley-libspill-question-time-anthony-albanese-senate-estimates-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-12T08:46:52Z"
   }
 ]
