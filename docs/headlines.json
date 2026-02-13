@@ -1,9 +1,21 @@
 [
   {
-    "title": "UK weather: major road across Pennines shut as Arctic blast brings snow and ice",
-    "url": "https://www.theguardian.com/uk-news/2026/feb/13/uk-weather-major-road-pennines-shut-arctic-blast-snow-ice",
+    "title": "Weather tracker: cyclones hit Australia and Madagascar and -40C cold snap in northern Europe",
+    "url": "https://www.theguardian.com/environment/2026/feb/13/weather-tracker-tropical-cyclone-mitchell-hits-western-australia",
     "source": "The Guardian",
-    "publishedAt": "2026-02-13T09:41:22Z"
+    "publishedAt": "2026-02-13T11:41:47Z"
+  },
+  {
+    "title": "US inflation falls to 2.4% in January after Trump’s tariffs led to price fluctuations",
+    "url": "https://www.theguardian.com/business/2026/feb/13/january-inflation-tariffs-trump",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-13T13:53:25Z"
+  },
+  {
+    "title": "Watch SpaceX rocket blast off to International Space Station",
+    "url": "https://www.bbc.com/news/videos/c4gj39dprkno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-13T12:09:52Z"
   },
   {
     "title": "Russia faces Ukraine casualties, broken communications and total oil ban",
@@ -24,22 +36,16 @@
     "publishedAt": "2026-02-13T08:05:26Z"
   },
   {
-    "title": "US and Taiwan sign ‘pivotal’ deal to cut tariffs",
-    "url": "https://www.aljazeera.com/economy/2026/2/13/us-and-taiwan-sign-pivotal-deal-to-cut-trade-tariffs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-13T02:39:44Z"
-  },
-  {
-    "title": "Taylor Swift asks US government to block 'Swift Home' trademark",
-    "url": "https://www.bbc.com/news/articles/cr5lmg9l1y7o?at_medium=RSS&at_campaign=rss",
+    "title": "Rubio warns Europe of new era in geopolitics before big Munich speech",
+    "url": "https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-02-13T02:29:17Z"
+    "publishedAt": "2026-02-13T14:04:06Z"
   },
   {
-    "title": "US judge blocks Trump administration from punishing Senator Mark Kelly",
-    "url": "https://www.aljazeera.com/news/2026/2/13/us-judge-blocks-trump-administration-from-punishing-senator-mark-kelly?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-13T00:46:41Z"
+    "title": "World order as we know it ‘no longer exists’, Merz warns at Munich Security Conference – live",
+    "url": "https://www.theguardian.com/world/live/2026/feb/13/munich-security-conference-rubio-flies-in-amid-testing-times-for-us-europe-ties-live",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-13T14:03:55Z"
   },
   {
     "title": "Tony Blair’s oil lobbying is a misleading rehash of fossil fuel industry spin",
@@ -54,10 +60,22 @@
     "publishedAt": "2026-02-12T23:25:00Z"
   },
   {
+    "title": "Are African ‘water wars’ on the horizon as AU puts the issue on its agenda?",
+    "url": "https://www.aljazeera.com/news/2026/2/13/are-african-water-wars-on-the-horizon-as-au-puts-the-issue-on-its-agenda?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-13T13:17:18Z"
+  },
+  {
     "title": "'Are we still on the same team?' Ischinger asks as Trump fuels NATO tensions",
     "url": "https://www.pbs.org/newshour/show/are-we-still-on-the-same-team-ischinger-asks-as-trump-fuels-nato-tensions",
     "source": "PBS",
     "publishedAt": "2026-02-12T23:22:37Z"
+  },
+  {
+    "title": "Explosions in Gaza, 54 wounded in West Bank settler attacks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/2/13/live-explosions-in-gaza-54-wounded-in-west-bank-settler-attacks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-13T12:54:02Z"
   },
   {
     "title": "How U.S. sanctions played into the protests in IRan",
@@ -78,45 +96,27 @@
     "publishedAt": "2026-02-12T22:17:01Z"
   },
   {
-    "title": "US urges Europe to take the lead on defence in NATO",
-    "url": "https://www.aljazeera.com/news/2026/2/12/us-urges-europe-to-take-the-lead-on-defence-in-nato?traffic_source=rss",
+    "title": "European leaders face tough talks at Munich Security Conference",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/european-leaders-face-tough-talks-at-munich-security-conference?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-02-12T21:32:47Z"
+    "publishedAt": "2026-02-13T10:32:05Z"
+  },
+  {
+    "title": "South Africa to deploy troops to tackle crime gangs",
+    "url": "https://www.bbc.com/news/articles/c0q30d20lkqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-13T10:20:34Z"
+  },
+  {
+    "title": "UK decision to ban Palestine Action as ‘terror group’ unlawful, court says",
+    "url": "https://www.aljazeera.com/news/2026/2/13/uk-decision-to-ban-palestine-action-as-terror-group-unlawful-court-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-13T10:15:01Z"
   },
   {
     "title": "Russia fires barrage at Ukrainian cities, with fate of next U.S.-brokered talks unclear",
     "url": "https://www.pbs.org/newshour/world/russia-fires-barrage-at-ukrainian-cities-with-fate-of-next-u-s-brokered-talks-unclear",
     "source": "PBS",
     "publishedAt": "2026-02-12T20:09:18Z"
-  },
-  {
-    "title": "Sudan protecting Africa from foreign interference in war with RSF, says FM",
-    "url": "https://www.aljazeera.com/news/2026/2/13/sudan-protecting-africa-from-foreign-interference-in-war-with-rsf-says-fm?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-13T09:19:23Z"
-  },
-  {
-    "title": "US lawmakers press Taiwan to boost defense spending amid China threat",
-    "url": "https://www.dw.com/en/us-lawmakers-press-taiwan-to-boost-defense-spending-amid-china-threat/a-75945362?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-02-13T09:10:00Z"
-  },
-  {
-    "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
-    "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-13T08:14:28Z"
-  },
-  {
-    "title": "Democrats at Munich security summit to urge Europe to stand up to Trump",
-    "url": "https://www.theguardian.com/us-news/2026/feb/13/democrats-munich-security-conference-urge-europe-stand-up-to-trump",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-13T06:00:36Z"
-  },
-  {
-    "title": "Syria's leader targeted for assassination often, UN report says, as U.S. hands over military base",
-    "url": "https://www.cbc.ca/news/world/syria-sharaa-report-tanf-base-developments-9.7086217?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-12T15:35:38Z"
   }
 ]
