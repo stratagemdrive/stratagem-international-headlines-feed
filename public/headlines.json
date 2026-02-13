@@ -1,9 +1,27 @@
 [
   {
+    "title": "UK weather: major road across Pennines shut as Arctic blast brings snow and ice",
+    "url": "https://www.theguardian.com/uk-news/2026/feb/13/uk-weather-major-road-pennines-shut-arctic-blast-snow-ice",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-13T09:41:22Z"
+  },
+  {
+    "title": "Russia faces Ukraine casualties, broken communications and total oil ban",
+    "url": "https://www.aljazeera.com/news/2026/2/13/russia-faces-ukraine-casualties-broken-communications-and-total-oil-ban?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-13T09:06:58Z"
+  },
+  {
     "title": "World News in Brief: Türk slams relentless Russian attacks, Gaza update, Cyclone Gezani hits Madagascar",
     "url": "https://news.un.org/feed/view/en/story/2026/02/1166952",
     "source": "UN News",
     "publishedAt": "2026-02-12T12:00:00Z"
+  },
+  {
+    "title": "Madagascar cyclone death toll hits 38, 12,000 displaced; Mozambique braces",
+    "url": "https://www.aljazeera.com/news/2026/2/13/madagascar-cyclone-death-toll-hits-38-12000-displaced-mozambique-braces?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-13T08:05:26Z"
   },
   {
     "title": "US and Taiwan sign ‘pivotal’ deal to cut tariffs",
@@ -72,51 +90,33 @@
     "publishedAt": "2026-02-12T20:09:18Z"
   },
   {
-    "title": "Pentagon policy chief tells European Nato members to step up combat capabilities",
-    "url": "https://www.theguardian.com/world/2026/feb/12/pentagon-policy-chief-tells-european-nato-members-to-step-up-combat-capabilities",
+    "title": "Sudan protecting Africa from foreign interference in war with RSF, says FM",
+    "url": "https://www.aljazeera.com/news/2026/2/13/sudan-protecting-africa-from-foreign-interference-in-war-with-rsf-says-fm?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-13T09:19:23Z"
+  },
+  {
+    "title": "US lawmakers press Taiwan to boost defense spending amid China threat",
+    "url": "https://www.dw.com/en/us-lawmakers-press-taiwan-to-boost-defense-spending-amid-china-threat/a-75945362?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-13T09:10:00Z"
+  },
+  {
+    "title": "US says it caused dollar shortage to trigger Iran protests: What that means",
+    "url": "https://www.aljazeera.com/economy/2026/2/13/us-says-it-caused-dollar-shortage-to-trigger-iran-protests-what-that-means?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-13T08:14:28Z"
+  },
+  {
+    "title": "Democrats at Munich security summit to urge Europe to stand up to Trump",
+    "url": "https://www.theguardian.com/us-news/2026/feb/13/democrats-munich-security-conference-urge-europe-stand-up-to-trump",
     "source": "The Guardian",
-    "publishedAt": "2026-02-12T17:36:34Z"
+    "publishedAt": "2026-02-13T06:00:36Z"
   },
   {
     "title": "Syria's leader targeted for assassination often, UN report says, as U.S. hands over military base",
     "url": "https://www.cbc.ca/news/world/syria-sharaa-report-tanf-base-developments-9.7086217?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-02-12T15:35:38Z"
-  },
-  {
-    "title": "New CIA recruitment video targets Chinese military personnel",
-    "url": "https://www.aljazeera.com/news/2026/2/13/new-cia-recruitment-video-targets-chinese-military-personnel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-13T04:34:04Z"
-  },
-  {
-    "title": "Port city in ruins as storm rips through Madagascar and on towards Mozambique",
-    "url": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-12T14:01:04Z"
-  },
-  {
-    "title": "South Africa’s Ramaphosa says troops will deploy to tackle crime gangs",
-    "url": "https://www.aljazeera.com/news/2026/2/13/south-africas-ramaphosa-says-troops-will-deploy-to-tackle-crime-gangs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-13T03:14:01Z"
-  },
-  {
-    "title": "Five plots to kill Syrian president or ministers were foiled last year, says UN",
-    "url": "https://www.theguardian.com/world/2026/feb/12/five-plots-to-kill-syrian-president-or-ministers-were-foiled-last-year-says-un",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-12T12:11:29Z"
-  },
-  {
-    "title": "Russia-Ukraine war: List of key events, day 1,450",
-    "url": "https://www.aljazeera.com/news/2026/2/13/russia-ukraine-war-list-of-key-events-day-1450?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-13T01:56:50Z"
-  },
-  {
-    "title": "Israel accuses two of using military secrets to place Polymarket bets",
-    "url": "https://www.npr.org/2026/02/12/nx-s1-5712801/polymarket-bets-traders-israel-military",
-    "source": "NPR",
-    "publishedAt": "2026-02-13T01:51:25Z"
   }
 ]
