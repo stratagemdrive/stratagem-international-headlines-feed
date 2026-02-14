@@ -1,21 +1,21 @@
 [
   {
-    "title": "Oil refinery ablaze in Cuba as fuel crisis deepens",
+    "title": "Oil refinery blaze hits Cuba as fuel crisis deepens",
     "url": "https://www.bbc.com/news/articles/cge89x7re74o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-02-14T03:03:27Z"
-  },
-  {
-    "title": "Fire at Havana oil refinery as Cuba’s fuel crisis deepens",
-    "url": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-14T02:14:34Z"
   },
   {
     "title": "European leaders warn of urgent need for self-defense as U.S. reliability questioned",
     "url": "https://www.pbs.org/newshour/show/european-leaders-warn-of-urgent-need-for-self-defense-as-u-s-reliability-questioned",
     "source": "PBS",
     "publishedAt": "2026-02-13T23:55:35Z"
+  },
+  {
+    "title": "Russia killed Alexei Navalny with frog toxin, UK and allies say",
+    "url": "https://www.theguardian.com/world/2026/feb/14/alexei-navalny-poisoning-death-russia-frog-toxin",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-14T13:05:58Z"
   },
   {
     "title": "Weather tracker: cyclones hit Australia and Madagascar and -40C cold snap in northern Europe",
@@ -48,16 +48,28 @@
     "publishedAt": "2026-02-13T23:30:47Z"
   },
   {
-    "title": "Macron swipes at Trump tariffs and Greenland threats; Zelenskyy has strong words for Russia – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/feb/13/munich-security-conference-rubio-flies-in-amid-testing-times-for-us-europe-ties-live",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-13T20:49:06Z"
+    "title": "ICU patients’ lives at risk in Gaza’s Al-Aqsa Hospital amid Israel’s war",
+    "url": "https://www.aljazeera.com/news/2026/2/14/icu-patients-lives-at-risk-in-gazas-al-aqsa-hospital-amid-israels-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-14T12:23:53Z"
   },
   {
-    "title": "Munich security conference live: Rubio criticises mass migration, west’s postwar ‘delusion’, US and Europe’s mistakes",
-    "url": "https://www.theguardian.com/world/live/2026/feb/14/munich-security-conference-live-marco-rubio-keir-starmer-eu-europe-ukraine-russia-latest-news-updates",
+    "title": "Starmer stresses ‘urgency’ of closer defence ties with Europe at Munich conference",
+    "url": "https://www.theguardian.com/politics/2026/feb/14/keir-starmer-munich-conference-closer-europe-defence-ties",
     "source": "The Guardian",
-    "publishedAt": "2026-02-14T08:53:34Z"
+    "publishedAt": "2026-02-14T12:17:21Z"
+  },
+  {
+    "title": "Are lasers the future of anti-drone warfare?",
+    "url": "https://www.aljazeera.com/economy/2026/2/14/are-lasers-the-future-of-anti-drone-warfare?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-14T10:55:39Z"
+  },
+  {
+    "title": "AU calls for end to ‘extermination’ of Palestinians, decries African wars",
+    "url": "https://www.aljazeera.com/news/2026/2/14/au-calls-for-end-to-extermination-of-palestinians-decries-african-wars?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-14T10:51:00Z"
   },
   {
     "title": "Germany's Merz calls on U.S. and Europe to 'repair and revive trans-Atlantic trust together'",
@@ -106,17 +118,5 @@
     "url": "https://www.bbc.com/news/videos/c4gj39dprkno?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-02-13T12:09:52Z"
-  },
-  {
-    "title": "World News in Brief: Deadly strikes in Sudan, health systems in South Sudan near the brink, Guterres calls for unity ahead of Ramadan.",
-    "url": "https://news.un.org/feed/view/en/story/2026/02/1166963",
-    "source": "UN News",
-    "publishedAt": "2026-02-13T12:00:00Z"
-  },
-  {
-    "title": "Madagascar: ‘Overwhelming’ destruction, surging needs after back-to-back cyclones – WFP",
-    "url": "https://news.un.org/feed/view/en/story/2026/02/1166956",
-    "source": "UN News",
-    "publishedAt": "2026-02-13T12:00:00Z"
   }
 ]
