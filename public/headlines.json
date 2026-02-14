@@ -6,16 +6,28 @@
     "publishedAt": "2026-02-14T03:03:27Z"
   },
   {
+    "title": "Democratic senators launch inquiry into EPA’s repeal of key air pollution enforcement measure",
+    "url": "https://www.theguardian.com/environment/2026/feb/14/democratic-senators-inquiry-epa-air-pollution-enforcement",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-14T16:32:38Z"
+  },
+  {
+    "title": "Deadly drone strikes cloud US-brokered Russia-Ukraine talks in Geneva",
+    "url": "https://www.aljazeera.com/news/2026/2/14/deadly-drone-strikes-cloud-us-brokered-russia-ukraine-talks-in-geneva?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-14T14:35:32Z"
+  },
+  {
+    "title": "Russia killed Alexei Navalny with frog toxin, UK and four European allies say",
+    "url": "https://www.theguardian.com/world/2026/feb/14/alexei-navalny-poisoning-death-russia-frog-toxin",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-14T14:03:57Z"
+  },
+  {
     "title": "European leaders warn of urgent need for self-defense as U.S. reliability questioned",
     "url": "https://www.pbs.org/newshour/show/european-leaders-warn-of-urgent-need-for-self-defense-as-u-s-reliability-questioned",
     "source": "PBS",
     "publishedAt": "2026-02-13T23:55:35Z"
-  },
-  {
-    "title": "Russia killed Alexei Navalny with frog toxin, UK and allies say",
-    "url": "https://www.theguardian.com/world/2026/feb/14/alexei-navalny-poisoning-death-russia-frog-toxin",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-14T13:05:58Z"
   },
   {
     "title": "Weather tracker: cyclones hit Australia and Madagascar and -40C cold snap in northern Europe",
@@ -30,10 +42,40 @@
     "publishedAt": "2026-02-14T08:19:11Z"
   },
   {
+    "title": "US military reports a series of airstrikes against Islamic State targets in Syria",
+    "url": "https://www.npr.org/2026/02/14/nx-s1-5714552/us-islamic-state-syria",
+    "source": "NPR",
+    "publishedAt": "2026-02-14T16:29:26Z"
+  },
+  {
+    "title": "Trump remains ‘very serious’ about taking over Greenland, Danish PM warns – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/feb/14/munich-security-conference-live-marco-rubio-keir-starmer-eu-europe-ukraine-russia-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-14T16:22:54Z"
+  },
+  {
+    "title": "US military used Anthropic’s AI model Claude in Venezuela raid, report says",
+    "url": "https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-14T16:15:02Z"
+  },
+  {
+    "title": "US launches airstrikes on dozens of Islamic State targets in Syria",
+    "url": "https://www.theguardian.com/world/2026/feb/14/us-airstrikes-syria-islamic-state-targets",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-14T15:50:42Z"
+  },
+  {
     "title": "In Munich, NATO leaders assess America's reliability as an ally",
     "url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/in-munich-nato-leaders-assess-americas-reliability-as-an-ally",
     "source": "PBS",
     "publishedAt": "2026-02-14T00:30:22Z"
+  },
+  {
+    "title": "EU leaders welcome US tone shift in Rubio's Munich speech",
+    "url": "https://www.dw.com/en/eu-leaders-welcome-us-tone-shift-in-rubio-s-munich-speech/a-75970369?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-14T14:10:00Z"
   },
   {
     "title": "World order in transition, but U.S. is still a key ally for Europe, Finnish president says",
@@ -72,51 +114,9 @@
     "publishedAt": "2026-02-14T10:51:00Z"
   },
   {
-    "title": "Germany's Merz calls on U.S. and Europe to 'repair and revive trans-Atlantic trust together'",
-    "url": "https://www.pbs.org/newshour/world/germanys-merz-calls-on-u-s-and-europe-to-repair-and-revive-trans-atlantic-trust-together",
-    "source": "PBS",
-    "publishedAt": "2026-02-13T17:14:22Z"
-  },
-  {
-    "title": "Andrew aide advised Epstein to omit conviction on China visa form, files suggest",
-    "url": "https://www.theguardian.com/us-news/2026/feb/14/david-stern-jeffrey-epstein-hide-conviction-china-visa",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-14T07:00:47Z"
-  },
-  {
-    "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
-    "url": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-14T06:59:55Z"
-  },
-  {
-    "title": "US pressures Vanuatu at UN over ICJ’s landmark climate change ruling",
-    "url": "https://www.aljazeera.com/news/2026/2/14/us-pressures-vanuatu-at-un-over-icjs-landmark-climate-change-ruling?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-14T05:54:48Z"
-  },
-  {
-    "title": "US strike on alleged drug boat in Caribbean kills 3",
-    "url": "https://www.dw.com/en/us-strike-on-alleged-drug-boat-in-caribbean-kills-3/a-75965894?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-02-14T04:40:00Z"
-  },
-  {
-    "title": "Danish PM says more Greenland talks due after meeting US’s Marco Rubio",
-    "url": "https://www.aljazeera.com/news/2026/2/14/danish-pm-says-more-greenland-talks-due-after-meeting-uss-marco-rubio?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-14T04:18:40Z"
-  },
-  {
-    "title": "Trump says regime change in Iran ‘would be the best thing’ as US military reportedly plans for operation – as it happened",
-    "url": "https://www.theguardian.com/us-news/live/2026/feb/13/trump-climate-epa-repeal-pollution-john-kerry-us-politics-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-14T03:01:25Z"
-  },
-  {
-    "title": "Watch SpaceX rocket blast off to International Space Station",
-    "url": "https://www.bbc.com/news/videos/c4gj39dprkno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-13T12:09:52Z"
+    "title": "Head of military's space division warns Russia is considering putting nuclear weapons in orbit",
+    "url": "https://www.cbc.ca/news/politics/russia-space-nuclear-weapon-canada-military-division-chief-9.7088665?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-02-14T09:00:00Z"
   }
 ]
