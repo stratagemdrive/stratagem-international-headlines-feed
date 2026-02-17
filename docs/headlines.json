@@ -1,21 +1,45 @@
 [
   {
+    "title": "UK unemployment rate hits five-year high of 5.2% as wage growth cools",
+    "url": "https://www.theguardian.com/business/2026/feb/17/uk-unemployment-rate-ons-interest-rates",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T09:06:46Z"
+  },
+  {
+    "title": "UK shelves £110m frictionless post-Brexit trade border project",
+    "url": "https://www.theguardian.com/business/2026/feb/17/uk-frictionless-post-brexit-trade-border-project",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T08:30:21Z"
+  },
+  {
+    "title": "U.S. and Iran to hold a second round of nuclear talks in Geneva",
+    "url": "https://www.npr.org/2026/02/17/g-s1-110365/u-s-iran-nuclear-talks-geneva",
+    "source": "NPR",
+    "publishedAt": "2026-02-17T07:01:58Z"
+  },
+  {
+    "title": "US Senator Mark Kelly tells BBC he will 'seriously consider' White House run",
+    "url": "https://www.bbc.com/news/articles/cy9gdvl4zv4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-17T02:28:08Z"
+  },
+  {
     "title": "Rubio bolsters Hungary's far-right leader days after push to mend U.S. ties in Europe",
     "url": "https://www.pbs.org/newshour/show/rubio-bolsters-hungarys-far-right-leader-days-after-push-to-mend-u-s-ties-in-europe",
     "source": "PBS",
     "publishedAt": "2026-02-16T23:55:11Z"
   },
   {
-    "title": "US deploys 100 soldiers to Nigeria as attacks by armed groups surge",
-    "url": "https://www.aljazeera.com/news/2026/2/16/us-deploys-100-soldiers-to-nigeria-for-training-mission-nigerian-military?traffic_source=rss",
+    "title": "Iran and US open second round of nuclear talks in Switzerland",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/iran-and-us-open-second-round-of-nuclear-talks-in-switzerland?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-02-16T23:13:04Z"
+    "publishedAt": "2026-02-17T10:09:03Z"
   },
   {
-    "title": "‘Daunting but doable’: Europe urged to prepare for 3C of global heating",
-    "url": "https://www.theguardian.com/environment/2026/feb/16/europe-climate-advisory-board-3c-global-heating",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-16T23:01:37Z"
+    "title": "New nuclear talks between US and Iran begin in Geneva",
+    "url": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-17T09:57:09Z"
   },
   {
     "title": "The U.S. ready to make up, Europe ready to break up in Munich",
@@ -24,99 +48,75 @@
     "publishedAt": "2026-02-16T19:49:04Z"
   },
   {
+    "title": "Russia launches 400 drones and 29 missiles at Ukraine hours before peace talks in Geneva – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/feb/17/ukraine-talks-geneva-russia-zelenskyy-putin-orban-rubio-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T09:40:12Z"
+  },
+  {
+    "title": "Ukraine and Russia to meet for third round of talks as fourth anniversary of war looms",
+    "url": "https://www.theguardian.com/world/2026/feb/16/ukraine-russia-second-round-talks-fourth-anniversary-war",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T08:49:20Z"
+  },
+  {
+    "title": "Once a popular wartime leader among Ukrainians, Zelenskyy’s shine fades",
+    "url": "https://www.aljazeera.com/news/2026/2/17/once-a-popular-wartime-leader-among-ukrainians-zelenskyys-shine-fades?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-17T08:40:15Z"
+  },
+  {
+    "title": "Hamas rejects Netanyahu aide’s 60-day ultimatum for group to disarm",
+    "url": "https://www.aljazeera.com/news/2026/2/17/hamas-rejects-netanyahu-aides-60-day-ultimatum-for-group-to-disarm?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-17T08:20:30Z"
+  },
+  {
     "title": "Iran meets UN nuclear watchdog ahead of U.S. talks",
     "url": "https://www.pbs.org/newshour/world/iran-meets-un-nuclear-watchdog-ahead-of-u-s-talks",
     "source": "PBS",
     "publishedAt": "2026-02-16T18:22:40Z"
   },
   {
+    "title": "US, Iran hold high-level talks on Tehran's nuclear program",
+    "url": "https://www.dw.com/en/us-iran-hold-high-level-talks-on-tehran-s-nuclear-program/a-75998258?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-17T07:40:00Z"
+  },
+  {
+    "title": "France's Macron in India to boost Rafale deal talks, AI ties",
+    "url": "https://www.dw.com/en/france-s-macron-in-india-to-boost-rafale-deal-talks-ai-ties/a-75998082?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-17T07:31:00Z"
+  },
+  {
+    "title": "Russia-Ukraine talks live: Sides ramp up attacks before US-led negotiations",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/2/17/russia-ukraine-talks-live-attacks-continue-before-us-led-negotiations?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-17T07:30:00Z"
+  },
+  {
+    "title": "Trump urges Iran to make nuclear deal saying he’ll be ‘indirectly’ involved",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/trump-urges-iran-to-make-nuclear-deal-saying-hell-be-indirectly-involved?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-17T07:29:29Z"
+  },
+  {
+    "title": "Philippines rebukes China embassy over ‘coercive’ warning of job losses",
+    "url": "https://www.aljazeera.com/news/2026/2/17/philippines-rebukes-china-embassy-over-coercive-warning-of-job?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-17T07:23:52Z"
+  },
+  {
+    "title": "More than a dozen killed in bomb blasts, gunfire in Pakistan’s northwest",
+    "url": "https://www.aljazeera.com/news/2026/2/17/motorcycle-bomb-at-pakistan-police-station-kills-two-wounds-several-report?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-17T07:20:49Z"
+  },
+  {
     "title": "Russia and Ukraine head to latest U.S.-brokered talks with low expectations",
     "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-head-to-latest-u-s-brokered-talks-with-low-expectations",
     "source": "PBS",
     "publishedAt": "2026-02-16T15:43:42Z"
-  },
-  {
-    "title": "Perth court lifts suppression order on identity of man accused of attempted Invasion Day bombing",
-    "url": "https://www.theguardian.com/australia-news/2026/feb/17/perth-man-accused-of-attempted-invasion-day-bombing-appears-in-court-on-terror-charges-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-17T04:57:14Z"
-  },
-  {
-    "title": "NSW police end restriction on protests now Israeli president has left the country",
-    "url": "https://www.theguardian.com/australia-news/2026/feb/17/nsw-police-protest-restrictions-end-sydney-isaac-herzog-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-17T03:49:09Z"
-  },
-  {
-    "title": "Trump says he will be involved ‘indirectly’ in Iran nuclear talks",
-    "url": "https://www.aljazeera.com/news/2026/2/17/trump-says-he-will-be-involved-indirectly-in-iran-nuclear-talks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T03:10:14Z"
-  },
-  {
-    "title": "Kenya strike delays flights at international hub airport",
-    "url": "https://www.bbc.com/news/articles/c363096kd5po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-16T12:18:45Z"
-  },
-  {
-    "title": "Taylor Swift concert attack plot: 21-year-old man charged with terrorism in Austria",
-    "url": "https://www.theguardian.com/music/2026/feb/17/taylor-swift-austria-vienna-concert-terrorism-attack-plot",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-17T01:40:33Z"
-  },
-  {
-    "title": "Russia-Ukraine war: List of key events, day 1,454",
-    "url": "https://www.aljazeera.com/news/2026/2/17/russia-ukraine-war-list-of-key-events-day-1454?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T01:26:50Z"
-  },
-  {
-    "title": "Met deploys drones and ebikes to help catch adolescent phone thieves",
-    "url": "https://www.theguardian.com/uk-news/2026/feb/17/met-police-drones-ebikes-phone-thieves-gangs-recruit-children-london",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-17T00:01:39Z"
-  },
-  {
-    "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-    "url": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-16T09:50:58Z"
-  },
-  {
-    "title": "With no Gaza disarmament deal, UN group hasn't begun major work to clear explosives",
-    "url": "https://www.npr.org/2026/02/16/nx-s1-5715114/with-no-gaza-disarmament-deal-un-group-hasnt-begun-major-work-to-clear-explosives",
-    "source": "NPR",
-    "publishedAt": "2026-02-16T09:42:48Z"
-  },
-  {
-    "title": "One year on, No Other Land co-director says Israeli attacks intensifying",
-    "url": "https://www.aljazeera.com/news/2026/2/16/one-year-on-no-other-land-co-director-says-israeli-attacks-intensifying?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-16T22:48:26Z"
-  },
-  {
-    "title": "US Homeland Security Department’s funding negotiations stall",
-    "url": "https://www.aljazeera.com/economy/2026/2/16/us-homeland-security-departments-funding-negotiations-stall?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-16T22:22:41Z"
-  },
-  {
-    "title": "Drone attack on busy market in Sudan kills at least 28",
-    "url": "https://www.aljazeera.com/news/2026/2/16/drone-strike-on-busy-market-in-sudan-kills-at-least-28?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-16T21:38:23Z"
-  },
-  {
-    "title": "‘Life requires cash’: Gaza’s jobs crisis leaves people struggling to afford basics",
-    "url": "https://www.theguardian.com/world/2026/feb/16/gaza-jobs-unemployment-crisis-aid-food-basics",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-16T07:00:46Z"
-  },
-  {
-    "title": "The patience and the poker face: Iran’s wily diplomat set to face the US in nuclear talks",
-    "url": "https://www.theguardian.com/world/2026/feb/16/the-patience-and-the-poker-face-irans-wily-diplomat-set-to-face-the-us-in-nuclear-talks",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-16T20:10:48Z"
   }
 ]
