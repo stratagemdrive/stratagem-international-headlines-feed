@@ -1,15 +1,33 @@
 [
   {
-    "title": "UK unemployment rate hits five-year high of 5.2% as wage growth cools",
-    "url": "https://www.theguardian.com/business/2026/feb/17/uk-unemployment-rate-ons-interest-rates",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-17T09:06:46Z"
+    "title": "Iran says progress made in nuclear talks with U.S. after partial closure of Strait of Hormuz",
+    "url": "https://www.cbc.ca/news/world/iran-strait-of-hormuz-nucleur-talks-united-states-9.7093310?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-02-17T13:24:39Z"
+  },
+  {
+    "title": "Russia, Ukraine exchange damaging volleys ahead of trilateral talks with U.S.",
+    "url": "https://www.cbc.ca/news/world/ukraine-russia-attacks-geneva-talks-9.7093295?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-02-17T13:08:09Z"
+  },
+  {
+    "title": "Iran temporarily closing Strait of Hormuz for live fire drills as nuclear talks with U.S. begin",
+    "url": "https://www.pbs.org/newshour/world/iran-temporarily-closing-strait-of-hormuz-for-live-fire-drills-as-nuclear-talks-with-u-s-begin",
+    "source": "PBS",
+    "publishedAt": "2026-02-17T12:19:38Z"
+  },
+  {
+    "title": "Rev. Jesse Jackson has died. And, U.S. and Iran set for high-stakes nuclear talks",
+    "url": "https://www.npr.org/2026/02/17/g-s1-110385/up-first-newsletter-iran-geneva-ice-shooting-texas-trial-jesse-jackson-alex-pretti",
+    "source": "NPR",
+    "publishedAt": "2026-02-17T12:04:37Z"
   },
   {
     "title": "UK shelves £110m frictionless post-Brexit trade border project",
     "url": "https://www.theguardian.com/business/2026/feb/17/uk-frictionless-post-brexit-trade-border-project",
     "source": "The Guardian",
-    "publishedAt": "2026-02-17T08:30:21Z"
+    "publishedAt": "2026-02-17T11:04:05Z"
   },
   {
     "title": "U.S. and Iran to hold a second round of nuclear talks in Geneva",
@@ -24,99 +42,81 @@
     "publishedAt": "2026-02-17T02:28:08Z"
   },
   {
+    "title": "World News in Brief: Madagascar hunger crisis, Colombia aid appeal, Cuba fuel shortages",
+    "url": "https://news.un.org/feed/view/en/story/2026/02/1166974",
+    "source": "UN News",
+    "publishedAt": "2026-02-16T12:00:00Z"
+  },
+  {
+    "title": "France releases suspected Russian shadow fleet tanker after huge fine, as Ukraine peace talks begin – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/feb/17/ukraine-talks-geneva-russia-zelenskyy-putin-orban-rubio-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T14:34:25Z"
+  },
+  {
+    "title": "Nuclear talks between US and Iran end in Geneva",
+    "url": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-17T14:21:23Z"
+  },
+  {
+    "title": "Algorithm-based tool for home support funding is ‘cruel’ and ‘inhumane’, Australian aged care workers warn",
+    "url": "https://www.theguardian.com/australia-news/2026/feb/17/australian-aged-care-algorithm-tool-home-support-funding-packages",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T14:00:12Z"
+  },
+  {
+    "title": "Role of far-right ‘manosphere’ in homophobic attacks on men to be investigated in Victoria",
+    "url": "https://www.theguardian.com/australia-news/2026/feb/18/far-right-influencers-homophobic-attacks-dating-apps-investigation-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T14:00:11Z"
+  },
+  {
     "title": "Rubio bolsters Hungary's far-right leader days after push to mend U.S. ties in Europe",
     "url": "https://www.pbs.org/newshour/show/rubio-bolsters-hungarys-far-right-leader-days-after-push-to-mend-u-s-ties-in-europe",
     "source": "PBS",
     "publishedAt": "2026-02-16T23:55:11Z"
   },
   {
-    "title": "Iran and US open second round of nuclear talks in Switzerland",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/iran-and-us-open-second-round-of-nuclear-talks-in-switzerland?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T10:09:03Z"
+    "title": "Warner Bros gives Paramount seven days to make ‘best and final’ offer",
+    "url": "https://www.theguardian.com/film/2026/feb/17/warner-bros-paramount-final-offer-netflix",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T13:20:26Z"
   },
   {
-    "title": "New nuclear talks between US and Iran begin in Geneva",
-    "url": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-17T09:57:09Z"
+    "title": "Second round of Iran-US nuclear talks in Geneva ends after just four hours",
+    "url": "https://www.theguardian.com/world/2026/feb/17/iran-us-nuclear-talks-open-geneva",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T13:14:28Z"
   },
   {
-    "title": "The U.S. ready to make up, Europe ready to break up in Munich",
-    "url": "https://www.npr.org/2026/02/16/nx-s1-5716050/us-europe-relations-munich",
+    "title": "12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-17T13:00:01Z"
+  },
+  {
+    "title": "Four years of war in Ukraine: Childhood has ‘moved underground’, displacement continues – UN humanitarians",
+    "url": "https://news.un.org/feed/view/en/story/2026/02/1166976",
+    "source": "UN News",
+    "publishedAt": "2026-02-17T12:00:00Z"
+  },
+  {
+    "title": "Former deputy special envoy for Iran discusses US-Iran nuclear talks",
+    "url": "https://www.npr.org/2026/02/17/nx-s1-5716052/former-deputy-special-envoy-for-iran-discusses-us-iran-nuclear-talks",
     "source": "NPR",
-    "publishedAt": "2026-02-16T19:49:04Z"
+    "publishedAt": "2026-02-17T11:48:49Z"
   },
   {
-    "title": "Russia launches 400 drones and 29 missiles at Ukraine hours before peace talks in Geneva – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/feb/17/ukraine-talks-geneva-russia-zelenskyy-putin-orban-rubio-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-17T09:40:12Z"
+    "title": "US and Iran to meet for second round of nuclear talks",
+    "url": "https://www.npr.org/2026/02/17/nx-s1-5716011/us-and-iran-to-meet-for-second-round-of-nuclear-talks",
+    "source": "NPR",
+    "publishedAt": "2026-02-17T11:48:42Z"
   },
   {
-    "title": "Ukraine and Russia to meet for third round of talks as fourth anniversary of war looms",
-    "url": "https://www.theguardian.com/world/2026/feb/16/ukraine-russia-second-round-talks-fourth-anniversary-war",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-17T08:49:20Z"
-  },
-  {
-    "title": "Once a popular wartime leader among Ukrainians, Zelenskyy’s shine fades",
-    "url": "https://www.aljazeera.com/news/2026/2/17/once-a-popular-wartime-leader-among-ukrainians-zelenskyys-shine-fades?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T08:40:15Z"
-  },
-  {
-    "title": "Hamas rejects Netanyahu aide’s 60-day ultimatum for group to disarm",
-    "url": "https://www.aljazeera.com/news/2026/2/17/hamas-rejects-netanyahu-aides-60-day-ultimatum-for-group-to-disarm?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T08:20:30Z"
-  },
-  {
-    "title": "Iran meets UN nuclear watchdog ahead of U.S. talks",
-    "url": "https://www.pbs.org/newshour/world/iran-meets-un-nuclear-watchdog-ahead-of-u-s-talks",
-    "source": "PBS",
-    "publishedAt": "2026-02-16T18:22:40Z"
-  },
-  {
-    "title": "US, Iran hold high-level talks on Tehran's nuclear program",
-    "url": "https://www.dw.com/en/us-iran-hold-high-level-talks-on-tehran-s-nuclear-program/a-75998258?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-02-17T07:40:00Z"
-  },
-  {
-    "title": "France's Macron in India to boost Rafale deal talks, AI ties",
-    "url": "https://www.dw.com/en/france-s-macron-in-india-to-boost-rafale-deal-talks-ai-ties/a-75998082?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-02-17T07:31:00Z"
-  },
-  {
-    "title": "Russia-Ukraine talks live: Sides ramp up attacks before US-led negotiations",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/2/17/russia-ukraine-talks-live-attacks-continue-before-us-led-negotiations?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T07:30:00Z"
-  },
-  {
-    "title": "Trump urges Iran to make nuclear deal saying he’ll be ‘indirectly’ involved",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/trump-urges-iran-to-make-nuclear-deal-saying-hell-be-indirectly-involved?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T07:29:29Z"
-  },
-  {
-    "title": "Philippines rebukes China embassy over ‘coercive’ warning of job losses",
-    "url": "https://www.aljazeera.com/news/2026/2/17/philippines-rebukes-china-embassy-over-coercive-warning-of-job?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T07:23:52Z"
-  },
-  {
-    "title": "More than a dozen killed in bomb blasts, gunfire in Pakistan’s northwest",
-    "url": "https://www.aljazeera.com/news/2026/2/17/motorcycle-bomb-at-pakistan-police-station-kills-two-wounds-several-report?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-17T07:20:49Z"
-  },
-  {
-    "title": "Russia and Ukraine head to latest U.S.-brokered talks with low expectations",
-    "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-head-to-latest-u-s-brokered-talks-with-low-expectations",
-    "source": "PBS",
-    "publishedAt": "2026-02-16T15:43:42Z"
+    "title": "Third round of Russia-Ukraine talks starts in Geneva as strikes continue",
+    "url": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-17T11:48:18Z"
   }
 ]
