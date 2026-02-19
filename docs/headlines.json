@@ -1,17 +1,5 @@
 [
   {
-    "title": "‘Made in Europe’ EU industrial strategy could hit supply chains, UK minister warns",
-    "url": "https://www.theguardian.com/world/2026/feb/19/made-in-europe-eu-industrial-strategy-supply-chains-uk-nick-thomas-symonds",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-19T15:01:34Z"
-  },
-  {
-    "title": "Russia warns U.S. military buildup heightening Iran tensions",
-    "url": "https://www.cbc.ca/news/world/russia-iran-u-s-military-9.7097088?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-19T14:23:13Z"
-  },
-  {
     "title": "UN rights chief: AI must be based on inclusivity, accountability and global standards",
     "url": "https://news.un.org/feed/view/en/story/2026/02/1167000",
     "source": "UN News",
@@ -24,6 +12,66 @@
     "publishedAt": "2026-02-19T08:23:41Z"
   },
   {
+    "title": "Trump warns Iran ‘bad things’ will happen if they fail to make a ‘meaningful’ nuclear deal – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/feb/19/donald-trump-first-board-of-peace-washington-us-politics-live",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-19T20:55:23Z"
+  },
+  {
+    "title": "Iran deal prospects will be clear within 10 days, Trump says as military buildup grows",
+    "url": "https://www.theguardian.com/us-news/2026/feb/19/us-military-buildup-in-middle-east-intensifies-but-to-what-end",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-19T19:37:10Z"
+  },
+  {
+    "title": "Trump says world has 10 days to see if Iran deal reached",
+    "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-19T19:23:55Z"
+  },
+  {
+    "title": "A thousand Kenyans 'recruited' for Russia's war — new report",
+    "url": "https://www.dw.com/en/a-thousand-kenyans-recruited-for-russia-s-war-new-report/a-76050872?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-19T19:20:00Z"
+  },
+  {
+    "title": "Destruction by Sudan's rebels in El Fasher bears 'hallmarks of genocide': UN experts",
+    "url": "https://www.cbc.ca/news/world/sudan-united-nations-darfur-genocide-9.7097767?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-02-19T19:14:33Z"
+  },
+  {
+    "title": "US build-up of warships and fighter jets tracked near Iran",
+    "url": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-19T18:57:06Z"
+  },
+  {
+    "title": "Trump changed mind on Chagos deal ‘after UK blocked use of Diego Garcia for Iran strikes’",
+    "url": "https://www.theguardian.com/world/2026/feb/19/donald-trump-turns-against-uk-chagos-islands-plan-iran",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-19T18:53:13Z"
+  },
+  {
+    "title": "Trump announces billions of dollars in Gaza aid at Board of Peace meeting",
+    "url": "https://www.aljazeera.com/news/2026/2/19/trump-announces-billions-of-dollars-in-gaza-aid-at-board-of-peace-meeting?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-19T18:47:48Z"
+  },
+  {
+    "title": "Faltering fighter jet deal casts doubt on EU defense plans",
+    "url": "https://www.dw.com/en/faltering-fighter-jet-deal-casts-doubt-on-eu-defense-plans/a-76046049?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-19T18:38:00Z"
+  },
+  {
+    "title": "Troops for Gaza and money top agenda as Trump’s Board of Peace meets",
+    "url": "https://www.theguardian.com/us-news/2026/feb/19/troops-for-gaza-and-money-top-agenda-as-trumps-board-of-peace-meets",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-19T18:29:30Z"
+  },
+  {
     "title": "Forget the Board of Peace, Trump may be closer than thought to attacking Iran",
     "url": "https://www.theguardian.com/us-news/2026/feb/19/forget-the-board-of-peace-trump-may-be-closer-than-thought-to-attacking-iran",
     "source": "The Guardian",
@@ -34,12 +82,6 @@
     "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
     "source": "The Guardian",
     "publishedAt": "2026-02-19T17:59:17Z"
-  },
-  {
-    "title": "Trump says world has 10 days to see if Iran deal reached",
-    "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-19T16:40:45Z"
   },
   {
     "title": "Sudan atrocities are 'hallmarks of genocide', UN says",
@@ -76,47 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
     "source": "The Guardian",
     "publishedAt": "2026-02-19T14:39:41Z"
-  },
-  {
-    "title": "UN says Israel is stoking ‘ethnic cleansing’ fears in Gaza, West Bank",
-    "url": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-19T14:00:38Z"
-  },
-  {
-    "title": "Over 1,000 Kenyans enlisted to fight in Russia-Ukraine war, report says",
-    "url": "https://www.bbc.com/news/articles/ce8w266769go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-19T13:55:23Z"
-  },
-  {
-    "title": "Amid tensions, Ukraine’s Chernobyl site remains part of a war zone",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/amid-tensions-ukraines-chernobyl-site-remains-part-of-a-war-zone?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-19T13:45:06Z"
-  },
-  {
-    "title": "Board of Peace live: Trump says war in Gaza ‘over’ despite Israeli attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-19T13:20:43Z"
-  },
-  {
-    "title": "Israeli raids in occupied West Bank at start of Ramadan",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/19/israeli-raids-in-occupied-west-bank-at-start-of-ramadan?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-19T12:16:45Z"
-  },
-  {
-    "title": "Director rejects award over Israel’s genocidal war in Gaza",
-    "url": "https://www.aljazeera.com/news/2026/2/19/director-rejects-award-over-israels-genocidal-war-in-gaza?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-19T12:01:49Z"
-  },
-  {
-    "title": "Security Council LIVE: Sudan in focus amid genocide warnings in Darfur",
-    "url": "https://news.un.org/feed/view/en/story/2026/02/1166999",
-    "source": "UN News",
-    "publishedAt": "2026-02-19T12:00:00Z"
   }
 ]
