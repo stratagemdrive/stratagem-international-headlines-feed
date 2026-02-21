@@ -1,9 +1,9 @@
 [
   {
-    "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
-    "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-21T11:58:18Z"
+    "title": "Iran refusing to export highly enriched uranium but willing to dilute purity",
+    "url": "https://www.theguardian.com/world/2026/feb/21/iran-refusing-to-export-highly-enriched-uranium-but-willing-to-dilute-purity",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-21T16:42:32Z"
   },
   {
     "title": "How will Trump's new 10% global tariffs work and what's next?",
@@ -22,12 +22,6 @@
     "url": "https://www.dw.com/en/trump-ends-some-tariffs-imposes-new-10-global-one/a-76063714?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-02-21T01:04:00Z"
-  },
-  {
-    "title": "The supreme court’s tariffs ruling puts Trump on notice with a bloody nose",
-    "url": "https://www.theguardian.com/us-news/2026/feb/21/trump-tariffs-ruling-supreme-court",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-21T10:00:05Z"
   },
   {
     "title": "World reacts as US top court limits Trump’s tariff powers",
@@ -90,10 +84,28 @@
     "publishedAt": "2026-02-21T02:19:29Z"
   },
   {
+    "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
+    "url": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-21T15:28:18Z"
+  },
+  {
     "title": "5 European allies pledge millions to build cheap drone defenses with Ukrainian know-how",
     "url": "https://www.pbs.org/newshour/world/5-european-allies-pledge-millions-to-build-cheap-drone-defenses-with-ukrainian-know-how",
     "source": "PBS",
     "publishedAt": "2026-02-21T00:46:34Z"
+  },
+  {
+    "title": "Ukraine strikes missile plant deep inside Russia",
+    "url": "https://www.dw.com/en/ukraine-strikes-missile-plant-deep-inside-russia/a-76072701?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-21T14:38:00Z"
+  },
+  {
+    "title": "Russian attack on Kharkiv kills two, Ukraine hits missile plant",
+    "url": "https://www.aljazeera.com/news/2026/2/21/russian-attack-on-kharkiv-kills-two-ukraine-hits-missile-plant?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-21T14:37:22Z"
   },
   {
     "title": "What's next for the U.S. and China in a new era of confrontation",
@@ -106,17 +118,5 @@
     "url": "https://www.cbc.ca/news/world/israeli-airstrikes-lebanon-hezbollah-9.7100817?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-02-21T13:23:10Z"
-  },
-  {
-    "title": "Two soldiers killed during military operation in Pakistan’s northwest: Army",
-    "url": "https://www.aljazeera.com/news/2026/2/21/2-soldiers-dead-5-militants-killed-in-pakistans-bannu?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-21T12:40:52Z"
-  },
-  {
-    "title": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
-    "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-21T11:54:58Z"
   }
 ]
