@@ -1,21 +1,33 @@
 [
   {
-    "title": "Trump to impose 10% global tariff and attacks ‘certain’ supreme court justices after levies ruled illegal – live",
+    "title": "How will Trump's new 10% global tariffs work and what's next?",
+    "url": "https://www.bbc.com/news/articles/c8r1e327z46o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-21T03:25:11Z"
+  },
+  {
+    "title": "Trump announces new 10% global tariffs, lashes out at supreme court justices for ‘ridiculous’ ruling - as it happened",
     "url": "https://www.theguardian.com/us-news/live/2026/feb/20/us-iran-nuclear-deal-trump-agreement-strikes-latest-news-live-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-02-20T20:41:23Z"
+    "publishedAt": "2026-02-21T03:01:49Z"
   },
   {
-    "title": "Trump threatens 10% global tariffs and rails against supreme court justices",
+    "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+    "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-21T01:43:05Z"
+  },
+  {
+    "title": "Trump ends some tariffs, imposes new 10% global one",
+    "url": "https://www.dw.com/en/trump-ends-some-tariffs-imposes-new-10-global-one/a-76063714?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-21T01:04:00Z"
+  },
+  {
+    "title": "Furious Trump signs global 10% duty after supreme court issues tariff blow",
     "url": "https://www.theguardian.com/us-news/2026/feb/20/trump-tariff-scotus-response",
     "source": "The Guardian",
-    "publishedAt": "2026-02-20T19:23:42Z"
-  },
-  {
-    "title": "Trump illegally used executive power to impose global tariffs, supreme court rules",
-    "url": "https://www.theguardian.com/us-news/2026/feb/20/trump-supreme-court-tariffs-ruling",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-20T19:06:17Z"
+    "publishedAt": "2026-02-21T00:04:01Z"
   },
   {
     "title": "Tariffs ruling is major blow to Trump's second-term agenda",
@@ -36,16 +48,52 @@
     "publishedAt": "2026-02-20T16:25:34Z"
   },
   {
-    "title": "In major blow to Trump, US Supreme Court strikes down his global tariffs",
-    "url": "https://www.aljazeera.com/news/2026/2/20/us-supreme-court-strikes-down-trumps-global-tariffs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-20T15:12:33Z"
+    "title": "Trump imposes new 10% global tariff after U.S. Supreme Court loss, though Canada's largely exempt",
+    "url": "https://www.cbc.ca/news/world/livestory/scotus-tariff-ruling-9.7099048?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-02-20T15:03:53Z"
   },
   {
-    "title": "‘Al-Aqsa is a detonator’: six-decade agreement on prayer at Jerusalem holy site collapses",
-    "url": "https://www.theguardian.com/world/2026/feb/20/status-quo-collapsed-prayer-jerusalem-al-aqsa-mosque-ramadan",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-20T09:32:55Z"
+    "title": "Trump, JD Vance vilify ‘lawless’ Supreme Court justices over tariff ruling",
+    "url": "https://www.aljazeera.com/news/2026/2/21/trump-jd-vance-vilify-lawless-supreme-court-justices-over-tariff-ruling?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-21T02:46:25Z"
+  },
+  {
+    "title": "Trump lashes out at Supreme Court justices over tariffs ruling",
+    "url": "https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-21T02:19:29Z"
+  },
+  {
+    "title": "5 European allies pledge millions to build cheap drone defenses with Ukrainian know-how",
+    "url": "https://www.pbs.org/newshour/world/5-european-allies-pledge-millions-to-build-cheap-drone-defenses-with-ukrainian-know-how",
+    "source": "PBS",
+    "publishedAt": "2026-02-21T00:46:34Z"
+  },
+  {
+    "title": "What's next for the U.S. and China in a new era of confrontation",
+    "url": "https://www.pbs.org/newshour/video/compass-points/2026/02/whats-next-for-the-u-s-and-china-in-a-new-era-of-confrontation",
+    "source": "PBS",
+    "publishedAt": "2026-02-21T00:30:51Z"
+  },
+  {
+    "title": "Can Trump still impose tariffs after the Supreme Court ruling?",
+    "url": "https://www.aljazeera.com/economy/2026/2/20/can-trump-still-impose-tariffs-after-the-supreme-court-ruling?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-20T21:32:23Z"
+  },
+  {
+    "title": "What’s next for Gaza after Trump’s Board of Peace meets in Washington?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/2/20/whats-next-for-gaza-after-trumps-board-of-peace-meets-in-washington?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-20T21:14:56Z"
+  },
+  {
+    "title": "Hungary to block 90 billion euro EU loan to Ukraine in Russian oil dispute",
+    "url": "https://www.aljazeera.com/news/2026/2/20/hungary-to-block-90-billion-euro-eu-loan-to-ukraine-in-russian-oil-dispute?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-20T20:44:04Z"
   },
   {
     "title": "Tariff refunds could take years amid US Supreme Court ruling, experts warn",
@@ -70,53 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-suggests-he-wont-refund-tariffs-after-supreme-court-ruling?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-02-20T19:27:25Z"
-  },
-  {
-    "title": "Trump: Supreme Court’s rejection of tariffs ‘deeply disappointing’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/20/trump-supreme-courts-rejection-of-tariffs-deeply?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-20T19:10:20Z"
-  },
-  {
-    "title": "UK ‘working with US’ to analyse impact of supreme court’s ruling against tariffs",
-    "url": "https://www.theguardian.com/politics/2026/feb/20/uk-eu-reaction-us-supreme-court-ruling-trump-tariffs",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-20T18:34:47Z"
-  },
-  {
-    "title": "Woman charged over abandoning dog at Las Vegas airport",
-    "url": "https://www.bbc.com/news/articles/c9dnqqdp75go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-20T15:57:00Z"
-  },
-  {
-    "title": "Trump tariffs live: US president slams Supreme Court, vows more tariffs",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/2/20/trump-tariffs-live-us-supreme-court-rules-against-sweeping-global-tariffs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-20T15:49:16Z"
-  },
-  {
-    "title": "US Supreme Court strikes down Trump's sweeping tariffs",
-    "url": "https://www.dw.com/en/us-supreme-court-strikes-down-trump-s-sweeping-tariffs/a-76063714?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-02-20T15:10:00Z"
-  },
-  {
-    "title": "Trump responds to Supreme Court loss with new 10% tariff, leaving Canada to wait for fine print",
-    "url": "https://www.cbc.ca/news/world/livestory/scotus-tariff-ruling-9.7099048?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-20T15:03:53Z"
-  },
-  {
-    "title": "A timeline of British royal sagas and scandals down the decades",
-    "url": "https://www.aljazeera.com/news/2026/2/20/a-timeline-of-british-royal-sagas-and-scandals-in-recent-decades?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-20T12:54:54Z"
-  },
-  {
-    "title": "Second U.S. carrier nears Middle East, as Trump pressures Iran to make a deal",
-    "url": "https://www.npr.org/2026/02/20/nx-s1-5719356/second-u-s-carrier-nears-middle-east-as-trump-pressures-iran-to-make-a-deal",
-    "source": "NPR",
-    "publishedAt": "2026-02-20T12:21:56Z"
   }
 ]
