@@ -1,9 +1,33 @@
 [
   {
+    "title": "China restricts exports to 40 Japanese entities with ties to military",
+    "url": "https://www.npr.org/2026/02/25/g-s1-111441/china-restricts-exports-to-40-japanese-entities-with-ties-to-military",
+    "source": "NPR",
+    "publishedAt": "2026-02-25T06:53:58Z"
+  },
+  {
     "title": "Tokyo protests as China blocks ‘dual-use’ exports to 20 Japanese companies",
     "url": "https://www.aljazeera.com/news/2026/2/25/tokyo-protests-as-china-blocks-dual-use-exports-to-20-japanese-companies?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-02-25T04:24:52Z"
+  },
+  {
+    "title": "Hungary, Slovakia clash with Ukraine over oil pipeline",
+    "url": "https://www.dw.com/en/hungary-slovakia-clash-with-ukraine-over-oil-pipeline/a-76105360?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-24T15:19:00Z"
+  },
+  {
+    "title": "Germany’s Merz arrives in China for two-day visit with focus on trade",
+    "url": "https://www.aljazeera.com/news/2026/2/25/germany-merz-arrives-in-china-for-two-day-visit-with-focus-on-trade?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-25T08:11:23Z"
+  },
+  {
+    "title": "Wednesday briefing: Is the tide turning against Trump on tariffs?",
+    "url": "https://www.theguardian.com/world/2026/feb/25/wednesday-briefing-is-the-tide-turning-against-trump-on-tariffs",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-25T06:37:03Z"
   },
   {
     "title": "A timeline of tensions over Iran's nuclear program as talks with U.S. approach",
@@ -36,10 +60,16 @@
     "publishedAt": "2026-02-24T21:09:04Z"
   },
   {
-    "title": "New Afghan, Pakistani border clashes follow deadly strikes",
-    "url": "https://www.aljazeera.com/news/2026/2/24/fresh-afghan-pakistani-border-clashes-follow-deadly-strikes?traffic_source=rss",
+    "title": "Ukraine-US talks in Geneva on Thursday ‘preparation for trilateral meeting with Russia’, Zelenskyy says – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/feb/25/ukraine-russia-zelenskyy-putin-orban-eu-hungary-sanctions-germany-china-merz-jinping-continues-europe-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-25T10:17:34Z"
+  },
+  {
+    "title": "Israeli army, settlers attack Palestinians in Hebron area of West Bank",
+    "url": "https://www.aljazeera.com/news/2026/2/25/israeli-army-settlers-attack-palestinians-in-hebron-area-of-west-bank?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-02-24T20:43:40Z"
+    "publishedAt": "2026-02-25T09:56:43Z"
   },
   {
     "title": "Philippines: Rodrigo Duterte faces ICC over deadly drug war",
@@ -48,75 +78,45 @@
     "publishedAt": "2026-02-24T19:40:00Z"
   },
   {
+    "title": "Syria faces twin battles as Assad loyalists and ISIL attack in west, east",
+    "url": "https://www.aljazeera.com/news/2026/2/25/syria-faces-twin-battles-as-assad-loyalists-and-isil-attack-in-west-east?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-25T09:04:34Z"
+  },
+  {
+    "title": "Evelyn Araluen wins $125,000 for ‘politically uncompromising’ poetry at Victorian premier’s literary awards",
+    "url": "https://www.theguardian.com/books/2026/feb/25/evelyn-araluen-wins-victorian-premiers-literary-awards-2026",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-25T09:00:06Z"
+  },
+  {
+    "title": "South Africa secures return of 11 men ‘lured’ into Russia-Ukraine war",
+    "url": "https://www.aljazeera.com/news/2026/2/25/south-africa-secures-return-of-11-men-lured-into-russia-ukraine-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-25T08:24:20Z"
+  },
+  {
+    "title": "Chinese dance group's tour triggers bomb threat against Australian PM",
+    "url": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-02-25T08:13:42Z"
+  },
+  {
+    "title": "FIFA and UEFA accused of aiding war crimes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/fifa-and-uefa-accused-of-aiding-war-crimes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-25T08:09:12Z"
+  },
+  {
+    "title": "UNSC condemns RSF attacks in Sudan’s Kordofan, calls for an end to the war",
+    "url": "https://www.aljazeera.com/news/2026/2/25/unsc-condemns-rsf-attacks-in-sudans-kordofan-calls-for-an-end-to-the-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-25T08:08:01Z"
+  },
+  {
     "title": "IN PHOTOS | Vigils held globally to mark the 4-year anniversary of Russia's invasion of Ukraine",
     "url": "https://www.cbc.ca/news/world/in-photos-vigils-held-globally-to-mark-the-4-year-anniversary-of-russia-s-invasion-of-ukraine-9.7103786?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-02-24T17:43:26Z"
-  },
-  {
-    "title": "Canada approves latest Gulfstream business jets after Trump tariff threat",
-    "url": "https://www.cbc.ca/news/politics/canada-gulfstream-approved-trump-9.7103954?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-24T16:23:35Z"
-  },
-  {
-    "title": "U.S. military boards third sanctioned oil tanker in the Indian Ocean after tracking it from the Caribbean",
-    "url": "https://www.pbs.org/newshour/world/u-s-military-boards-third-sanctioned-oil-tanker-in-the-indian-ocean-after-tracking-it-from-the-caribbean",
-    "source": "PBS",
-    "publishedAt": "2026-02-24T15:54:36Z"
-  },
-  {
-    "title": "Trump contradicts Witkoff over Iran nuclear bomb claims",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/trump-contradicts-witkoff-over-iran-nuclear-bomb-claims?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-25T04:50:50Z"
-  },
-  {
-    "title": "Iran’s FM says deal with US ‘within reach’ if diplomacy ‘given priority’",
-    "url": "https://www.aljazeera.com/news/2026/2/25/irans-fm-says-deal-with-us-within-reach-if-diplomacy-given-priority?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-25T03:39:03Z"
-  },
-  {
-    "title": "Japan to deploy missiles on island near Taiwan by 2031",
-    "url": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-02-25T03:30:48Z"
-  },
-  {
-    "title": "Bomb threat at the Lodge that forced Albanese’s evacuation linked to opposition to Chinese dance group",
-    "url": "https://www.theguardian.com/australia-news/2026/feb/24/anthony-albanese-evacuated-from-official-canberra-residence-due-to-security-threat-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-25T03:15:03Z"
-  },
-  {
-    "title": "EU pauses U.S. trade deal as it seeks clarity over Trump's new 15% global tariffs",
-    "url": "https://www.pbs.org/newshour/world/eu-pauses-u-s-trade-deal-as-it-seeks-clarity-over-trumps-new-15-global-tariffs",
-    "source": "PBS",
-    "publishedAt": "2026-02-23T22:38:53Z"
-  },
-  {
-    "title": "Aid groups petition Israeli Supreme Court as Gaza, West Bank work ban nears",
-    "url": "https://www.aljazeera.com/news/2026/2/25/aid-groups-petition-israeli-supreme-court-as-gaza-west-bank-work-ban-nears?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-25T02:15:14Z"
-  },
-  {
-    "title": "Russia-Ukraine war: List of key events, day 1,462",
-    "url": "https://www.aljazeera.com/news/2026/2/25/russia-ukraine-war-list-of-key-events-day-1462?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-25T00:54:48Z"
-  },
-  {
-    "title": "4 years into Russia's invasion, Ukrainians struggle with war's terrible toll",
-    "url": "https://www.pbs.org/newshour/show/4-years-into-russias-invasion-ukrainians-struggle-with-wars-terrible-toll",
-    "source": "PBS",
-    "publishedAt": "2026-02-24T23:40:56Z"
-  },
-  {
-    "title": "Paramount ups its offer to acquire Warner Bros. in fight with Netflix for the Hollywood giant",
-    "url": "https://www.cbc.ca/news/entertainment/paramount-netflix-warner-bros-bid-9.7104582?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-24T23:16:07Z"
   }
 ]
