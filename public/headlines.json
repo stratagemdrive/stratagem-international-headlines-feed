@@ -1,5 +1,23 @@
 [
   {
+    "title": "Netflix stock surges as it walks away from Warner Bros deal",
+    "url": "https://www.aljazeera.com/economy/2026/2/27/netflix-stock-surges-as-it-walks-away-from-warner-bros-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-27T18:35:53Z"
+  },
+  {
+    "title": "Has Trump’s trade strategy lost leverage?",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/2/27/has-trumps-trade-strategy-lost-leverage?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-27T18:00:00Z"
+  },
+  {
+    "title": "Canada’s PM Carney in India to reset ties and bolster trade",
+    "url": "https://www.aljazeera.com/news/2026/2/27/canadas-pm-carney-in-india-to-bolster-trade-and-mend-ties?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-27T17:41:39Z"
+  },
+  {
     "title": "Rubio plans to visit Israel next week as U.S.-Iran tensions remain high after latest talks",
     "url": "https://www.pbs.org/newshour/world/rubio-plans-to-visit-israel-next-week-as-u-s-iran-tensions-remain-high-after-latest-talks",
     "source": "PBS",
@@ -18,34 +36,10 @@
     "publishedAt": "2026-02-27T13:53:27Z"
   },
   {
-    "title": "U.S. says embassy staff in Israel who want to leave should do so immediately",
-    "url": "https://www.cbc.ca/news/world/united-states-israel-embassy-staff-9.7107986?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-27T13:10:45Z"
-  },
-  {
     "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
     "url": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-02-27T13:08:03Z"
-  },
-  {
-    "title": "Air attacks on Kabul push Pakistan-Taliban crisis into uncharted territory",
-    "url": "https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-27T12:52:24Z"
-  },
-  {
-    "title": "Deadly journeys: Refugees, migrants risk everything to reach Europe",
-    "url": "https://www.aljazeera.com/news/2026/2/27/deadly-journeys-refugees-migrants-risk-everything-to-reach-europe?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-27T12:24:50Z"
-  },
-  {
-    "title": "US citizens’ support for Israel at historic low over Gaza genocide: Poll",
-    "url": "https://www.aljazeera.com/news/2026/2/27/us-citizens-support-for-israel-at-historic-low-over-gaza-genocide-poll?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-27T12:09:11Z"
   },
   {
     "title": "As U.S. and Iran wrap latest round of nuclear talks, Trump weighs his options",
@@ -54,69 +48,75 @@
     "publishedAt": "2026-02-27T11:39:31Z"
   },
   {
-    "title": "Pakistan now in 'open war' with Afghanistan, defence minister says, after countries trade attacks",
-    "url": "https://www.cbc.ca/news/world/pakistan-afghanistan-open-war-9.7107910?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-02-27T09:53:01Z"
-  },
-  {
-    "title": "UN nuclear watchdog says it's unable to verify whether Iran has suspended all uranium enrichment",
-    "url": "https://www.pbs.org/newshour/world/un-nuclear-watchdog-says-its-unable-to-verify-whether-iran-has-suspended-all-uranium-enrichment",
-    "source": "PBS",
-    "publishedAt": "2026-02-27T17:42:55Z"
-  },
-  {
-    "title": "US urges its citizens to leave Israel immediately amid strike threat to Iran",
-    "url": "https://www.theguardian.com/world/2026/feb/27/us-urges-citizens-leave-israel-threat-strike-iran",
+    "title": "Trump advisers scramble to justify US military intervention in Iran",
+    "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-iran-war-evidence",
     "source": "The Guardian",
-    "publishedAt": "2026-02-27T17:12:05Z"
+    "publishedAt": "2026-02-27T20:24:10Z"
   },
   {
-    "title": "Von der Leyen pushes through Mercosur deal, splitting European leaders – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/feb/27/russia-europe-nuclear-plant-iaea-southern-ukraine-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-02-27T16:34:12Z"
-  },
-  {
-    "title": "Pakistan defense minister says country is in 'open war' with Afghanistan after latest strikes",
-    "url": "https://www.pbs.org/newshour/world/pakistan-defense-minister-says-country-is-in-open-war-with-afghanistan-after-latest-strikes",
-    "source": "PBS",
-    "publishedAt": "2026-02-27T16:34:02Z"
-  },
-  {
-    "title": "Iran says US must drop ‘excessive demands’ in nuclear negotiations",
-    "url": "https://www.aljazeera.com/news/2026/2/27/iran-says-us-must-drop-excessive-demands-in-nuclear-negotiations?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-27T16:31:16Z"
-  },
-  {
-    "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
-    "url": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+    "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
+    "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-02-27T16:13:13Z"
+    "publishedAt": "2026-02-27T20:05:04Z"
   },
   {
-    "title": "Is the US negotiating with Iran or preparing to strike?",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/2/27/aje-onl-irn_genevatalks2026_av_v2-260226?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-02-27T15:48:00Z"
-  },
-  {
-    "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+    "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
     "url": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-02-27T15:29:37Z"
+    "publishedAt": "2026-02-27T19:58:25Z"
   },
   {
-    "title": "Israeli settlers violently attack foreign ‘solidarity activists’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/israeli-settlers-violently-attack-foreign-solidarity?traffic_source=rss",
+    "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
+    "url": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-02-27T14:26:10Z"
+    "publishedAt": "2026-02-27T19:30:38Z"
   },
   {
-    "title": "No deal reached as U.S.-Iran talks conclude, but mediator says progress made",
-    "url": "https://www.pbs.org/newshour/show/no-deal-reached-as-u-s-iran-talks-conclude-but-mediator-says-progress-made",
+    "title": "Departing CBS News producer claims political bias as Paramount poised to buy Warner Bros",
+    "url": "https://www.theguardian.com/media/2026/feb/27/cbs-news-political-bias-paramount-warner-bros",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-27T19:28:59Z"
+  },
+  {
+    "title": "Pakistan, Afghanistan release conflicting death tolls amid ‘open war’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/pakistan-afghanistan-release-conflicting-death-tolls-amid-open?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-27T19:20:43Z"
+  },
+  {
+    "title": "Trump says he's 'not happy' with Iran talks but will wait to see what happens in further rounds",
+    "url": "https://www.pbs.org/newshour/world/trump-says-hes-not-happy-with-iran-talks-but-will-wait-to-see-what-happens-in-further-rounds",
     "source": "PBS",
-    "publishedAt": "2026-02-26T23:40:32Z"
+    "publishedAt": "2026-02-27T19:06:13Z"
+  },
+  {
+    "title": "Marco Rubio orders US officials to stop commentary that could strain Iran talks",
+    "url": "https://www.theguardian.com/us-news/2026/feb/27/marco-rubio-iran-talks-mike-huckabee",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-27T18:59:00Z"
+  },
+  {
+    "title": "Trump ‘not happy’ with Iran situation and says military force is still an option",
+    "url": "https://www.theguardian.com/world/2026/feb/27/us-urges-citizens-leave-israel-threat-strike-iran",
+    "source": "The Guardian",
+    "publishedAt": "2026-02-27T18:55:21Z"
+  },
+  {
+    "title": "Israel’s top court allows aid groups facing Gaza ban to continue working",
+    "url": "https://www.aljazeera.com/news/2026/2/27/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-27T18:49:49Z"
+  },
+  {
+    "title": "US allows staff to leave Israel as Trump attack on Iran looms",
+    "url": "https://www.dw.com/en/us-allows-staff-to-leave-israel-as-trump-attack-on-iran-looms/a-76157922?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-02-27T18:17:00Z"
+  },
+  {
+    "title": "Residents describe panic as Pakistan attacks Afghanistan in ‘open war’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/residents-describe-panic-as-pakistan-attacks-afghanistan-in-open?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-02-27T18:00:05Z"
   }
 ]
