@@ -1,15 +1,21 @@
 [
   {
-    "title": "Oil prices surge and stocks fall amid fears over Iran war",
+    "title": "Why QatarEnergy’s LNG production halt could shake up global gas markets",
+    "url": "https://www.aljazeera.com/economy/2026/3/2/why-qatarenergys-lng-production-halt-could-shake-up-global-gas-markets?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-02T18:39:11Z"
+  },
+  {
+    "title": "Maritime insurers cancel war risk cover in Gulf as Iran conflict disrupts shipping",
+    "url": "https://www.theguardian.com/business/2026/mar/02/maritime-insurers-war-risk-cover-gulf-iran-shipping-strait-of-hormuz",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-02T18:31:51Z"
+  },
+  {
+    "title": "Oil prices surge amid fears over Iran war",
     "url": "https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices",
     "source": "NPR",
     "publishedAt": "2026-03-02T14:42:13Z"
-  },
-  {
-    "title": "Gas prices soar as QatarEnergy halts LNG production after Iran attacks",
-    "url": "https://www.aljazeera.com/news/2026/3/2/qatarenergy-worlds-largest-lng-firm-halts-production-after-iran-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-02T13:19:17Z"
   },
   {
     "title": "Will Iran war send oil prices above $100 a barrel?",
@@ -27,7 +33,19 @@
     "title": "Oil and gas prices jump as conflict escalates",
     "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-03-02T14:47:46Z"
+    "publishedAt": "2026-03-02T17:35:11Z"
+  },
+  {
+    "title": "World reacts as U.S.-Israeli attacks on Iran sprawl into regional war",
+    "url": "https://www.pbs.org/newshour/world/world-reacts-as-u-s-israeli-attacks-on-iran-sprawl-into-regional-war",
+    "source": "PBS",
+    "publishedAt": "2026-03-02T16:42:56Z"
+  },
+  {
+    "title": "Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz",
+    "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-02T20:16:37Z"
   },
   {
     "title": "Oil jumps 10% on Iran conflict and could spike to $100 US a barrel, analysts say",
@@ -36,87 +54,69 @@
     "publishedAt": "2026-03-01T21:31:13Z"
   },
   {
-    "title": "Middle East crisis live: Israel launches new attacks on ‘heart of Tehran’; US fighter planes mistakenly shot down in Kuwait",
-    "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
+    "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+    "url": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-02T18:16:14Z"
+  },
+  {
+    "title": "Macron says France will increase its nuclear arsenal, allow temporary deployment of nuclear-armed jets to European allies",
+    "url": "https://www.pbs.org/newshour/world/macron-says-france-will-increase-its-nuclear-arsenal-allow-temporary-deployment-of-nuclear-armed-jets-to-european-allies",
+    "source": "PBS",
+    "publishedAt": "2026-03-02T17:59:08Z"
+  },
+  {
+    "title": "France to increase nuclear warheads, lend nuclear aircraft to Europe allies",
+    "url": "https://www.aljazeera.com/news/2026/3/2/france-to-increase-nuclear-warheads-lend-nuclear-aircraft-to-europe-allies?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-02T17:59:01Z"
+  },
+  {
+    "title": "Where things stand as U.S.-Israeli attacks on Iran widen",
+    "url": "https://www.pbs.org/newshour/world/where-things-stand-as-u-s-israeli-attacks-on-iran-widen",
+    "source": "PBS",
+    "publishedAt": "2026-03-02T17:49:31Z"
+  },
+  {
+    "title": "169 people killed, including women and children, after insurgents raid a village in a remote area of South Sudan",
+    "url": "https://www.pbs.org/newshour/world/169-people-killed-including-women-and-children-after-insurgents-raid-a-village-in-a-remote-area-of-south-sudan",
+    "source": "PBS",
+    "publishedAt": "2026-03-02T17:48:57Z"
+  },
+  {
+    "title": "What's happening around the Strait of Hormuz as conflict escalates?",
+    "url": "https://www.cbc.ca/player/play/9.7111341?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-02T17:02:35Z"
+  },
+  {
+    "title": "Africa urges restraint as US-Israel strikes escalate tensions in Iran",
+    "url": "https://www.dw.com/en/africa-urges-restraint-as-us-israel-strikes-escalate-tensions-in-iran/a-76185930?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-02T17:00:00Z"
+  },
+  {
+    "title": "Fourth American service member killed in Iran operation",
+    "url": "https://www.theguardian.com/world/2026/mar/02/iran-attack-fourth-us-service-member-killed",
     "source": "The Guardian",
-    "publishedAt": "2026-03-02T16:31:22Z"
+    "publishedAt": "2026-03-02T16:56:43Z"
+  },
+  {
+    "title": "Lebanese civilians flee amid deadly Israeli strikes on Beirut suburbs",
+    "url": "https://www.aljazeera.com/gallery/2026/3/2/lebanese-civilians-flee-amid-deadly-israeli-strikes-on-beirut-suburbs?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-02T16:47:10Z"
+  },
+  {
+    "title": "U.S. military leaders lay out timeline of attacks that killed Khamenei, Iranian officials",
+    "url": "https://www.cbc.ca/news/world/us-pentagon-iran-operation-details-9.7110861?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-02T16:46:23Z"
   },
   {
     "title": "Iran demands international action after attacks impact hospitals, schools",
     "url": "https://www.aljazeera.com/news/2026/3/2/iran-demands-international-action-after-attacks-impact-hospitals-schools?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-02T16:18:59Z"
-  },
-  {
-    "title": "Trump has spent years deriding foreign entanglements. Now, he's taken the U.S. to war with Iran",
-    "url": "https://www.pbs.org/newshour/politics/trump-has-spent-years-deriding-foreign-entanglements-now-hes-taken-the-u-s-to-war-with-iran",
-    "source": "PBS",
-    "publishedAt": "2026-03-02T16:01:19Z"
-  },
-  {
-    "title": "What to know about the joint U.S.-Israeli attacks on Iran",
-    "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-joint-u-s-israeli-attacks-on-iran",
-    "source": "PBS",
-    "publishedAt": "2026-03-02T15:52:52Z"
-  },
-  {
-    "title": "War in Middle East widens as Israeli and U.S. planes pound Iran and Tehran and its proxies hit back",
-    "url": "https://www.pbs.org/newshour/world/war-in-middle-east-widens-as-israeli-and-u-s-planes-pound-iran-and-tehran-and-its-proxies-hit-back",
-    "source": "PBS",
-    "publishedAt": "2026-03-02T14:57:39Z"
-  },
-  {
-    "title": "Lebanon: Israel trades fire with Hezbollah in south and east",
-    "url": "https://www.dw.com/en/lebanon-israel-trades-fire-with-hezbollah-in-south-and-east/a-76183883?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-02T14:46:00Z"
-  },
-  {
-    "title": "What disrupting the strait of Hormuz could mean for global cost-of-living pressures",
-    "url": "https://www.theguardian.com/world/2026/mar/02/iran-strait-hormuz-oil-global-prices-cost-of-living",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-02T14:00:13Z"
-  },
-  {
-    "title": "U.S. says Kuwait mistakenly downed 3 American jets during Iranian attacks; all crew safely ejected",
-    "url": "https://www.pbs.org/newshour/world/u-s-says-kuwait-mistakenly-downed-3-american-jets-during-iranian-attacks-all-crew-safely-ejected",
-    "source": "PBS",
-    "publishedAt": "2026-03-02T13:55:39Z"
-  },
-  {
-    "title": "Pakistan calls troops, orders 3-day curfew as 24 killed in pro-Iran rallies",
-    "url": "https://www.aljazeera.com/news/2026/3/2/pakistan-calls-troops-orders-3-day-curfew-as-24-killed-in-pro-iran-rallies?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-02T13:50:03Z"
-  },
-  {
-    "title": "UK surgeon cleared of antisemitism criticises GMC’s plan to challenge ruling",
-    "url": "https://www.theguardian.com/society/2026/mar/02/uk-surgeon-cleared-antisemitism-criticises-gmc-challenge-ruling",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-02T13:25:36Z"
-  },
-  {
-    "title": "U.S., Israel's war with Iran widens. And, Texas primaries test Latino support for GOP",
-    "url": "https://www.npr.org/2026/03/02/g-s1-112159/up-first-newsletter-iran-israel-us-trump-texas-latinos-gun-law-marijuana",
-    "source": "NPR",
-    "publishedAt": "2026-03-02T12:34:31Z"
-  },
-  {
-    "title": "MIDDLE EAST LIVE: Iran retaliation escalates as US and Israeli strikes continue",
-    "url": "https://news.un.org/feed/view/en/story/2026/03/1167065",
-    "source": "UN News",
-    "publishedAt": "2026-03-02T12:00:00Z"
-  },
-  {
-    "title": "Iran crisis: Nuclear watchdog urges restraint amid ongoing strikes",
-    "url": "https://news.un.org/feed/view/en/story/2026/03/1167064",
-    "source": "UN News",
-    "publishedAt": "2026-03-02T12:00:00Z"
-  },
-  {
-    "title": "A 4th U.S. soldier has died as the war with Iran further engulfs the region",
-    "url": "https://www.npr.org/2026/03/02/g-s1-112151/iran-war-widens-threatens-to-engulf-lebanon",
-    "source": "NPR",
-    "publishedAt": "2026-03-02T11:43:00Z"
   }
 ]
