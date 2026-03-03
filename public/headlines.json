@@ -6,12 +6,6 @@
     "publishedAt": "2026-03-02T21:37:55Z"
   },
   {
-    "title": "Why QatarEnergy’s LNG production halt could shake up global gas markets",
-    "url": "https://www.aljazeera.com/economy/2026/3/2/why-qatarenergys-lng-production-halt-could-shake-up-global-gas-markets?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-02T18:39:11Z"
-  },
-  {
     "title": "Maritime insurers cancel war risk cover in Gulf as Iran conflict disrupts shipping",
     "url": "https://www.theguardian.com/business/2026/mar/02/maritime-insurers-war-risk-cover-gulf-iran-shipping-strait-of-hormuz",
     "source": "The Guardian",
@@ -34,6 +28,12 @@
     "url": "https://www.dw.com/en/will-iran-war-send-oil-prices-above-100-a-barrel/a-76176495?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-03-02T07:19:00Z"
+  },
+  {
+    "title": "Shutdown of Hormuz Strait raises fears of soaring oil prices",
+    "url": "https://www.aljazeera.com/economy/2026/3/3/shutdown-of-hormuz-strait-raises-fears-of-soaring-oil-prices?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-03T03:18:08Z"
   },
   {
     "title": "All about the Strait of Hormuz and what's at stake if the key global oil supply route is disrupted by war",
@@ -60,12 +60,6 @@
     "publishedAt": "2026-03-02T16:42:56Z"
   },
   {
-    "title": "Israel-US war on Iran live: fire at US embassy in Riyadh after drone strike; state department urges all Americans to leave Middle East",
-    "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-03T01:42:19Z"
-  },
-  {
     "title": "Golestan Palace majorly damaged in US-Israeli strikes on Tehran",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/golestan-palace-majorly-damaged-in-us-israeli-strikes-on-tehran?traffic_source=rss",
     "source": "Al Jazeera",
@@ -82,12 +76,6 @@
     "url": "https://www.pbs.org/newshour/show/expert-panel-breaks-down-u-s-objectives-in-iran-war",
     "source": "PBS",
     "publishedAt": "2026-03-02T23:30:28Z"
-  },
-  {
-    "title": "Sixth American service member killed in Iran operation",
-    "url": "https://www.theguardian.com/world/2026/mar/02/iran-attack-fourth-us-service-member-killed",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-02T22:27:31Z"
   },
   {
     "title": "Pakistan imposes curfew after deadly Iran protests",
@@ -118,5 +106,17 @@
     "url": "https://www.cbc.ca/news/canada/calgary/oil-jumps-10-on-iran-conflict-and-could-spike-to-100-us-a-barrel-analysts-say-9.7110557?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-03-01T21:31:13Z"
+  },
+  {
+    "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+    "url": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-02T18:16:14Z"
+  },
+  {
+    "title": "Macron says France will increase its nuclear arsenal, allow temporary deployment of nuclear-armed jets to European allies",
+    "url": "https://www.pbs.org/newshour/world/macron-says-france-will-increase-its-nuclear-arsenal-allow-temporary-deployment-of-nuclear-armed-jets-to-european-allies",
+    "source": "PBS",
+    "publishedAt": "2026-03-02T17:59:08Z"
   }
 ]
