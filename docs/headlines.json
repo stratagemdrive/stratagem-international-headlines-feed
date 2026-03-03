@@ -1,15 +1,27 @@
 [
   {
+    "title": "Australian energy bills could surge as Iran conflict drives up global gas prices",
+    "url": "https://www.theguardian.com/australia-news/2026/mar/03/oil-gas-lng-prices-iran-war-middle-east-conflict-bills-australia-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-03T14:00:05Z"
+  },
+  {
     "title": "U.S. stocks rebound from sharp losses, while oil prices leap on worries about Iran war",
     "url": "https://www.pbs.org/newshour/economy/u-s-stocks-rebound-from-sharp-losses-while-oil-prices-leap-on-worries-about-iran-war",
     "source": "PBS",
     "publishedAt": "2026-03-02T21:37:55Z"
   },
   {
-    "title": "Gas and oil prices soar and shares tumble as crucial shipping lane threatened",
+    "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
     "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-03-03T11:52:54Z"
+    "publishedAt": "2026-03-03T16:41:06Z"
+  },
+  {
+    "title": "China calls for vessels in strait of Hormuz to be protected amid soaring shipping costs",
+    "url": "https://www.theguardian.com/business/2026/mar/03/china-calls-protection-vessels-strait-hormuz-amid-soaring-shipping-costs",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-03T16:13:44Z"
   },
   {
     "title": "Here are the most important developments in Iran in the past 24 hours",
@@ -24,16 +36,64 @@
     "publishedAt": "2026-03-02T07:19:00Z"
   },
   {
+    "title": "Middle East crisis live: Israel launches fresh attacks on Tehran and Beirut",
+    "url": "https://www.theguardian.com/world/live/2026/mar/03/us-israel-war-iran-live-updates-attacks-strikes-trump-netanyahu-lebanon-middle-east-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-03T16:24:53Z"
+  },
+  {
+    "title": "Reeves’s talk of stability may be misplaced amid Iran war turmoil",
+    "url": "https://www.theguardian.com/uk-news/2026/mar/03/rachel-reeves-iran-war-spring-forecast-unemployment",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-03T15:55:03Z"
+  },
+  {
+    "title": "South Sudan risks return to full-blown civil war as violence escalates",
+    "url": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-03T15:49:36Z"
+  },
+  {
+    "title": "Iran attacks on Gulf oil and gas sites trigger energy fears",
+    "url": "https://www.dw.com/en/iran-attacks-on-gulf-oil-and-gas-sites-trigger-energy-fears/a-76199281?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-03T15:08:00Z"
+  },
+  {
+    "title": "Iranian drones strike U.S. Embassy in Saudi Arabia as war widens",
+    "url": "https://www.pbs.org/newshour/world/iranian-drones-strike-u-s-embassy-in-saudi-arabia-as-war-widens",
+    "source": "PBS",
+    "publishedAt": "2026-03-03T14:18:57Z"
+  },
+  {
+    "title": "Ralph Babet refuses to accept sanction over ‘offensive’ and ‘disrespectful’ comments on social media",
+    "url": "https://www.theguardian.com/australia-news/2026/mar/03/ralph-babet-refuses-to-accept-sanction-over-offensive-and-disrespectful-comments-on-social-media-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-03T14:00:01Z"
+  },
+  {
+    "title": "‘Russian oil will be sought’: What are Moscow’s gains from the war in Iran?",
+    "url": "https://www.aljazeera.com/news/2026/3/3/russian-oil-will-be-sought-what-are-moscows-gains-from-the-war-in-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-03T13:44:49Z"
+  },
+  {
+    "title": "‘Imperialist undertones’: global south condemns US-Israeli war with Iran",
+    "url": "https://www.theguardian.com/world/2026/mar/03/global-south-condemns-us-israeli-war-with-iran",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-03T13:11:17Z"
+  },
+  {
     "title": "U.S. evacuates diplomats from Middle East. And, what to expect from N.C., Texas primaries",
     "url": "https://www.npr.org/2026/03/03/g-s1-112278/up-first-newsletter-iran-us-israel-middle-east-nc-texas-primaries-kristi-noem-bill-clinton",
     "source": "NPR",
     "publishedAt": "2026-03-03T12:36:29Z"
   },
   {
-    "title": "Middle East crisis live: Israel launches fresh attacks on Tehran and Beirut",
-    "url": "https://www.theguardian.com/world/live/2026/mar/03/us-israel-war-iran-live-updates-attacks-strikes-trump-netanyahu-lebanon-middle-east-latest-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-03T12:30:11Z"
+    "title": "US and Israeli attacks on Iran prompt worldwide protests",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-and-israeli-attacks-on-iran-prompt-worldwide-protests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-03T12:29:01Z"
   },
   {
     "title": "All about the Strait of Hormuz and what's at stake if the key global oil supply route is disrupted by war",
@@ -42,81 +102,21 @@
     "publishedAt": "2026-03-02T22:16:16Z"
   },
   {
+    "title": "Iran crisis: Schoolgirls killed, thousands displaced and aid compromised",
+    "url": "https://news.un.org/feed/view/en/story/2026/03/1167071",
+    "source": "UN News",
+    "publishedAt": "2026-03-03T12:00:00Z"
+  },
+  {
     "title": "UN chief warns of Israeli-made humanitarian crisis in Gaza amid war on Iran",
     "url": "https://www.aljazeera.com/news/2026/3/3/un-chief-warns-of-israeli-made-humanitarian-crisis-in-gaza-amid-war-on-iran?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-03T11:56:00Z"
   },
   {
-    "title": "OpenAI amends Pentagon deal as Sam Altman admits it looks ‘sloppy’",
-    "url": "https://www.theguardian.com/technology/2026/mar/03/openai-pentagon-ceo-sam-altman-chatgpt",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-03T11:35:34Z"
-  },
-  {
     "title": "How the US-Israel war with Iran is jeopardising shipping",
     "url": "https://www.bbc.com/news/videos/cvgjnv2y90wo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-02T21:21:05Z"
-  },
-  {
-    "title": "UK grocery inflation in surprise rise as experts warn of worse to come",
-    "url": "https://www.theguardian.com/business/2026/mar/03/uk-grocery-inflation-middle-east-war-eurozone-uk-ecb-worldpanel",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-03T10:47:04Z"
-  },
-  {
-    "title": "U.S. evacuates diplomats, shuts down some embassies as war enters fourth day",
-    "url": "https://www.npr.org/2026/03/03/nx-s1-5732968/iran-us-trump-war",
-    "source": "NPR",
-    "publishedAt": "2026-03-03T10:45:22Z"
-  },
-  {
-    "title": "US sanctions Rwanda's military and top commanders over fighting in DR Congo",
-    "url": "https://www.bbc.com/news/articles/cr5l7zdnjgpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-03T10:30:12Z"
-  },
-  {
-    "title": "India, Europe feel fuel crunch as Gulf gas supplies disrupted amid war",
-    "url": "https://www.aljazeera.com/news/2026/3/3/india-europe-feel-fuel-crunch-as-gulf-gas-supplies-disrupted-amid-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-03T10:19:09Z"
-  },
-  {
-    "title": "Melania Trump presides at UN Security Council meeting as U.S. attacks Iran",
-    "url": "https://www.npr.org/2026/03/03/g-s1-112272/melania-trump-presides-un",
-    "source": "NPR",
-    "publishedAt": "2026-03-03T09:54:11Z"
-  },
-  {
-    "title": "U.S. urges Americans across the Middle East to evacuate as war with Iran intensifies",
-    "url": "https://www.npr.org/2026/03/03/nx-s1-5732611/u-s-urges-americans-across-the-middle-east-to-evacuate-as-war-with-iran-intensifies",
-    "source": "NPR",
-    "publishedAt": "2026-03-03T09:40:29Z"
-  },
-  {
-    "title": "Qatari government spokesperson shares his country's view on the U.S. attacks on Iran",
-    "url": "https://www.npr.org/2026/03/03/nx-s1-5732598/qatari-government-spokesperson-shares-his-countrys-view-on-the-u-s-attacks-on-iran",
-    "source": "NPR",
-    "publishedAt": "2026-03-03T09:40:14Z"
-  },
-  {
-    "title": "Why Trump still needs to sell Iran war to U.S. voters",
-    "url": "https://www.cbc.ca/news/world/trump-iran-war-polls-domestic-politics-midterm-elections-9.7112198?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-03-03T09:00:00Z"
-  },
-  {
-    "title": "Top Democrat says there was no imminent threat to the US from Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/video-top-democrat-says-there-was-no-imminent-threat-to-the-us-from-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-03T08:44:09Z"
-  },
-  {
-    "title": "US sanctions Rwandan army and top officials for supporting M23 in DRC",
-    "url": "https://www.aljazeera.com/news/2026/3/3/us-sanctions-rwandan-army-and-top-officials-for-supporting-m23-in-drc?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-03T06:52:23Z"
   }
 ]
