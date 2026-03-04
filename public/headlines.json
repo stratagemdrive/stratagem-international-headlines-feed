@@ -1,11 +1,5 @@
 [
   {
-    "title": "Australian energy bills could surge as Iran conflict drives up global gas prices",
-    "url": "https://www.theguardian.com/australia-news/2026/mar/03/oil-gas-lng-prices-iran-war-middle-east-conflict-bills-australia-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-03T14:00:05Z"
-  },
-  {
     "title": "Oil on Fire: War impacts global energy markets",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/4/oil-on-fire-war-impacts-global-energy-markets?traffic_source=rss",
     "source": "Al Jazeera",
@@ -30,10 +24,28 @@
     "publishedAt": "2026-03-03T18:49:50Z"
   },
   {
+    "title": "Spain’s Sánchez says ‘no to war’ after Trump’s threats over Nato spending and use of bases – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-04T08:24:45Z"
+  },
+  {
     "title": "U.S. stocks rebound from sharp losses, while oil prices leap on worries about Iran war",
     "url": "https://www.pbs.org/newshour/economy/u-s-stocks-rebound-from-sharp-losses-while-oil-prices-leap-on-worries-about-iran-war",
     "source": "PBS",
     "publishedAt": "2026-03-02T21:37:55Z"
+  },
+  {
+    "title": "Middle East crisis live: explosions reported in Tehran as Iran prepares for Ali Khamenei’s funeral",
+    "url": "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-04T07:52:04Z"
+  },
+  {
+    "title": "Iran attacks on Gulf oil and gas sites trigger energy fears",
+    "url": "https://www.dw.com/en/iran-attacks-on-gulf-oil-and-gas-sites-trigger-energy-fears/a-76199281?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-04T07:47:00Z"
   },
   {
     "title": "China calls for vessels in strait of Hormuz to be protected amid soaring shipping costs",
@@ -42,10 +54,10 @@
     "publishedAt": "2026-03-03T17:19:35Z"
   },
   {
-    "title": "Middle East crisis live: US says nearly 2,000 targets hit in Iran war; Trump says navy may escort tankers through Strait of Hormuz",
-    "url": "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis",
+    "title": "Cuba charges six exiles with terrorism in wake of deadly speedboat attack",
+    "url": "https://www.theguardian.com/world/2026/mar/04/cuba-charges-six-exiles-terrorism-speedboat-attack",
     "source": "The Guardian",
-    "publishedAt": "2026-03-04T04:45:30Z"
+    "publishedAt": "2026-03-04T07:01:11Z"
   },
   {
     "title": "US senators fear ‘boots on the ground’ after Iran war briefing",
@@ -106,17 +118,5 @@
     "url": "https://www.bbc.com/news/articles/c4g74npdwnyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-03T22:10:09Z"
-  },
-  {
-    "title": "Spain baulks at Trump’s threat to cut off all trade over NATO, Iran stance",
-    "url": "https://www.aljazeera.com/news/2026/3/3/spain-baulks-at-trumps-threat-to-cut-off-all-trade-over-nato-iran-stance?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-03T22:00:46Z"
-  },
-  {
-    "title": "Travellers stranded, airlines under pressure as Iran war escalates",
-    "url": "https://www.aljazeera.com/economy/2026/3/3/travellers-stranded-airlines-under-pressure-as-iran-war-escalates?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-03T21:59:34Z"
   }
 ]
