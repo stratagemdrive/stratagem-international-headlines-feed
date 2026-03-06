@@ -1,15 +1,9 @@
 [
   {
-    "title": "Stock market falls resume as US-Israel war with Iran drives up oil and gas prices",
-    "url": "https://www.theguardian.com/world/2026/mar/05/stock-market-falls-resume-as-us-israel-war-with-iran-drives-up-oil-and-gas-prices",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-05T19:35:45Z"
-  },
-  {
-    "title": "Middle East crisis live: Israel bombards Tehran and Beirut; US allows India to buy Russian oil",
-    "url": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-06T08:23:08Z"
+    "title": "Russia watches Iran under fire as the Kremlin eyes oil price windfall",
+    "url": "https://www.npr.org/2026/03/06/nx-s1-5737425/russia-watches-iran-under-fire-as-the-kremlin-eyes-oil-price-windfall",
+    "source": "NPR",
+    "publishedAt": "2026-03-06T09:39:44Z"
   },
   {
     "title": "U.S. and Venezuela agree to reestablish diplomatic ties in major shift after Maduro's ouster",
@@ -18,10 +12,28 @@
     "publishedAt": "2026-03-06T01:18:49Z"
   },
   {
-    "title": "US states sue to stop Trump’s latest global tariffs",
-    "url": "https://www.aljazeera.com/economy/2026/3/5/us-states-sue-to-stop-trumps-latest-global-tariffs?traffic_source=rss",
+    "title": "Moscow sees significant rise in demand for Russian oil, gas amid Iran war",
+    "url": "https://www.aljazeera.com/news/2026/3/6/moscow-sees-significant-rise-in-demand-for-russian-oil-gas-amid-iran-war?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-03-05T21:39:15Z"
+    "publishedAt": "2026-03-06T12:37:42Z"
+  },
+  {
+    "title": "Middle East crisis live: Israel bombards Tehran and Beirut as US says attacks to intensify",
+    "url": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-06T12:31:27Z"
+  },
+  {
+    "title": "How war in Iran may affect food and fuel prices",
+    "url": "https://www.bbc.com/news/videos/cy4w1r078x2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-06T11:37:49Z"
+  },
+  {
+    "title": "A weak Iran would backfire on the United States",
+    "url": "https://www.aljazeera.com/opinions/2026/3/6/a-weak-iran-would-backfire-on-the-united-states?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-06T11:08:38Z"
   },
   {
     "title": "Experts analyze what the Iran war could mean for U.S. gasoline prices",
@@ -30,16 +42,22 @@
     "publishedAt": "2026-03-04T23:51:54Z"
   },
   {
+    "title": "Former NATO ambassador talks about the alliance's role in the war in Iran",
+    "url": "https://www.npr.org/2026/03/06/nx-s1-5737430/former-nato-ambassador-talks-about-the-alliances-role-in-the-war-in-iran",
+    "source": "NPR",
+    "publishedAt": "2026-03-06T09:40:12Z"
+  },
+  {
+    "title": "US grants waiver to allow India to buy Russian oil amid Iran war",
+    "url": "https://www.theguardian.com/us-news/2026/mar/05/us-waiver-india-russian-oil",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-06T09:28:32Z"
+  },
+  {
     "title": "Ukraine support remains front and centre amid new global crisis, says NATO chief",
     "url": "https://www.cbc.ca/news/world/rutte-zelenskyy-middle-east-ukraine-russia-9.7115645?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-03-05T15:51:35Z"
-  },
-  {
-    "title": "Iran-backed militias intensify attacks against US, Israel and allies",
-    "url": "https://www.theguardian.com/world/2026/mar/06/iran-backed-militias-iraq-attacks-us-israel",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-06T05:00:13Z"
   },
   {
     "title": "Anthropic vows to sue Pentagon over supply chain risk label",
@@ -52,12 +70,6 @@
     "url": "https://www.theguardian.com/world/2026/mar/06/ukraine-zelenskyy-iran-war-help-us-israel-fight-drones",
     "source": "The Guardian",
     "publishedAt": "2026-03-06T01:36:33Z"
-  },
-  {
-    "title": "US grants waiver to allow India to buy Russian oil amid Iran war",
-    "url": "https://www.theguardian.com/us-news/2026/mar/05/us-waiver-india-russian-oil",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-06T01:09:51Z"
   },
   {
     "title": "U.S. and Mideast countries seek Kyiv's drone expertise as Russia-Ukraine talks delayed",
@@ -84,39 +96,27 @@
     "publishedAt": "2026-03-05T23:06:55Z"
   },
   {
-    "title": "‘Geopolitical uncertainties’ amid Iran war could slow fall in mortgage rates, says Halifax",
-    "url": "https://www.theguardian.com/business/2026/mar/06/geopolitical-uncertainties-amid-iran-war-could-slow-fall-in-mortgage-rates-says-halifax",
+    "title": "Messi censured for meeting and applauding Trump amid US attacks on Iran",
+    "url": "https://www.aljazeera.com/sports/2026/3/6/messi-censured-for-meeting-and-applauding-trump-amid-us-attacks-on-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-06T12:40:09Z"
+  },
+  {
+    "title": "‘We know Shaheds’: Ukraine touts drone expertise in US-Israel war with Iran",
+    "url": "https://www.aljazeera.com/news/2026/3/6/we-know-shaheds-ukraine-touts-drone-expertise-in-us-israel-war-with-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-06T12:35:15Z"
+  },
+  {
+    "title": "Iceland proposes referendum on resuming EU accession talks in August – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/mar/06/ukraine-russia-hungary-orban-zelenskyy-putin-middle-east-iran-cyprus-europe-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-03-06T08:19:37Z"
+    "publishedAt": "2026-03-06T12:30:44Z"
   },
   {
-    "title": "Anger in Cyprus over UK bases as US-Israel war with Iran endangers island",
-    "url": "https://www.aljazeera.com/features/2026/3/6/anger-in-cyprus-over-uk-bases-as-us-israel-war-with-iran-endangers-island?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-06T08:03:18Z"
-  },
-  {
-    "title": "Foreign Affairs Minister Anand says NATO must turn its focus to the North",
-    "url": "https://www.cbc.ca/news/canada/north/foreign-affairs-minister-anand-says-nato-must-turn-its-focus-to-the-north-9.7115630?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-03-05T18:08:58Z"
-  },
-  {
-    "title": "Leaders of Canada and Australia urge Iran war de-escalation, affirm Iranians can't have nuclear weapons",
-    "url": "https://www.pbs.org/newshour/world/leaders-of-canada-and-australia-urge-iran-war-de-escalation-affirm-iranians-cant-have-nuclear-weapons",
-    "source": "PBS",
-    "publishedAt": "2026-03-05T17:44:12Z"
-  },
-  {
-    "title": "More than 120 killed in Israel’s Lebanon attacks as Beirut, south, east hit",
-    "url": "https://www.aljazeera.com/news/2026/3/6/death-toll-in-israels-lebanon-attacks-over-120-as-beirut-south-east-hit?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-06T07:23:30Z"
-  },
-  {
-    "title": "Iranian warship was sailing home from India exhibition when U.S. sank it",
-    "url": "https://www.pbs.org/newshour/world/iranian-warship-was-sailing-home-from-india-exhibition-when-u-s-sank-it",
-    "source": "PBS",
-    "publishedAt": "2026-03-05T16:37:14Z"
+    "title": "Italian activists and journalist targeted by spyware in 2024, prosecutors confirm",
+    "url": "https://www.theguardian.com/world/2026/mar/06/italy-activists-and-journalist-targeted-by-spyware-in-2024-prosecutors-confirm",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-06T12:10:32Z"
   }
 ]
