@@ -1,15 +1,15 @@
 [
   {
-    "title": "Middle East crisis live: US temporarily lets India buy Russian oil to ease energy fears; Israeli military launches strikes on Beirut",
-    "url": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-06T01:27:31Z"
-  },
-  {
     "title": "Stock market falls resume as US-Israel war with Iran drives up oil and gas prices",
     "url": "https://www.theguardian.com/world/2026/mar/05/stock-market-falls-resume-as-us-israel-war-with-iran-drives-up-oil-and-gas-prices",
     "source": "The Guardian",
     "publishedAt": "2026-03-05T19:35:45Z"
+  },
+  {
+    "title": "Iran war live updates: US temporarily lets India buy Russian oil amid energy fears; Israeli military launches strikes on Beirut",
+    "url": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-06T04:36:32Z"
   },
   {
     "title": "U.S. and Venezuela agree to reestablish diplomatic ties in major shift after Maduro's ouster",
@@ -34,6 +34,12 @@
     "url": "https://www.cbc.ca/news/world/rutte-zelenskyy-middle-east-ukraine-russia-9.7115645?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-03-05T15:51:35Z"
+  },
+  {
+    "title": "Queensland and NT warned to prepare for major flooding as tropical lows bring deluge",
+    "url": "https://www.theguardian.com/australia-news/2026/mar/06/far-north-queensland-severe-weather-tropical-low-flash-flood-warnings",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-06T03:44:15Z"
   },
   {
     "title": "Ukraine to help US and its allies counter Iranian drones in Middle East, says Zelenskyy",
@@ -72,12 +78,6 @@
     "publishedAt": "2026-03-05T23:40:41Z"
   },
   {
-    "title": "One Nation senator for NSW still lived in Queensland four months after his appointment, expense reports show",
-    "url": "https://www.theguardian.com/australia-news/2026/mar/06/one-nation-senator-for-nsw-still-lived-in-queensland-four-months-after-his-appointment-expense-reports-show",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-05T23:30:46Z"
-  },
-  {
     "title": "Trump suggests U.S. and Cuba will soon make a deal, after Rubio is 'finished' with Iran",
     "url": "https://www.pbs.org/newshour/politics/watch-trump-suggests-u-s-and-cuba-will-soon-make-a-deal-after-rubio-is-finished-with-iran",
     "source": "PBS",
@@ -114,9 +114,9 @@
     "publishedAt": "2026-03-05T16:23:15Z"
   },
   {
-    "title": "Canadian teen died from drowning after dingo attack in Australia",
-    "url": "https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss",
+    "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
+    "url": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-03-06T01:47:32Z"
+    "publishedAt": "2026-03-06T04:23:12Z"
   }
 ]
