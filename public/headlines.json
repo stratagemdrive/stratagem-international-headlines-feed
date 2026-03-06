@@ -1,9 +1,27 @@
 [
   {
+    "title": "Middle East crisis live: US temporarily lets India buy Russian oil to ease energy fears; Israeli military launches strikes on Beirut",
+    "url": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-06T01:27:31Z"
+  },
+  {
     "title": "Stock market falls resume as US-Israel war with Iran drives up oil and gas prices",
     "url": "https://www.theguardian.com/world/2026/mar/05/stock-market-falls-resume-as-us-israel-war-with-iran-drives-up-oil-and-gas-prices",
     "source": "The Guardian",
     "publishedAt": "2026-03-05T19:35:45Z"
+  },
+  {
+    "title": "U.S. and Venezuela agree to reestablish diplomatic ties in major shift after Maduro's ouster",
+    "url": "https://www.pbs.org/newshour/world/u-s-and-venezuela-agree-to-reestablish-diplomatic-ties-in-major-shift-after-maduros-ouster",
+    "source": "PBS",
+    "publishedAt": "2026-03-06T01:18:49Z"
+  },
+  {
+    "title": "US states sue to stop Trump’s latest global tariffs",
+    "url": "https://www.aljazeera.com/economy/2026/3/5/us-states-sue-to-stop-trumps-latest-global-tariffs?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-05T21:39:15Z"
   },
   {
     "title": "Experts analyze what the Iran war could mean for U.S. gasoline prices",
@@ -12,52 +30,64 @@
     "publishedAt": "2026-03-04T23:51:54Z"
   },
   {
-    "title": "U.S.-Israeli strikes continue across Iran; Iranian drones hit Azerbaijan",
-    "url": "https://www.npr.org/2026/03/05/nx-s1-5736566/u-s-israeli-strikes-continue-across-iran-iranian-drones-hit-azerbaijan",
-    "source": "NPR",
-    "publishedAt": "2026-03-05T11:09:56Z"
-  },
-  {
     "title": "Ukraine support remains front and centre amid new global crisis, says NATO chief",
     "url": "https://www.cbc.ca/news/world/rutte-zelenskyy-middle-east-ukraine-russia-9.7115645?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-03-05T15:51:35Z"
   },
   {
-    "title": "Australia news live: luxury car tax change could seal EU trade deal; flights from Dubai land in Sydney and Melbourne",
-    "url": "https://www.theguardian.com/australia-news/live/2026/mar/06/middle-east-flights-return-queensland-weather-nsw-budget-estimates-anthony-albanese-angus-taylor-labor-coalition-politics-updates-ntwnfb",
+    "title": "Ukraine to help US and its allies counter Iranian drones in Middle East, says Zelenskyy",
+    "url": "https://www.theguardian.com/world/2026/mar/06/ukraine-zelenskyy-iran-war-help-us-israel-fight-drones",
     "source": "The Guardian",
-    "publishedAt": "2026-03-05T20:22:20Z"
+    "publishedAt": "2026-03-06T01:36:33Z"
   },
   {
-    "title": "Middle East crisis live: Trump demands say in choosing Iran’s next supreme leader; Israel tells hundreds of thousands to flee Beirut",
-    "url": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
+    "title": "US grants waiver to allow India to buy Russian oil amid Iran war",
+    "url": "https://www.theguardian.com/us-news/2026/mar/05/us-waiver-india-russian-oil",
     "source": "The Guardian",
-    "publishedAt": "2026-03-05T20:20:07Z"
+    "publishedAt": "2026-03-06T01:09:51Z"
   },
   {
-    "title": "New York and other US states sue Trump over ‘illegal and reckless’ tariffs",
-    "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-administration-tariff-lawsuit",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-05T20:10:16Z"
+    "title": "U.S. and Mideast countries seek Kyiv's drone expertise as Russia-Ukraine talks delayed",
+    "url": "https://www.pbs.org/newshour/world/u-s-and-mideast-countries-seek-kyivs-drone-expertise-as-russia-ukraine-talks-delayed",
+    "source": "PBS",
+    "publishedAt": "2026-03-06T00:06:38Z"
   },
   {
-    "title": "Trump ousts DHS secretary Kristi Noem and replaces her with Republican senator",
-    "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security",
+    "title": "Sci-fi surgery as doctor in UK directs robot to remove a prostate in Gibraltar",
+    "url": "https://www.theguardian.com/uk-news/2026/mar/06/sci-fi-surgery-as-doctor-in-uk-directs-robot-to-remove-a-prostate-in-gibraltar",
     "source": "The Guardian",
-    "publishedAt": "2026-03-05T19:52:11Z"
+    "publishedAt": "2026-03-06T00:01:05Z"
+  },
+  {
+    "title": "As U.S.-Israeli strikes intensify, Iran says it's no longer looking to negotiate",
+    "url": "https://www.pbs.org/newshour/show/as-u-s-israeli-strikes-intensify-iran-says-its-no-longer-looking-to-negotiate",
+    "source": "PBS",
+    "publishedAt": "2026-03-05T23:55:55Z"
+  },
+  {
+    "title": "Iranian Americans express hope and fear about what comes next",
+    "url": "https://www.pbs.org/newshour/show/iranian-americans-express-hope-and-fear-about-what-comes-next",
+    "source": "PBS",
+    "publishedAt": "2026-03-05T23:40:41Z"
+  },
+  {
+    "title": "One Nation senator for NSW still lived in Queensland four months after his appointment, expense reports show",
+    "url": "https://www.theguardian.com/australia-news/2026/mar/06/one-nation-senator-for-nsw-still-lived-in-queensland-four-months-after-his-appointment-expense-reports-show",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-05T23:30:46Z"
+  },
+  {
+    "title": "Trump suggests U.S. and Cuba will soon make a deal, after Rubio is 'finished' with Iran",
+    "url": "https://www.pbs.org/newshour/politics/watch-trump-suggests-u-s-and-cuba-will-soon-make-a-deal-after-rubio-is-finished-with-iran",
+    "source": "PBS",
+    "publishedAt": "2026-03-05T23:06:55Z"
   },
   {
     "title": "Senators propose ban on US gov’t officials doing prediction market trading",
     "url": "https://www.aljazeera.com/economy/2026/3/5/senators-propose-ban-on-us-govt-officials-doing-prediction-market-trading?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-05T19:12:07Z"
-  },
-  {
-    "title": "Senators demand investigation after ninth American killed by Israeli settlers or soldiers in West Bank",
-    "url": "https://www.theguardian.com/world/2026/mar/05/investigation-americans-killed-israeli-settlers-soldiers-west-bank",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-05T18:47:05Z"
   },
   {
     "title": "Foreign Affairs Minister Anand says NATO must turn its focus to the North",
@@ -72,12 +102,6 @@
     "publishedAt": "2026-03-05T17:44:12Z"
   },
   {
-    "title": "Emotional turmoil grips Iranians watching conflict unfold overseas",
-    "url": "https://www.aljazeera.com/news/2026/3/5/emotional-turmoil-grips-iranians-watching-conflict-unfold-overseas?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-05T17:07:24Z"
-  },
-  {
     "title": "Iranian warship was sailing home from India exhibition when U.S. sank it",
     "url": "https://www.pbs.org/newshour/world/iranian-warship-was-sailing-home-from-india-exhibition-when-u-s-sank-it",
     "source": "PBS",
@@ -90,33 +114,9 @@
     "publishedAt": "2026-03-05T16:23:15Z"
   },
   {
-    "title": "China sets a lower economic growth target of 4.5% to 5% for 2026 as challenges loom",
-    "url": "https://www.npr.org/2026/03/05/g-s1-112586/china-sets-a-lower-economic-growth-target-of-4-5-to-5-for-2026-as-challenges-loom",
-    "source": "NPR",
-    "publishedAt": "2026-03-05T07:49:11Z"
-  },
-  {
-    "title": "A beer at sunrise then back on duty – the British pilot who made RAF history shooting down Iranian drones",
-    "url": "https://www.theguardian.com/uk-news/2026/mar/05/british-pilot-iranian-shahed-drones-raf-akrotiri-cyprus",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-05T20:00:01Z"
-  },
-  {
-    "title": "Chaos sown by Iran's attacks across the Persian Gulf is key to its strategy",
-    "url": "https://www.pbs.org/newshour/world/chaos-sown-by-irans-attacks-across-the-persian-gulf-is-key-to-its-strategy",
-    "source": "PBS",
-    "publishedAt": "2026-03-05T19:58:02Z"
-  },
-  {
-    "title": "EU agrees to chop meaty names from vegetarian and vegan food products",
-    "url": "https://www.theguardian.com/world/2026/mar/05/eu-ban-meaty-names-vegetarian-vegan-food",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-05T19:44:04Z"
-  },
-  {
-    "title": "Ukraine, Russia free 200 POWs each in latest swap amid stalled peace talks",
-    "url": "https://www.aljazeera.com/news/2026/3/5/ukraine-russia-free-200-pows-each-in-latest-swap-amid-stalled-peace-talks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-05T19:41:59Z"
+    "title": "Canadian teen died from drowning after dingo attack in Australia",
+    "url": "https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-06T01:47:32Z"
   }
 ]
