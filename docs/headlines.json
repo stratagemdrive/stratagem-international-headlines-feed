@@ -1,5 +1,11 @@
 [
   {
+    "title": "Oil and gas prices rise rapidly as Iran war escalates",
+    "url": "https://www.pbs.org/newshour/world/oil-and-gas-prices-rise-rapidly-as-iran-war-escalates",
+    "source": "PBS",
+    "publishedAt": "2026-03-07T17:11:26Z"
+  },
+  {
     "title": "An international security expert analyzes regional impact of U.S.-Israel war on Iran",
     "url": "https://www.npr.org/2026/03/07/nx-s1-5736062/new-middle-east-dynamics",
     "source": "NPR",
@@ -9,25 +15,31 @@
     "title": "Iran’s president apologises to Gulf nations; Trump threatens further strikes – Middle East crisis live",
     "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
     "source": "The Guardian",
-    "publishedAt": "2026-03-07T16:05:28Z"
+    "publishedAt": "2026-03-07T19:58:03Z"
+  },
+  {
+    "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
+    "url": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-07T18:56:30Z"
+  },
+  {
+    "title": "Trump convenes ‘Shield of Americas’ summit with 12 Latin American leaders",
+    "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-shield-of-americas-summit",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-07T18:01:23Z"
   },
   {
     "title": "Four US bombers land at RAF base in UK after warning of surge in strikes on Iran",
     "url": "https://www.theguardian.com/world/2026/mar/07/us-bomber-lands-in-uk-after-warning-of-surge-in-strikes-on-iran",
     "source": "The Guardian",
-    "publishedAt": "2026-03-07T15:45:17Z"
+    "publishedAt": "2026-03-07T17:01:39Z"
   },
   {
     "title": "Ukraine: Russia deadly strikes hit Kharkiv apartment block",
     "url": "https://www.dw.com/en/ukraine-russia-deadly-strikes-hit-kharkiv-apartment-block/a-76259031?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-03-07T13:25:00Z"
-  },
-  {
-    "title": "One week into the Iran war, the fallout is global",
-    "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
-    "source": "NPR",
-    "publishedAt": "2026-03-07T10:00:00Z"
   },
   {
     "title": "After deadly Hong Kong fire, the art of bamboo scaffolding hangs in the balance",
@@ -42,81 +54,69 @@
     "publishedAt": "2026-03-06T19:00:37Z"
   },
   {
-    "title": "Moment drone strikes Dubai International Airport",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/moment-drone-strikes-dubai-international-airport?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T08:33:40Z"
-  },
-  {
-    "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-    "url": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-06T17:06:14Z"
-  },
-  {
-    "title": "War against Iran: How far will it go?",
-    "url": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T15:40:58Z"
-  },
-  {
-    "title": "AI-generated Iran war videos surge as creators use new tech to cash in",
-    "url": "https://www.bbc.com/news/articles/ckg8wvz427vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-07T00:32:35Z"
-  },
-  {
-    "title": "How long the U.S. and Arab allies can afford to sustain the war on Iran",
-    "url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/how-long-the-u-s-and-arab-allies-can-afford-to-sustain-the-war-on-iran",
+    "title": "Iran's president apologizes for strikes on neighboring countries even as its missiles and drones target their cities",
+    "url": "https://www.pbs.org/newshour/world/irans-president-apologizes-for-strikes-on-neighboring-countries-even-as-its-missiles-and-drones-target-their-cities",
     "source": "PBS",
-    "publishedAt": "2026-03-07T00:30:49Z"
+    "publishedAt": "2026-03-07T19:50:46Z"
   },
   {
-    "title": "Iran will continue to defend itself against aggression, ambassador to UK says",
+    "title": "UK counter-terrorism agents granted more time to question men suspected of spying for Iran",
+    "url": "https://www.theguardian.com/uk-news/2026/mar/07/counter-terrorism-agents-granted-more-time-to-question-men-suspected-of-spying-for-iran",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-07T19:45:24Z"
+  },
+  {
+    "title": "More than 30 injured in nightclub bombing in northern Peru",
+    "url": "https://www.aljazeera.com/news/2026/3/7/more-than-30-injured-in-nightclub-bombing-in-northern-peru?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-07T19:26:21Z"
+  },
+  {
+    "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+    "url": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-07T19:16:44Z"
+  },
+  {
+    "title": "Bombing at nightclub in Peru injures 33 people, including minors",
+    "url": "https://www.theguardian.com/world/2026/mar/07/peru-nightclub-bombing",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-07T18:56:42Z"
+  },
+  {
+    "title": "Offer from Iran’s president to not attack neighbours provokes internal backlash",
+    "url": "https://www.theguardian.com/world/2026/mar/07/offer-from-irans-president-to-not-attack-neighbours-provokes-internal-backlash",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-07T18:35:24Z"
+  },
+  {
+    "title": "Israel launches raid in Lebanon searching for missing pilot",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/israel-launches-raid-in-lebanon-searching-for-missing-pilot?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-07T18:24:09Z"
+  },
+  {
+    "title": "Bombing at Peru nightclub injures 33 people, including minors",
+    "url": "https://www.pbs.org/newshour/world/bombing-at-peru-nightclub-injures-33-people-including-minors",
+    "source": "PBS",
+    "publishedAt": "2026-03-07T18:19:55Z"
+  },
+  {
+    "title": "Trump will join grieving families for the return of the 6 soldiers killed in Iran war",
+    "url": "https://www.pbs.org/newshour/nation/trump-will-join-grieving-families-for-the-return-of-the-6-soldiers-killed-in-iran-war",
+    "source": "PBS",
+    "publishedAt": "2026-03-07T17:43:24Z"
+  },
+  {
+    "title": "Shrinking weapon stockpiles and regime-change uncertainty: doubts shadow US-Israel war on Iran",
+    "url": "https://www.theguardian.com/world/2026/mar/07/iran-us-israel-war-regime-change",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-07T17:04:46Z"
+  },
+  {
+    "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
     "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-03-07T14:11:37Z"
-  },
-  {
-    "title": "U.S. will send anti-drone system to Mideast after successful use in Ukraine, officials say",
-    "url": "https://www.pbs.org/newshour/world/u-s-will-send-anti-drone-system-to-mideast-after-successful-use-in-ukraine-officials-say",
-    "source": "PBS",
-    "publishedAt": "2026-03-07T00:11:50Z"
-  },
-  {
-    "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
-    "url": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T14:00:42Z"
-  },
-  {
-    "title": "Labour accuses Badenoch of scoring ‘cheap political points’ over Iran strikes",
-    "url": "https://www.theguardian.com/politics/2026/mar/07/labour-accuse-badenoch-of-scoring-cheap-political-points-over-iran-strikes",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-07T13:42:12Z"
-  },
-  {
-    "title": "Americans stranded abroad as Iran war erupted describe struggle to return home",
-    "url": "https://www.pbs.org/newshour/show/americans-stranded-abroad-as-iran-war-erupted-describe-struggle-to-return-home",
-    "source": "PBS",
-    "publishedAt": "2026-03-06T23:30:08Z"
-  },
-  {
-    "title": "Politicians seek meeting with Travelodge CEO after Maidenhead sexual assault case",
-    "url": "https://www.theguardian.com/society/2026/mar/07/mps-demand-to-meet-travelodge-ceo-over-maidenhead-sexual-assault-case-kyran-smith",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-07T13:06:56Z"
-  },
-  {
-    "title": "Iranian authorities warn against ‘fifth column’, as no signs of war abating",
-    "url": "https://www.aljazeera.com/news/2026/3/7/iranian-authorities-warn-against-fifth-column-as-no-signs-of-war-abating?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T13:00:59Z"
-  },
-  {
-    "title": "European leaders' views on the developing war in the Middle East",
-    "url": "https://www.npr.org/2026/03/07/nx-s1-5737624/how-european-leaders-are-reacting-to-the-developing-war-in-the-middle-east",
-    "source": "NPR",
-    "publishedAt": "2026-03-07T12:44:36Z"
+    "publishedAt": "2026-03-07T16:53:57Z"
   }
 ]
