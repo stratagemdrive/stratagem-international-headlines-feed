@@ -1,15 +1,21 @@
 [
   {
-    "title": "US considers lifting more sanctions on Russian oil as Iran conflict sees global prices surge",
-    "url": "https://www.theguardian.com/business/2026/mar/07/us-considers-lifting-more-sanctions-on-russian-oil-as-iran-conflict-sees-global-prices-surge",
+    "title": "Middle East crisis live: Iran’s president apologises to Gulf nations; explosion reported near Dubai airport",
+    "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
     "source": "The Guardian",
-    "publishedAt": "2026-03-07T03:13:41Z"
+    "publishedAt": "2026-03-07T12:21:27Z"
   },
   {
-    "title": "Drone evades defences, ignites fire at southern Iraq oil facility",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/drone-evades-defences-ignites-fire-at-southern-iraq-oil-facility?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-06T23:43:53Z"
+    "title": "US bomber lands in UK after warning of surge in strikes on Iran",
+    "url": "https://www.theguardian.com/world/2026/mar/07/us-bomber-lands-in-uk-after-warning-of-surge-in-strikes-on-iran",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-07T11:37:41Z"
+  },
+  {
+    "title": "One week into the Iran war, the fallout is global",
+    "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
+    "source": "NPR",
+    "publishedAt": "2026-03-07T10:00:00Z"
   },
   {
     "title": "Majority of Americans oppose military action in Iran, new poll finds",
@@ -18,28 +24,16 @@
     "publishedAt": "2026-03-06T19:00:37Z"
   },
   {
-    "title": "Middle East crisis live: Iran’s president apologises to neighbouring countries as Israel pounds Tehran",
-    "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-07T08:08:43Z"
+    "title": "Moment drone strikes Dubai International Airport",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/moment-drone-strikes-dubai-international-airport?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-07T08:33:40Z"
   },
   {
     "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
     "url": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-06T17:06:14Z"
-  },
-  {
-    "title": "Massive explosions, fires from US-Israeli strikes on Tehran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/massive-explosions-fires-from-us-israeli-strikes-on-tehran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T03:02:32Z"
-  },
-  {
-    "title": "Iran’s legal case for striking the Gulf collapses under scrutiny",
-    "url": "https://www.aljazeera.com/opinions/2026/3/7/irans-legal-case-for-striking-the-gulf-collapses-under-scrutiny?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T01:08:43Z"
   },
   {
     "title": "AI-generated Iran war videos surge as creators use new tech to cash in",
@@ -52,12 +46,6 @@
     "url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/how-long-the-u-s-and-arab-allies-can-afford-to-sustain-the-war-on-iran",
     "source": "PBS",
     "publishedAt": "2026-03-07T00:30:49Z"
-  },
-  {
-    "title": "Iran war is latest threat to a global economy rattled by Trump",
-    "url": "https://www.aljazeera.com/economy/2026/3/7/iran-war-is-latest-threat-to-a-global-economy-rattled-by-trump?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T00:27:18Z"
   },
   {
     "title": "U.S. will send anti-drone system to Mideast after successful use in Ukraine, officials say",
@@ -78,45 +66,57 @@
     "publishedAt": "2026-03-06T22:39:27Z"
   },
   {
+    "title": "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/aftermath-of-village-in-lebanon-after-hezbollah-israeli-troops-clash?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-07T12:24:56Z"
+  },
+  {
+    "title": "Indonesians protest Iran war, pressure president over US ties",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/indonesians-protest-iran-war-pressure-president-over-us-ties?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-07T12:23:43Z"
+  },
+  {
+    "title": "MPs demand to meet Travelodge CEO over Maidenhead sexual assault case",
+    "url": "https://www.theguardian.com/society/2026/mar/07/mps-demand-to-meet-travelodge-ceo-over-maidenhead-sexual-assault-case-kyran-smith",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-07T12:19:21Z"
+  },
+  {
     "title": "As the war goes on in Iran, American-Iranians struggle to stay in touch with family",
     "url": "https://www.npr.org/2026/03/06/nx-s1-5737478/as-the-war-goes-on-in-iran-american-iranians-struggle-to-stay-in-touch-with-family",
     "source": "NPR",
     "publishedAt": "2026-03-06T22:09:05Z"
   },
   {
-    "title": "Trump sets his sights on crisis-hit Cuba after Iran action",
-    "url": "https://www.bbc.com/news/articles/c14m5mj055jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-06T19:50:51Z"
-  },
-  {
-    "title": "After the U.S. sinks an Iranian warship, Sri Lanka takes custody of an Iranian vessel",
-    "url": "https://www.npr.org/2026/03/06/g-s1-112759/after-the-u-s-sinks-an-iranian-warship-sri-lanka-takes-custody-of-an-iranian-vessel",
-    "source": "NPR",
-    "publishedAt": "2026-03-06T18:38:00Z"
-  },
-  {
-    "title": "Panic at Pakistan fuel stations over Iran war",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/panic-at-pakistan-fuel-stations-over-iran-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T08:05:26Z"
-  },
-  {
-    "title": "‘An ideological guest list’: Trump invites Latin America’s rightwing leaders to Florida summit",
-    "url": "https://www.theguardian.com/world/2026/mar/07/an-ideological-guest-list-trump-invites-latin-americas-rightwing-leaders-to-florida-summit",
+    "title": "Trump skirts Congress over Iran war as Republicans simply step aside",
+    "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-congress-republicans-iran-war-powers",
     "source": "The Guardian",
-    "publishedAt": "2026-03-07T08:00:45Z"
+    "publishedAt": "2026-03-07T12:00:51Z"
   },
   {
-    "title": "Russian strike on Kharkiv apartment block kills seven",
-    "url": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-07T07:54:22Z"
-  },
-  {
-    "title": "Hezbollah, Israeli troops clash on the ground in eastern Lebanon’s Bekaa",
-    "url": "https://www.aljazeera.com/news/2026/3/7/hezbollah-israeli-troops-clash-on-the-ground-in-eastern-lebanons-bekaa?traffic_source=rss",
+    "title": "Sirens echo in occupied East Jerusalem warning of Iranian missiles",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/sirens-echo-in-occupied-east-jerusalem-warning-of-iranian-missiles?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-03-07T07:35:45Z"
+    "publishedAt": "2026-03-07T11:30:19Z"
+  },
+  {
+    "title": "Trump-Netanyahu’s ‘war in search of a strategy’",
+    "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/7/trump-netanyahus-war-in-search-of-a-strategy?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-07T11:14:04Z"
+  },
+  {
+    "title": "Beirut’s southern suburbs in ruins after Israeli attack",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/beiruts-southern-suburbs-in-ruins-after-israeli-attack?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-07T11:05:36Z"
+  },
+  {
+    "title": "‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower",
+    "url": "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-07T11:00:48Z"
   }
 ]
