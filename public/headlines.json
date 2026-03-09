@@ -1,9 +1,9 @@
 [
   {
-    "title": "Iran war drives oil prices above $100 a barrel for first time since 2022",
-    "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-09T14:18:48Z"
+    "title": "Putin says Russia can supply oil, gas to Europe as energy prices soar",
+    "url": "https://www.aljazeera.com/news/2026/3/9/putin-says-russia-can-supply-oil-gas-to-europe-amid-global-energy-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-09T20:09:10Z"
   },
   {
     "title": "Why the Iran war is pushing up oil prices",
@@ -12,10 +12,10 @@
     "publishedAt": "2026-03-09T12:30:26Z"
   },
   {
-    "title": "The U.S. names its 7th dead soldier and oil prices spike on Day 10 of the Iran war",
-    "url": "https://www.npr.org/2026/03/09/nx-s1-5742327/us-israel-iran-war-new-supreme-leader",
-    "source": "NPR",
-    "publishedAt": "2026-03-09T09:59:31Z"
+    "title": "Oil prices dip during a manic day for markets amid U.S.-Israel war with Iran",
+    "url": "https://www.cbc.ca/news/business/oil-prices-spiking-march-9-9.7120238?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-09T12:23:19Z"
   },
   {
     "title": "Europe tops global arms imports, SIPRI reports",
@@ -24,16 +24,10 @@
     "publishedAt": "2026-03-08T23:01:00Z"
   },
   {
-    "title": "Europe becoming arms powerhouse despite increased imports, says SIPRI",
-    "url": "https://www.aljazeera.com/news/2026/3/9/europe-becoming-arms-powerhouse-despite-increased-imports-says-sipri?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T11:49:53Z"
-  },
-  {
-    "title": "As oil prices spike, G7 opts not to dip into emergency reserves for now",
-    "url": "https://www.cbc.ca/news/business/oil-prices-spiking-march-9-9.7120238?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-03-09T12:23:19Z"
+    "title": "How high could oil prices go – and what might the global economic fallout be?",
+    "url": "https://www.theguardian.com/business/2026/mar/09/how-high-could-oil-go-and-what-might-the-global-economic-fallout-be",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-09T18:35:50Z"
   },
   {
     "title": "Conflict spreads across Middle East, oil prices jump, Iran names new supreme leader as war enters 2nd week",
@@ -45,7 +39,55 @@
     "title": "Middle East crisis live: Iranian missiles intercepted over Turkey and Qatar as Israel resumes strikes across Tehran and Beirut",
     "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
     "source": "The Guardian",
-    "publishedAt": "2026-03-09T16:32:28Z"
+    "publishedAt": "2026-03-09T20:20:05Z"
+  },
+  {
+    "title": "What is Trump’s endgame in Iran as the US-Israel war escalates?",
+    "url": "https://www.aljazeera.com/news/2026/3/9/what-is-the-us-endgame-in-iran-as-the-war-escalates?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-09T19:18:54Z"
+  },
+  {
+    "title": "Europe rallies around Cyprus after Iranian drone hits island",
+    "url": "https://www.pbs.org/newshour/world/europe-rallies-around-cyprus-after-iranian-drone-hits-island",
+    "source": "PBS",
+    "publishedAt": "2026-03-09T18:48:58Z"
+  },
+  {
+    "title": "Some leaders see powerful argument for renewable energy as Iran war shakes markets",
+    "url": "https://www.pbs.org/newshour/world/some-leaders-see-powerful-argument-for-renewable-energy-as-iran-war-shakes-energy-markets",
+    "source": "PBS",
+    "publishedAt": "2026-03-09T18:34:11Z"
+  },
+  {
+    "title": "Iran’s new supreme leader brings mystery element to Middle East crisis",
+    "url": "https://www.theguardian.com/world/2026/mar/09/iran-supreme-leader-brings-mystery-element-to-middle-east-crisis-mojtaba-khamenei",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-09T18:30:35Z"
+  },
+  {
+    "title": "WHO chief raises alarm after Israeli attacks on Iranian oil facilities",
+    "url": "https://www.aljazeera.com/news/2026/3/9/who-chief-raises-alarm-after-israeli-attacks-on-iranian-oil-facilities?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-09T18:10:10Z"
+  },
+  {
+    "title": "Sheinbaum tells Trump: stop illegal arms trade from the US to Mexico",
+    "url": "https://www.theguardian.com/world/2026/mar/09/mexican-cartels-guns-come-from-us-sheinbaum-trump",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-09T17:33:21Z"
+  },
+  {
+    "title": "US teacher killed after toilet paper prank goes wrong",
+    "url": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-09T17:09:21Z"
+  },
+  {
+    "title": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
+    "url": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-09T16:41:43Z"
   },
   {
     "title": "Turkiye says Iranian ballistic missile intercepted by NATO air defences",
@@ -60,8 +102,8 @@
     "publishedAt": "2026-03-09T01:24:34Z"
   },
   {
-    "title": "Iran war: How long before Gulf nations stop pumping oil?",
-    "url": "https://www.dw.com/en/iran-war-how-long-before-gulf-nations-stop-pumping-oil/a-76272635?maca=en-rss-en-world-4025-rdf",
+    "title": "Iran war: Experts say oil-producers like Saudi Arabia may only have days left before they have to stop pumping oil.",
+    "url": "https://www.dw.com/en/iran-war-experts-say-oil-producers-like-saudi-arabia-may-only-have-days-left-before-they-have-to-stop-pumping-oil/a-76272635?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-03-09T15:08:00Z"
   },
@@ -76,47 +118,5 @@
     "url": "https://www.aljazeera.com/features/2026/3/9/how-us-israel-war-on-iran-deepens-gaza-crisis?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-09T13:36:30Z"
-  },
-  {
-    "title": "Bangladesh closes universities due to Iran war energy crisis",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/bangladesh-closes-universities-due-to-iran-war-energy-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T12:55:17Z"
-  },
-  {
-    "title": "Nearly 700,000 displaced in Lebanon as Middle East crisis escalates",
-    "url": "https://news.un.org/feed/view/en/story/2026/03/1167098",
-    "source": "UN News",
-    "publishedAt": "2026-03-09T12:00:00Z"
-  },
-  {
-    "title": "International Women’s Day and CSW70 at the United Nations",
-    "url": "https://news.un.org/feed/view/en/story/2026/03/1167097",
-    "source": "UN News",
-    "publishedAt": "2026-03-09T12:00:00Z"
-  },
-  {
-    "title": "Iran’s allies and foes, explained",
-    "url": "https://www.cbc.ca/radio/frontburner/irans-allies-and-foes-explained-9.7119961?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-03-09T10:00:00Z"
-  },
-  {
-    "title": "World shares tumble as Iran war pushes crude prices over $110 a barrel",
-    "url": "https://www.npr.org/2026/03/09/nx-s1-5742307/world-shares-tumble-iran-war",
-    "source": "NPR",
-    "publishedAt": "2026-03-09T09:44:22Z"
-  },
-  {
-    "title": "Why the US says India can buy Russian oil again",
-    "url": "https://www.dw.com/en/why-the-us-says-india-can-buy-russian-oil-again/a-76250096?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-09T09:12:00Z"
-  },
-  {
-    "title": "Why Iran depends on exports to China",
-    "url": "https://www.dw.com/en/why-iran-depends-on-exports-to-china/a-76217232?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-08T07:44:00Z"
   }
 ]
