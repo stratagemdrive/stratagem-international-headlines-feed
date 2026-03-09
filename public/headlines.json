@@ -1,15 +1,21 @@
 [
   {
-    "title": "Middle East crisis live: Israel resumes strikes across Tehran and Beirut; finance ministers prepare to discuss surging oil prices",
-    "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-09T12:30:19Z"
-  },
-  {
     "title": "Iran war drives oil prices above $100 a barrel for first time since 2022",
     "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
     "source": "The Guardian",
-    "publishedAt": "2026-03-09T08:38:28Z"
+    "publishedAt": "2026-03-09T14:18:48Z"
+  },
+  {
+    "title": "Why the Iran war is pushing up oil prices",
+    "url": "https://www.bbc.com/news/videos/cpv8342e3xvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-09T12:30:26Z"
+  },
+  {
+    "title": "The U.S. names its 7th dead soldier and oil prices spike on Day 10 of the Iran war",
+    "url": "https://www.npr.org/2026/03/09/nx-s1-5742327/us-israel-iran-war-new-supreme-leader",
+    "source": "NPR",
+    "publishedAt": "2026-03-09T09:59:31Z"
   },
   {
     "title": "Europe tops global arms imports, SIPRI reports",
@@ -24,16 +30,28 @@
     "publishedAt": "2026-03-09T11:49:53Z"
   },
   {
-    "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
-    "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-09T11:19:20Z"
+    "title": "As oil prices spike, G7 opts not to dip into emergency reserves for now",
+    "url": "https://www.cbc.ca/news/business/oil-prices-spiking-march-9-9.7120238?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-09T12:23:19Z"
   },
   {
-    "title": "ASX closes after $90bn wiped from sharemarket amid spike in oil prices over Middle East crisis",
-    "url": "https://www.theguardian.com/australia-news/2026/mar/09/asx-australian-shares-plunge-as-spike-in-oil-prices-over-middle-east-conflict-sparks-global-inflation-fears",
+    "title": "Conflict spreads across Middle East, oil prices jump, Iran names new supreme leader as war enters 2nd week",
+    "url": "https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-10-9.7119190?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-08T12:18:51Z"
+  },
+  {
+    "title": "Middle East crisis live: Iranian missiles intercepted over Turkey and Qatar as Israel resumes strikes across Tehran and Beirut",
+    "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
     "source": "The Guardian",
-    "publishedAt": "2026-03-09T05:47:23Z"
+    "publishedAt": "2026-03-09T16:32:28Z"
+  },
+  {
+    "title": "Turkiye says Iranian ballistic missile intercepted by NATO air defences",
+    "url": "https://www.aljazeera.com/news/2026/3/9/turkiye-says-iranian-ballistic-missile-intercepted-by-nato-air-defences?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-09T15:38:43Z"
   },
   {
     "title": "Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran",
@@ -42,28 +60,52 @@
     "publishedAt": "2026-03-09T01:24:34Z"
   },
   {
-    "title": "Small business owners doubt they’ll see refunds after supreme court invalidates Trump’s tariffs",
-    "url": "https://www.theguardian.com/us-news/2026/mar/09/small-businesses-trump-tariffs",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-09T12:00:47Z"
+    "title": "Iran war: How long before Gulf nations stop pumping oil?",
+    "url": "https://www.dw.com/en/iran-war-how-long-before-gulf-nations-stop-pumping-oil/a-76272635?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-09T15:08:00Z"
+  },
+  {
+    "title": "Gaza food crisis worsens due to Iran war and border closures",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/gaza-food-crisis-worsens-due-to-iran-war-and-border-closures?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-09T13:36:45Z"
+  },
+  {
+    "title": "How US-Israel war on Iran deepens Gaza crisis",
+    "url": "https://www.aljazeera.com/features/2026/3/9/how-us-israel-war-on-iran-deepens-gaza-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-09T13:36:30Z"
+  },
+  {
+    "title": "Bangladesh closes universities due to Iran war energy crisis",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/bangladesh-closes-universities-due-to-iran-war-energy-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-09T12:55:17Z"
+  },
+  {
+    "title": "Nearly 700,000 displaced in Lebanon as Middle East crisis escalates",
+    "url": "https://news.un.org/feed/view/en/story/2026/03/1167098",
+    "source": "UN News",
+    "publishedAt": "2026-03-09T12:00:00Z"
+  },
+  {
+    "title": "International Women’s Day and CSW70 at the United Nations",
+    "url": "https://news.un.org/feed/view/en/story/2026/03/1167097",
+    "source": "UN News",
+    "publishedAt": "2026-03-09T12:00:00Z"
+  },
+  {
+    "title": "Iran’s allies and foes, explained",
+    "url": "https://www.cbc.ca/radio/frontburner/irans-allies-and-foes-explained-9.7119961?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-09T10:00:00Z"
   },
   {
     "title": "World shares tumble as Iran war pushes crude prices over $110 a barrel",
     "url": "https://www.npr.org/2026/03/09/nx-s1-5742307/world-shares-tumble-iran-war",
     "source": "NPR",
     "publishedAt": "2026-03-09T09:44:22Z"
-  },
-  {
-    "title": "‘We’re going to make a tonne of money’: US Senator Graham on US war on Iran",
-    "url": "https://www.aljazeera.com/news/2026/3/9/we-are-going-make-a-tonne-of-money-us-senator-graham-on-us-war-on-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T09:30:54Z"
-  },
-  {
-    "title": "No immediate threat to UK gas supplies, says minister after ‘two days left’ reports",
-    "url": "https://www.theguardian.com/world/2026/mar/09/uk-has-sufficient-oil-and-gas-supplies-says-minister-after-two-days-left-reports",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-09T09:15:55Z"
   },
   {
     "title": "Why the US says India can buy Russian oil again",
@@ -76,47 +118,5 @@
     "url": "https://www.dw.com/en/why-iran-depends-on-exports-to-china/a-76217232?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-03-08T07:44:00Z"
-  },
-  {
-    "title": "Oil and gas prices rise rapidly as Iran war escalates",
-    "url": "https://www.pbs.org/newshour/world/oil-and-gas-prices-rise-rapidly-as-iran-war-escalates",
-    "source": "PBS",
-    "publishedAt": "2026-03-07T16:11:26Z"
-  },
-  {
-    "title": "Video appears to show U.S. cruise missile striking Iranian school compound",
-    "url": "https://www.npr.org/2026/03/08/nx-s1-5739395/iran-school-airstrike-tomahawk-missile-trump",
-    "source": "NPR",
-    "publishedAt": "2026-03-09T02:51:06Z"
-  },
-  {
-    "title": "Huge flames in Tehran after air strikes on oil depots",
-    "url": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-08T01:42:48Z"
-  },
-  {
-    "title": "Starmer warns of bigger impact on economy the longer Iran war continues - UK politics live",
-    "url": "https://www.theguardian.com/politics/live/2026/mar/09/keir-starmer-uk-gas-oil-prices-100-petrol-energy-inflation-latest-news-live-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-09T12:25:16Z"
-  },
-  {
-    "title": "Most victims of US-Israeli attacks are civilians, says Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/most-victims-of-us-israeli-attacks-on-iran-are-civilians?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T12:16:20Z"
-  },
-  {
-    "title": "US-Israel war on Iran: A brief history of mission creep and false promises",
-    "url": "https://www.aljazeera.com/news/2026/3/9/us-israel-war-on-iran-a-brief-history-of-mission-creep-and-false-promises?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T11:58:46Z"
-  },
-  {
-    "title": "Bahrain king calls Iranian attacks unjustifiable",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/bahrain-king-calls-iranian-attacks-unjustifiable?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T11:38:00Z"
   }
 ]
