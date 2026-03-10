@@ -1,39 +1,15 @@
 [
   {
+    "title": "China's exports surge despite waning trade with the U.S.",
+    "url": "https://www.pbs.org/newshour/world/chinas-exports-surge-despite-waning-trade-with-the-u-s",
+    "source": "PBS",
+    "publishedAt": "2026-03-10T18:41:10Z"
+  },
+  {
     "title": "War with Iran delivers high oil prices and another shock to the global economy",
     "url": "https://www.pbs.org/newshour/world/war-with-iran-delivers-high-oil-prices-and-another-shock-to-the-global-economy",
     "source": "PBS",
     "publishedAt": "2026-03-10T15:29:51Z"
-  },
-  {
-    "title": "How will soaring oil prices caused by Iran war impact food cost?",
-    "url": "https://www.aljazeera.com/news/2026/3/10/how-will-soaring-oil-prices-caused-by-iran-war-impact-food-prices?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-10T12:52:35Z"
-  },
-  {
-    "title": "China exports surge despite Trump tariffs",
-    "url": "https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-10T06:16:02Z"
-  },
-  {
-    "title": "Could Trump ‘take over’ the Strait of Hormuz as oil prices rise?",
-    "url": "https://www.aljazeera.com/economy/2026/3/10/could-trump-take-over-the-strait-of-hormuz-as-oil-prices-rise?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-10T12:50:26Z"
-  },
-  {
-    "title": "Pakistan orders sweeping austerity measures as Iran war triggers oil crisis",
-    "url": "https://www.aljazeera.com/news/2026/3/10/pakistan-orders-sweeping-austerity-measures-as-iran-war-triggers-oil-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-10T12:17:20Z"
-  },
-  {
-    "title": "Trump’s ‘free flow of energy’ vow fails to restart shipping in strait of Hormuz",
-    "url": "https://www.theguardian.com/world/2026/mar/10/trump-free-flow-energy-fails-restart-shipping-strait-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-10T10:26:43Z"
   },
   {
     "title": "Why the Iran war is pushing up oil prices",
@@ -42,22 +18,46 @@
     "publishedAt": "2026-03-09T12:30:26Z"
   },
   {
-    "title": "Qantas hikes international air fares citing volatile oil prices from war in Middle East",
-    "url": "https://www.theguardian.com/business/2026/mar/10/qantas-hikes-international-airfares-citing-volatile-oil-prices-from-war-in-middle-east",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-10T07:50:22Z"
+    "title": "Could the US-Israel war with Iran fuel global inflation?",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/10/could-the-us-israel-war-with-iran-fuel-global-inflation?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-10T19:30:00Z"
   },
   {
-    "title": "Middle East crisis live: Hegseth says today will be the ‘most intense day of strikes’ in war against Iran",
-    "url": "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news",
+    "title": "Aramco warns of oil market ‘catastrophe’ unless strait of Hormuz reopens soon",
+    "url": "https://www.theguardian.com/business/2026/mar/10/aramco-warns-oil-market-catastrophe-strait-of-hormuz",
     "source": "The Guardian",
-    "publishedAt": "2026-03-10T16:35:16Z"
+    "publishedAt": "2026-03-10T19:01:45Z"
   },
   {
-    "title": "Washington cardinal says US war on Iran ‘not morally legitimate’",
-    "url": "https://www.theguardian.com/us-news/2026/mar/10/washington-cardinal-iran-war",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-10T15:40:32Z"
+    "title": "Madagascar strongman sacks government after just 5 months",
+    "url": "https://www.dw.com/en/madagascar-strongman-sacks-government-after-just-5-months/a-76294299?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-10T18:00:00Z"
+  },
+  {
+    "title": "Lebanese brace for more war as Hezbollah-Israel attacks escalate",
+    "url": "https://www.dw.com/en/lebanese-brace-for-more-war-as-hezbollah-israel-attacks-escalate/a-76293444?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-10T17:30:00Z"
+  },
+  {
+    "title": "Search efforts suspended after deadly Indonesia landfill collapse",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/search-efforts-suspended-after-deadly-indonesia-landfill-collapse?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-10T17:28:44Z"
+  },
+  {
+    "title": "Global airlines hike ticket prices as Iran war sends costs soaring",
+    "url": "https://www.aljazeera.com/economy/2026/3/10/global-airlines-hike-ticket-prices-as-iran-war-sends-costs-soaring?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-10T17:14:15Z"
+  },
+  {
+    "title": "IEA due to meet as member states mull releasing oil reserves amid Iran war",
+    "url": "https://www.aljazeera.com/news/2026/3/10/iea-to-meet-as-countries-mull-releasing-oil-reserves-amid-iran-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-10T16:37:15Z"
   },
   {
     "title": "Nigeria's new 'insurgency corridor' evolves",
@@ -72,22 +72,16 @@
     "publishedAt": "2026-03-10T01:01:19Z"
   },
   {
-    "title": "Aramco warns of oil market ‘catastrophe’ unless strait of Hormuz reopens soon",
-    "url": "https://www.theguardian.com/business/2026/mar/10/aramco-warns-oil-market-catastrophe-strait-of-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-10T14:22:02Z"
-  },
-  {
     "title": "Qatari spokesman says unchecked escalation has sparked regional war",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/qatari-spokesman-says-unchecked-escalation-has-sparked-regional-war?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-10T14:15:53Z"
   },
   {
-    "title": "War on Iran fuelling Islamophobic social media surge in US: Report",
-    "url": "https://www.aljazeera.com/news/2026/3/10/war-on-iran-fuelling-islamophobic-social-media-surge-in-us-report?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-10T12:02:15Z"
+    "title": "U.S. and Iran ramp up threats as Hegseth warns of 'most intense day of strikes'",
+    "url": "https://www.pbs.org/newshour/world/iranian-barrages-target-israel-and-gulf-countries-as-hegseth-warns-iran-of-most-intense-day-of-strikes",
+    "source": "PBS",
+    "publishedAt": "2026-03-10T13:49:22Z"
   },
   {
     "title": "‘Toxic rain’ warning from oil depot strikes amid ongoing Middle East war",
@@ -96,19 +90,13 @@
     "publishedAt": "2026-03-10T12:00:00Z"
   },
   {
-    "title": "VW to cut 50,000 jobs amid Trump tariffs and falling Chinese sales",
+    "title": "VW to cut 50,000 jobs by 2030 amid Trump tariffs and falling Chinese sales",
     "url": "https://www.theguardian.com/business/2026/mar/10/vw-cut-jobs-trump-tariffs-chinese-sales-audi-porsche",
     "source": "The Guardian",
     "publishedAt": "2026-03-10T11:40:02Z"
   },
   {
-    "title": "Iranian missile strikes central Israel amid escalating attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iranian-missile-strikes-central-israel-amid-escalating-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-10T10:46:50Z"
-  },
-  {
-    "title": "The Pentagon says this will be 'our most intense day of strikes inside Iran'",
+    "title": "The U.S. vowed its 'most intense day of strikes inside Iran'",
     "url": "https://www.npr.org/2026/03/10/nx-s1-5742828/iran-war-us-trump",
     "source": "NPR",
     "publishedAt": "2026-03-10T09:35:21Z"
@@ -118,5 +106,17 @@
     "url": "https://www.dw.com/en/iran-war-how-long-before-gulf-nations-stop-pumping-oil/a-76272635?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-03-10T08:06:00Z"
+  },
+  {
+    "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
+    "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-10T19:39:58Z"
+  },
+  {
+    "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
+    "url": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-10T19:35:29Z"
   }
 ]
