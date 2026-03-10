@@ -1,5 +1,17 @@
 [
   {
+    "title": "Middle East crisis live: oil prices fall back sharply as Trump claims Iran war will be over ‘very soon’",
+    "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-10T01:29:41Z"
+  },
+  {
+    "title": "US stock markets close on high after Iran war drove oil prices above $100 a barrel",
+    "url": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-09T21:07:52Z"
+  },
+  {
     "title": "Putin says Russia can supply oil, gas to Europe as energy prices soar",
     "url": "https://www.aljazeera.com/news/2026/3/9/putin-says-russia-can-supply-oil-gas-to-europe-amid-global-energy-crisis?traffic_source=rss",
     "source": "Al Jazeera",
@@ -12,10 +24,16 @@
     "publishedAt": "2026-03-09T12:30:26Z"
   },
   {
-    "title": "Oil prices dip during a manic day for markets amid U.S.-Israel war with Iran",
-    "url": "https://www.cbc.ca/news/business/oil-prices-spiking-march-9-9.7120238?cmp=rss",
+    "title": "FIFA World Cup COO says tournament 'too big' to be postponed amid global turmoil",
+    "url": "https://www.cbc.ca/sports/soccer/fifa-world-cup-postponement-talk-global-turmoil-heimo-schirgi-9.7121645?cmp=rss",
     "source": "CBC",
-    "publishedAt": "2026-03-09T12:23:19Z"
+    "publishedAt": "2026-03-10T01:01:19Z"
+  },
+  {
+    "title": "Crude oil prices swing wildly as the Iran war stretches on",
+    "url": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
+    "source": "NPR",
+    "publishedAt": "2026-03-09T01:24:34Z"
   },
   {
     "title": "Europe tops global arms imports, SIPRI reports",
@@ -30,16 +48,52 @@
     "publishedAt": "2026-03-09T18:35:50Z"
   },
   {
-    "title": "Conflict spreads across Middle East, oil prices jump, Iran names new supreme leader as war enters 2nd week",
-    "url": "https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-10-9.7119190?cmp=rss",
+    "title": "Trump says war in Iran could be over soon, but U.S. hasn't 'won enough' yet",
+    "url": "https://www.cbc.ca/news/world/trump-iran-war-9.7121478?cmp=rss",
     "source": "CBC",
-    "publishedAt": "2026-03-08T12:18:51Z"
+    "publishedAt": "2026-03-10T01:14:10Z"
   },
   {
-    "title": "Middle East crisis live: Iranian missiles intercepted over Turkey and Qatar as Israel resumes strikes across Tehran and Beirut",
-    "url": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
+    "title": "Trump suggests war could end ‘very soon’ but issues threat to Iran over oil",
+    "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-iran-war-oil",
     "source": "The Guardian",
-    "publishedAt": "2026-03-09T20:20:05Z"
+    "publishedAt": "2026-03-10T00:56:08Z"
+  },
+  {
+    "title": "Trump sidesteps responsibility for deadly strike on Iranian girls' school",
+    "url": "https://www.pbs.org/newshour/politics/watch-trump-sidesteps-responsibility-for-deadly-strike-on-iranian-girls-school",
+    "source": "PBS",
+    "publishedAt": "2026-03-10T00:44:02Z"
+  },
+  {
+    "title": "Kentucky soldier stationed in Saudi Arabia is 7th U.S. military death in Iran war",
+    "url": "https://www.pbs.org/newshour/nation/kentucky-soldier-stationed-in-saudi-arabia-is-7th-u-s-military-death-in-iran-war",
+    "source": "PBS",
+    "publishedAt": "2026-03-09T23:39:30Z"
+  },
+  {
+    "title": "Iran's Araghchi calls U.S. strikes a 'failure' and vows to fight 'as long as it takes'",
+    "url": "https://www.pbs.org/newshour/show/irans-araghchi-calls-u-s-strikes-a-failure-and-vows-to-fight-as-long-as-it-takes",
+    "source": "PBS",
+    "publishedAt": "2026-03-09T22:50:27Z"
+  },
+  {
+    "title": "Is 'oil rain' really falling in Iran? | About That",
+    "url": "https://www.cbc.ca/player/play/9.7121358?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-09T22:29:41Z"
+  },
+  {
+    "title": "As U.S. and Israel strike Iran, China's foreign policy experts question Washington",
+    "url": "https://www.npr.org/2026/03/09/nx-s1-5732923/as-u-s-and-israel-strike-iran-chinas-foreign-policy-experts-question-washington",
+    "source": "NPR",
+    "publishedAt": "2026-03-09T21:29:03Z"
+  },
+  {
+    "title": "Iranian foreign minister says negotiations with U.S. may be off the table",
+    "url": "https://www.pbs.org/newshour/world/what-irans-foreign-minister-told-us-about-the-next-supreme-leader-rising-oil-prices",
+    "source": "PBS",
+    "publishedAt": "2026-03-09T21:15:54Z"
   },
   {
     "title": "What is Trump’s endgame in Iran as the US-Israel war escalates?",
@@ -60,63 +114,9 @@
     "publishedAt": "2026-03-09T18:34:11Z"
   },
   {
-    "title": "Iran’s new supreme leader brings mystery element to Middle East crisis",
-    "url": "https://www.theguardian.com/world/2026/mar/09/iran-supreme-leader-brings-mystery-element-to-middle-east-crisis-mojtaba-khamenei",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-09T18:30:35Z"
-  },
-  {
     "title": "WHO chief raises alarm after Israeli attacks on Iranian oil facilities",
     "url": "https://www.aljazeera.com/news/2026/3/9/who-chief-raises-alarm-after-israeli-attacks-on-iranian-oil-facilities?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-09T18:10:10Z"
-  },
-  {
-    "title": "Sheinbaum tells Trump: stop illegal arms trade from the US to Mexico",
-    "url": "https://www.theguardian.com/world/2026/mar/09/mexican-cartels-guns-come-from-us-sheinbaum-trump",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-09T17:33:21Z"
-  },
-  {
-    "title": "US teacher killed after toilet paper prank goes wrong",
-    "url": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-09T17:09:21Z"
-  },
-  {
-    "title": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
-    "url": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T16:41:43Z"
-  },
-  {
-    "title": "Turkiye says Iranian ballistic missile intercepted by NATO air defences",
-    "url": "https://www.aljazeera.com/news/2026/3/9/turkiye-says-iranian-ballistic-missile-intercepted-by-nato-air-defences?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T15:38:43Z"
-  },
-  {
-    "title": "Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran",
-    "url": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
-    "source": "NPR",
-    "publishedAt": "2026-03-09T01:24:34Z"
-  },
-  {
-    "title": "Iran war: Experts say oil-producers like Saudi Arabia may only have days left before they have to stop pumping oil.",
-    "url": "https://www.dw.com/en/iran-war-experts-say-oil-producers-like-saudi-arabia-may-only-have-days-left-before-they-have-to-stop-pumping-oil/a-76272635?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-09T15:08:00Z"
-  },
-  {
-    "title": "Gaza food crisis worsens due to Iran war and border closures",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/gaza-food-crisis-worsens-due-to-iran-war-and-border-closures?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T13:36:45Z"
-  },
-  {
-    "title": "How US-Israel war on Iran deepens Gaza crisis",
-    "url": "https://www.aljazeera.com/features/2026/3/9/how-us-israel-war-on-iran-deepens-gaza-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-09T13:36:30Z"
   }
 ]
