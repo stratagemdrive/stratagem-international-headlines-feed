@@ -6,10 +6,10 @@
     "publishedAt": "2026-03-11T19:08:31Z"
   },
   {
-    "title": "Middle East crisis live: Iran steps up campaign to disrupt energy markets as oil price hits $100 a barrel",
+    "title": "Middle East crisis live: Iran steps up campaign to disrupt energy markets as oil price spikes above $100 a barrel",
     "url": "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news",
     "source": "The Guardian",
-    "publishedAt": "2026-03-12T07:48:20Z"
+    "publishedAt": "2026-03-12T09:53:02Z"
   },
   {
     "title": "Iran targets Gulf nations with missiles, drones as oil prices soar",
@@ -18,10 +18,10 @@
     "publishedAt": "2026-03-12T06:31:06Z"
   },
   {
-    "title": "Massive fires on two oil tankers after attack in Iraqi waters",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/massive-fires-on-two-oil-tankers-after-attack-in-iraqi-waters?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-11T23:19:04Z"
+    "title": "War has gripped the Middle East, but the turmoil is giving Russia an opportunity",
+    "url": "https://www.cbc.ca/news/world/russia-iran-us-oil-9.7124540?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-12T08:00:00Z"
   },
   {
     "title": "The Iran war and surging oil prices are affecting consumers. Here's how",
@@ -42,13 +42,25 @@
     "publishedAt": "2026-03-12T04:36:23Z"
   },
   {
-    "title": "Iran war live: Iraq shuts down oil port operations; Israel bombs Beirut",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/3/12/iran-war-live-oil-tankers-hit-in-iraq-tehran-sets-3-conditions-for-peace?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-12T00:00:00Z"
+    "title": "The war in Iran, its effect on the Middle East and the growing global oil crisis",
+    "url": "https://www.npr.org/2026/03/12/nx-s1-5744842/the-war-in-iran-its-effect-on-the-middle-east-and-the-growing-global-oil-crisis",
+    "source": "NPR",
+    "publishedAt": "2026-03-12T08:44:20Z"
   },
   {
-    "title": "Why historic release of oil reserves may not tame surging prices",
+    "title": "Threats to the Strait of Hormuz raises concerns about global oil prices",
+    "url": "https://www.npr.org/2026/03/12/nx-s1-5744776/threats-to-the-strait-of-hormuz-raises-concerns-about-global-oil-prices",
+    "source": "NPR",
+    "publishedAt": "2026-03-12T08:43:43Z"
+  },
+  {
+    "title": "Southeast Asia shuts offices, limits travel as oil crisis deepens",
+    "url": "https://www.aljazeera.com/news/2026/3/12/southeast-asia-shuts-offices-limits-travel-as-oil-crisis-deepens?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-12T08:21:38Z"
+  },
+  {
+    "title": "Why a historic release of oil reserves may not tame surging prices",
     "url": "https://www.aljazeera.com/economy/2026/3/12/why-historic-oil-reserves-release-may-do-little-to-bring-down-rising-prices?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-12T04:32:39Z"
@@ -70,6 +82,12 @@
     "url": "https://www.cbc.ca/player/play/9.7123237?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-03-10T23:02:07Z"
+  },
+  {
+    "title": "France walks ‘fine line’ as US-Israel war on Iran escalates",
+    "url": "https://www.aljazeera.com/news/2026/3/12/france-walks-a-fine-line-as-war-in-us-israel-war-on-iran-escalates?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-12T08:12:29Z"
   },
   {
     "title": "How the Iran war could trigger a fresh food crisis",
@@ -100,23 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/mar/12/asia-energy-crisis-iran-war",
     "source": "The Guardian",
     "publishedAt": "2026-03-12T03:40:56Z"
-  },
-  {
-    "title": "US launches new trade probes that could lead to fresh tariffs",
-    "url": "https://www.dw.com/en/us-launches-new-trade-probes-that-could-lead-to-fresh-tariffs/a-76315448?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-12T02:56:00Z"
-  },
-  {
-    "title": "Trump administration launches process to replace tariffs struck down by U.S. Supreme Court",
-    "url": "https://www.cbc.ca/news/world/trump-tariffs-replace-us-supreme-court-9.7125102?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-03-12T00:55:27Z"
-  },
-  {
-    "title": "Israel bombards Beirut suburbs and southern Lebanon as conflict with Hezbollah escalates",
-    "url": "https://www.theguardian.com/world/2026/mar/12/israel-bombards-beirut-southern-lebanon-hezbollah",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-12T00:10:20Z"
   }
 ]
