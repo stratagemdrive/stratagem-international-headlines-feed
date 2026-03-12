@@ -18,22 +18,22 @@
     "publishedAt": "2026-03-12T21:11:51Z"
   },
   {
-    "title": "Video shows moment Iran strikes US-owned oil tanker near Iraq",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/video-shows-moment-iran-strikes-us-owned-oil-tanker-near-iraq?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-12T14:54:30Z"
-  },
-  {
-    "title": "The Iran war and surging oil prices are affecting consumers. Here's how",
-    "url": "https://www.pbs.org/newshour/economy/the-iran-war-and-surging-oil-prices-are-affecting-consumers-heres-how",
-    "source": "PBS",
-    "publishedAt": "2026-03-11T16:50:26Z"
-  },
-  {
     "title": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis",
     "url": "https://news.un.org/feed/view/en/story/2026/03/1167118",
     "source": "UN News",
     "publishedAt": "2026-03-12T12:00:00Z"
+  },
+  {
+    "title": "Middle East crisis live: top Iranian nuclear scientists killed, Israel says; US carrying out rescue efforts after losing refuelling plane in Iraq",
+    "url": "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-12T23:26:31Z"
+  },
+  {
+    "title": "Iran's new supreme leader vows continued retaliation across Gulf and oil routes",
+    "url": "https://www.pbs.org/newshour/show/irans-new-supreme-leader-vows-continued-retaliation-across-gulf-and-oil-routes",
+    "source": "PBS",
+    "publishedAt": "2026-03-12T22:55:21Z"
   },
   {
     "title": "The war in Iran, its effect on the Middle East and the growing global oil crisis",
@@ -46,12 +46,6 @@
     "url": "https://www.npr.org/2026/03/12/nx-s1-5744776/threats-to-the-strait-of-hormuz-raises-concerns-about-global-oil-prices",
     "source": "NPR",
     "publishedAt": "2026-03-12T08:43:43Z"
-  },
-  {
-    "title": "Middle East crisis live: top Iranian nuclear scientists killed, Israel says; US carrying out rescue efforts after losing refuelling plane in Iraq",
-    "url": "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-12T22:22:49Z"
   },
   {
     "title": "Iran-linked hackers take aim at U.S. and other targets, raising risk of cyberattacks during war",
@@ -118,5 +112,11 @@
     "url": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-12T13:57:56Z"
+  },
+  {
+    "title": "Nineteen jailed over deadly Moscow concert attack",
+    "url": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-12T13:29:01Z"
   }
 ]
