@@ -6,18 +6,6 @@
     "publishedAt": "2026-03-11T19:08:31Z"
   },
   {
-    "title": "Trump claims surging oil prices benefit US as Pentagon reportedly tells lawmakers Iran war cost $11.3bn in first week – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-12T17:24:04Z"
-  },
-  {
-    "title": "‘We make a lot of money’: Trump downplays rise in gas prices during Iran war",
-    "url": "https://www.theguardian.com/us-news/2026/mar/12/trump-gas-prices-iran-war",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-12T16:04:22Z"
-  },
-  {
     "title": "U.S. investigates strike on Iranian school as the war sparks a global oil crisis",
     "url": "https://www.npr.org/2026/03/12/g-s1-113410/up-first-newsletter-iran-war-gas-prices-trump-immigrants-commerical-license-doge-social-security-data",
     "source": "NPR",
@@ -63,7 +51,19 @@
     "title": "Middle East crisis live: Iran issues statement ‘from Mojtaba Khamenei’ as its attacks disrupt energy markets",
     "url": "https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news",
     "source": "The Guardian",
-    "publishedAt": "2026-03-12T17:27:42Z"
+    "publishedAt": "2026-03-12T19:39:38Z"
+  },
+  {
+    "title": "How oil is at the center of the US-Israel war with Iran",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/3/12/aje-onl-irn_tuesdayupdates_av_v2-100326?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-12T18:36:20Z"
+  },
+  {
+    "title": "Israel attacks central Beirut in escalation of deadly assault on Lebanon",
+    "url": "https://www.aljazeera.com/news/2026/3/12/israel-attacks-central-beirut-in-escalation-of-deadly-assault-on-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-12T17:50:35Z"
   },
   {
     "title": "China positions itself as force for global stability and technological innovation at its annual Congress",
@@ -108,15 +108,15 @@
     "publishedAt": "2026-03-12T13:29:01Z"
   },
   {
-    "title": "Massive destruction after Israeli strikes in Beirut neighbourhood",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/massive-destruction-after-israeli-strikes-in-beirut-neighbourhood?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-12T13:09:11Z"
-  },
-  {
     "title": "UK government axes flagship global health project",
     "url": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
     "source": "The Guardian",
     "publishedAt": "2026-03-12T12:59:29Z"
+  },
+  {
+    "title": "U.S. must admit responsibility for deadly airstrike on Iranian school if at fault, says Republican",
+    "url": "https://www.cbc.ca/news/world/iran-school-strike-preliminary-investigation-9.7124641?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-11T22:22:11Z"
   }
 ]
