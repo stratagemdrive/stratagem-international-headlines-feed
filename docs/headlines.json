@@ -1,15 +1,21 @@
 [
   {
+    "title": "Trump says US forces destroyed military targets on Iranian island handling oil exports",
+    "url": "https://www.theguardian.com/world/2026/mar/13/trump-military-kharg-island-iran-oil-export",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-14T10:10:21Z"
+  },
+  {
+    "title": "U.S. military bombs Kharg Island, Iran's main oil export hub, Trump says",
+    "url": "https://www.npr.org/2026/03/14/nx-s1-5747838/trump-kharg-island-iran-war",
+    "source": "NPR",
+    "publishedAt": "2026-03-14T09:30:21Z"
+  },
+  {
     "title": "U.S. eases some sanctions on Russian oil, but crude prices remain high",
     "url": "https://www.pbs.org/newshour/world/u-s-eases-some-sanctions-on-russian-oil-but-crude-prices-remain-high",
     "source": "PBS",
     "publishedAt": "2026-03-13T18:58:40Z"
-  },
-  {
-    "title": "Trump says US forces destroyed military targets on Iranian island handling oil exports",
-    "url": "https://www.theguardian.com/world/2026/mar/13/trump-military-kharg-island-iran-oil-export",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-14T01:50:12Z"
   },
   {
     "title": "Yemeni ports face shipping fee hike amid Iran conflict",
@@ -40,12 +46,6 @@
     "url": "https://www.theguardian.com/business/2026/mar/14/nhs-ministry-of-defence-buy-british-tech-kickstart-growth-artificial-intelligence-rachel-reeves",
     "source": "The Guardian",
     "publishedAt": "2026-03-14T06:00:12Z"
-  },
-  {
-    "title": "Invisible datacentres and capricious chips: is UK’s AI bubble about to burst?",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-14T06:00:11Z"
   },
   {
     "title": "‘Could be the making of him’: Starmer’s allies praise stance on Trump and Iran",
@@ -90,33 +90,33 @@
     "publishedAt": "2026-03-13T20:42:51Z"
   },
   {
-    "title": "‘Deliberate attack’: explosion damages Jewish school in Amsterdam",
-    "url": "https://www.theguardian.com/world/2026/mar/14/deliberate-attack-explosion-damages-jewish-school-in-amsterdam",
+    "title": "War prompts Europeans to switch holidays away from eastern Mediterranean",
+    "url": "https://www.theguardian.com/business/2026/mar/14/war-prompts-europeans-to-switch-holidays-away-from-eastern-mediterranean",
     "source": "The Guardian",
-    "publishedAt": "2026-03-14T08:57:52Z"
+    "publishedAt": "2026-03-14T10:07:58Z"
   },
   {
-    "title": "North Korea fires ballistic missiles as US-South Korea hold military drills",
-    "url": "https://www.aljazeera.com/news/2026/3/14/north-korea-fires-ballistic-missiles-as-us-south-korea-hold-military-drills?traffic_source=rss",
+    "title": "Some Gen Z Americans can't stop 'Chinamaxxing'",
+    "url": "https://www.npr.org/2026/03/13/nx-s1-5743795/chinamaxxing-gen-z-word-of-week",
+    "source": "NPR",
+    "publishedAt": "2026-03-13T20:09:47Z"
+  },
+  {
+    "title": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
+    "url": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-03-14T08:17:27Z"
+    "publishedAt": "2026-03-14T09:53:03Z"
   },
   {
-    "title": "Amsterdam Jewish school targeted in attack",
-    "url": "https://www.dw.com/en/amsterdam-jewish-school-targeted-in-attack/a-76358579?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-14T08:02:00Z"
-  },
-  {
-    "title": "Democratic senators file war powers resolution to check Trump on Cuba",
-    "url": "https://www.pbs.org/newshour/politics/democratic-senators-file-war-powers-resolution-to-check-trump-on-cuba",
-    "source": "PBS",
-    "publishedAt": "2026-03-13T17:27:32Z"
-  },
-  {
-    "title": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad",
-    "url": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss",
+    "title": "Four killed in southern Lebanon apartment after reported Israeli attack",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-03-14T07:20:24Z"
+    "publishedAt": "2026-03-14T09:50:03Z"
+  },
+  {
+    "title": "Iran continues intensified attacks across Gulf in US-Israel war fallout",
+    "url": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-14T09:12:38Z"
   }
 ]
