@@ -1,5 +1,11 @@
 [
   {
+    "title": "Why is Iran’s Kharg Island important?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/us-bombs-irans-oil-hub-kharg-island?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-14T14:07:05Z"
+  },
+  {
     "title": "Trump says US forces destroyed military targets on Iranian island handling oil exports",
     "url": "https://www.theguardian.com/world/2026/mar/13/trump-military-kharg-island-iran-oil-export",
     "source": "The Guardian",
@@ -16,12 +22,6 @@
     "url": "https://www.pbs.org/newshour/world/u-s-eases-some-sanctions-on-russian-oil-but-crude-prices-remain-high",
     "source": "PBS",
     "publishedAt": "2026-03-13T18:58:40Z"
-  },
-  {
-    "title": "Yemeni ports face shipping fee hike amid Iran conflict",
-    "url": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-14T04:37:30Z"
   },
   {
     "title": "Iraq is caught in the crossfire of the Iran war, with attacks by both sides on its soil",
@@ -78,6 +78,18 @@
     "publishedAt": "2026-03-13T12:33:00Z"
   },
   {
+    "title": "‘Worst nightmare’: anger and frustration as Gulf states bear brunt of war they did not start",
+    "url": "https://www.theguardian.com/world/2026/mar/14/gulf-strait-of-hormuz-nightmare-anger-frustration-at-us",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-14T14:27:01Z"
+  },
+  {
+    "title": "Home Office U-turn will let some dual nationals use EU passport to enter UK",
+    "url": "https://www.theguardian.com/uk-news/2026/mar/14/home-office-u-turn-will-let-some-dual-nationals-use-eu-passport-to-enter-uk",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-14T14:15:10Z"
+  },
+  {
     "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
     "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -106,17 +118,5 @@
     "url": "https://www.theguardian.com/society/2026/mar/14/unpaid-carers-ordered-to-repay-benefits-despite-dwp-knowing-rules-were-unlawful",
     "source": "The Guardian",
     "publishedAt": "2026-03-14T12:00:20Z"
-  },
-  {
-    "title": "Sandstorm hits Gaza, impacting displaced Palestinians",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/sandstorm-hits-gaza-impacting-displaced-palestinians?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-14T11:31:34Z"
-  },
-  {
-    "title": "Family pulled from the rubble after US-Israeli strikes on Tehran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/family-pulled-from-the-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-14T11:21:20Z"
   }
 ]
