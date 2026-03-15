@@ -21,7 +21,13 @@
     "title": "Middle East crisis live: Israel says it has launched ‘extensive strikes’ on Iran as Trump says US ‘not ready’ to make a deal to end war",
     "url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
     "source": "The Guardian",
-    "publishedAt": "2026-03-15T18:53:28Z"
+    "publishedAt": "2026-03-15T20:46:05Z"
+  },
+  {
+    "title": "Madagascar anti-corruption chief appointed as new PM",
+    "url": "https://www.dw.com/en/madagascar-anti-corruption-chief-appointed-as-new-pm/a-76368134?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-15T20:26:00Z"
   },
   {
     "title": "US Senator Van Hollen: Trump ‘has no idea where this war is going’",
@@ -34,12 +40,6 @@
     "url": "https://www.theguardian.com/world/2026/mar/15/initiative-may-be-slipping-away-from-us-and-israel-as-middle-east-crisis-deepens",
     "source": "The Guardian",
     "publishedAt": "2026-03-15T18:50:28Z"
-  },
-  {
-    "title": "UK complicit in desecration of international law in Gaza, says Corbyn-led tribunal",
-    "url": "https://www.theguardian.com/politics/2026/mar/15/uk-complicit-desecration-international-law-gaza-says-corbyn-led-tribunal",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-15T18:00:30Z"
   },
   {
     "title": "Zelenskyy says Ukraine is waiting on U.S. and Russia to set the next round of peace talks",
@@ -72,22 +72,40 @@
     "publishedAt": "2026-03-15T12:00:35Z"
   },
   {
-    "title": "Israeli attacks kill 4 people in Lebanon as deadly strikes continue",
-    "url": "https://www.aljazeera.com/news/2026/3/15/overnight-israeli-attacks-kill-four-people-in-lebanon?traffic_source=rss",
+    "title": "Displaced families in Lebanon turn vehicles into rain-soaked shelters",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/displaced-families-in-lebanon-turn-vehicles-into-rain-soaked-shelters?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-03-15T11:05:21Z"
+    "publishedAt": "2026-03-15T20:37:19Z"
   },
   {
-    "title": "US, China hold trade talks in Paris to clear path to Trump-Xi summit",
-    "url": "https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss",
+    "title": "Ukraine eyes money and tech in return for Middle East drone support",
+    "url": "https://www.aljazeera.com/news/2026/3/15/money-technology-important-in-return-for-middle-east-support-zelenskyy?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-03-15T10:10:04Z"
+    "publishedAt": "2026-03-15T20:03:03Z"
+  },
+  {
+    "title": "AP analysis: Two weeks into war with Iran, Trump has been knocked back on his political heels",
+    "url": "https://www.pbs.org/newshour/politics/ap-analysis-two-weeks-into-war-with-iran-trump-has-been-knocked-back-on-his-political-heels",
+    "source": "PBS",
+    "publishedAt": "2026-03-15T20:01:32Z"
   },
   {
     "title": "U.S. eases some sanctions on Russian oil, but crude prices remain high",
     "url": "https://www.pbs.org/newshour/world/u-s-eases-some-sanctions-on-russian-oil-but-crude-prices-remain-high",
     "source": "PBS",
     "publishedAt": "2026-03-13T18:58:40Z"
+  },
+  {
+    "title": "Republican rebukes FCC chair’s threats to revoke broadcast licenses over Iran war",
+    "url": "https://www.theguardian.com/us-news/2026/mar/15/fcc-chair-broadcasters-license-iran-war",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-15T19:13:38Z"
+  },
+  {
+    "title": "Two brothers survive after Israeli troops kill family in occupied West Bank",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/two-brothers-survive-after-israeli-troops-kill-family-in-occupied-west-bank?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-15T19:07:07Z"
   },
   {
     "title": "Twelve arrests at al-Quds Day rally and counterprotest in London",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/video-shows-dozens-of-migrants-being-rescued-in-the-mediterranean-sea?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-15T18:43:37Z"
-  },
-  {
-    "title": "Jan Egeland: Millions displaced as Middle East conflicts deepen",
-    "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/15/jan-egeland-millions-displaced-as-middle-east-conflicts-deepen?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-15T18:34:19Z"
-  },
-  {
-    "title": "US not ready to seek deal to end war with Iran, Donald Trump says",
-    "url": "https://www.theguardian.com/world/2026/mar/15/us-israel-iran-war-donald-trump-ceasefire-deal-new-attacks",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-15T18:23:44Z"
-  },
-  {
-    "title": "War, oppression and fear: In Iran, traumas are accumulating",
-    "url": "https://www.dw.com/en/war-oppression-and-fear-in-iran-traumas-are-accumulating/a-76360945?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-15T18:12:00Z"
   }
 ]
