@@ -1,15 +1,69 @@
 [
   {
-    "title": "Middle East crisis live: Trump increases pressure on allies over strait of Hormuz; Israel says it still has ‘thousands of targets’ in Iran",
+    "title": "US eyes Venezuelan oil as ties thaw and pressure over fuel prices rises",
+    "url": "https://www.npr.org/2026/03/16/nx-s1-5748555/us-eyes-venezuelan-oil-as-ties-thaw-and-pressure-over-fuel-prices-rises",
+    "source": "NPR",
+    "publishedAt": "2026-03-16T08:31:41Z"
+  },
+  {
+    "title": "Iran blocks vital oil route as Israel expands its ground operations in Lebanon",
+    "url": "https://www.npr.org/2026/03/16/nx-s1-5746805/iran-blocks-vital-oil-route-as-israel-expands-its-ground-operations-in-lebanon",
+    "source": "NPR",
+    "publishedAt": "2026-03-16T08:33:29Z"
+  },
+  {
+    "title": "Middle East crisis live: Trump threatens ‘very bad’ future for Nato if allies fail to help secure strait of Hormuz",
     "url": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
     "source": "The Guardian",
-    "publishedAt": "2026-03-16T05:35:03Z"
+    "publishedAt": "2026-03-16T10:24:26Z"
+  },
+  {
+    "title": "Japan begins release of oil reserves as Iran war sparks energy crisis",
+    "url": "https://www.aljazeera.com/economy/2026/3/16/japan-begins-release-of-oil-reserves-as-iran-war-sparks-energy-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-16T06:56:13Z"
   },
   {
     "title": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz",
     "url": "https://www.aljazeera.com/economy/2026/3/16/oil-prices-keep-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-16T02:05:53Z"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 16 March: UN scales up aid as crisis deepens into third week",
+    "url": "https://news.un.org/feed/view/en/story/2026/03/1167137",
+    "source": "UN News",
+    "publishedAt": "2026-03-16T12:00:00Z"
+  },
+  {
+    "title": "Minister plays down Trump’s Nato threat, arguing US alliance strong enough to ‘outlast’ current issues – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2026/mar/16/keir-starmer-donald-trump-iran-nato-oil-cost-of-living-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-16T10:32:46Z"
+  },
+  {
+    "title": "Trump steps up pressure on European allies to help protect strait of Hormuz",
+    "url": "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-16T10:07:23Z"
+  },
+  {
+    "title": "Trump threatens NATO allies over Strait of Hormuz help",
+    "url": "https://www.npr.org/2026/03/16/nx-s1-5749109/trump-threatens-nato-strait-hormuz-iran-war",
+    "source": "NPR",
+    "publishedAt": "2026-03-16T10:05:59Z"
+  },
+  {
+    "title": "US-China trade talks 'stable' despite mutual accusations",
+    "url": "https://www.dw.com/en/us-china-trade-talks-stable-despite-mutual-accusations/a-76373617?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-16T09:21:00Z"
+  },
+  {
+    "title": "Madagascar names anticorruption chief as PM days after cabinet dissolved",
+    "url": "https://www.aljazeera.com/news/2026/3/16/madagascar-names-anticorruption-chief-as-pm-days-after-cabinet-dissolved?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-16T06:55:40Z"
   },
   {
     "title": "Trump claims he has ‘absolute right’ to impose new tariffs after supreme court blow",
@@ -24,12 +78,6 @@
     "publishedAt": "2026-03-16T00:06:14Z"
   },
   {
-    "title": "Iran war live: Trump demands help from NATO allies; Dubai fire contained",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-16T00:00:00Z"
-  },
-  {
     "title": "War-driven energy price spikes highlight value of renewables: UN climate chief",
     "url": "https://news.un.org/feed/view/en/story/2026/03/1167135",
     "source": "UN News",
@@ -42,16 +90,16 @@
     "publishedAt": "2026-03-15T08:00:00Z"
   },
   {
-    "title": "Iran’s ambassador to Saudi Arabia denies attacks on its oil facilities",
-    "url": "https://www.aljazeera.com/news/2026/3/15/iranian-ambassador-to-saudia-arabia-denies-attacks-on-oil-infrasture?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-15T21:24:47Z"
-  },
-  {
     "title": "An Iranian-American writer describes the \"vertigo\" he feels about the war",
     "url": "https://www.npr.org/2026/03/15/nx-s1-5745073/an-iranian-american-writer-describes-the-vertigo-he-feels-about-the-war",
     "source": "NPR",
     "publishedAt": "2026-03-15T20:58:20Z"
+  },
+  {
+    "title": "London book fair roundup: Idris Elba’s thriller deal, the rise of romcom, and fights against censorship",
+    "url": "https://www.theguardian.com/books/2026/mar/16/london-book-fair-roundup-idris-elbas-thriller-deal-the-rise-of-romcom-and-fights-against-censorship",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-16T10:22:29Z"
   },
   {
     "title": "Madagascar anti-corruption chief appointed as new PM",
@@ -60,63 +108,15 @@
     "publishedAt": "2026-03-15T20:26:00Z"
   },
   {
-    "title": "US Senator Van Hollen: Trump ‘has no idea where this war is going’",
-    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/3/15/us-senator-van-hollen-trump-has-no-idea-where-this-war-is?traffic_source=rss",
+    "title": "Israel military says it launched 'limited' ground operations in south Lebanon",
+    "url": "https://www.cbc.ca/news/world/lebanon-israel-9.7130049?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-03-16T10:13:40Z"
+  },
+  {
+    "title": "Israeli military launches ‘ground operations’ in southern Lebanon",
+    "url": "https://www.aljazeera.com/news/2026/3/16/israeli-military-launches-limited-ground-operations-in-southern-lebanon?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-03-15T18:52:50Z"
-  },
-  {
-    "title": "Initiative may be slipping away from US and Israel as Middle East crisis deepens",
-    "url": "https://www.theguardian.com/world/2026/mar/15/initiative-may-be-slipping-away-from-us-and-israel-as-middle-east-crisis-deepens",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-15T18:50:28Z"
-  },
-  {
-    "title": "Zelenskyy says Ukraine is waiting on U.S. and Russia to set the next round of peace talks",
-    "url": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-is-waiting-on-u-s-and-russia-to-set-the-next-round-of-peace-talks",
-    "source": "PBS",
-    "publishedAt": "2026-03-15T15:49:34Z"
-  },
-  {
-    "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-    "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-16T05:14:45Z"
-  },
-  {
-    "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
-    "url": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-16T04:43:43Z"
-  },
-  {
-    "title": "Large protest held in London against US-Israeli war on Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/large-protest-held-in-london-against-us-israeli-war-on-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-16T04:02:11Z"
-  },
-  {
-    "title": "Stars at Oscars 2026 call for end to war in Gaza and Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-16T03:48:41Z"
-  },
-  {
-    "title": "Civil war in Sudan is a never-ending humanitarian crisis",
-    "url": "https://www.dw.com/en/civil-war-in-sudan-is-a-never-ending-humanitarian-crisis/a-76335589?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-15T13:45:00Z"
-  },
-  {
-    "title": "Iranian foreign minister claims Israeli strikes on fuel depots are ‘ecocide’ – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-16T03:17:48Z"
-  },
-  {
-    "title": "Nobody wants to get involved’ in Strait of Hormuz military operations",
-    "url": "https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-16T03:14:39Z"
+    "publishedAt": "2026-03-16T09:38:41Z"
   }
 ]
