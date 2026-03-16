@@ -1,27 +1,21 @@
 [
   {
-    "title": "IEA to consider release of more oil reserves as Iran war keeps prices high",
-    "url": "https://www.theguardian.com/business/2026/mar/16/iea-release-oil-reserves-iran-war-prices-strait-of-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-16T17:51:21Z"
-  },
-  {
     "title": "US eyes Venezuelan oil as ties thaw and pressure over fuel prices rises",
     "url": "https://www.npr.org/2026/03/16/nx-s1-5748555/us-eyes-venezuelan-oil-as-ties-thaw-and-pressure-over-fuel-prices-rises",
     "source": "NPR",
     "publishedAt": "2026-03-16T08:31:41Z"
   },
   {
+    "title": "Middle East crisis live: Trump vents frustration with allies as European countries resist demand for help in strait of Hormuz",
+    "url": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-16T20:47:47Z"
+  },
+  {
     "title": "Iran hits key UAE oil port and Dubai airport",
     "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-16T12:43:32Z"
-  },
-  {
-    "title": "War on Iran: Can fuel rationing, remote work, short sleeves ease oil woes?",
-    "url": "https://www.aljazeera.com/news/2026/3/16/war-on-iran-can-fuel-rationing-remote-work-short-sleeves-ease-oil-woes?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-16T11:10:59Z"
   },
   {
     "title": "Israel steps up bombing in Lebanon as Iran keeps stranglehold on shipping",
@@ -42,16 +36,40 @@
     "publishedAt": "2026-03-16T08:33:29Z"
   },
   {
-    "title": "Trump’s threats to Nato reveal glaring absence of any strategy on Iran",
-    "url": "https://www.theguardian.com/world/2026/mar/16/donald-trump-nato-threats-glaring-absence-iran-strategy",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-16T18:04:01Z"
+    "title": "What are Trump's options in Iran as oil stops flowing and allies resist joining war?",
+    "url": "https://www.npr.org/2026/03/16/nx-s1-5749307/what-are-trumps-options-in-iran-as-oil-stops-flowing-and-allies-resist-joining-war",
+    "source": "NPR",
+    "publishedAt": "2026-03-16T20:30:58Z"
   },
   {
-    "title": "Middle East crisis live: European countries resist Trump’s demand for help to clear the strait of Hormuz",
-    "url": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
+    "title": "Cuba hit by island wide blackout as energy crisis deepens",
+    "url": "https://www.npr.org/2026/03/16/nx-s1-5749457/cuba-blackout-sanctions-oil",
+    "source": "NPR",
+    "publishedAt": "2026-03-16T19:50:42Z"
+  },
+  {
+    "title": "EU calls for urgent reboot in talks with UK to stop reset deal failing",
+    "url": "https://www.theguardian.com/world/2026/mar/16/eu-urgent-reboot-uk-talks-stop-reset-deal-failing",
     "source": "The Guardian",
-    "publishedAt": "2026-03-16T17:58:03Z"
+    "publishedAt": "2026-03-16T19:40:07Z"
+  },
+  {
+    "title": "Trump says Hormuz Strait help ‘on the way’ as allies reject military action",
+    "url": "https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-16T18:53:32Z"
+  },
+  {
+    "title": "Sri Lanka brings in four-day week to eke out stocks of oil and gas hit by Iran war",
+    "url": "https://www.theguardian.com/world/2026/mar/16/sri-lanka-four-day-week-oil-and-gas-iran-war",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-16T18:52:04Z"
+  },
+  {
+    "title": "Cuba reports island-wide blackout as country struggles with energy crisis",
+    "url": "https://www.pbs.org/newshour/world/cuba-reports-island-wide-blackout-as-country-struggles-with-energy-crisis",
+    "source": "PBS",
+    "publishedAt": "2026-03-16T18:26:52Z"
   },
   {
     "title": "US responsible for deadly attack on Iranian school: Amnesty International",
@@ -72,6 +90,12 @@
     "publishedAt": "2026-03-16T12:03:00Z"
   },
   {
+    "title": "World News in Brief: Deadly drone strikes in Sudan, families killed in West Bank, Ukraine casualties update",
+    "url": "https://news.un.org/feed/view/en/story/2026/03/1167142",
+    "source": "UN News",
+    "publishedAt": "2026-03-16T12:00:00Z"
+  },
+  {
     "title": "MIDDLE EAST LIVE 16 March: UN scales up aid as crisis deepens into third week",
     "url": "https://news.un.org/feed/view/en/story/2026/03/1167137",
     "source": "UN News",
@@ -90,33 +114,9 @@
     "publishedAt": "2026-03-16T10:07:23Z"
   },
   {
-    "title": "Trump threatens NATO allies over Strait of Hormuz help",
+    "title": "Trump demands NATO and China police the Strait of Hormuz. So far they aren't joining",
     "url": "https://www.npr.org/2026/03/16/nx-s1-5749109/trump-threatens-nato-strait-hormuz-iran-war",
     "source": "NPR",
     "publishedAt": "2026-03-16T10:05:59Z"
-  },
-  {
-    "title": "US-China trade talks 'stable' despite mutual accusations",
-    "url": "https://www.dw.com/en/us-china-trade-talks-stable-despite-mutual-accusations/a-76373617?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-16T09:21:00Z"
-  },
-  {
-    "title": "Israeli airstrikes pound Iran as it vows to target U.S. industries in region",
-    "url": "https://www.cbc.ca/news/world/trump-may-delay-china-trip-9.7130033?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-03-16T08:58:17Z"
-  },
-  {
-    "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-16T17:27:54Z"
-  },
-  {
-    "title": "US wants help to guard Strait of Hormuz, but EU is not keen",
-    "url": "https://www.dw.com/en/us-wants-help-to-guard-strait-of-hormuz-but-eu-is-not-keen/a-76380348?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-16T17:20:00Z"
   }
 ]
