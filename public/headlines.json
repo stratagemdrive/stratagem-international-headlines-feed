@@ -1,5 +1,11 @@
 [
   {
+    "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+    "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-17T16:10:06Z"
+  },
+  {
     "title": "Surge in US gas prices deepens political peril for Trump over Iran",
     "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -12,22 +18,64 @@
     "publishedAt": "2026-03-16T22:50:46Z"
   },
   {
+    "title": "Middle East crisis live: Trump says Nato allies making ‘foolish mistake’ for not supporting war with Iran, which US will leave ‘in very near future’",
+    "url": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-17T19:12:28Z"
+  },
+  {
     "title": "As Israel launches Lebanon ground operation, Trump asks allies to help reopen oil route",
     "url": "https://www.pbs.org/newshour/show/as-israel-launches-lebanon-ground-operation-trump-asks-allies-to-help-reopen-oil-route",
     "source": "PBS",
     "publishedAt": "2026-03-16T22:55:07Z"
   },
   {
+    "title": "Australia news live: Trump lashes out at Australia over absence of allies against Iran; Cyclone Narelle forms in Coral Sea",
+    "url": "https://www.theguardian.com/australia-news/live/2026/mar/18/australia-news-live-trump-iran-nato-hormuz-interest-rates-rba-cost-of-living-jim-chalmers-economy-fuel-price-crisis-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-17T19:22:33Z"
+  },
+  {
+    "title": "Trump says US does not need Nato after being rebuffed over strait of Hormuz",
+    "url": "https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-17T19:06:07Z"
+  },
+  {
+    "title": "Zelenskyy says Europe is a ‘global force’ that can stand against any other power in address to MPs – as it happened",
+    "url": "https://www.theguardian.com/politics/live/2026/mar/17/uk-us-starmer-trump-king-charles-state-visit-iran-war-zelenskyy-ukraine-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-17T18:22:47Z"
+  },
+  {
+    "title": "Starmer urges allies to keep focus on Ukraine amid Iran war",
+    "url": "https://www.dw.com/en/starmer-urges-allies-to-keep-focus-on-ukraine-amid-iran-war/a-76400266?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-17T16:45:00Z"
+  },
+  {
+    "title": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+    "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-17T16:35:29Z"
+  },
+  {
+    "title": "Trump says he's been rejected by NATO, most allies to join mission to secure critical Strait of Hormuz",
+    "url": "https://www.pbs.org/newshour/world/trump-says-hes-been-rejected-by-nato-most-allies-to-join-mission-to-secure-critical-strait-of-hormuz",
+    "source": "PBS",
+    "publishedAt": "2026-03-17T16:20:43Z"
+  },
+  {
+    "title": "Drones expand the deadly front lines of Sudan’s devastating war",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/drones-expand-the-deadly-front-lines-of-sudans-devastating-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-17T15:46:39Z"
+  },
+  {
     "title": "Why aren’t gold prices rising, despite Iran war uncertainty?",
     "url": "https://www.aljazeera.com/economy/2026/3/17/why-arent-gold-prices-rising-despite-iran-war-uncertainty?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-17T15:27:11Z"
-  },
-  {
-    "title": "Middle East crisis live: top US counterterrorism official resigns, saying Iran ‘posed no imminent threat to our nation’",
-    "url": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-17T15:14:23Z"
   },
   {
     "title": "Rescue teams recover bodies after deadly Kabul hospital air strike",
@@ -54,69 +102,21 @@
     "publishedAt": "2026-03-17T13:15:01Z"
   },
   {
-    "title": "Iran blames US, Israel for Hormuz tensions as crisis risks energy supplies",
-    "url": "https://www.aljazeera.com/news/2026/3/17/iran-blames-us-israel-for-hormuz-tensions-as-crisis-risks-energy-supplies?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-17T13:03:47Z"
-  },
-  {
     "title": "How Pakistan’s people-led solar boom is easing impact of Middle East energy crisis",
     "url": "https://www.theguardian.com/environment/2026/mar/17/pakistan-people-led-solar-boom-middle-east-energy-crisis",
     "source": "The Guardian",
     "publishedAt": "2026-03-17T13:00:47Z"
   },
   {
+    "title": "Afghanistan: UN condemns deadly attack on rehab centre in Kabul",
+    "url": "https://news.un.org/feed/view/en/story/2026/03/1167148",
+    "source": "UN News",
+    "publishedAt": "2026-03-17T12:00:00Z"
+  },
+  {
     "title": "U.S. seeks NATO help with Strait of Hormuz. And, federal judge blocks vaccine changes",
     "url": "https://www.npr.org/2026/03/17/g-s1-114032/up-first-newsletter-iran-israel-lebanon-us-war-cuba-power-outage-rfk-vaccine-protected-status-migrants",
     "source": "NPR",
     "publishedAt": "2026-03-17T11:33:03Z"
-  },
-  {
-    "title": "Millions without electricity as Cuba's power grid collapses",
-    "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-17T10:32:25Z"
-  },
-  {
-    "title": "Could the Iran war trigger a global recession?",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/17/could-the-iran-war-trigger-a-global-recession?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-17T10:12:56Z"
-  },
-  {
-    "title": "How Trump's Treasury is shifting sanctions to punish his critics and reward friends",
-    "url": "https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trump-foreign-punish",
-    "source": "NPR",
-    "publishedAt": "2026-03-17T09:00:00Z"
-  },
-  {
-    "title": "How the energy crisis fueled by the war in Iran is affecting Asia",
-    "url": "https://www.npr.org/2026/03/17/nx-s1-5746777/how-the-energy-crisis-fueled-by-the-war-in-iran-is-affecting-asia",
-    "source": "NPR",
-    "publishedAt": "2026-03-17T08:49:15Z"
-  },
-  {
-    "title": "Why allies aren't leaping to Trump's aid in Strait of Hormuz",
-    "url": "https://www.cbc.ca/news/world/trump-iran-allies-strait-hormuz-oil-shipping-9.7131218?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-03-17T08:00:00Z"
-  },
-  {
-    "title": "Israel steps up bombing in Lebanon as Iran keeps stranglehold on shipping",
-    "url": "https://www.pbs.org/newshour/world/israel-steps-up-bombing-in-lebanon-as-iran-keeps-stranglehold-on-shipping",
-    "source": "PBS",
-    "publishedAt": "2026-03-16T17:47:52Z"
-  },
-  {
-    "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
-    "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-16T17:34:13Z"
-  },
-  {
-    "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
-    "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-17T06:47:42Z"
   }
 ]
