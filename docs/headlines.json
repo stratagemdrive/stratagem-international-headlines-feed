@@ -12,6 +12,12 @@
     "publishedAt": "2026-03-16T22:50:46Z"
   },
   {
+    "title": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war",
+    "url": "https://www.aljazeera.com/news/2026/3/17/drone-sparks-fire-at-uae-oil-site-as-gulf-takes-more-hits-amid-iran-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-17T06:35:15Z"
+  },
+  {
     "title": "As Israel launches Lebanon ground operation, Trump asks allies to help reopen oil route",
     "url": "https://www.pbs.org/newshour/show/as-israel-launches-lebanon-ground-operation-trump-asks-allies-to-help-reopen-oil-route",
     "source": "PBS",
@@ -30,10 +36,28 @@
     "publishedAt": "2026-03-16T17:47:52Z"
   },
   {
+    "title": "Middle East crisis live: Israel urges evacuation in south Lebanon ahead of attack; strikes on US embassy in Iraq",
+    "url": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-17T07:29:36Z"
+  },
+  {
     "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
     "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-16T17:34:13Z"
+  },
+  {
+    "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
+    "url": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-17T06:47:42Z"
+  },
+  {
+    "title": "Iran’s neighbours brace for fallout as war threatens new refugee crisis",
+    "url": "https://www.aljazeera.com/news/2026/3/17/irans-neighbours-prepare-for-fallout-as-war-threatens-new-refugee-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-17T06:13:43Z"
   },
   {
     "title": "Iran blocks vital oil route as Israel expands its ground operations in Lebanon",
@@ -42,40 +66,16 @@
     "publishedAt": "2026-03-16T08:33:29Z"
   },
   {
-    "title": "Middle East crisis live: Trump seeks to delay summit with China’s Xi amid Iran war; US embassy in Baghdad reportedly targeted in air attack",
-    "url": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-17T04:48:52Z"
-  },
-  {
     "title": "Millions without electricity as Cuba's power grid collapses",
     "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-17T03:46:22Z"
   },
   {
-    "title": "Afghanistan accuses Pakistan of deadly strike on Kabul hospital",
-    "url": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-17T01:08:53Z"
-  },
-  {
     "title": "Afghanistan accuses Pakistan of deadly strike on Kabul hospital that it says killed hundreds",
     "url": "https://www.cbc.ca/news/world/afghanistan-hospital-bomb-strike-pakistan-9.7131092?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-03-17T00:24:57Z"
-  },
-  {
-    "title": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-17T00:00:00Z"
-  },
-  {
-    "title": "Four killed in Iraq’s Baghdad as US forces, Iran-backed groups trade fire",
-    "url": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-16T23:00:11Z"
   },
   {
     "title": "Middle East experts discuss Trump's pressure on NATO to reopen Strait of Hormuz",
@@ -88,12 +88,6 @@
     "url": "https://www.theguardian.com/us-news/2026/mar/16/us-troops-iran-war",
     "source": "The Guardian",
     "publishedAt": "2026-03-16T21:31:48Z"
-  },
-  {
-    "title": "Trump threatens to ‘take’ Cuba amid island-wide power crisis",
-    "url": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-16T20:45:55Z"
   },
   {
     "title": "What are Trump's options in Iran as oil stops flowing and allies resist joining war?",
@@ -118,5 +112,11 @@
     "url": "https://www.pbs.org/newshour/world/cuba-reports-island-wide-blackout-as-country-struggles-with-energy-crisis",
     "source": "PBS",
     "publishedAt": "2026-03-16T18:26:52Z"
+  },
+  {
+    "title": "Palestinian refugees face new displacement as Israel’s bombs hit Lebanon",
+    "url": "https://www.aljazeera.com/features/2026/3/17/palestinian-refugees-face-new-displacement-as-israels-bombs-hit-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-17T07:33:24Z"
   }
 ]
