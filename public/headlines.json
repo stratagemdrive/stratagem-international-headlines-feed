@@ -6,6 +6,18 @@
     "publishedAt": "2026-03-19T22:45:19Z"
   },
   {
+    "title": "Iran hits Kuwaiti oil refinery as Israel renews attacks on Tehran",
+    "url": "https://www.aljazeera.com/news/2026/3/20/kuwait-oil-refinery-hit-again-as-iran-targets-gulf-energy-infrastructure?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-20T08:04:32Z"
+  },
+  {
+    "title": "Why it's so hard for world leaders to bring down oil and gasoline prices",
+    "url": "https://www.npr.org/2026/03/20/nx-s1-5753985/oil-gasoline-prices-iran",
+    "source": "NPR",
+    "publishedAt": "2026-03-20T09:00:00Z"
+  },
+  {
     "title": "Work from home and slow down on the road: world’s energy watchdog advises emergency measures as oil prices rise",
     "url": "https://www.theguardian.com/business/2026/mar/20/oil-price-energy-watchdog-iea-emergency-measures-work-from-home-slow-down-on-the-road",
     "source": "The Guardian",
@@ -28,6 +40,12 @@
     "url": "https://www.pbs.org/newshour/show/lawmakers-press-u-s-intelligence-officials-on-iran-war-as-new-strikes-jolt-oil-markets",
     "source": "PBS",
     "publishedAt": "2026-03-18T22:55:11Z"
+  },
+  {
+    "title": "Three charged in the US with smuggling AI chips into China",
+    "url": "https://www.aljazeera.com/news/2026/3/20/three-charged-in-the-us-with-smuggling-ai-chips-into-china?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-20T08:05:43Z"
   },
   {
     "title": "Why Pakistani farmers are suing two German companies for deadly 2022 floods",
@@ -54,19 +72,7 @@
     "publishedAt": "2026-03-20T00:59:29Z"
   },
   {
-    "title": "Iran attacks world's largest liquified natural gas complex in Qatar",
-    "url": "https://www.npr.org/2026/03/19/nx-s1-5752290/iran-attacks-worlds-largest-liquified-natural-gas-complex-in-qatar",
-    "source": "NPR",
-    "publishedAt": "2026-03-19T10:48:29Z"
-  },
-  {
-    "title": "US may remove sanctions on Iranian oil stranded in tankers, treasury secretary says",
-    "url": "https://www.theguardian.com/us-news/2026/mar/19/us-sanctions-iranian-oil-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-20T00:31:30Z"
-  },
-  {
-    "title": "The global winners and losers of the war in Iran",
+    "title": "Russia, China and the US – the global winners and losers of the Iran war",
     "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-20T00:08:53Z"
@@ -84,12 +90,6 @@
     "publishedAt": "2026-03-19T22:55:57Z"
   },
   {
-    "title": "Senegal and Morocco tied by religion and trade but divided by AFCON fallout",
-    "url": "https://www.aljazeera.com/sports/2026/3/19/senegal-and-morocco-tied-by-religion-and-trade-but-divided-by-afcon-fallout?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-19T22:51:25Z"
-  },
-  {
     "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
     "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -102,12 +102,6 @@
     "publishedAt": "2026-03-19T22:35:42Z"
   },
   {
-    "title": "Israel continues Gaza attacks amid regional war, kills several Palestinians",
-    "url": "https://www.aljazeera.com/news/2026/3/19/israel-continues-gaza-attacks-amid-regional-war-kills-several-palestinians?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-19T22:00:17Z"
-  },
-  {
     "title": "'Why didn't you tell me about Pearl Harbor?' Trump says when Japanese reporter asks why allies didn't know about Iran plan",
     "url": "https://www.pbs.org/newshour/world/watch-why-didnt-you-tell-me-about-pearl-harbor-trump-says-when-japanese-reporter-asks-why-allies-didnt-know-about-iran-plan",
     "source": "PBS",
@@ -118,5 +112,11 @@
     "url": "https://www.pbs.org/newshour/politics/trump-faces-his-most-difficult-iran-war-decision-will-he-deploy-u-s-troops-to-seize-uranium",
     "source": "PBS",
     "publishedAt": "2026-03-19T21:21:13Z"
+  },
+  {
+    "title": "Iran intensifies attacks on Gulf energy sites after Israel struck its key gas field",
+    "url": "https://www.pbs.org/newshour/world/iran-intensifies-attacks-on-gulf-energy-sites-after-israel-struck-its-key-gas-field",
+    "source": "PBS",
+    "publishedAt": "2026-03-19T20:28:25Z"
   }
 ]
