@@ -1,5 +1,11 @@
 [
   {
+    "title": "Switzerland announces halt to weapons exports to US amid Iran war",
+    "url": "https://www.aljazeera.com/news/2026/3/20/switzerland-announces-halt-to-weapons-exports-to-us-amid-iran-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-20T15:29:24Z"
+  },
+  {
     "title": "Israeli and Iranian strikes on oil and gas facilities rattle global markets",
     "url": "https://www.pbs.org/newshour/show/israeli-and-iranian-strikes-on-oil-and-gas-facilities-rattle-global-markets",
     "source": "PBS",
@@ -10,12 +16,6 @@
     "url": "https://www.npr.org/2026/03/20/nx-s1-5754550/israel-strikes-tehran-iran-attacks-gulf",
     "source": "NPR",
     "publishedAt": "2026-03-20T10:21:36Z"
-  },
-  {
-    "title": "Iran hits Kuwaiti oil refinery as Israel renews attacks on Tehran",
-    "url": "https://www.aljazeera.com/news/2026/3/20/kuwait-oil-refinery-hit-again-as-iran-targets-gulf-energy-infrastructure?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-20T08:04:32Z"
   },
   {
     "title": "Global oil and energy prices are reeling as the war in the Middle East escalates",
@@ -36,16 +36,52 @@
     "publishedAt": "2026-03-20T06:20:40Z"
   },
   {
-    "title": "Cuba readies for first Russian oil shipment of the year as energy crisis deepens",
-    "url": "https://www.npr.org/2026/03/20/g-s1-114535/cuba-readies-for-first-russian-oil-shipment-of-the-year-as-energy-crisis-deepens",
-    "source": "NPR",
-    "publishedAt": "2026-03-20T05:59:55Z"
-  },
-  {
     "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
     "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
     "source": "The Guardian",
     "publishedAt": "2026-03-20T02:52:28Z"
+  },
+  {
+    "title": "Could Iran war trigger the next global food shock?",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-20T16:20:00Z"
+  },
+  {
+    "title": "Nato relocates personnel from Iraq mission to Europe amid conflict in Middle East – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/mar/20/spain-tax-france-elections-pope-leo-eu-iran-war-energy-costs-europe-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-20T16:12:23Z"
+  },
+  {
+    "title": "UK borrowing costs hit highest since 2008 as markets expect up to three interest rate rises",
+    "url": "https://www.theguardian.com/business/2026/mar/20/uk-borrowing-rises-unexpectedly-in-february",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-20T15:58:06Z"
+  },
+  {
+    "title": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran",
+    "url": "https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-20T15:49:05Z"
+  },
+  {
+    "title": "US easing ban on Iranian oil would signal ‘beginning of the end of war’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/us-easing-ban-on-iranian-oil-would-signal-beginning-of-the-end-of?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-20T15:12:02Z"
+  },
+  {
+    "title": "‘We need to think much bigger’: trade minister calls for greater ambition in UK-EU reset",
+    "url": "https://www.theguardian.com/politics/2026/mar/20/trade-minister-chris-bryant-uk-eu-reset-ambition",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-20T15:00:27Z"
+  },
+  {
+    "title": "Will Russian oil be the biggest winner in the US-Israel war on Iran?",
+    "url": "https://www.aljazeera.com/features/2026/3/20/will-russian-oil-be-the-biggest-winner-in-the-us-israel-war-on-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-20T14:48:43Z"
   },
   {
     "title": "Iran threatens to target tourism sites worldwide and says it's still building missiles nearly 3 weeks into war",
@@ -66,57 +102,21 @@
     "publishedAt": "2026-03-20T10:26:47Z"
   },
   {
-    "title": "Three charged in the US with smuggling AI chips into China",
-    "url": "https://www.aljazeera.com/news/2026/3/20/three-charged-in-the-us-with-smuggling-ai-chips-into-china?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-20T08:05:43Z"
-  },
-  {
-    "title": "China has been preparing for a global energy crisis for years. It is paying off now",
-    "url": "https://www.theguardian.com/world/2026/mar/20/china-oil-reserves-global-energy-crisis",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-20T01:14:34Z"
-  },
-  {
-    "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
-    "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-20T00:59:29Z"
-  },
-  {
-    "title": "Zelenskyy says Ukraine is using drone expertise to help 5 countries against Iran attacks",
-    "url": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-is-using-drone-expertise-to-help-5-countries-against-iran-attacks",
-    "source": "PBS",
-    "publishedAt": "2026-03-20T14:09:25Z"
-  },
-  {
-    "title": "Russia, China and the US – the global winners and losers of the Iran war",
-    "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-20T00:08:53Z"
-  },
-  {
-    "title": "Iran video said to show US F-35 being hit",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-20T13:44:06Z"
-  },
-  {
-    "title": "Nasa’s Artemis II rocket begins slow crawl to launchpad in preparation for moon fly-by",
-    "url": "https://www.theguardian.com/science/2026/mar/20/nasa-artemis-ii-rocket",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-20T13:14:14Z"
-  },
-  {
-    "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-    "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-19T23:19:00Z"
-  },
-  {
-    "title": "US considering occupying Kharg Island to force Iran to open Hormuz strait, say reports",
+    "title": "US reportedly preparing to deploy thousands more troops to Middle East",
     "url": "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump",
     "source": "The Guardian",
-    "publishedAt": "2026-03-20T13:06:51Z"
+    "publishedAt": "2026-03-20T16:56:59Z"
+  },
+  {
+    "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
+    "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-20T16:32:43Z"
+  },
+  {
+    "title": "Iran war: Assassinations leave little room for negotiation",
+    "url": "https://www.dw.com/en/iran-war-assassinations-leave-little-room-for-negotiation/a-76455839?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-20T16:13:00Z"
   }
 ]
