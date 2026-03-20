@@ -1,5 +1,11 @@
 [
   {
+    "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
+    "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-20T20:16:29Z"
+  },
+  {
     "title": "Switzerland halts US arms exports amid Iran war, citing neutrality",
     "url": "https://www.aljazeera.com/news/2026/3/20/switzerland-announces-halt-to-weapons-exports-to-us-amid-iran-war?traffic_source=rss",
     "source": "Al Jazeera",
@@ -24,6 +30,12 @@
     "publishedAt": "2026-03-20T09:00:00Z"
   },
   {
+    "title": "Iran's cultural heritage sites are being damaged by American and Israeli strikes",
+    "url": "https://www.npr.org/2026/03/20/nx-s1-5748554/irans-cultural-heritage-sites-are-being-damaged-by-american-and-israeli-strikes",
+    "source": "NPR",
+    "publishedAt": "2026-03-20T20:24:21Z"
+  },
+  {
     "title": "Work from home and slow down on the road: world’s energy watchdog advises emergency measures as oil prices rise",
     "url": "https://www.theguardian.com/business/2026/mar/20/oil-price-energy-watchdog-iea-emergency-measures-work-from-home-slow-down-on-the-road",
     "source": "The Guardian",
@@ -46,12 +58,6 @@
     "url": "https://www.theguardian.com/business/2026/mar/20/lowering-speed-limits-uk-oil-iea-iran-war",
     "source": "The Guardian",
     "publishedAt": "2026-03-20T18:10:07Z"
-  },
-  {
-    "title": "Trump decries Nato allies as ‘cowards’ as strait of Hormuz impasse goes on",
-    "url": "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-20T17:41:08Z"
   },
   {
     "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
@@ -112,11 +118,5 @@
     "url": "https://news.un.org/feed/view/en/story/2026/03/1167168",
     "source": "UN News",
     "publishedAt": "2026-03-20T12:00:00Z"
-  },
-  {
-    "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
-    "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-20T10:26:47Z"
   }
 ]
