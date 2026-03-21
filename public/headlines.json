@@ -1,11 +1,5 @@
 [
   {
-    "title": "US lifts sanctions on some Iranian oil as gas prices soar",
-    "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-20T23:52:54Z"
-  },
-  {
     "title": "As attacks on oil sites continue, Trump dismisses ceasefire, says Iran is 'finished'",
     "url": "https://www.pbs.org/newshour/show/as-attacks-on-oil-sites-continue-trump-dismisses-ceasefire-says-iran-is-finished",
     "source": "PBS",
@@ -24,16 +18,16 @@
     "publishedAt": "2026-03-20T21:17:30Z"
   },
   {
+    "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran fired missiles at Diego Garcia military base",
+    "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-21T10:45:08Z"
+  },
+  {
     "title": "Israeli and Iranian strikes on oil and gas facilities rattle global markets",
     "url": "https://www.pbs.org/newshour/show/israeli-and-iranian-strikes-on-oil-and-gas-facilities-rattle-global-markets",
     "source": "PBS",
     "publishedAt": "2026-03-19T22:45:19Z"
-  },
-  {
-    "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran reportedly fired two missiles at Diego Garcia military base",
-    "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-21T08:34:12Z"
   },
   {
     "title": "Thick smoke billows from South Korea car parts plant in deadly fire",
@@ -48,12 +42,6 @@
     "publishedAt": "2026-03-21T05:22:28Z"
   },
   {
-    "title": "Iran’s willingness to escalate this high-stakes war is its greatest weapon",
-    "url": "https://www.theguardian.com/world/2026/mar/21/iran-war-conflict-middle-east-trump-israel",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-21T05:00:42Z"
-  },
-  {
     "title": "Global oil and energy prices are reeling as the war in the Middle East escalates",
     "url": "https://www.npr.org/2026/03/20/nx-s1-5753773/global-oil-and-energy-prices-are-reeling-as-the-war-in-the-middle-east-escalates",
     "source": "NPR",
@@ -66,10 +54,16 @@
     "publishedAt": "2026-03-20T23:30:47Z"
   },
   {
-    "title": "Why it's so hard for world leaders to bring down oil and gasoline prices",
-    "url": "https://www.npr.org/2026/03/20/nx-s1-5753985/oil-gasoline-prices-iran",
-    "source": "NPR",
-    "publishedAt": "2026-03-20T09:00:00Z"
+    "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+    "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-21T10:34:53Z"
+  },
+  {
+    "title": "Iran fires missiles towards UK-US base on Diego Garcia",
+    "url": "https://www.theguardian.com/world/2026/mar/21/iran-reportedly-fires-missiles-towards-uk-us-base-on-diego-garcia",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-21T10:34:06Z"
   },
   {
     "title": "Iran's cultural heritage sites are being damaged by American and Israeli strikes",
@@ -78,16 +72,34 @@
     "publishedAt": "2026-03-20T20:24:21Z"
   },
   {
+    "title": "Iran war enters its fourth week with no clear end in sight",
+    "url": "https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week",
+    "source": "NPR",
+    "publishedAt": "2026-03-21T09:43:23Z"
+  },
+  {
     "title": "NATO pulls security advisory mission out of Iraq after Iranian attacks on European bases",
     "url": "https://www.pbs.org/newshour/world/nato-pulls-security-advisory-mission-out-of-iraq-after-iranian-attacks-on-european-bases",
     "source": "PBS",
     "publishedAt": "2026-03-20T19:43:40Z"
   },
   {
+    "title": "Israel systematically torturing Palestinians in custody, says UN expert",
+    "url": "https://www.aljazeera.com/news/2026/3/21/israel-systematically-torturing-palestinians-in-custody-says-un-expert?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-21T09:31:47Z"
+  },
+  {
     "title": "How the Iran war threatens global food supply",
     "url": "https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply",
     "source": "NPR",
     "publishedAt": "2026-03-20T19:35:21Z"
+  },
+  {
+    "title": "Iran war: What’s happening on day 22 of US-Israel attacks?",
+    "url": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-21T09:07:01Z"
   },
   {
     "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
@@ -106,17 +118,5 @@
     "url": "https://www.theguardian.com/lifeandstyle/2026/mar/21/pet-passport-dodge-travel-uk-eu-animal-health-certificate",
     "source": "The Guardian",
     "publishedAt": "2026-03-21T08:00:47Z"
-  },
-  {
-    "title": "‘This is the saddest moment’: families search for loved ones on Eid after Kabul hospital strike",
-    "url": "https://www.theguardian.com/world/2026/mar/21/kabul-hospital-strike-eid-pakistan-taliban-families-search-for-victims",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-21T08:00:47Z"
-  },
-  {
-    "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
-    "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-20T02:52:28Z"
   }
 ]
