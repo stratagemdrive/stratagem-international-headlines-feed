@@ -1,11 +1,5 @@
 [
   {
-    "title": "Middle East crisis live: Trump considering ‘winding down’ war as US eases sanctions on Iranian oil; Israel launches retaliatory strikes",
-    "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-21T06:50:30Z"
-  },
-  {
     "title": "US lifts sanctions on some Iranian oil as gas prices soar",
     "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -34,6 +28,12 @@
     "url": "https://www.pbs.org/newshour/show/israeli-and-iranian-strikes-on-oil-and-gas-facilities-rattle-global-markets",
     "source": "PBS",
     "publishedAt": "2026-03-19T22:45:19Z"
+  },
+  {
+    "title": "Middle East crisis live: Trump says US considering ‘winding down’ war; Iran reportedly fired two missiles at Diego Garcia military base",
+    "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-21T08:34:12Z"
   },
   {
     "title": "Thick smoke billows from South Korea car parts plant in deadly fire",
@@ -90,33 +90,33 @@
     "publishedAt": "2026-03-20T19:35:21Z"
   },
   {
+    "title": "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-21T08:21:20Z"
+  },
+  {
+    "title": "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
+    "url": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-21T08:01:15Z"
+  },
+  {
+    "title": "Owners from Great Britain travelling to EU warned over pet passport ‘dodge’",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/mar/21/pet-passport-dodge-travel-uk-eu-animal-health-certificate",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-21T08:00:47Z"
+  },
+  {
+    "title": "‘This is the saddest moment’: families search for loved ones on Eid after Kabul hospital strike",
+    "url": "https://www.theguardian.com/world/2026/mar/21/kabul-hospital-strike-eid-pakistan-taliban-families-search-for-victims",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-21T08:00:47Z"
+  },
+  {
     "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
     "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
     "source": "The Guardian",
     "publishedAt": "2026-03-20T02:52:28Z"
-  },
-  {
-    "title": "Nato relocates personnel from Iraq mission to Europe amid conflict in Middle East – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/mar/20/spain-tax-france-elections-pope-leo-eu-iran-war-energy-costs-europe-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-20T16:12:23Z"
-  },
-  {
-    "title": "300 million people celebrate Nowruz under a cloud of war",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-21T03:58:08Z"
-  },
-  {
-    "title": "Iran threatens to target tourism sites worldwide and says it's still building missiles nearly 3 weeks into war",
-    "url": "https://www.pbs.org/newshour/world/iran-threatens-to-target-tourism-sites-worldwide-and-says-its-still-building-missiles-nearly-3-weeks-into-war",
-    "source": "PBS",
-    "publishedAt": "2026-03-20T13:53:46Z"
-  },
-  {
-    "title": "Israel launches fresh strikes on Tehran and Beirut - as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/mar/20/iran-war-live-updates-oil-prices-israel-netanyahu-ground-component-us-tensions-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-21T03:40:41Z"
   }
 ]
