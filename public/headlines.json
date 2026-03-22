@@ -1,5 +1,11 @@
 [
   {
+    "title": "Australian politics live: Hume says more work from home ‘won’t touch the sides’ of fuel crisis; minister says South Korea has ‘vested interest’ in keeping shipping routes open",
+    "url": "https://www.theguardian.com/australia-news/live/2026/mar/23/federal-parliament-ursula-von-der-leyen-visit-labor-anthony-albanese-chris-bowen-fuel-crisis-coalition-liberals-angus-taylor-nationals-matt-canavan-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-22T22:46:08Z"
+  },
+  {
     "title": "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis",
     "url": "https://www.aljazeera.com/news/2026/3/22/pakistan-super-league-matches-to-be-held-in-empty-stadiums-amid-oil-crisis?traffic_source=rss",
     "source": "Al Jazeera",
@@ -9,7 +15,7 @@
     "title": "Middle East crisis live: Iran will completely close strait of Hormuz if Trump acts on infrastructure threats, says IRG",
     "url": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation",
     "source": "The Guardian",
-    "publishedAt": "2026-03-22T21:37:21Z"
+    "publishedAt": "2026-03-22T22:38:32Z"
   },
   {
     "title": "NATO allies prepare for a Russian attack in the far North",
@@ -52,6 +58,18 @@
     "url": "https://www.theguardian.com/us-news/2026/mar/22/trump-iran-leon-panetta",
     "source": "The Guardian",
     "publishedAt": "2026-03-22T11:00:19Z"
+  },
+  {
+    "title": "Thousands of Chileans protest President Kast's environmental rollbacks on World Water Day",
+    "url": "https://www.pbs.org/newshour/world/thousands-of-chileans-protest-president-kasts-environmental-rollbacks-on-world-water-day",
+    "source": "PBS",
+    "publishedAt": "2026-03-22T22:42:39Z"
+  },
+  {
+    "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+    "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-03-22T22:38:24Z"
   },
   {
     "title": "Cuba begins to restore power after third nationwide collapse in a month",
@@ -100,23 +118,5 @@
     "url": "https://www.cbc.ca/news/world/israeli-settler-rampage-west-bank-9.7137994?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-03-22T19:17:39Z"
-  },
-  {
-    "title": "Lebanon’s Aoun warns Israeli attack on bridge ‘prelude to ground invasion’",
-    "url": "https://www.aljazeera.com/news/2026/3/22/lebanons-aoun-calls-israel-strikes-on-bridges-prelude-to-ground-invasion?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-22T18:48:15Z"
-  },
-  {
-    "title": "Syrians protest curbs on alcohol sales in Damascus",
-    "url": "https://www.dw.com/en/syrians-protest-curbs-on-alcohol-sales-in-damascus/a-76477243?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-22T18:39:00Z"
-  },
-  {
-    "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-    "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-22T18:37:07Z"
   }
 ]
