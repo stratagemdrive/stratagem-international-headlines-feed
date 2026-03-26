@@ -1,15 +1,27 @@
 [
   {
+    "title": "Australia politics live: NSW treasurer complains whole GST system is ‘busted’ and has his state ‘shipping billions of dollars down the Hume’",
+    "url": "https://www.theguardian.com/australia-news/live/2026/mar/26/australia-politics-live-penny-wong-iran-united-nations-war-fuel-crisis-cost-of-living-parliament-question-time-anthony-albanese-angus-taylor-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-25T23:52:03Z"
+  },
+  {
     "title": "Nigeria moves to broaden security alliances amid ongoing insurgency threats",
     "url": "https://www.dw.com/en/nigeria-moves-to-broaden-security-alliances-amid-ongoing-insurgency-threats/a-76512959?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-03-25T13:52:00Z"
   },
   {
-    "title": "Middle East crisis live: Iranian official warns US troops set to deploy to region as Israel says it is expanding ‘buffer zone’ in Lebanon",
+    "title": "Middle East crisis live: Iran says no plan to negotiate with US; Israel says it is expanding ‘buffer zone’ in Lebanon",
     "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
     "source": "The Guardian",
-    "publishedAt": "2026-03-25T22:39:30Z"
+    "publishedAt": "2026-03-25T23:53:58Z"
+  },
+  {
+    "title": "Egypt says it is ready to host Iran de-escalation talks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/egypt-says-it-is-ready-to-host-iran-de-escalation-talks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-25T23:44:14Z"
   },
   {
     "title": "Iran dismisses U.S. ceasefire plan and issues its own counterproposal",
@@ -78,6 +90,18 @@
     "publishedAt": "2026-03-25T12:00:00Z"
   },
   {
+    "title": "Iranian foreign minister rejects talks with US",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/iranian-foreign-minister-rejects-talks-with-us?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-25T23:09:23Z"
+  },
+  {
+    "title": "Iran rejects Trump's ceasefire terms and issues own demands as war continues",
+    "url": "https://www.pbs.org/newshour/show/iran-rejects-trumps-ceasefire-terms-and-issues-own-demands-as-war-continues",
+    "source": "PBS",
+    "publishedAt": "2026-03-25T22:55:06Z"
+  },
+  {
     "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
     "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -94,29 +118,5 @@
     "url": "https://www.pbs.org/newshour/show/mideast-experts-analyze-state-of-iran-war-and-diplomatic-efforts-to-end-it",
     "source": "PBS",
     "publishedAt": "2026-03-25T22:30:45Z"
-  },
-  {
-    "title": "Lebanese emergency workers risk lives to aid civilians during ongoing Israeli attacks",
-    "url": "https://www.pbs.org/newshour/show/lebanese-emergency-workers-risk-lives-to-aid-civilians-during-ongoing-israeli-attacks",
-    "source": "PBS",
-    "publishedAt": "2026-03-25T22:25:09Z"
-  },
-  {
-    "title": "Video shows Israeli strike hitting displacement camp in Gaza",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-shows-israeli-strike-hitting-displacement-camp-in-gaza?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-25T22:12:18Z"
-  },
-  {
-    "title": "State-of-the-art air defense systems have not been able to stop some Iranian missiles",
-    "url": "https://www.npr.org/2026/03/25/nx-s1-5760839/state-of-the-art-air-defense-systems-have-not-been-able-to-stop-some-iranian-missiles",
-    "source": "NPR",
-    "publishedAt": "2026-03-25T21:56:32Z"
-  },
-  {
-    "title": "Philippines farmers feeling the pinch of the war on Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-farmers-feeling-the-pinch-of-the-war-on-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-25T20:59:41Z"
   }
 ]
