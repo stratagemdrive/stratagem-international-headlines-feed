@@ -33,13 +33,19 @@
     "title": "Middle East crisis live: Rubio claims Iran operation expected to conclude in ‘weeks not months’",
     "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
     "source": "The Guardian",
-    "publishedAt": "2026-03-27T17:25:28Z"
+    "publishedAt": "2026-03-27T19:41:06Z"
   },
   {
-    "title": "Polio virus detected in London days before ministers cut global eradication funding",
-    "url": "https://www.theguardian.com/society/2026/mar/27/polio-virus-detected-in-london-days-before-ministers-cut-global-eradication-funding",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-27T16:29:38Z"
+    "title": "Smoke rises over Beirut suburbs after massive Israeli airstrike",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/smoke-rises-over-beirut-suburbs-after-massive-israeli-airstrike?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-27T19:38:01Z"
+  },
+  {
+    "title": "US Palestinian activist says FBI foiled assassination plot against her",
+    "url": "https://www.aljazeera.com/news/2026/3/27/us-palestinian-activist-says-fbi-foiled-assassination-plot-against-her?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-27T19:15:16Z"
   },
   {
     "title": "Is Europe heading to an energy crisis?",
@@ -84,6 +90,12 @@
     "publishedAt": "2026-03-27T13:13:49Z"
   },
   {
+    "title": "Syria: UN Commission documents grave violations in July 2025 escalation in Sweida",
+    "url": "https://news.un.org/feed/view/en/story/2026/03/1167210",
+    "source": "UN News",
+    "publishedAt": "2026-03-27T12:00:00Z"
+  },
+  {
     "title": "Myanmar: WFP reports fragile recovery one year after deadly earthquake",
     "url": "https://news.un.org/feed/view/en/story/2026/03/1167209",
     "source": "UN News",
@@ -96,27 +108,15 @@
     "publishedAt": "2026-03-27T12:00:00Z"
   },
   {
-    "title": "What is LNG and what is it used for?",
-    "url": "https://www.aljazeera.com/news/2026/3/27/what-is-lng-and-what-is-it-used-for?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-27T10:53:24Z"
-  },
-  {
-    "title": "UN rights chief urges US to conclude probe into deadly Iran school attack",
-    "url": "https://www.aljazeera.com/news/2026/3/27/my-heart-burns-with-pain-iranian-mother-tells-un-of-minab-school-attack?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-27T10:48:47Z"
-  },
-  {
-    "title": "Wildlife killed, reefs damaged in ‘active’ Gulf of Mexico oil spill",
-    "url": "https://www.aljazeera.com/news/2026/3/27/wildlife-killed-reefs-damaged-in-active-gulf-of-mexico-oil-spill?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-27T09:50:16Z"
-  },
-  {
     "title": "Cuban Americans face scrutiny for sending goods back to the island",
     "url": "https://www.npr.org/2026/03/27/nx-s1-5759391/cuban-americans-face-scrutiny-for-sending-goods-back-to-the-island",
     "source": "NPR",
     "publishedAt": "2026-03-27T08:42:34Z"
+  },
+  {
+    "title": "US court suspends Pentagon sanctions against Anthropic",
+    "url": "https://www.dw.com/en/us-court-suspends-pentagon-sanctions-against-anthropic/a-76556322?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-03-27T08:39:00Z"
   }
 ]
