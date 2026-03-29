@@ -1,12 +1,18 @@
 [
   {
-    "title": "Middle East crisis live: US secretly plotting ground attack despite message of diplomacy, says Iran’s parliamentary speaker",
-    "url": "https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon",
+    "title": "Oil on track for record monthly surge as Iran war disrupts markets",
+    "url": "https://www.theguardian.com/business/2026/mar/29/oil-monthly-surge-record-iran-war-markets-gold",
     "source": "The Guardian",
-    "publishedAt": "2026-03-29T09:49:29Z"
+    "publishedAt": "2026-03-29T11:20:00Z"
   },
   {
-    "title": "Pentagon readies for weeks of US ground operations in Iran: Report",
+    "title": "Middle East crisis live: Iranian forces waiting for US ground troops to arrive and ‘set them on fire’, warns parliamentary speaker",
+    "url": "https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-29T11:37:17Z"
+  },
+  {
+    "title": "Pentagon readies ‘for weeks of US ground operations’ in Iran",
     "url": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-29T09:15:57Z"
@@ -22,6 +28,18 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-29T00:00:00Z"
+  },
+  {
+    "title": "Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy",
+    "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-four-nation-bid-to-encourage-us-iran-towards-diplomacy?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-29T11:10:43Z"
+  },
+  {
+    "title": "Pakistan hosts diplomatic discussions on ending war",
+    "url": "https://www.npr.org/2026/03/29/nx-s1-5765344/pakistan-diplomatic-discussions-iran-war",
+    "source": "NPR",
+    "publishedAt": "2026-03-29T10:08:38Z"
   },
   {
     "title": "Dozens detained in Tel Aviv as anti-war protest turns violent",
@@ -60,8 +78,8 @@
     "publishedAt": "2026-03-29T07:51:04Z"
   },
   {
-    "title": "Paris: Suspected bomb attack outside Bank of America foiled",
-    "url": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-world-4025-rdf",
+    "title": "France: Two new arrests over foiled Bank of America attack",
+    "url": "https://www.dw.com/en/france-two-new-arrests-over-foiled-bank-of-america-attack/a-76579750?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-03-28T17:39:00Z"
   },
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-03-29T04:34:31Z"
-  },
-  {
-    "title": "As war on Iran enters second month, Yemen’s Houthis open new front",
-    "url": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-29T00:59:21Z"
-  },
-  {
-    "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-    "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-29T00:02:46Z"
-  },
-  {
-    "title": "Houthi forces enter Iran conflict with missile attacks on Israeli military sites",
-    "url": "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-29T00:00:40Z"
   }
 ]
