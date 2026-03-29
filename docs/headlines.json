@@ -6,10 +6,28 @@
     "publishedAt": "2026-03-29T11:20:00Z"
   },
   {
-    "title": "Middle East crisis live: Iranian forces waiting for US ground troops and will ‘set them on fire’, warns parliamentary speaker",
+    "title": "Houthis open new front against Israel, is Red Sea shipping at risk?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/houthis-open-new-front-against-israel-is-red-sea-shipping-at-risk?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-03-29T16:47:25Z"
+  },
+  {
+    "title": "Iran warns U.S. ground troops would be 'set on fire' as regional diplomats meet in Pakistan to discuss the war",
+    "url": "https://www.pbs.org/newshour/world/iran-warns-u-s-ground-troops-would-be-set-on-fire-as-regional-diplomats-meet-in-pakistan-to-discuss-the-war",
+    "source": "PBS",
+    "publishedAt": "2026-03-29T16:05:02Z"
+  },
+  {
+    "title": "Middle East crisis live: Netanyahu orders expansion of invasion of southern Lebanon; Iranian forces wait for US ground troops",
     "url": "https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon",
     "source": "The Guardian",
-    "publishedAt": "2026-03-29T15:48:13Z"
+    "publishedAt": "2026-03-29T17:34:18Z"
+  },
+  {
+    "title": "Lawmakers react to reports Pentagon preparing for ground operations in Iran",
+    "url": "https://www.theguardian.com/world/2026/mar/29/pentagon-ground-operations-iran-report",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-29T17:00:15Z"
   },
   {
     "title": "Two Australian states offer free public transport as war pushes up fuel prices",
@@ -36,6 +54,12 @@
     "publishedAt": "2026-03-29T11:39:00Z"
   },
   {
+    "title": "Iran warns U.S. against ground invasion, as Pakistan holds diplomatic talks",
+    "url": "https://www.npr.org/2026/03/29/nx-s1-5765344/pakistan-diplomatic-discussions-iran-war",
+    "source": "NPR",
+    "publishedAt": "2026-03-29T10:08:38Z"
+  },
+  {
     "title": "Pentagon readies ‘for weeks of US ground operations’ in Iran",
     "url": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
     "source": "Al Jazeera",
@@ -46,6 +70,12 @@
     "url": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-03-28T19:08:30Z"
+  },
+  {
+    "title": "Iran accuses US of plotting ground assault while publicly seeking talks",
+    "url": "https://www.theguardian.com/world/2026/mar/29/iran-accuses-us-plotting-ground-assault-publicly-seeking-talks",
+    "source": "The Guardian",
+    "publishedAt": "2026-03-29T16:42:51Z"
   },
   {
     "title": "Funeral held for Lebanese journalists killed in Israeli strike",
@@ -88,35 +118,5 @@
     "url": "https://www.dw.com/en/pope-leo-condemns-using-god-to-justify-war-in-palm-sunday-mass/a-76585338?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-03-29T14:27:00Z"
-  },
-  {
-    "title": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran",
-    "url": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-29T14:26:35Z"
-  },
-  {
-    "title": "Finland reports drone crashes, alleges territorial violation",
-    "url": "https://www.dw.com/en/finland-reports-drone-crashes-alleges-territorial-violation/a-76585137?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-29T13:53:00Z"
-  },
-  {
-    "title": "Lebanese family launches mobile aid initiative for displaced",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-family-launches-mobile-aid-initiative-for-displaced?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-29T13:17:03Z"
-  },
-  {
-    "title": "Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message",
-    "url": "https://www.npr.org/2026/03/29/nx-s1-5765380/pope-leo-rejects-claims-god-justifies-war-palm-sunday",
-    "source": "NPR",
-    "publishedAt": "2026-03-29T12:48:25Z"
-  },
-  {
-    "title": "Russian students duped into signing contracts with military",
-    "url": "https://www.dw.com/en/russian-students-duped-into-signing-contracts-with-military/a-76510389?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-29T12:47:00Z"
   }
 ]
