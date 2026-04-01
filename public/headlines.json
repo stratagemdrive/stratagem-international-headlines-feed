@@ -6,6 +6,12 @@
     "publishedAt": "2026-03-31T22:56:54Z"
   },
   {
+    "title": "Middle East crisis live: Trump claims war will end in ‘two or three weeks’; Rubio says US should ‘re-examine’ Nato relationship",
+    "url": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-01T06:02:06Z"
+  },
+  {
     "title": "How the spike in gas prices could ripple through the global economy",
     "url": "https://www.pbs.org/newshour/show/how-the-spike-in-gas-prices-could-ripple-through-the-global-economy",
     "source": "PBS",
@@ -22,6 +28,36 @@
     "url": "https://www.pbs.org/newshour/world/kharg-island-is-key-to-irans-oil-exports-targeting-it-carries-major-risks",
     "source": "PBS",
     "publishedAt": "2026-03-30T17:39:53Z"
+  },
+  {
+    "title": "Global protests condemning Israel’s new death penalty law for Palestinians",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-01T02:51:34Z"
+  },
+  {
+    "title": "American booze bans, 'Buy Canadian' policy flagged by U.S. as trade irritants: report",
+    "url": "https://www.cbc.ca/news/politics/us-canada-trade-irritants-report-9.7149451?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-01T01:22:57Z"
+  },
+  {
+    "title": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks",
+    "url": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-01T00:14:19Z"
+  },
+  {
+    "title": "India begins counting more than a billion people in massive census",
+    "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-01T00:11:33Z"
+  },
+  {
+    "title": "‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war",
+    "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-01T00:06:29Z"
   },
   {
     "title": "Trump says other nations can 'fend for themselves' in Strait of Hormuz after U.S. leaves Iran",
@@ -54,12 +90,6 @@
     "publishedAt": "2026-03-31T22:48:34Z"
   },
   {
-    "title": "‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war",
-    "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
-    "source": "The Guardian",
-    "publishedAt": "2026-03-31T21:01:40Z"
-  },
-  {
     "title": "After the Iran war, how fast could global trade recover?",
     "url": "https://www.dw.com/en/after-the-iran-war-how-fast-could-global-trade-recover/a-76526954?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -78,12 +108,6 @@
     "publishedAt": "2026-03-31T20:08:30Z"
   },
   {
-    "title": "How Pakistan positioned itself at the center of global crisis management",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/how-pakistan-positioned-itself-at-the-center-of-global-crisis-management?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-03-31T19:46:23Z"
-  },
-  {
     "title": "Gulf allies privately make case to keep fighting until Iran is decisively defeated",
     "url": "https://www.pbs.org/newshour/world/gulf-allies-privately-make-case-to-keep-fighting-until-iran-is-decisively-defeated",
     "source": "PBS",
@@ -94,29 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/mar/31/israel-death-penalty-law-international-criticism",
     "source": "The Guardian",
     "publishedAt": "2026-03-31T17:15:34Z"
-  },
-  {
-    "title": "What experts say about the risks of U.S. seizing Iran's Kharg Island",
-    "url": "https://www.pbs.org/newshour/world/what-experts-say-about-the-risks-of-u-s-seizing-irans-kharg-island",
-    "source": "PBS",
-    "publishedAt": "2026-03-31T15:58:05Z"
-  },
-  {
-    "title": "Hegseth won't say if U.S. will send ground troops into Iran",
-    "url": "https://www.pbs.org/newshour/world/watch-hegseth-wont-say-if-u-s-will-send-ground-troops-into-iran",
-    "source": "PBS",
-    "publishedAt": "2026-03-31T15:28:39Z"
-  },
-  {
-    "title": "Russian oil tanker docks in Cuba, the 1st since US blockade",
-    "url": "https://www.dw.com/en/russian-oil-tanker-docks-in-cuba-the-1st-since-us-blockade/a-76611820?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-03-31T15:19:00Z"
-  },
-  {
-    "title": "Russian oil tanker docks in Cuba ending near-total blockade",
-    "url": "https://www.bbc.com/news/articles/clyx1lrv0w5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-03-31T12:51:51Z"
   }
 ]
