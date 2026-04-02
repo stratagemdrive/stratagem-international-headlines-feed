@@ -6,10 +6,28 @@
     "publishedAt": "2026-04-02T10:53:26Z"
   },
   {
+    "title": "Oil shock triggers global price spikes as Iran war drags on",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-02T21:04:35Z"
+  },
+  {
     "title": "Oil price jumps and markets slide after Trump warning to Iran",
     "url": "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address",
     "source": "The Guardian",
     "publishedAt": "2026-04-02T15:59:03Z"
+  },
+  {
+    "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
+    "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-02T19:27:18Z"
+  },
+  {
+    "title": "Trump threatens 100% tariff on US drug makers that don’t strike deals to lower prices",
+    "url": "https://www.theguardian.com/us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-02T21:33:24Z"
   },
   {
     "title": "Oil and gas prices won't immediately return to normal even if the Iran war ends, the EU warns",
@@ -30,10 +48,16 @@
     "publishedAt": "2026-04-01T15:33:21Z"
   },
   {
-    "title": "Trump urges Iran to make deal ‘before it is too late’ after strike on key bridge near Tehran – Middle East crisis live",
-    "url": "https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-02T19:24:59Z"
+    "title": "Russia sending second ship with oil to Cuba amid US blockade",
+    "url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-02T20:51:25Z"
+  },
+  {
+    "title": "State Department claims Iran ‘continually’ pursuing nuclear weapon",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/state-department-claims-iran-continually-pursuing-nuclear-weapon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-02T20:12:02Z"
   },
   {
     "title": "Trump warns Tehran ‘more to follow’ after strike destroys Iran’s largest bridge",
@@ -60,22 +84,10 @@
     "publishedAt": "2026-04-02T17:34:37Z"
   },
   {
-    "title": "Starmer must call energy summit akin to 2008 crisis response, Labour MP says",
-    "url": "https://www.theguardian.com/politics/2026/apr/02/keir-starmer-energy-summit-2008-financial-crisis-iran-war",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-02T17:31:34Z"
-  },
-  {
-    "title": "Iran's two largest steel plants shut down due to strikes, companies say",
+    "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
     "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-04-02T17:01:08Z"
-  },
-  {
-    "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
-    "url": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-02T16:27:36Z"
   },
   {
     "title": "As Iran war rages, Europe gears up for energy crisis",
@@ -84,10 +96,10 @@
     "publishedAt": "2026-04-02T14:18:00Z"
   },
   {
-    "title": "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW",
-    "url": "https://www.aljazeera.com/news/2026/4/2/burkina-faso-military-allies-committing-horrific-civilian-abuses-hrw?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-02T13:53:23Z"
+    "title": "World News in Brief: South Sudan rights, opioid guidelines update, DR Congo crisis continues",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167248",
+    "source": "UN News",
+    "publishedAt": "2026-04-02T12:00:00Z"
   },
   {
     "title": "Middle East crisis exposes global energy fault line as UN urges shift to renewables",
@@ -106,17 +118,5 @@
     "url": "https://www.npr.org/2026/04/01/nx-s1-5768269/25-years-ago-today-a-mid-air-collision-sparked-an-11-day-u-s-china-standoff",
     "source": "NPR",
     "publishedAt": "2026-04-01T21:00:45Z"
-  },
-  {
-    "title": "Donald Trump speaks on Iran, oil and economy",
-    "url": "https://www.dw.com/en/fact-check-donald-trump-speaks-on-iran-oil-and-economy/a-76636405?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-04-02T08:06:00Z"
-  },
-  {
-    "title": "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
-    "url": "https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-02T18:40:06Z"
   }
 ]
