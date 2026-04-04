@@ -1,15 +1,21 @@
 [
   {
+    "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
+    "url": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-04T09:00:18Z"
+  },
+  {
+    "title": "Middle East crisis live: US and Iran race to recover missing pilot from downed jet; another ship passes through strait of Hormuz",
+    "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-04T09:41:20Z"
+  },
+  {
     "title": "Global leaders work to ease oil price surge as Trump signals more weeks of Iran war",
     "url": "https://www.pbs.org/newshour/show/global-leaders-work-to-ease-oil-price-surge-as-trump-signals-more-weeks-of-iran-war",
     "source": "PBS",
     "publishedAt": "2026-04-02T22:45:36Z"
-  },
-  {
-    "title": "Middle East crisis live: US and Iranian forces race to recover missing pilot from downed jet; Israel bombards Beirut",
-    "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-04T07:21:45Z"
   },
   {
     "title": "‘The frontline is like Terminator’: fighting robots give Ukraine hope in war with Russia",
@@ -52,6 +58,12 @@
     "url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-03T19:08:52Z"
+  },
+  {
+    "title": "‘Wild west’ reformer pilates boom is causing rise in injuries, experts warn",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/apr/04/reformer-pilates-boom-injuries",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-04T08:00:16Z"
   },
   {
     "title": "Champagne leaves China with pork tariffs still in place, but touts relationship-building",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-03T23:40:08Z"
-  },
-  {
-    "title": "News Wrap: Trump seeking $1.5 trillion for military spending in new budget",
-    "url": "https://www.pbs.org/newshour/show/news-wrap-trump-seeking-1-5-trillion-for-military-spending-in-new-budget",
-    "source": "PBS",
-    "publishedAt": "2026-04-03T22:45:31Z"
-  },
-  {
-    "title": "Former U.S. ambassador talks about Trump's rhetoric on NATO",
-    "url": "https://www.npr.org/2026/04/03/nx-s1-5771558/former-u-s-ambassador-talks-about-trumps-rhetoric-on-nato",
-    "source": "NPR",
-    "publishedAt": "2026-04-03T08:43:59Z"
   }
 ]
