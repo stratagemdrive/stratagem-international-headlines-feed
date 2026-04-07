@@ -1,15 +1,33 @@
 [
   {
-    "title": "Oil prices seesaw after Trump says Iran can be ‘taken out’ in one night",
-    "url": "https://www.theguardian.com/business/2026/apr/07/oil-prices-donald-trump-iran-stock-market-imf-inflation",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-07T09:32:13Z"
-  },
-  {
-    "title": "Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears",
+    "title": "Trump says ‘a whole civilisation will die tonight’ if Iran does not make a deal – Middle East crisis live",
     "url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
     "source": "The Guardian",
-    "publishedAt": "2026-04-07T10:18:31Z"
+    "publishedAt": "2026-04-07T14:29:05Z"
+  },
+  {
+    "title": "Hedge fund borrowing exposes emerging markets to greater Iran war risk, says IMF",
+    "url": "https://www.theguardian.com/business/2026/apr/07/emerging-economies-greater-risk-high-interest-currency-shocks-iran-war-imf",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-07T14:00:49Z"
+  },
+  {
+    "title": "How Israel’s invasion of southern Lebanon created a humanitarian crisis",
+    "url": "https://www.aljazeera.com/news/2026/4/7/how-israels-invasion-of-southern-lebanon-created-a-humanitarian-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-07T12:53:31Z"
+  },
+  {
+    "title": "Can Africa tackle the oil shock from the Iran war?",
+    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-07T11:13:09Z"
+  },
+  {
+    "title": "‘Dying of thirst’: Inside Gaza’s al-Mawasi water crisis",
+    "url": "https://www.aljazeera.com/news/2026/4/7/dying-of-thirst-inside-gazas-al-mawasi-water-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-07T10:53:36Z"
   },
   {
     "title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
@@ -18,10 +36,10 @@
     "publishedAt": "2026-04-07T10:00:45Z"
   },
   {
-    "title": "How Pakistan’s solar boom is shielding it from worst of Iran war crisis",
-    "url": "https://www.aljazeera.com/features/2026/4/7/how-pakistans-solar-boom-is-shielding-it-from-worst-of-iran-war-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T07:52:47Z"
+    "title": "U.S., Israel launch strikes across Iran, including energy hub Kharg Island",
+    "url": "https://www.cbc.ca/news/world/trump-iran-war-israel-9.7154434?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-07T08:59:53Z"
   },
   {
     "title": "Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz",
@@ -30,93 +48,75 @@
     "publishedAt": "2026-04-07T03:10:48Z"
   },
   {
+    "title": "Farage says he would let Trump use UK bases to attack civilian infrastructure in Iran – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-07T14:39:53Z"
+  },
+  {
+    "title": "British Medical Association accused of hypocrisy as its own staff strike over pay",
+    "url": "https://www.theguardian.com/society/2026/apr/07/british-medical-association-accused-of-hypocrisy-as-its-own-staff-strike-over-pay",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-07T14:36:01Z"
+  },
+  {
+    "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-07T14:23:37Z"
+  },
+  {
+    "title": "Decorated Australian soldier Ben Roberts-Smith charged with killing 5 unarmed Afghans during war",
+    "url": "https://www.cbc.ca/news/world/australia-war-crime-charges-roberts-smith-9.7154565?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-07T14:12:52Z"
+  },
+  {
+    "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
+    "url": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-07T14:12:38Z"
+  },
+  {
+    "title": "Israel warns Iranians not to use trains as Trump deadline looms",
+    "url": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-07T14:12:07Z"
+  },
+  {
+    "title": "South Korea turns to EU to revive talks with the North",
+    "url": "https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-04-07T13:22:00Z"
+  },
+  {
+    "title": "Australian and IPL cricket great David Warner charged with drink-driving",
+    "url": "https://www.aljazeera.com/sports/2026/4/7/australian-and-ipl-cricket-great-david-warner-charged-with-drink-driving?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-07T13:21:31Z"
+  },
+  {
+    "title": "Gunmen attack building housing Israeli Consulate in Istanbul",
+    "url": "https://www.pbs.org/newshour/world/gunmen-attack-building-housing-israeli-consulate-in-istanbul",
+    "source": "PBS",
+    "publishedAt": "2026-04-07T13:21:08Z"
+  },
+  {
+    "title": "Trump warns a 'whole civilization will die tonight' if a deal with Iran isn't reached",
+    "url": "https://www.pbs.org/newshour/world/trump-warns-a-whole-civilization-will-die-tonight-if-a-deal-with-iran-isnt-reached",
+    "source": "PBS",
+    "publishedAt": "2026-04-07T13:05:42Z"
+  },
+  {
     "title": "Iran war on verge of escalation as Trump and Tehran exchange threats",
     "url": "https://www.pbs.org/newshour/show/iran-war-on-verge-of-escalation-as-trump-and-tehran-exchange-threats",
     "source": "PBS",
     "publishedAt": "2026-04-06T22:55:47Z"
   },
   {
-    "title": "What international law says about Trump's threats to bomb Iran's bridges and power plants",
-    "url": "https://www.pbs.org/newshour/show/what-international-law-says-about-trumps-threats-to-bomb-irans-bridges-and-power-plants",
-    "source": "PBS",
-    "publishedAt": "2026-04-06T22:40:13Z"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 7 April: Conflict continues as humanitarian and economic pressures mount",
-    "url": "https://news.un.org/feed/view/en/story/2026/04/1167257",
-    "source": "UN News",
-    "publishedAt": "2026-04-07T12:00:00Z"
-  },
-  {
-    "title": "Iranian missile strike damages cars and street in Israel",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-missile-strike-damages-cars-and-street-in-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T10:24:08Z"
-  },
-  {
-    "title": "Trump provides details behind the dramatic rescue of an American airman trapped in Iran",
-    "url": "https://www.npr.org/2026/04/06/nx-s1-5775736/trump-provides-details-behind-the-dramatic-rescue-of-an-american-airman-trapped-in-iran",
-    "source": "NPR",
-    "publishedAt": "2026-04-06T20:26:14Z"
-  },
-  {
-    "title": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks",
-    "url": "https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T10:12:04Z"
-  },
-  {
-    "title": "Beer cans, helium balloons and mortgages: An unexpected mix of things affected by the war",
-    "url": "https://www.npr.org/2026/04/07/nx-s1-5773196/helium-aluminum-mortgages-cost-iran-war",
-    "source": "NPR",
-    "publishedAt": "2026-04-07T10:00:00Z"
-  },
-  {
-    "title": "US-Israeli strikes destroy buildings in northern Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/us-israeli-strikes-destroy-buildings-in-northern-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T09:53:20Z"
-  },
-  {
-    "title": "USA striker Patrick Agyemang’s World Cup in doubt after stretcher exit",
-    "url": "https://www.aljazeera.com/sports/2026/4/7/usa-striker-patrick-agyemangs-world-cup-in-doubt-after-stretcher-exit?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T09:28:26Z"
-  },
-  {
-    "title": "Israel warns Iranians not to use trains as Trump deadline looms",
-    "url": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
+    "title": "JP Morgan reaches agreement with City airport for Canary Wharf’s tallest tower",
+    "url": "https://www.theguardian.com/business/2026/apr/07/jp-morgan-clears-hurdle-canary-wharf-tallest-tower-london-city-airport",
     "source": "The Guardian",
-    "publishedAt": "2026-04-07T09:23:19Z"
-  },
-  {
-    "title": "Albanese brings forward Singapore trip and speaks with China in bid to shore up petrol shipments to Australia",
-    "url": "https://www.theguardian.com/australia-news/2026/apr/07/fuel-prices-petrol-australia-singapore-albanese-trip",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-07T09:15:10Z"
-  },
-  {
-    "title": "‘Military action is not an effective means to pursue nonproliferation’",
-    "url": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T09:13:20Z"
-  },
-  {
-    "title": "Trump and Hegseth invoke God and religion in Iran war press conference",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-and-hegseth-invoke-god-and-religion-in-iran-war-press-conference?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T09:03:32Z"
-  },
-  {
-    "title": "Iran releases on bail Japan national jailed amid antigovernment protests",
-    "url": "https://www.aljazeera.com/news/2026/4/7/japanese-detained-in-iran-believed-to-be-journalist-released-on-bail?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T08:44:05Z"
-  },
-  {
-    "title": "Synagogue in Tehran ‘completely destroyed’ in US-Israeli attack",
-    "url": "https://www.aljazeera.com/news/2026/4/7/synagogue-in-tehran-destroyed-in-us-israeli-strikes-on-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T08:43:46Z"
+    "publishedAt": "2026-04-07T12:47:27Z"
   }
 ]
