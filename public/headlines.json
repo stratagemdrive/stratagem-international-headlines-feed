@@ -1,21 +1,57 @@
 [
   {
+    "title": "Oil prices plunge and stocks jump after Trump announces conditional ceasefire with Iran",
+    "url": "https://www.theguardian.com/world/2026/apr/08/oil-prices-stock-today-futures-crude-donald-trump-iran-ceasefire",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-08T05:03:09Z"
+  },
+  {
+    "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
+    "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-08T01:29:54Z"
+  },
+  {
+    "title": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
+    "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-08T03:24:53Z"
+  },
+  {
+    "title": "UK opening new oil and gas fields would imperil global climate goals, experts say",
+    "url": "https://www.theguardian.com/environment/2026/apr/08/uk-new-oil-gas-fields-north-sea-global-climate-goals",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-08T05:00:16Z"
+  },
+  {
     "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
     "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-04-07T21:02:07Z"
   },
   {
-    "title": "Massive fire engulfs oil storage tanks near Baghdad",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/massive-fire-engulfs-oil-storage-tanks-near-baghdad?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T19:45:51Z"
+    "title": "Australia news live: Bondi terror attack survivors seek anonymity; ASX rallies after Iran war ceasefire",
+    "url": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-08T05:44:20Z"
   },
   {
-    "title": "Middle East crisis live: Trump suspends bombing deadline for two weeks; Iran says it will allow conditional passage through strait of Hormuz",
-    "url": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
+    "title": "Middle East crisis live: Iran war ceasefire doesn’t include Lebanon, says Israel; Trump says uranium will be ‘taken care of’",
+    "url": "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
     "source": "The Guardian",
-    "publishedAt": "2026-04-07T23:39:47Z"
+    "publishedAt": "2026-04-08T05:44:07Z"
+  },
+  {
+    "title": "Petrol prices rise again as Albanese government warns Iran war ceasefire won’t make fuel cheaper",
+    "url": "https://www.theguardian.com/australia-news/2026/apr/08/petrol-prices-rise-australia-iran-ceasefire-cheaper-fuel",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-08T04:23:52Z"
+  },
+  {
+    "title": "Turkey to race ahead of EU on battery storage amid fossil fuel crisis",
+    "url": "https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-08T04:00:15Z"
   },
   {
     "title": "Mideast experts weigh Iran regime's leverage in negotiations with U.S.",
@@ -30,93 +66,57 @@
     "publishedAt": "2026-04-07T21:12:04Z"
   },
   {
-    "title": "American journalist released a week after being kidnapped in Iraq",
-    "url": "https://www.theguardian.com/world/2026/apr/07/us-journalist-kidnapped-iraq-released",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-07T18:15:59Z"
-  },
-  {
     "title": "Kidnapped American journalist Shelly Kittleson has been released, Iraqi official says",
     "url": "https://www.pbs.org/newshour/world/kidnapped-american-journalist-shelly-kittleson-has-been-released-iraqi-official-says",
     "source": "PBS",
     "publishedAt": "2026-04-07T17:51:44Z"
   },
   {
-    "title": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
+    "title": "Ben Roberts-Smith to remain in jail after bail hearing over war crimes charges",
+    "url": "https://www.theguardian.com/australia-news/2026/apr/08/ben-roberts-smith-court-news-war-crimes-charges-silverwater-jail-ntwnfb",
     "source": "The Guardian",
-    "publishedAt": "2026-04-07T23:38:14Z"
+    "publishedAt": "2026-04-08T05:21:50Z"
   },
   {
-    "title": "Iran's Supreme National Security Council says it has accepted two-week ceasefire in the war",
-    "url": "https://www.pbs.org/newshour/world/irans-supreme-national-security-council-says-it-has-accepted-two-week-ceasefire-in-the-war",
-    "source": "PBS",
-    "publishedAt": "2026-04-07T23:26:03Z"
-  },
-  {
-    "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T23:25:46Z"
-  },
-  {
-    "title": "US warns of Iran-affiliated cyber-attacks on critical infrastructure across country",
-    "url": "https://www.theguardian.com/world/2026/apr/07/iran-cyberattacks-infrastructure",
+    "title": "US and Iran agree to provisional ceasefire with Tehran saying it will reopen strait of Hormuz",
+    "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
     "source": "The Guardian",
-    "publishedAt": "2026-04-07T23:21:42Z"
+    "publishedAt": "2026-04-08T05:08:37Z"
   },
   {
-    "title": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
-    "url": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T22:48:53Z"
-  },
-  {
-    "title": "Civilians caught in path of Israeli invasion in southern Lebanon",
-    "url": "https://www.pbs.org/newshour/show/civilians-caught-in-path-of-israeli-invasion-in-southern-lebanon",
-    "source": "PBS",
-    "publishedAt": "2026-04-07T22:35:00Z"
-  },
-  {
-    "title": "World held hostage by reliance on fossil fuels, Christiana Figueres warns – and climate health impacts are ‘mother of all injustices’",
-    "url": "https://www.theguardian.com/society/ng-interactive/2026/apr/08/world-held-hostage-reliance-fossil-fuels-health-christiana-figueres",
+    "title": "Billionaire Gina Rinehart says ‘I don’t understand’ arrest of Ben Roberts-Smith over alleged war crimes",
+    "url": "https://www.theguardian.com/australia-news/2026/apr/08/ben-roberts-smith-brs-gina-rinehart-alleged-war-crimes-arrest-ntwnfb",
     "source": "The Guardian",
-    "publishedAt": "2026-04-07T22:30:09Z"
+    "publishedAt": "2026-04-08T05:08:13Z"
   },
   {
-    "title": "What we know about Pakistan’s proposed Iran war pause",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-pakistans-proposed-iran-war-pause?traffic_source=rss",
+    "title": "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T22:24:13Z"
+    "publishedAt": "2026-04-08T05:04:37Z"
   },
   {
-    "title": "Iranian musician stages protest at power station over Trump threats",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T22:13:09Z"
-  },
-  {
-    "title": "Djibouti and the Horn of Africa: new front in the war on Iran",
-    "url": "https://www.aljazeera.com/video/2026/4/7/djibouti-and-the-horn-of-africa-new-front-in-the-war-on-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T21:57:50Z"
-  },
-  {
-    "title": "Democrats outraged at Trump’s Iran post: ‘A threat to commit a war crime’",
-    "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-threat-truth-social",
+    "title": "Palestinian girl who lost arm in Israeli missile attack on Gaza arrives in UK",
+    "url": "https://www.theguardian.com/world/2026/apr/08/palestinian-girl-who-lost-arm-in-israeli-missile-attack-on-gaza-arrives-in-uk",
     "source": "The Guardian",
-    "publishedAt": "2026-04-07T21:56:56Z"
+    "publishedAt": "2026-04-08T05:00:16Z"
   },
   {
-    "title": "Iran warns region and beyond as tension builds ahead of US ultimatum",
-    "url": "https://www.aljazeera.com/news/2026/4/7/iran-warns-region-and-beyond-as-tension-builds-ahead-of-us-ultimatum?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T21:48:54Z"
+    "title": "Treat jailed drug dealers like radical extremists, says prisons watchdog",
+    "url": "https://www.theguardian.com/society/2026/apr/08/isolate-jailed-drug-dealers-charlie-taylor-inspector-prisons",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-08T05:00:16Z"
   },
   {
-    "title": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait",
-    "url": "https://www.aljazeera.com/news/2026/4/7/pakistan-appeals-to-trump-to-extend-deadline-iran-to-reopen-strait-of-hormuz?traffic_source=rss",
+    "title": "Iranians commemorate victims of Minab school strike",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-04-07T21:35:17Z"
+    "publishedAt": "2026-04-08T04:29:15Z"
+  },
+  {
+    "title": "Tropical Cyclone Vaianu may bring life-threatening winds to New Zealand, forecasters warn",
+    "url": "https://www.theguardian.com/world/2026/apr/08/tropical-cyclone-vaianu-forecast-path-track-fiji-new-zealand",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-08T04:27:02Z"
   }
 ]
