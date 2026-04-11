@@ -1,5 +1,11 @@
 [
   {
+    "title": "Fuel tankers regain access to oil refinery",
+    "url": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-11T15:25:09Z"
+  },
+  {
     "title": "Why the Nato alliance is not as likely to dissolve as Trump makes it seem",
     "url": "https://www.theguardian.com/world/2026/apr/11/nato-alliance-trump-threats",
     "source": "The Guardian",
@@ -30,13 +36,25 @@
     "publishedAt": "2026-04-11T08:00:42Z"
   },
   {
-    "title": "Pakistan hosts U.S.-Iran peace talks after weeks of frantic diplomacy",
+    "title": "U.S.-Iran peace talks begin in Islamabad after weeks of frantic diplomacy",
     "url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran",
     "source": "NPR",
     "publishedAt": "2026-04-11T07:04:41Z"
   },
   {
-    "title": "19-year-old woman dies after being attacked by a dog in Essex",
+    "title": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal",
+    "url": "https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-11T14:39:38Z"
+  },
+  {
+    "title": "Lebanon mourns security forces killed in Israeli strike",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/lebanon-mourns-security-forces-killed-in-israeli-strike?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-11T14:17:16Z"
+  },
+  {
+    "title": "Woman, 19, dies after being attacked by dog at property in Essex",
     "url": "https://www.theguardian.com/uk-news/2026/apr/11/19-year-old-woman-dies-after-dog-attack-in-essex",
     "source": "The Guardian",
     "publishedAt": "2026-04-11T13:54:25Z"
@@ -84,12 +102,6 @@
     "publishedAt": "2026-04-11T12:00:47Z"
   },
   {
-    "title": "US officials claim Iran unable to find mines it laid in strait of Hormuz, report says",
-    "url": "https://www.theguardian.com/world/2026/apr/11/iran-us-strait-of-hormuz-mines",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-11T11:54:10Z"
-  },
-  {
     "title": "‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss",
     "source": "Al Jazeera",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-11T08:35:13Z"
-  },
-  {
-    "title": "Israel rejects ceasefire with Hezbollah before Lebanon talks next week",
-    "url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-11T07:51:14Z"
-  },
-  {
-    "title": "Israeli drone attack kills Palestinians near Gaza mosque",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-11T07:51:08Z"
   }
 ]
