@@ -1,15 +1,21 @@
 [
   {
-    "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
-    "url": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-12T09:47:24Z"
-  },
-  {
     "title": "Trump claims U.S. will close Strait of Hormuz after Iran peace talks collapse",
     "url": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse",
     "source": "NPR",
     "publishedAt": "2026-04-12T09:40:24Z"
+  },
+  {
+    "title": "Irish PM announces fuel tax cuts amid days of protests over soaring prices at the pumps",
+    "url": "https://www.cbc.ca/news/world/ireland-gas-fuel-protest-tax-9.7161046?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-12T19:23:59Z"
+  },
+  {
+    "title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-12T18:44:30Z"
   },
   {
     "title": "Failed U.S.-Iran negotiations in Pakistan raise questions about fragile ceasefire",
@@ -34,12 +40,6 @@
     "url": "https://www.aljazeera.com/news/2026/4/12/at-least-30-dead-in-stampede-at-haitis-historic-citadelle-laferriere?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-12T14:36:54Z"
-  },
-  {
-    "title": "Collapse of US-Iran talks heightens fears of prolonged energy shock",
-    "url": "https://www.theguardian.com/business/2026/apr/12/collapse-us-iran-talks-energy-shock-oil-prices",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-12T13:07:45Z"
   },
   {
     "title": "U.S. and Iran fail to reach agreement during high-level talks in Islamabad",
@@ -72,10 +72,28 @@
     "publishedAt": "2026-04-11T15:51:12Z"
   },
   {
-    "title": "Trump says US will blockade strait of Hormuz as Iran peace talks fail",
+    "title": "No need for hard stares as Paddington: The Musical triumphs at the Olivier awards",
+    "url": "https://www.theguardian.com/stage/2026/apr/12/paddington-the-musical-triumphs-at-the-olivier-awards",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-12T19:02:08Z"
+  },
+  {
+    "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
+    "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-12T18:48:57Z"
+  },
+  {
+    "title": "Trump says US will blockade strait of Hormuz after Iran peace talks fail",
     "url": "https://www.theguardian.com/world/2026/apr/12/trump-says-us-will-blockade-strait-of-hormuz-as-iran-peace-talks-fail",
     "source": "The Guardian",
     "publishedAt": "2026-04-12T18:33:42Z"
+  },
+  {
+    "title": "Dozens feared dead in air strike on village in northeastern Nigeria",
+    "url": "https://www.aljazeera.com/news/2026/4/12/dozens-feared-dead-in-air-strike-on-village-in-northeastern-nigeria?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-12T18:25:50Z"
   },
   {
     "title": "UK will not join any Trump blockade of strait of Hormuz",
@@ -96,27 +114,9 @@
     "publishedAt": "2026-04-12T17:58:22Z"
   },
   {
-    "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
-    "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-12T17:45:11Z"
-  },
-  {
     "title": "US lawmakers split on party lines over negotiations’ failure to end Iran war",
     "url": "https://www.theguardian.com/world/2026/apr/12/us-lawmakers-us-israel-iran-war",
     "source": "The Guardian",
     "publishedAt": "2026-04-12T17:24:08Z"
-  },
-  {
-    "title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
-    "url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-12T17:16:15Z"
-  },
-  {
-    "title": "Woman, 19, killed in Essex dog attack named as Jamie-Lea Biscoe",
-    "url": "https://www.theguardian.com/uk-news/2026/apr/12/woman-19-killed-in-essex-dog-attack-named-as-jamie-lea-biscoe",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-12T17:00:06Z"
   }
 ]
