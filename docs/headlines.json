@@ -1,15 +1,15 @@
 [
   {
+    "title": "Surging oil prices spark protest in Haiti as workers demand salary increases",
+    "url": "https://www.pbs.org/newshour/world/surging-oil-prices-spark-protest-in-haiti-as-workers-demand-salary-increases",
+    "source": "PBS",
+    "publishedAt": "2026-04-13T20:01:33Z"
+  },
+  {
     "title": "Oil prices surge after U.S.-Iran peace talks break down",
     "url": "https://www.npr.org/2026/04/13/nx-s1-5781260/oil-prices-surge-after-us-iran-peace-talks-break-down",
     "source": "NPR",
     "publishedAt": "2026-04-13T08:45:21Z"
-  },
-  {
-    "title": "Oil price dips below $100 a barrel after Trump claims Iran wants deal",
-    "url": "https://www.theguardian.com/business/2026/apr/13/oil-price-tops-100-dollars-barrel-us-blockade-strait-of-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-13T18:59:58Z"
   },
   {
     "title": "Israeli forces fire teargas at schoolchildren holding West Bank sit-in",
@@ -18,16 +18,22 @@
     "publishedAt": "2026-04-13T15:51:47Z"
   },
   {
+    "title": "Middle East crisis live: Donald Trump claims Iran ‘wants to work a deal’ and confirms blockade of strait of Hormuz",
+    "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-13T21:29:31Z"
+  },
+  {
+    "title": "A U.S. military blockade of Iran's ports takes effect. What does that mean?",
+    "url": "https://www.npr.org/2026/04/13/nx-s1-5783804/a-u-s-military-blockade-of-irans-ports-takes-effect-what-does-that-mean",
+    "source": "NPR",
+    "publishedAt": "2026-04-13T21:01:25Z"
+  },
+  {
     "title": "Swimming becomes the first major Olympic sport to lift restrictions on Russian athletes",
     "url": "https://www.pbs.org/newshour/world/swimming-becomes-the-first-major-olympic-sport-to-lift-restrictions-on-russian-athletes",
     "source": "PBS",
     "publishedAt": "2026-04-13T19:41:16Z"
-  },
-  {
-    "title": "Middle East crisis live: Donald Trump claims Iran ‘wants to work a deal’ and confirms blockade of strait of Hormuz",
-    "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-13T19:31:38Z"
   },
   {
     "title": "US drivers head to Native American lands for cheaper gas",
@@ -60,12 +66,6 @@
     "publishedAt": "2026-04-13T15:00:53Z"
   },
   {
-    "title": "Trump’s threat to blockade Hormuz: Why it’s the latest major escalation",
-    "url": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-13T14:14:35Z"
-  },
-  {
     "title": "Bosses of Santos, Woodside, Chevron and Shell asked to give evidence to Greens-led gas tax inquiry",
     "url": "https://www.theguardian.com/australia-news/2026/apr/13/gas-tax-inquiry-greens-labor-santos-woodside-chevron-shell",
     "source": "The Guardian",
@@ -82,6 +82,12 @@
     "url": "https://www.cbc.ca/player/play/9.7161445?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-04-13T13:15:21Z"
+  },
+  {
+    "title": "Stock market makes gains despite ongoing U.S.-Iran tensions, reversing losses from war",
+    "url": "https://www.cbc.ca/news/business/markets-april-13-9.7161390?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-13T12:53:43Z"
   },
   {
     "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
@@ -112,11 +118,5 @@
     "url": "https://www.npr.org/2026/04/13/nx-s1-5780993/former-us-special-envoy-on-where-us-and-iran-stand-after-failed-negotiations",
     "source": "NPR",
     "publishedAt": "2026-04-13T08:45:18Z"
-  },
-  {
-    "title": "Gaza's ceasefire hasn't brought the surge of aid it promised",
-    "url": "https://www.npr.org/2026/04/13/nx-s1-5782662/gazas-ceasefire-hasnt-brought-the-surge-of-aid-it-promised",
-    "source": "NPR",
-    "publishedAt": "2026-04-13T08:44:56Z"
   }
 ]
