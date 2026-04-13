@@ -1,9 +1,21 @@
 [
   {
-    "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
-    "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss",
+    "title": "Oil prices surge after U.S.-Iran peace talks break down",
+    "url": "https://www.npr.org/2026/04/13/nx-s1-5781260/oil-prices-surge-after-us-iran-peace-talks-break-down",
+    "source": "NPR",
+    "publishedAt": "2026-04-13T08:45:21Z"
+  },
+  {
+    "title": "Tear gas fired at India workers demanding higher wages as living costs rise",
+    "url": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-04-13T01:30:59Z"
+    "publishedAt": "2026-04-13T11:35:21Z"
+  },
+  {
+    "title": "Israeli forces fire tear gas near Palestinian schoolchildren",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israeli-forces-fire-tear-gas-near-palestinian-schoolchildren?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-13T10:50:04Z"
   },
   {
     "title": "Why oil prices aren’t what you think – and what it means for global supply",
@@ -12,16 +24,40 @@
     "publishedAt": "2026-04-13T08:14:22Z"
   },
   {
-    "title": "U.S. military to block ships from Iran's ports after peace talks fail",
+    "title": "Don’t mention the climate: Trump creates ‘beyond absurd’ situation at global finance talks",
+    "url": "https://www.theguardian.com/environment/2026/apr/13/dont-mention-the-climate-trump-creates-beyond-absurd-situation-at-global-finance-talks",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-13T13:00:40Z"
+  },
+  {
+    "title": "Middle East crisis live: US plans blockade of Iran’s ports as Pope Leo says he has ‘no intention to debate’ Trump over war",
+    "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-13T12:56:53Z"
+  },
+  {
+    "title": "U.S. military’s promised blockade of ships leaving Iranian ports expected to begin shortly",
+    "url": "https://www.cbc.ca/news/world/livestory/us-israel-iran-war-blockade-strait-hormuz-9.7161372?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-13T12:13:38Z"
+  },
+  {
+    "title": "Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election",
+    "url": "https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election",
+    "source": "NPR",
+    "publishedAt": "2026-04-13T11:56:36Z"
+  },
+  {
+    "title": "The U.S. military is about to block ships from Iran's ports after talks failed",
     "url": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
     "source": "NPR",
     "publishedAt": "2026-04-13T11:03:13Z"
   },
   {
-    "title": "Middle East crisis live: US blockade of Iran’s ports to begin today as Pope Leo says he has ‘no intention to debate’ Trump over war",
-    "url": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-13T10:52:31Z"
+    "title": "Trump says U.S. will blockade Iranian ports after peace talks fail",
+    "url": "https://www.npr.org/2026/04/13/nx-s1-5782654/trump-says-us-will-blockade-iranian-ports-after-peace-talks-fail",
+    "source": "NPR",
+    "publishedAt": "2026-04-13T10:44:32Z"
   },
   {
     "title": "‘The perception is Carney is a wartime leader’: why Canada’s PM could secure a majority",
@@ -34,6 +70,12 @@
     "url": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-13T09:52:16Z"
+  },
+  {
+    "title": "Former U.S. special envoy on where U.S. and Iran stand after failed negotiations",
+    "url": "https://www.npr.org/2026/04/13/nx-s1-5780993/former-us-special-envoy-on-where-us-and-iran-stand-after-failed-negotiations",
+    "source": "NPR",
+    "publishedAt": "2026-04-13T08:45:18Z"
   },
   {
     "title": "Gaza's ceasefire hasn't brought the surge of aid it promised",
@@ -54,69 +96,27 @@
     "publishedAt": "2026-04-12T23:59:48Z"
   },
   {
-    "title": "Southport attack: ‘catastrophic’ failures by multiple agencies contributed to atrocity, public inquiry finds – live updates",
+    "title": "Hungarian election winner Magyar vows to rebuild EU relationship after stunning defeat of Viktor Orbán - Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-13T13:01:15Z"
+  },
+  {
+    "title": "Southport attack: report shows ‘systemic failure of the state’ to prevent atrocity, says home secretary – live updates",
     "url": "https://www.theguardian.com/uk-news/live/2026/apr/13/southport-attack-public-inquiry-findings-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-04-13T11:01:30Z"
+    "publishedAt": "2026-04-13T12:58:55Z"
   },
   {
-    "title": "Southport attack blamed on ‘catastrophic’ failures by agencies and killer’s ‘irresponsible’ parents",
-    "url": "https://www.theguardian.com/uk-news/2026/apr/13/southport-attack-blamed-on-catastrophic-failures-by-agencies-and-killers-irresponsible-parents",
+    "title": "At least six killed in Israeli strikes in southern Lebanon",
+    "url": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-13T12:39:20Z"
+  },
+  {
+    "title": "What is the new EU bill and could it give UK ministers Henry VIII-type powers?",
+    "url": "https://www.theguardian.com/politics/2026/apr/13/what-new-eu-bill-uk-ministers-henry-viii-type-powers",
     "source": "The Guardian",
-    "publishedAt": "2026-04-13T10:59:59Z"
-  },
-  {
-    "title": "Iran war puts prediction markets back in the spotlight",
-    "url": "https://www.pbs.org/newshour/economy/iran-war-puts-prediction-markets-back-in-the-spotlight",
-    "source": "PBS",
-    "publishedAt": "2026-04-12T21:06:29Z"
-  },
-  {
-    "title": "Nigeria Air Force orders investigation after dozens killed in airstrike",
-    "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-13T10:52:08Z"
-  },
-  {
-    "title": "How a UK military college sought to distance itself from ban on Israelis",
-    "url": "https://www.aljazeera.com/news/2026/4/13/how-a-uk-military-college-sought-to-distance-itself-from-ban-on-israelis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-13T10:14:12Z"
-  },
-  {
-    "title": "Millions in war-ravaged Sudan surviving on one meal a day, say NGOs",
-    "url": "https://www.aljazeera.com/news/2026/4/13/millions-in-war-ravaged-sudan-surviving-on-one-meal-a-day-say-ngos?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-13T09:59:36Z"
-  },
-  {
-    "title": "Donald Trump launches extraordinary attack on Pope Leo calling him ‘weak’ and ‘terrible’",
-    "url": "https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-13T09:56:01Z"
-  },
-  {
-    "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
-    "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-13T09:46:37Z"
-  },
-  {
-    "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
-    "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-13T09:40:29Z"
-  },
-  {
-    "title": "Protesters rally in Paris against ‘liberty-killing’ anti-Semitism bill",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/protesters-rally-in-paris-against-liberty-killing-anti-semitism-bill?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-13T09:23:15Z"
-  },
-  {
-    "title": "Irish PM announces fuel tax cuts amid days of protests over soaring prices at the pumps",
-    "url": "https://www.cbc.ca/news/world/ireland-gas-fuel-protest-tax-9.7161046?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-04-12T19:23:59Z"
+    "publishedAt": "2026-04-13T12:35:18Z"
   }
 ]
