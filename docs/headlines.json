@@ -1,9 +1,9 @@
 [
   {
-    "title": "UK steel exports to EU at risk as bloc doubles tariffs and halves quotas",
-    "url": "https://www.theguardian.com/business/2026/apr/14/uk-steel-exports-eu-risk-tariffs-quotas",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-14T13:53:35Z"
+    "title": "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks",
+    "url": "https://www.pbs.org/newshour/show/israeli-strikes-on-lebanon-continue-as-u-s-hosts-historic-diplomatic-talks",
+    "source": "PBS",
+    "publishedAt": "2026-04-14T22:55:25Z"
   },
   {
     "title": "Pakistan proposes second round of U.S.-Iran talks as standoff deepens",
@@ -21,7 +21,19 @@
     "title": "Middle East crisis live: Trump says Iran negotiations could resume in ‘next two days’; US talks between Lebanon and Israel end",
     "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
     "source": "The Guardian",
-    "publishedAt": "2026-04-14T22:30:14Z"
+    "publishedAt": "2026-04-14T23:19:50Z"
+  },
+  {
+    "title": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
+    "url": "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-14T23:08:43Z"
+  },
+  {
+    "title": "Australia news live: Chalmers warns of ‘really dangerous time’ for global economy; NSW pharmacists able to prescribe contraceptive pill directly to women",
+    "url": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-14T23:06:09Z"
   },
   {
     "title": "Man accused of attacking Sam Altman's home was in midst of mental health crisis, lawyer says",
@@ -48,22 +60,10 @@
     "publishedAt": "2026-04-14T18:27:45Z"
   },
   {
-    "title": "Iran war escalation could trigger global recession, IMF warns",
-    "url": "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-14T18:26:11Z"
-  },
-  {
     "title": "No ships ‘make it past US blockade’ in Hormuz strait in first day: Pentagon",
     "url": "https://www.aljazeera.com/news/2026/4/14/no-ships-make-it-past-us-blockade-in-hormuz-strait-in-first-day-pentagon?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-14T17:53:14Z"
-  },
-  {
-    "title": "Somalia reports hit on al-Shabab with ‘international support’",
-    "url": "https://www.aljazeera.com/news/2026/4/14/somalia-reports-hit-on-al-shabab-with-international-support?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-14T17:45:36Z"
   },
   {
     "title": "Sudan: Iran war prompts 'massive' food, fuel price rises; drones kill hundreds of civilians in 2026",
@@ -90,12 +90,6 @@
     "publishedAt": "2026-04-14T13:11:34Z"
   },
   {
-    "title": "Israeli forces fire teargas at schoolchildren holding West Bank sit-in",
-    "url": "https://www.theguardian.com/world/2026/apr/13/israeli-forces-fire-teargas-at-schoolchildren-holding-west-bank-sit-in",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-13T15:51:47Z"
-  },
-  {
     "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
     "url": "https://news.un.org/feed/view/en/story/2026/04/1167299",
     "source": "UN News",
@@ -114,9 +108,15 @@
     "publishedAt": "2026-04-14T12:00:00Z"
   },
   {
-    "title": "These U.S. companies think Trump's tariffs are great. Here's why",
-    "url": "https://www.cbc.ca/news/world/trump-tariffs-us-manufacturers-greer-9.7159994?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-04-14T08:00:00Z"
+    "title": "UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war",
+    "url": "https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-14T23:01:52Z"
+  },
+  {
+    "title": "The Take: Who is keeping the fight alive in Sudan’s war?",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/4/14/aje-onl-sdn_anniversary26_av_v2-140426?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-14T22:59:50Z"
   }
 ]
