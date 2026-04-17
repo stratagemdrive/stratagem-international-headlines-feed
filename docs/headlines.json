@@ -1,15 +1,15 @@
 [
   {
+    "title": "Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect",
+    "url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-17T04:59:47Z"
+  },
+  {
     "title": "Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine – as it happened",
     "url": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
     "source": "The Guardian",
     "publishedAt": "2026-04-16T14:45:04Z"
-  },
-  {
-    "title": "Middle East crisis live: UN chief calls for Israel-Lebanon ceasefire to be ‘fully’ respected as it comes into effect",
-    "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-17T01:45:45Z"
   },
   {
     "title": "Israel agrees to 10-day ceasefire in Lebanon as U.S. pushes for broader peace deal",
@@ -24,16 +24,16 @@
     "publishedAt": "2026-04-16T22:45:10Z"
   },
   {
-    "title": "Senate vote on arms sale shows ‘massive cracks’ in US support for Israel",
-    "url": "https://www.aljazeera.com/news/2026/4/16/senate-vote-on-arms-sale-shows-massive-cracks-in-us-support-for-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-16T20:03:08Z"
-  },
-  {
     "title": "Israel escalates attacks on medics in Lebanon with deadly ‘quadruple tap’",
     "url": "https://www.theguardian.com/world/2026/apr/16/israel-escalates-attacks-on-medics-in-lebanon-with-deadly-quadruple-tap",
     "source": "The Guardian",
     "publishedAt": "2026-04-16T17:12:32Z"
+  },
+  {
+    "title": "Trump calls war on Iran a ‘little diversion’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/trump-calls-war-on-iran-a-little?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-17T05:03:31Z"
   },
   {
     "title": "Europe nears energy crisis with global implications, head of energy agency warns",
@@ -42,10 +42,22 @@
     "publishedAt": "2026-04-16T15:05:30Z"
   },
   {
+    "title": "Australian ex-soldier Roberts-Smith granted bail in Afghan war crimes case",
+    "url": "https://www.aljazeera.com/news/2026/4/17/australian-ex-soldier-roberts-smith-granted-bail-in-afghan-war-crimes-case?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-17T04:56:17Z"
+  },
+  {
     "title": "How the Hormuz Strait crisis is squeezing India's SMEs",
     "url": "https://www.dw.com/en/how-the-hormuz-strait-crisis-is-squeezing-india-s-smes/a-76810797?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-04-16T14:26:00Z"
+  },
+  {
+    "title": "France arrests suspect over 1982 attack on Jewish restaurant",
+    "url": "https://www.aljazeera.com/news/2026/4/17/france-arrests-suspect-over-1982-attack-on-jewish-restaurant?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-17T04:08:41Z"
   },
   {
     "title": "Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia",
@@ -60,16 +72,40 @@
     "publishedAt": "2026-04-16T13:51:54Z"
   },
   {
+    "title": "Ben Roberts-Smith granted bail after being charged with five counts of war crime murder",
+    "url": "https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smith-brs-bail-decision-war-crimes-trial-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-17T03:43:55Z"
+  },
+  {
     "title": "Hegseth says Americans 'see the success' in Iran",
     "url": "https://www.pbs.org/newshour/world/watch-hegseth-says-americans-see-the-success-in-iran",
     "source": "PBS",
     "publishedAt": "2026-04-16T13:38:23Z"
   },
   {
+    "title": "IMF, World Bank say they are restoring ties with Venezuela",
+    "url": "https://www.aljazeera.com/economy/2026/4/17/imf-world-bank-say-they-are-restoring-ties-with-venezuela?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-17T03:24:11Z"
+  },
+  {
+    "title": "How Israel’s war upended daily life in Lebanon",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/how-israels-war-upended-daily-life-in-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-17T03:21:14Z"
+  },
+  {
     "title": "Why a U.S. blockade on Iran seems to be working",
     "url": "https://www.pbs.org/newshour/world/why-a-u-s-blockade-on-iran-seems-to-be-working",
     "source": "PBS",
     "publishedAt": "2026-04-16T13:15:06Z"
+  },
+  {
+    "title": "IMF, World Bank restore relations with Venezuela",
+    "url": "https://www.dw.com/en/imf-world-bank-restore-relations-with-venezuela/a-76817169?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-04-17T02:54:00Z"
   },
   {
     "title": "Deadly Russian strikes on Ukrainians ‘simply trying to live their lives’ must stop, says senior UN official",
@@ -82,41 +118,5 @@
     "url": "https://news.un.org/feed/view/en/story/2026/04/1167311",
     "source": "UN News",
     "publishedAt": "2026-04-16T12:00:00Z"
-  },
-  {
-    "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
-    "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-17T00:19:33Z"
-  },
-  {
-    "title": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-17T00:00:00Z"
-  },
-  {
-    "title": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-16T22:55:08Z"
-  },
-  {
-    "title": "News Wrap: Pope warns of 'tyrants' spending billions on wars",
-    "url": "https://www.pbs.org/newshour/show/news-wrap-pope-warns-of-tyrants-spending-billions-on-wars",
-    "source": "PBS",
-    "publishedAt": "2026-04-16T22:40:24Z"
-  },
-  {
-    "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
-    "url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-16T22:04:10Z"
-  },
-  {
-    "title": "UN looks for a short-term solution for moving fertilizer through the Strait of Hormuz",
-    "url": "https://www.npr.org/2026/04/16/nx-s1-5787688/un-looks-for-a-short-term-solution-for-moving-fertilizer-through-the-strait-of-hormuz",
-    "source": "NPR",
-    "publishedAt": "2026-04-16T21:38:38Z"
   }
 ]
