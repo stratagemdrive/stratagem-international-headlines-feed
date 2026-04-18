@@ -1,15 +1,21 @@
 [
   {
+    "title": "Europe looks to secure shipping in Strait of Hormuz",
+    "url": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-04-18T12:49:00Z"
+  },
+  {
     "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
     "url": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-18T10:29:06Z"
   },
   {
-    "title": "Middle East crisis live: Iran ‘reviewing new US proposals’ as Trump warns Tehran over strait of Hormuz closure",
+    "title": "Middle East crisis live: ships report attacks as Iran closes strait of Hormuz; Trump says US cannot be blackmailed",
     "url": "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues",
     "source": "The Guardian",
-    "publishedAt": "2026-04-18T14:44:38Z"
+    "publishedAt": "2026-04-18T15:24:11Z"
   },
   {
     "title": "Iran's military closes Strait of Hormuz again, citing U.S. blockade",
@@ -36,12 +42,6 @@
     "publishedAt": "2026-04-18T11:07:00Z"
   },
   {
-    "title": "Europe looks to secure shipping in Strait of Hormuz",
-    "url": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-04-17T20:25:00Z"
-  },
-  {
     "title": "Displaced by Iran war: out of Lebanon, into Syrian crisis",
     "url": "https://www.dw.com/en/displaced-by-iran-war-out-of-lebanon-into-syrian-crisis/a-76822402?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -58,6 +58,12 @@
     "url": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
     "source": "The Guardian",
     "publishedAt": "2026-04-18T03:52:14Z"
+  },
+  {
+    "title": "Trump and Tehran’s series of mismanaged posts stall progress towards peace",
+    "url": "https://www.theguardian.com/world/2026/apr/18/donald-trump-tehran-war-mismanaged-posts-progress-peace",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-18T15:04:47Z"
   },
   {
     "title": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
@@ -108,15 +114,9 @@
     "publishedAt": "2026-04-18T12:03:33Z"
   },
   {
-    "title": "Gunfire reported by vessel in Strait of Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/gunfire-reported-by-vessel-in-strait-of-hormuz?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-18T11:55:48Z"
-  },
-  {
-    "title": "Displaced Lebanese return as Israeli shelling violates ceasefire in south",
-    "url": "https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-18T11:53:02Z"
+    "title": "UN peacekeeper killed and three injured in southern Lebanon attack",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167332",
+    "source": "UN News",
+    "publishedAt": "2026-04-18T12:00:00Z"
   }
 ]
