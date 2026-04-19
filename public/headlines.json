@@ -1,9 +1,15 @@
 [
   {
-    "title": "Middle East crisis live: Iran says ‘fundamental’ issues’ still to be resolved with US amid strait of Hormuz impasse",
+    "title": "Middle East crisis live: Iran says handing over enriched uranium a ‘non-starter’ as strait of Hormuz remains shut",
     "url": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
     "source": "The Guardian",
-    "publishedAt": "2026-04-19T09:11:34Z"
+    "publishedAt": "2026-04-19T10:07:01Z"
+  },
+  {
+    "title": "Zelensky condemns US extension of Russian sanctions waiver",
+    "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-19T09:55:22Z"
   },
   {
     "title": "Europe looks to secure shipping in Strait of Hormuz",
@@ -22,6 +28,18 @@
     "url": "https://www.pbs.org/newshour/world/witnesses-detail-deadly-israeli-strikes-on-medics-in-lebanon",
     "source": "PBS",
     "publishedAt": "2026-04-18T20:55:00Z"
+  },
+  {
+    "title": "Displaced Lebanese families return home despite Israeli attacks",
+    "url": "https://www.aljazeera.com/gallery/2026/4/19/displaced-lebanese-families-return-south-despite-risks-near-israeli-border?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-19T10:11:31Z"
+  },
+  {
+    "title": "Iran war: What is happening on day 51 of the US-Iran conflict?",
+    "url": "https://www.aljazeera.com/news/2026/4/19/iran-war-what-is-happening-on-day-51-of-the-us-iran-conflict?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-19T09:26:26Z"
   },
   {
     "title": "How the Israeli military targets the people who save lives",
@@ -100,23 +118,5 @@
     "url": "https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles",
     "source": "NPR",
     "publishedAt": "2026-04-19T00:54:43Z"
-  },
-  {
-    "title": "North Korea launches ballistic missiles towards sea off its east coast",
-    "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-19T00:28:45Z"
-  },
-  {
-    "title": "Displaced by Iran war: out of Lebanon, into Syrian crisis",
-    "url": "https://www.dw.com/en/displaced-by-iran-war-out-of-lebanon-into-syrian-crisis/a-76822402?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-04-18T10:07:00Z"
-  },
-  {
-    "title": "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-19T00:00:00Z"
   }
 ]
