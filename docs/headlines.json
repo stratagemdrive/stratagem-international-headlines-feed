@@ -12,16 +12,10 @@
     "publishedAt": "2026-04-19T23:07:42Z"
   },
   {
-    "title": "News live: Australia dealing with ‘the largest energy shock in our history’ as strait of Hormuz tensions continue, industry minister says",
-    "url": "https://www.theguardian.com/australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-19T23:12:56Z"
-  },
-  {
     "title": "Middle East crisis live: Iran accuses US of ceasefire breach and vows to retaliate over seizure of ship",
     "url": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
     "source": "The Guardian",
-    "publishedAt": "2026-04-19T23:11:51Z"
+    "publishedAt": "2026-04-20T01:39:12Z"
   },
   {
     "title": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
@@ -54,7 +48,7 @@
     "publishedAt": "2026-04-19T14:08:20Z"
   },
   {
-    "title": "Trump says U.S. seized Iranian-flagged ship as Iran promises to respond",
+    "title": "U.S. attacks Iranian-flagged ship as Tehran promises to respond",
     "url": "https://www.pbs.org/newshour/world/trump-says-u-s-officials-will-hold-more-talks-with-iran-in-pakistan",
     "source": "PBS",
     "publishedAt": "2026-04-19T13:37:39Z"
@@ -64,6 +58,12 @@
     "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
     "source": "NPR",
     "publishedAt": "2026-04-19T11:12:37Z"
+  },
+  {
+    "title": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-20T00:00:00Z"
   },
   {
     "title": "Zelensky condemns US extension of Russian sanctions waiver",
@@ -102,12 +102,6 @@
     "publishedAt": "2026-04-19T21:05:01Z"
   },
   {
-    "title": "Tehran has ‘no plans to participate’ in talks with US, state media reports",
-    "url": "https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-19T20:44:42Z"
-  },
-  {
     "title": "Trump says US seized Iranian ship trying to get past blockade near Hormuz",
     "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
     "source": "Al Jazeera",
@@ -118,5 +112,11 @@
     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/19/did-the-us-misjudge-iran-a-military-strategist-answers-2?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-19T19:06:46Z"
+  },
+  {
+    "title": "Civil resistance activists detained in Manchester over alleged plan to raid high-end stores",
+    "url": "https://www.theguardian.com/world/2026/apr/19/civil-resistance-activists-detained-in-manchester-over-alleged-plan-to-raid-high-end-stores",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-19T18:00:44Z"
   }
 ]
