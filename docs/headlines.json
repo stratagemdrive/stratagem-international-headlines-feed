@@ -1,5 +1,11 @@
 [
   {
+    "title": "UK firms to face tougher checks on export licences to bolster sanctions on Russia",
+    "url": "https://www.theguardian.com/business/2026/apr/22/uk-firms-to-face-tougher-checks-on-export-licences-to-bolster-sanctions-on-russia",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-22T09:00:53Z"
+  },
+  {
     "title": "Japan lifts ban on lethal weapons exports in major change of its postwar pacifist policy",
     "url": "https://www.pbs.org/newshour/world/japan-lifts-ban-on-lethal-weapons-exports-in-major-change-of-its-postwar-pacifist-policy",
     "source": "PBS",
@@ -12,28 +18,28 @@
     "publishedAt": "2026-04-22T07:18:26Z"
   },
   {
+    "title": "Will Iran war reshape global trade more than COVID?",
+    "url": "https://www.dw.com/en/will-iran-war-reshape-global-trade-more-than-covid/a-76804278?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-04-22T09:41:00Z"
+  },
+  {
     "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
     "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-04-21T22:10:22Z"
   },
   {
-    "title": "Decision on EU’s €90bn loan for Ukraine ‘due in next 24 hours’ after Zelenskyy says oil pipeline repaired – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
+    "title": "Middle East crisis live: Ships reportedly attacked in strait of Hormuz after Trump extends Iran ceasefire",
+    "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
     "source": "The Guardian",
-    "publishedAt": "2026-04-21T16:27:43Z"
+    "publishedAt": "2026-04-22T10:22:33Z"
   },
   {
     "title": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
     "url": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-22T09:02:55Z"
-  },
-  {
-    "title": "Middle East crisis live: Trump extends ceasefire but blockade continues as second ship reports attack in strait of Hormuz",
-    "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-22T08:55:53Z"
   },
   {
     "title": "Gas companies spending millions on Australian advertising blitz to fight export tax, inquiry told",
@@ -54,12 +60,6 @@
     "publishedAt": "2026-04-21T10:13:54Z"
   },
   {
-    "title": "UK inflation rises to 3.3% amid soaring fuel prices driven by Iran war",
-    "url": "https://www.theguardian.com/business/2026/apr/22/uk-inflation-rises-soaring-fuel-prices-iran-war",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-22T06:01:44Z"
-  },
-  {
     "title": "Japan approves removing ban on lethal weapons exports",
     "url": "https://www.npr.org/2026/04/21/nx-s1-5793052/japan-approves-removing-ban-on-lethal-weapons-exports",
     "source": "NPR",
@@ -72,10 +72,22 @@
     "publishedAt": "2026-04-21T23:52:45Z"
   },
   {
-    "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-    "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-21T20:42:21Z"
+    "title": "Ships attacked in Strait of Hormuz after ceasefire extension",
+    "url": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
+    "source": "NPR",
+    "publishedAt": "2026-04-22T10:53:59Z"
+  },
+  {
+    "title": "Contested Druzhba pipeline resumes operations with EU close to signing off on €90bn loan for Ukraine – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-22T10:27:39Z"
+  },
+  {
+    "title": "Tui cuts profit forecast as effects of Iran war cost travel group €40m",
+    "url": "https://www.theguardian.com/business/2026/apr/22/tui-cuts-profit-forecast-iran-war-cost-travel-group",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-22T10:10:50Z"
   },
   {
     "title": "As Pakistan seeks to broker U.S.–Iran peace, citizens watch for gains at home",
@@ -84,39 +96,27 @@
     "publishedAt": "2026-04-21T20:10:44Z"
   },
   {
-    "title": "EU close to signing off on critical €90bn loan for Ukraine after months of vetoing from Hungary – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-22T08:40:22Z"
+    "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
+    "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-22T09:47:48Z"
+  },
+  {
+    "title": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia",
+    "url": "https://www.aljazeera.com/news/2026/4/22/russian-drone-attacks-in-ukraine-strike-odesa-port-and-kill-railway-worker?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-22T09:16:22Z"
+  },
+  {
+    "title": "Israel attacks mosque in Lebanon in another ceasefire violation",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israel-attacks-mosque-in-lebanon-in-another-ceasefire-violation?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-22T09:15:13Z"
   },
   {
     "title": "LeBron James nets 28, Lakers grab 2-0 lead on Rockets in NBA Playoff series",
     "url": "https://www.aljazeera.com/sports/2026/4/22/lebron-james-nets-28-lakers-grab-2-0-lead-on-rockets-in-nba-playoff-series?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-22T08:34:07Z"
-  },
-  {
-    "title": "How China is gaining from Iran war by showing it is different from US",
-    "url": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-22T08:24:25Z"
-  },
-  {
-    "title": "Iran’s UN ambassador responds to US ceasefire extension",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-22T07:33:42Z"
-  },
-  {
-    "title": "Record number of immigrants reside in EU in 2025",
-    "url": "https://www.dw.com/en/record-number-of-immigrants-reside-in-eu-in-2025/a-76890285?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-04-22T07:28:00Z"
-  },
-  {
-    "title": "Is Bangladesh killing reforms introduced after student-led protests?",
-    "url": "https://www.aljazeera.com/news/2026/4/22/is-bangladesh-killing-reforms-introduced-after-student-led-protests?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-22T07:03:54Z"
   }
 ]
