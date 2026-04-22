@@ -1,15 +1,15 @@
 [
   {
+    "title": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-22T20:30:10Z"
+  },
+  {
     "title": "Fires ignited by Ukrainian drones rage at Russian oil refinery",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/fires-ignited-by-ukrainian-drones-rage-at-russian-oil-refinery?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-22T15:19:44Z"
-  },
-  {
-    "title": "Russia says will halt oil flow to Germany via Druzhba pipeline",
-    "url": "https://www.aljazeera.com/economy/2026/4/22/russia-says-will-halt-oil-flow-to-germany-via-druzhba-pipeline?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-22T14:38:01Z"
   },
   {
     "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
@@ -30,10 +30,16 @@
     "publishedAt": "2026-04-22T09:41:00Z"
   },
   {
-    "title": "Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
+    "title": "Middle East crisis live: White House says Trump ‘satisfied’ with blockade after Iran says it seized two ships in strait of Hormuz",
     "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
     "source": "The Guardian",
-    "publishedAt": "2026-04-22T19:03:02Z"
+    "publishedAt": "2026-04-22T20:16:35Z"
+  },
+  {
+    "title": "Sheinbaum weighs sanctions on Chihuahua state after CIA agents died in Mexico drug lab raid",
+    "url": "https://www.pbs.org/newshour/world/sheinbaum-weighs-sanctions-on-chihuahua-state-after-cia-agents-died-in-mexico-drug-lab-raid",
+    "source": "PBS",
+    "publishedAt": "2026-04-22T20:07:14Z"
   },
   {
     "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
@@ -72,10 +78,10 @@
     "publishedAt": "2026-04-22T12:51:00Z"
   },
   {
-    "title": "Deadly Israeli settler attack on school kills two in Ramallah",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/deadly-israeli-settler-attack-on-school-kills-two-in-ramallah?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-22T12:41:45Z"
+    "title": "SECURITY COUNCIL LIVE: Regional war threatens Syria’s fragile transition",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167358",
+    "source": "UN News",
+    "publishedAt": "2026-04-22T12:00:00Z"
   },
   {
     "title": "Extreme heat pushing global food systems to the brink, UN agencies warn",
@@ -96,6 +102,12 @@
     "publishedAt": "2026-04-22T10:53:59Z"
   },
   {
+    "title": "3 ships attacked in Strait of Hormuz, complicating efforts to resume U.S.-Iran talks",
+    "url": "https://www.cbc.ca/news/world/ships-attacked-hormuz-iran-u-s-conflict-9.7172801?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-22T08:53:50Z"
+  },
+  {
     "title": "Gas companies spending millions on Australian advertising blitz to fight export tax, inquiry told",
     "url": "https://www.theguardian.com/australia-news/2026/apr/22/energy-giants-spending-millions-of-dollars-on-advertising-blitz-to-fight-gas-export-tax-inquiry-told",
     "source": "The Guardian",
@@ -106,17 +118,5 @@
     "url": "https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-04-22T08:38:00Z"
-  },
-  {
-    "title": "At least four killed in Israeli strikes on Lebanon, journalists wounded",
-    "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-22T18:10:52Z"
-  },
-  {
-    "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
-    "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-22T17:48:44Z"
   }
 ]
