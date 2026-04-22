@@ -6,12 +6,6 @@
     "publishedAt": "2026-04-21T18:30:36Z"
   },
   {
-    "title": "Ukraine says Druzhba pipeline running Russian oil to Europe can resume work",
-    "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-21T18:27:14Z"
-  },
-  {
     "title": "Decision on EU’s €90bn loan for Ukraine ‘due in next 24 hours’ after Zelenskyy says oil pipeline repaired – as it happened",
     "url": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
     "source": "The Guardian",
@@ -30,10 +24,10 @@
     "publishedAt": "2026-04-21T08:44:07Z"
   },
   {
-    "title": "Middle East crisis live: Trump unilaterally extends ceasefire; US navy continues blockade of Iranian ports",
-    "url": "https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks",
+    "title": "Middle East crisis live: Trump extends ceasefire but blockade continues; Iran attacks container ship off Oman",
+    "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
     "source": "The Guardian",
-    "publishedAt": "2026-04-22T01:52:33Z"
+    "publishedAt": "2026-04-22T04:59:34Z"
   },
   {
     "title": "Japan approves scrapping a ban on lethal weapons exports",
@@ -72,6 +66,12 @@
     "publishedAt": "2026-04-21T16:15:39Z"
   },
   {
+    "title": "UK could face ‘hacktivist attacks at scale’, says head of security agency",
+    "url": "https://www.theguardian.com/technology/2026/apr/22/uk-hacktivist-attacks-at-scale-security-agency",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-22T05:00:10Z"
+  },
+  {
     "title": "U.S. forces board a sanctioned oil tanker 'without incident' in the Indian Ocean, the Pentagon says",
     "url": "https://www.pbs.org/newshour/world/u-s-forces-board-a-sanctioned-oil-tanker-without-incident-in-the-indian-ocean-the-pentagon-says",
     "source": "PBS",
@@ -82,6 +82,18 @@
     "url": "https://www.pbs.org/newshour/world/u-s-and-iran-signal-new-ceasefire-talks-in-islamabad-as-fragile-truce-nears-end",
     "source": "PBS",
     "publishedAt": "2026-04-21T14:02:37Z"
+  },
+  {
+    "title": "Tehran held military parades as ceasefire was set to end",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/tehran-held-military-parades-as-ceasefire-was-set-to-end?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-22T03:21:22Z"
+  },
+  {
+    "title": "Strait of Hormuz military talks to be led by UK and France – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-22T02:32:42Z"
   },
   {
     "title": "Trump extends U.S. ceasefire with Iran at Pakistan's request",
@@ -106,17 +118,5 @@
     "url": "https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh",
     "source": "NPR",
     "publishedAt": "2026-04-21T11:38:06Z"
-  },
-  {
-    "title": "US in talks to send Afghan refugees to DR Congo",
-    "url": "https://www.dw.com/en/us-in-talks-to-send-afghan-refugees-to-dr-congo/a-76889628?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-04-22T01:13:00Z"
-  },
-  {
-    "title": "Ceasefire agreement between the U.S. and Iran ends soon",
-    "url": "https://www.npr.org/2026/04/21/nx-s1-5791613/ceasefire-agreement-between-the-u-s-and-iran-ends-wednesday",
-    "source": "NPR",
-    "publishedAt": "2026-04-21T10:43:08Z"
   }
 ]
