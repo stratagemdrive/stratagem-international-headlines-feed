@@ -1,21 +1,27 @@
 [
   {
-    "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
-    "url": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-25T07:10:19Z"
-  },
-  {
     "title": "Middle East crisis live: Donald Trump cancels US envoy trip to Pakistan for ceasefire talks with Iran",
     "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
     "source": "The Guardian",
-    "publishedAt": "2026-04-25T18:23:46Z"
+    "publishedAt": "2026-04-25T19:07:40Z"
+  },
+  {
+    "title": "France defends abstention on UN slave trade resolution",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/france-defends-abstention-on-un-slave-trade-resolution?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-25T18:58:37Z"
   },
   {
     "title": "U.S. says it's clearing Iranian mines in latest push to open the Strait of Hormuz",
     "url": "https://www.pbs.org/newshour/world/u-s-says-its-clearing-iranian-mines-in-latest-push-to-open-the-strait-of-hormuz",
     "source": "PBS",
     "publishedAt": "2026-04-25T16:25:07Z"
+  },
+  {
+    "title": "Al-Qaeda-linked group claims responsibility for deadly attacks across Mali",
+    "url": "https://www.cbc.ca/news/world/attacks-mali-capital-9.7177256?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-25T13:54:53Z"
   },
   {
     "title": "Major Russian attacks kill at least 7 and wound dozens in Ukraine",
@@ -34,6 +40,24 @@
     "url": "https://www.theguardian.com/uk-news/2026/apr/25/raf-typhoons-scrambled-russia-drone-nato-romania-ukraine",
     "source": "The Guardian",
     "publishedAt": "2026-04-25T09:57:33Z"
+  },
+  {
+    "title": "Macron says EU’s mutual defence clause ‘not just words’",
+    "url": "https://www.theguardian.com/world/2026/apr/25/macron-says-eus-mutual-defence-clause-not-just-words",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-25T19:10:27Z"
+  },
+  {
+    "title": "'Just war' has guided Catholic thinking on conflict for centuries &ndash; including criticism of Iran war",
+    "url": "https://www.pbs.org/newshour/world/analysis-just-war-has-guided-catholic-thinking-on-conflict-for-centuries-including-criticism-of-iran-war",
+    "source": "PBS",
+    "publishedAt": "2026-04-25T19:09:20Z"
+  },
+  {
+    "title": "Latest ceasefire talks fail as Iran's top diplomat leaves Pakistan and Trump tells envoys not to go",
+    "url": "https://www.pbs.org/newshour/world/latest-ceasefire-talks-fail-as-irans-top-diplomat-leaves-pakistan-and-trump-tells-envoys-not-to-go",
+    "source": "PBS",
+    "publishedAt": "2026-04-25T18:43:29Z"
   },
   {
     "title": "Gunmen attack several locations in Mali's capital and other cities",
@@ -60,7 +84,7 @@
     "publishedAt": "2026-04-25T16:35:14Z"
   },
   {
-    "title": "Trump says he's no longer sending Witkoff, Kushner to Pakistan for Iran talks",
+    "title": "Iran talks on hold as Tehran's top diplomat leaves Pakistan, Trump tells envoys not to go",
     "url": "https://www.cbc.ca/news/world/us-iran-pakistan-talks-9.7177261?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-04-25T15:59:39Z"
@@ -94,29 +118,5 @@
     "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-04-25T00:10:51Z"
-  },
-  {
-    "title": "Gunmen stage simultaneous attacks in and outside Mali capital, army says",
-    "url": "https://www.cbc.ca/news/world/attacks-mali-capital-9.7177256?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-04-25T13:54:53Z"
-  },
-  {
-    "title": "Israeli attacks kill four in southern Lebanon",
-    "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-25T13:25:30Z"
-  },
-  {
-    "title": "Russian airstrikes kill at least seven people in Ukraine overnight",
-    "url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-25T13:17:15Z"
-  },
-  {
-    "title": "U.S., Iranian delegations head to Pakistan, renewing hopes for diplomatic end to war",
-    "url": "https://www.pbs.org/newshour/show/u-s-iranian-delegations-head-to-pakistan-renewing-hopes-for-diplomatic-end-to-war",
-    "source": "PBS",
-    "publishedAt": "2026-04-24T22:55:58Z"
   }
 ]
