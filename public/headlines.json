@@ -1,5 +1,11 @@
 [
   {
+    "title": "Colombia blames dissident FARC rebel for deadly bus bomb",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-26T03:37:17Z"
+  },
+  {
     "title": "In a rare interview, a leader of the world's largest right-wing group talks to NPR",
     "url": "https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist",
     "source": "NPR",
@@ -24,16 +30,16 @@
     "publishedAt": "2026-04-25T16:25:07Z"
   },
   {
+    "title": "Ukrainian action thriller billed as Saving Private Ryan for the drone age",
+    "url": "https://www.theguardian.com/world/2026/apr/26/ukrainian-action-thriller-billed-as-saving-private-ryan-for-the-drone-age",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-26T04:00:04Z"
+  },
+  {
     "title": "Al-Qaeda-linked group claims responsibility for deadly attacks across Mali",
     "url": "https://www.cbc.ca/news/world/attacks-mali-capital-9.7177256?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-04-25T13:54:53Z"
-  },
-  {
-    "title": "Israel kills four in Lebanon as it escalates ceasefire breaches",
-    "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-25T13:25:30Z"
   },
   {
     "title": "Major Russian attacks kill at least 7 and wound dozens in Ukraine",
@@ -46,6 +52,12 @@
     "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-04-25T12:29:37Z"
+  },
+  {
+    "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-26T02:00:32Z"
   },
   {
     "title": "US president cancels envoy trip to Pakistan for ceasefire talks – as it happened",
@@ -106,17 +118,5 @@
     "url": "https://www.pbs.org/newshour/world/latest-ceasefire-talks-fail-as-irans-top-diplomat-leaves-pakistan-and-trump-tells-envoys-not-to-go",
     "source": "PBS",
     "publishedAt": "2026-04-25T18:43:29Z"
-  },
-  {
-    "title": "Islamic militants and separatists attack several locations in Mali's capital and other cities",
-    "url": "https://www.pbs.org/newshour/world/islamic-militants-and-separatists-attack-several-locations-in-malis-capital-and-other-cities",
-    "source": "PBS",
-    "publishedAt": "2026-04-25T17:51:27Z"
-  },
-  {
-    "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
-    "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-25T17:36:58Z"
   }
 ]
