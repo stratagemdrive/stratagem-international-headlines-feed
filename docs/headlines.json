@@ -1,5 +1,11 @@
 [
   {
+    "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
+    "url": "https://news.un.org/feed/view/en/story/2026/04/1167383",
+    "source": "UN News",
+    "publishedAt": "2026-04-26T12:00:00Z"
+  },
+  {
     "title": "Israel launches deadly strikes in Lebanon, warns residents beyond 'buffer zone' to flee",
     "url": "https://www.cbc.ca/news/world/israel-lebanon-strike-evacuation-buffer-zone-9.7178015?cmp=rss",
     "source": "CBC",
@@ -84,8 +90,8 @@
     "publishedAt": "2026-04-26T19:14:37Z"
   },
   {
-    "title": "Strikes kill at least 16 as Chernobyl anniversary highlights nuclear risks of Russia-Ukraine war",
-    "url": "https://www.pbs.org/newshour/world/strikes-kill-at-least-16-as-chernobyl-anniversary-highlights-nuclear-risks-of-russia-ukraine-war",
+    "title": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl's 40th anniversary",
+    "url": "https://www.pbs.org/newshour/world/strikes-in-ukraine-and-russia-kill-at-least-16-on-chernobyls-40th-anniversary",
     "source": "PBS",
     "publishedAt": "2026-04-26T18:07:41Z"
   },
@@ -112,11 +118,5 @@
     "url": "https://www.aljazeera.com/video/game-theory/2026/4/26/aje-onl-gulf-sport_v3-260426?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-26T15:06:12Z"
-  },
-  {
-    "title": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
-    "url": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-26T14:01:47Z"
   }
 ]
