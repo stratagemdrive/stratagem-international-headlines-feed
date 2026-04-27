@@ -1,21 +1,33 @@
 [
   {
-    "title": "Oil prices rise amid stalled US-Iran peace talks",
-    "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-27T02:06:46Z"
-  },
-  {
     "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
     "url": "https://www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister",
     "source": "The Guardian",
     "publishedAt": "2026-04-27T11:44:31Z"
   },
   {
+    "title": "Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/aje-onl-aje_onl_lebanon_wrap-270426?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-27T14:48:44Z"
+  },
+  {
     "title": "Middle East crisis live: Iran ‘offers to end chokehold on strait of Hormuz’",
     "url": "https://www.theguardian.com/world/live/2026/apr/27/middle-east-crisis-iran-us-israel-lebanon-trump-araghchi-putin-hormuz-oil-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-04-27T12:02:56Z"
+    "publishedAt": "2026-04-27T14:41:59Z"
+  },
+  {
+    "title": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, officials say",
+    "url": "https://www.pbs.org/newshour/world/iran-offers-to-reopen-strait-of-hormuz-if-u-s-lifts-its-blockade-and-the-war-ends-officials-say",
+    "source": "PBS",
+    "publishedAt": "2026-04-27T13:38:31Z"
+  },
+  {
+    "title": "How does targeting water supply during war worsen the scarcity crisis?",
+    "url": "https://www.aljazeera.com/video/the-stream/2026/4/27/how-does-targeting-water-supply-during-war-worsen-the-scarcity-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-27T13:00:00Z"
   },
   {
     "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
@@ -72,12 +84,6 @@
     "publishedAt": "2026-04-27T07:44:00Z"
   },
   {
-    "title": "Taiwan court hands down jail terms in TSMC trade secrets case",
-    "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-27T05:43:30Z"
-  },
-  {
     "title": "Deadly Israeli attacks worsen Gaza’s water shortage crisis",
     "url": "https://www.theguardian.com/world/2026/apr/27/israeli-attacks-gaza-clean-water-shortage-crisis-disease-palestine",
     "source": "The Guardian",
@@ -90,33 +96,27 @@
     "publishedAt": "2026-04-26T12:00:00Z"
   },
   {
-    "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
+    "title": "Putin pledges support for Iran in talks with FM Araghchi",
+    "url": "https://www.dw.com/en/putin-pledges-support-for-iran-in-talks-with-fm-araghchi/a-76947020?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-04-27T15:02:00Z"
+  },
+  {
+    "title": "Rival armed groups join forces against the Malian state: What next?",
+    "url": "https://www.aljazeera.com/news/2026/4/27/rival-armed-groups-join-forces-against-the-malian-state-what-next?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-27T14:45:48Z"
+  },
+  {
+    "title": "NPT summit: Can nuclear pact survive US-Israel war on Iran?",
+    "url": "https://www.aljazeera.com/news/2026/4/27/npt-summit-can-nuclear-pact-survive-us-israel-war-on-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-27T14:43:27Z"
+  },
+  {
+    "title": "Odesa bears brunt of latest Russian attacks on Ukraine – as it happened",
     "url": "https://www.theguardian.com/world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-04-27T12:16:20Z"
-  },
-  {
-    "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
-    "url": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-27T12:08:40Z"
-  },
-  {
-    "title": "Archbishop praises Pope's anti-war comments during Vatican visit",
-    "url": "https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-27T11:19:25Z"
-  },
-  {
-    "title": "Varoufakis on Palantir, AI warfare, and the rise of tech lordism",
-    "url": "https://www.aljazeera.com/video/upfront/2026/4/27/varoufakis-on-palantir-ai-warfare-and-the-rise-of-tech-lordism?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-27T11:12:57Z"
-  },
-  {
-    "title": "Australians will call ‘bullshit’ on green energy without clearer benefits, Rudd warns",
-    "url": "https://www.theguardian.com/australia-news/2026/apr/27/australians-will-call-bullshit-on-green-energy-without-more-benefits-rudd-warns",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-27T11:07:18Z"
+    "publishedAt": "2026-04-27T14:36:03Z"
   }
 ]
