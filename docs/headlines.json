@@ -1,9 +1,15 @@
 [
   {
-    "title": "Oil prices rise higher amid stalled US-Iran peace talks",
+    "title": "Oil prices rise amid stalled US-Iran peace talks",
     "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-27T02:06:46Z"
+  },
+  {
+    "title": "Deadly Israeli attacks worsen Gaza’s water shortage crisis",
+    "url": "https://www.theguardian.com/world/2026/apr/27/israeli-attacks-gaza-clean-water-shortage-crisis-disease-palestine",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-27T04:00:35Z"
   },
   {
     "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
@@ -40,6 +46,24 @@
     "url": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-04-26T15:32:20Z"
+  },
+  {
+    "title": "Gina Rinehart calls for immigrants’ social media to be screened in Anzac memorial speech",
+    "url": "https://www.theguardian.com/business/2026/apr/27/gina-rinehart-immigrant-social-media-screening-anzac-day-sydney-opera-house-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-27T05:09:51Z"
+  },
+  {
+    "title": "From Australia to Vietnam, the Iran war is fuelling demand for EVs",
+    "url": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-27T04:46:35Z"
+  },
+  {
+    "title": "Pro-Palestine activists face trial for attack on Israeli arms factory in Germany",
+    "url": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-27T04:00:35Z"
   },
   {
     "title": "How China is responding to the stalling of talks between the U.S. and Iran",
@@ -94,29 +118,5 @@
     "url": "https://www.cbc.ca/news/world/ukraine-40th-anniversary-chornobyl-disaster-9.7177979?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-04-26T19:50:56Z"
-  },
-  {
-    "title": "Colombia bus bombing death toll rises to 20 during a wave of violence",
-    "url": "https://www.pbs.org/newshour/world/colombia-bus-bombing-death-toll-rises-to-20-during-a-wave-of-violence",
-    "source": "PBS",
-    "publishedAt": "2026-04-26T19:21:12Z"
-  },
-  {
-    "title": "Malian defense minister killed in attack as jihadi and rebel forces seized towns and military bases",
-    "url": "https://www.pbs.org/newshour/world/malian-defense-minister-killed-in-attack-as-jihadi-and-rebel-forces-seized-towns-and-military-bases",
-    "source": "PBS",
-    "publishedAt": "2026-04-26T19:14:37Z"
-  },
-  {
-    "title": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl's 40th anniversary",
-    "url": "https://www.pbs.org/newshour/world/strikes-in-ukraine-and-russia-kill-at-least-16-on-chernobyls-40th-anniversary",
-    "source": "PBS",
-    "publishedAt": "2026-04-26T18:07:41Z"
-  },
-  {
-    "title": "Russia, North Korea agree 'long-term' military cooperation",
-    "url": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-04-26T17:25:00Z"
   }
 ]
