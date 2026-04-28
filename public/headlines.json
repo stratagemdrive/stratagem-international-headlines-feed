@@ -1,5 +1,11 @@
 [
   {
+    "title": "BP profits more than double as oil and gas prices soar in Iran war",
+    "url": "https://www.theguardian.com/business/2026/apr/28/bp-profits-oil-gas-prices-iran-war-first-quarter",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-28T06:58:08Z"
+  },
+  {
     "title": "Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz",
     "url": "https://www.aljazeera.com/news/2026/4/28/oil-prices-rise-despite-irans-proposal-to-reopen-strait-of-hormuz?traffic_source=rss",
     "source": "Al Jazeera",
@@ -10,6 +16,36 @@
     "url": "https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc",
     "source": "The Guardian",
     "publishedAt": "2026-04-27T16:08:33Z"
+  },
+  {
+    "title": "Middle East crisis live: Iran says it needs guarantees against attacks before Gulf can be stable",
+    "url": "https://www.theguardian.com/world/live/2026/apr/28/middle-east-crisis-live-iran-us-israel-lebanon-hormuz-nuclear-oil-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-28T08:00:07Z"
+  },
+  {
+    "title": "Violence escalates in Colombia with dozens of attacks before presidential vote",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5802273/violence-colombia-before-presidential-vote",
+    "source": "NPR",
+    "publishedAt": "2026-04-28T07:38:58Z"
+  },
+  {
+    "title": "After blows to his anti-protest laws, Minns considers retreat from ‘globalise the intifada’ ban",
+    "url": "https://www.theguardian.com/australia-news/2026/apr/28/nsw-anti-protest-laws-globalise-intifada-minns-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-28T06:19:08Z"
+  },
+  {
+    "title": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
+    "url": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-28T06:07:02Z"
+  },
+  {
+    "title": "Taking power in Mali might be a stretch but insurgents can force hand of weakened regime",
+    "url": "https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-28T06:00:42Z"
   },
   {
     "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
@@ -24,12 +60,6 @@
     "publishedAt": "2026-04-27T23:44:01Z"
   },
   {
-    "title": "Half of England’s schools unfit due to leaks, mould and faulty toilets, poll finds",
-    "url": "https://www.theguardian.com/education/2026/apr/28/ngland-schools-unfit-leaks-mould-unusable-toilets",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-27T23:01:33Z"
-  },
-  {
     "title": "U.S.-Iran talks at impasse over nuclear program and Strait of Hormuz",
     "url": "https://www.pbs.org/newshour/show/u-s-iran-talks-at-impasse-over-nuclear-program-and-strait-of-hormuz",
     "source": "PBS",
@@ -42,81 +72,51 @@
     "publishedAt": "2026-04-27T21:19:06Z"
   },
   {
+    "title": "Ceasefire in south Lebanon fraying as US-Iran talks stall",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5801519/ceasefire-in-south-lebanon-fraying-as-us-iran-talks-stall",
+    "source": "NPR",
+    "publishedAt": "2026-04-28T08:07:29Z"
+  },
+  {
+    "title": "Toronto woman who wants to die says federal MAID committee isn't listening",
+    "url": "https://www.cbc.ca/news/health/medical-assistance-in-dying-mental-illness-9.7176814?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-28T08:00:00Z"
+  },
+  {
+    "title": "Colleagues describe Lebanese journalist Amal Khalil's final hours as Israeli bombs rained down",
+    "url": "https://www.cbc.ca/radio/asithappens/amal-khalil-journalist-final-hours-lebanon-israel-airstrike-9.7179009?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-28T08:00:00Z"
+  },
+  {
+    "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
+    "url": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-28T07:34:11Z"
+  },
+  {
+    "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+    "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-28T07:17:06Z"
+  },
+  {
+    "title": "Iran war: What’s happening on day 60 as diplomacy gathers pace?",
+    "url": "https://www.aljazeera.com/news/2026/4/28/iran-war-whats-happening-on-day-60-as-diplomacy-gathers-pace?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-28T07:06:02Z"
+  },
+  {
     "title": "U.S. 'is being humiliated' by the Iranian leadership, Germany's Merz says",
     "url": "https://www.pbs.org/newshour/world/u-s-is-being-humiliated-by-the-iranian-leadership-germanys-merz-says",
     "source": "PBS",
     "publishedAt": "2026-04-27T16:51:03Z"
   },
   {
-    "title": "News live: shadow defence minister says Australia ‘ill-prepared’ for conflict; WA man dies after being swept from rocks",
-    "url": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-28T05:35:10Z"
-  },
-  {
     "title": "Here's what to know about ceasefire negotiations between the U.S. and Iran",
     "url": "https://www.pbs.org/newshour/world/heres-what-to-know-about-ceasefire-negotiations-between-the-u-s-and-iran",
     "source": "PBS",
     "publishedAt": "2026-04-27T15:19:35Z"
-  },
-  {
-    "title": "Media freedom ‘under sustained attack’ across EU as public trust drops, report finds",
-    "url": "https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-28T05:00:41Z"
-  },
-  {
-    "title": "‘Shortcomings and failures’ could sink Aukus nuclear submarines plan, UK inquiry warns",
-    "url": "https://www.theguardian.com/world/2026/apr/28/aukus-nuclear-submarines-funding-uk-inquiry",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-28T04:58:44Z"
-  },
-  {
-    "title": "Israel’s direction poses ‘existential threat’ to Judaism, UK’s leading progressive rabbis warn",
-    "url": "https://www.theguardian.com/world/2026/apr/28/israels-direction-poses-existential-threat-to-judaism-uks-leading-progressive-rabbis-warn",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-28T04:00:40Z"
-  },
-  {
-    "title": "Sudan paramilitary leaders acquired £17.7m property portfolio in Dubai, investigation reveals",
-    "url": "https://www.theguardian.com/global-development/2026/apr/28/sudan-paramilitary-rsf-leaders-property-portfolio-dubai-uae-investigation",
-    "source": "The Guardian",
-    "publishedAt": "2026-04-28T04:00:39Z"
-  },
-  {
-    "title": "Mexican military captures cartel commander Audias Flores",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/mexican-military-captures-cartel-commander-audias-flores?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-28T03:54:49Z"
-  },
-  {
-    "title": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, officials say",
-    "url": "https://www.pbs.org/newshour/world/iran-offers-to-reopen-strait-of-hormuz-if-u-s-lifts-its-blockade-and-the-war-ends-officials-say",
-    "source": "PBS",
-    "publishedAt": "2026-04-27T13:38:31Z"
-  },
-  {
-    "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-    "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-27T11:42:59Z"
-  },
-  {
-    "title": "What’s driving the coordinated attacks across Mali?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/whats-driving-the-coordinated-attacks-across-mali?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-28T01:33:27Z"
-  },
-  {
-    "title": "Iran war live: Trump reviews peace plan; UN calls for Hormuz to reopen",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-28T00:00:00Z"
-  },
-  {
-    "title": "Israeli settlers attack Palestinians and set house on fire",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/israeli-settlers-attack-palestinians-and-set-house-on-fire?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-27T23:58:10Z"
   }
 ]
