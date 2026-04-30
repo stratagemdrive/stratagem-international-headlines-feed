@@ -1,9 +1,15 @@
 [
   {
-    "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
-    "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+    "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+    "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-30T04:06:50Z"
+  },
+  {
+    "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+    "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-04-29T22:49:19Z"
+    "publishedAt": "2026-04-30T04:06:01Z"
   },
   {
     "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
@@ -12,10 +18,16 @@
     "publishedAt": "2026-04-29T16:37:08Z"
   },
   {
-    "title": "Ukraine accuses Israel of importing grain 'stolen' by Russia",
-    "url": "https://www.npr.org/2026/04/29/g-s1-119153/ukraine-accuses-israel-of-importing-grain-stolen-by-russia",
+    "title": "Trump says he is weighing reducing American troop presence in Germany after Iran feud",
+    "url": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
     "source": "NPR",
-    "publishedAt": "2026-04-29T08:17:44Z"
+    "publishedAt": "2026-04-30T05:41:44Z"
+  },
+  {
+    "title": "Can the EU’s Article 42.7 offer Europe NATO-like collective defence?",
+    "url": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-04-30T05:23:55Z"
   },
   {
     "title": "Israel seizes Global Sumud Flotilla boats 1,000km away from Gaza",
@@ -54,12 +66,6 @@
     "publishedAt": "2026-04-29T21:46:23Z"
   },
   {
-    "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-    "url": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-04-29T19:38:54Z"
-  },
-  {
     "title": "Madagascar detains French national over alleged plot to stir unrest",
     "url": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -72,16 +78,34 @@
     "publishedAt": "2026-04-29T02:01:50Z"
   },
   {
-    "title": "Guardian Essential poll: Australians want higher tax on gas exports and extension of petrol excise cut",
-    "url": "https://www.theguardian.com/australia-news/2026/apr/30/guardian-essential-poll-australians-want-higher-tax-on-gas-exports-and-extension-of-petrol-excise-cut",
+    "title": "‘Nightmare’ queues and missed flights: readers report turbulent start to EU entry-exit system",
+    "url": "https://www.theguardian.com/business/2026/apr/30/eu-entry-exit-system-ees-queues-missed-flights-readers",
     "source": "The Guardian",
-    "publishedAt": "2026-04-29T15:00:53Z"
+    "publishedAt": "2026-04-30T05:01:08Z"
   },
   {
     "title": "Hegseth accused of 'lying to the American public' about war in Iran during tense congressional hearing",
     "url": "https://www.cbc.ca/news/world/iran-hegseth-nuclear-war-cost-grossi-9.7181108?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-04-29T13:45:20Z"
+  },
+  {
+    "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+    "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-04-30T03:08:19Z"
+  },
+  {
+    "title": "Report into Bondi Beach mass shooting calls for increased security at Jewish public events, more gun reforms",
+    "url": "https://www.cbc.ca/news/world/bondi-beach-shooting-interim-report-9.7182399?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-04-30T02:53:37Z"
+  },
+  {
+    "title": "Bondi royal commission: report calls for better policing of Jewish festivals after ‘high’ terror risk flagged for Hanukah event",
+    "url": "https://www.theguardian.com/australia-news/2026/apr/30/bondi-beach-antisemitism-royal-commission-findings-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-04-30T02:45:06Z"
   },
   {
     "title": "How the UAE's departure from OPEC could impact oil markets",
@@ -94,29 +118,5 @@
     "url": "https://www.dw.com/en/iran-war-squeezes-india-s-pharma-supply-chain/a-76980858?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-04-29T12:35:00Z"
-  },
-  {
-    "title": "AI in advertising risks fuelling information crisis, UN warns",
-    "url": "https://news.un.org/feed/view/en/story/2026/04/1167405",
-    "source": "UN News",
-    "publishedAt": "2026-04-29T12:00:00Z"
-  },
-  {
-    "title": "UN rights chief warns of escalating crackdown in Iran amid conflict",
-    "url": "https://news.un.org/feed/view/en/story/2026/04/1167403",
-    "source": "UN News",
-    "publishedAt": "2026-04-29T12:00:00Z"
-  },
-  {
-    "title": "Iran crisis shows fossil fuels-based energy system ‘is inherently volatile and unstable’",
-    "url": "https://news.un.org/feed/view/en/story/2026/04/1167401",
-    "source": "UN News",
-    "publishedAt": "2026-04-29T12:00:00Z"
-  },
-  {
-    "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-    "url": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-04-30T01:46:52Z"
   }
 ]
