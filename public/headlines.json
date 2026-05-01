@@ -1,11 +1,5 @@
 [
   {
-    "title": "Oil prices rise again with little sign of war on Iran ending",
-    "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-01T10:11:39Z"
-  },
-  {
     "title": "Oil prices surge again as Trump weighs options to end Iran war and Hegseth faces lawmakers",
     "url": "https://www.pbs.org/newshour/show/oil-prices-surge-again-as-trump-weighs-options-to-end-iran-war-and-hegseth-faces-lawmakers",
     "source": "PBS",
@@ -24,10 +18,22 @@
     "publishedAt": "2026-04-30T16:22:47Z"
   },
   {
-    "title": "EU trade official calls Trump tariff threat ‘unacceptable’ after president says trucks and cars will face 25% levy – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2026/may/01/us-war-iran-ceasefire-war-powers-oil-latest-news-updates",
+    "title": "Trump tells U.S. Congress that ceasefire 'terminated' Iran conflict, as war powers deadline arrives",
+    "url": "https://www.cbc.ca/news/world/trump-iran-war-ceasefire-war-powers-deadline-congress-9.7184875?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-05-01T20:38:36Z"
+  },
+  {
+    "title": "Trump says he raised tariffs on autos from EU to 25%",
+    "url": "https://www.pbs.org/newshour/world/watch-trump-says-he-raised-tariffs-on-autos-from-eu-to-25",
+    "source": "PBS",
+    "publishedAt": "2026-05-01T19:28:34Z"
+  },
+  {
+    "title": "Trump tears up part of EU tariff deal to raise import duties on cars and lorries",
+    "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
     "source": "The Guardian",
-    "publishedAt": "2026-05-01T18:21:21Z"
+    "publishedAt": "2026-05-01T19:08:51Z"
   },
   {
     "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
@@ -40,12 +46,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-01T17:51:54Z"
-  },
-  {
-    "title": "Trump tears up EU tariff deal and raises some import duties",
-    "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-01T17:20:27Z"
   },
   {
     "title": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
@@ -96,12 +96,6 @@
     "publishedAt": "2026-04-30T13:38:54Z"
   },
   {
-    "title": "Despite growth and pay rises, Greek workers are among the poorest in Europe",
-    "url": "https://www.aljazeera.com/news/2026/5/1/despite-growth-and-pay-rises-greek-workers-are-among-the-poorest-in-europe?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-01T10:04:32Z"
-  },
-  {
     "title": "The U.S. once had a monopoly on rare earths. How it lost to China",
     "url": "https://www.npr.org/2026/05/01/nx-s1-5800873/the-u-s-once-had-a-monopoly-on-rare-earths-how-it-lost-to-china",
     "source": "NPR",
@@ -114,9 +108,15 @@
     "publishedAt": "2026-05-01T08:12:04Z"
   },
   {
-    "title": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
-    "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+    "title": "Trump 'not satisfied' with Iran's proposal to end the war",
+    "url": "https://www.pbs.org/newshour/world/trump-not-satisfied-with-irans-proposal-to-end-the-war",
+    "source": "PBS",
+    "publishedAt": "2026-05-01T20:12:18Z"
+  },
+  {
+    "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+    "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-05-01T18:41:20Z"
+    "publishedAt": "2026-05-01T20:07:30Z"
   }
 ]
