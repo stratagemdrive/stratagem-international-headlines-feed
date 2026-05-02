@@ -1,5 +1,11 @@
 [
   {
+    "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+    "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-02T14:18:14Z"
+  },
+  {
     "title": "U.S. warns shipping firms could face sanctions over paying Iran's Strait of Hormuz tolls",
     "url": "https://www.cbc.ca/news/world/strait-of-hormuz-tolls-us-sanctions-9.7185507?cmp=rss",
     "source": "CBC",
@@ -63,7 +69,13 @@
     "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
     "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-05-02T13:58:57Z"
+    "publishedAt": "2026-05-02T15:25:18Z"
+  },
+  {
+    "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+    "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-02T14:28:13Z"
   },
   {
     "title": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces",
@@ -106,17 +118,5 @@
     "url": "https://www.pbs.org/newshour/show/news-wrap-trump-announces-25-tariffs-on-cars-and-trucks-from-the-eu",
     "source": "PBS",
     "publishedAt": "2026-05-01T22:45:14Z"
-  },
-  {
-    "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
-    "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-02T11:34:12Z"
-  },
-  {
-    "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-    "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-02T11:03:40Z"
   }
 ]
