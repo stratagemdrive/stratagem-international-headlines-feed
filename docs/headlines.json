@@ -1,15 +1,15 @@
 [
   {
-    "title": "U.S. warns shipping firms they could face sanctions over paying Iran's Strait of Hormuz tolls",
+    "title": "U.S. warns shipping firms could face sanctions over paying Iran's Strait of Hormuz tolls",
     "url": "https://www.cbc.ca/news/world/strait-of-hormuz-tolls-us-sanctions-9.7185507?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-05-02T09:41:47Z"
   },
   {
-    "title": "K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive",
-    "url": "https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-02T02:25:22Z"
+    "title": "Spirit Airlines shutting down after rescue talks collapse",
+    "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-02T13:04:36Z"
   },
   {
     "title": "NATO assessing details of US troop withdrawal from Germany",
@@ -28,12 +28,6 @@
     "url": "https://www.pbs.org/newshour/show/oil-prices-surge-again-as-trump-weighs-options-to-end-iran-war-and-hegseth-faces-lawmakers",
     "source": "PBS",
     "publishedAt": "2026-04-30T22:50:24Z"
-  },
-  {
-    "title": "Spirit Airlines shutting down after rescue talks collapse",
-    "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-02T07:55:47Z"
   },
   {
     "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
@@ -66,16 +60,34 @@
     "publishedAt": "2026-05-02T01:34:21Z"
   },
   {
+    "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
+    "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-02T13:58:57Z"
+  },
+  {
     "title": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces",
     "url": "https://www.cbc.ca/news/world/us-troops-germany-withdraw-nato-trump-9.7185198?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-05-01T23:20:00Z"
   },
   {
+    "title": "Mali probes soldiers suspected of involvement in military base attacks",
+    "url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-02T13:03:28Z"
+  },
+  {
     "title": "Trump signs executive order to broaden sanctions against Cuban government",
     "url": "https://www.cbc.ca/news/world/trump-pressure-cuba-sanctions-government-9.7185171?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-05-01T23:10:00Z"
+  },
+  {
+    "title": "Israeli air strikes kill 10 people in southern Lebanon",
+    "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-02T12:55:34Z"
   },
   {
     "title": "Drone kills 2 in Kherson minibus strike, as Russia claims front-line progress in Ukraine",
@@ -96,12 +108,6 @@
     "publishedAt": "2026-05-01T22:45:14Z"
   },
   {
-    "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
-    "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-02T12:34:23Z"
-  },
-  {
     "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
     "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
     "source": "Al Jazeera",
@@ -112,11 +118,5 @@
     "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-05-02T11:03:40Z"
-  },
-  {
-    "title": "Trump says US navy like ‘pirates’ while seizing a ship in Iranian blockade",
-    "url": "https://www.theguardian.com/world/2026/may/02/trump-us-navy-pirates-iran-blockade",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-02T10:37:28Z"
   }
 ]
