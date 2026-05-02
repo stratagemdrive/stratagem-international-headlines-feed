@@ -1,9 +1,21 @@
 [
   {
+    "title": "U.S. warns shipping firms they could face sanctions over paying Iran's Strait of Hormuz tolls",
+    "url": "https://www.cbc.ca/news/world/strait-of-hormuz-tolls-us-sanctions-9.7185507?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-05-02T09:41:47Z"
+  },
+  {
     "title": "K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive",
     "url": "https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-02T02:25:22Z"
+  },
+  {
+    "title": "NATO assessing details of US troop withdrawal from Germany",
+    "url": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-02T11:34:23Z"
   },
   {
     "title": "Zambia cancels world’s largest human rights and tech summit days before start",
@@ -66,6 +78,18 @@
     "publishedAt": "2026-05-01T23:10:00Z"
   },
   {
+    "title": "Drone kills 2 in Kherson minibus strike, as Russia claims front-line progress in Ukraine",
+    "url": "https://www.cbc.ca/news/world/kherson-drone-strike-russia-ukraine-9.7185543?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-05-02T12:48:50Z"
+  },
+  {
+    "title": "Israeli airstrikes on southern Lebanon kill at least 7 despite ceasefire deal",
+    "url": "https://www.cbc.ca/news/world/israel-airstrikes-lebanon-ceasefire-9.7185537?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-05-02T12:39:09Z"
+  },
+  {
     "title": "News Wrap: Trump announces 25% tariffs on cars and trucks from the EU",
     "url": "https://www.pbs.org/newshour/show/news-wrap-trump-announces-25-tariffs-on-cars-and-trucks-from-the-eu",
     "source": "PBS",
@@ -75,7 +99,13 @@
     "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
     "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-05-02T11:18:29Z"
+    "publishedAt": "2026-05-02T12:34:23Z"
+  },
+  {
+    "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+    "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-02T11:34:12Z"
   },
   {
     "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
@@ -88,35 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/may/02/trump-us-navy-pirates-iran-blockade",
     "source": "The Guardian",
     "publishedAt": "2026-05-02T10:37:28Z"
-  },
-  {
-    "title": "Trump tells U.S. Congress that ceasefire 'terminated' Iran conflict, as war powers deadline arrives",
-    "url": "https://www.cbc.ca/news/world/trump-iran-war-ceasefire-war-powers-deadline-congress-9.7184875?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-01T20:38:36Z"
-  },
-  {
-    "title": "Trump says he raised tariffs on autos from EU to 25%",
-    "url": "https://www.pbs.org/newshour/world/watch-trump-says-he-raised-tariffs-on-autos-from-eu-to-25",
-    "source": "PBS",
-    "publishedAt": "2026-05-01T19:28:34Z"
-  },
-  {
-    "title": "Spirit Airlines shuts down, blames cost of fuel due to Middle East war",
-    "url": "https://www.cbc.ca/news/world/spirit-airlines-ceasing-operations-9.7185446?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-02T09:06:52Z"
-  },
-  {
-    "title": "How the Iran war is hurting travelers, airline industry",
-    "url": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-05-02T07:57:00Z"
-  },
-  {
-    "title": "UK’s Starmer eyes banning some pro-Palestine protests",
-    "url": "https://www.aljazeera.com/news/2026/5/2/uks-starmer-eyes-banning-some-pro-palestine-protests?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-02T07:55:08Z"
   }
 ]
