@@ -1,5 +1,11 @@
 [
   {
+    "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
+    "url": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
+    "source": "NPR",
+    "publishedAt": "2026-05-03T22:24:37Z"
+  },
+  {
     "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
     "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -18,22 +24,22 @@
     "publishedAt": "2026-05-03T14:57:14Z"
   },
   {
-    "title": "Was the Iran war the final blow in the collapse of Spirit Airlines?",
-    "url": "https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-03T13:03:59Z"
-  },
-  {
-    "title": "OPEC+ announces symbolic oil output rise during Strait of Hormuz closure",
-    "url": "https://www.aljazeera.com/news/2026/5/3/opec-announces-symbolic-oil-output-rise-during-strait-of-hormuz-closure?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-03T12:59:12Z"
-  },
-  {
     "title": "Why Russia's Northern Sea Route is a risk for global trade",
     "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-05-02T19:43:00Z"
+  },
+  {
+    "title": "Trump says US will escort trapped ships from Gulf amid ‘very positive’ talks with Iran",
+    "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-03T22:27:46Z"
+  },
+  {
+    "title": "French left-wing’s Melenchon says he will run for president in 2027",
+    "url": "https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-03T21:25:48Z"
   },
   {
     "title": "Modern economic chokepoints in war and the impact on geopolitics",
@@ -46,12 +52,6 @@
     "url": "https://www.npr.org/2026/05/03/nx-s1-5789910/how-does-diplomacy-work-during-a-military-deadlock",
     "source": "NPR",
     "publishedAt": "2026-05-03T21:16:27Z"
-  },
-  {
-    "title": "Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’",
-    "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-03T20:55:27Z"
   },
   {
     "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
@@ -102,12 +102,6 @@
     "publishedAt": "2026-05-03T16:47:24Z"
   },
   {
-    "title": "Cargo ship near Strait of Hormuz reports attack as Iran makes new peace proposal",
-    "url": "https://www.pbs.org/newshour/world/cargo-ship-near-strait-of-hormuz-reports-attack-as-iran-makes-new-peace-proposal",
-    "source": "PBS",
-    "publishedAt": "2026-05-03T16:46:20Z"
-  },
-  {
     "title": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
     "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss",
     "source": "Al Jazeera",
@@ -118,5 +112,11 @@
     "url": "https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-03T14:06:20Z"
+  },
+  {
+    "title": "Heathrow in talks with airlines to end row that could delay third runway",
+    "url": "https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-03T14:00:02Z"
   }
 ]
