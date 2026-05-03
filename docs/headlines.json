@@ -1,15 +1,15 @@
 [
   {
-    "title": "Yemen reports hijacked oil tanker headed for Somalia",
-    "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-02T17:10:29Z"
-  },
-  {
     "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
     "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-05-02T19:43:00Z"
+  },
+  {
+    "title": "China blocks US sanctions against five ‘teapot’ refineries",
+    "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-03T06:57:42Z"
   },
   {
     "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
@@ -66,16 +66,10 @@
     "publishedAt": "2026-05-02T17:52:31Z"
   },
   {
-    "title": "Prices surge, jobs disappear as war strains Iran’s economy",
-    "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
+    "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+    "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-05-02T16:58:30Z"
-  },
-  {
-    "title": "Australia news live: Victorian Liberal leader again refuses to rule out One Nation deal in November; federal Labor may extend fuel excise cut",
-    "url": "https://www.theguardian.com/australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-03T05:44:54Z"
+    "publishedAt": "2026-05-03T07:02:09Z"
   },
   {
     "title": "Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal",
@@ -118,5 +112,11 @@
     "url": "https://www.pbs.org/newshour/show/oil-prices-surge-again-as-trump-weighs-options-to-end-iran-war-and-hegseth-faces-lawmakers",
     "source": "PBS",
     "publishedAt": "2026-04-30T22:50:24Z"
+  },
+  {
+    "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+    "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-02T23:19:27Z"
   }
 ]
