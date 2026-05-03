@@ -1,13 +1,19 @@
 [
   {
+    "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+    "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-03T12:05:59Z"
+  },
+  {
     "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
     "url": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-03T10:36:49Z"
   },
   {
-    "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
-    "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-world-4025-rdf",
+    "title": "Why Russia's Northern Sea Route is a risky bet for global trade",
+    "url": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risky-bet-for-global-trade/a-76987400?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-05-02T19:43:00Z"
   },
@@ -22,6 +28,18 @@
     "url": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
     "source": "NPR",
     "publishedAt": "2026-05-02T23:35:01Z"
+  },
+  {
+    "title": "Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’",
+    "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-03T11:44:05Z"
+  },
+  {
+    "title": "Gaza aid flotilla activists appear in Israeli court after abduction",
+    "url": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-03T11:41:35Z"
   },
   {
     "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
@@ -78,18 +96,6 @@
     "publishedAt": "2026-05-03T07:02:09Z"
   },
   {
-    "title": "Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal",
-    "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-03T03:48:09Z"
-  },
-  {
-    "title": "UAE lifts all air traffic restrictions introduced since Iran war",
-    "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-03T03:29:44Z"
-  },
-  {
     "title": "Global demining work strained by rising conflicts and shrinking aid",
     "url": "https://news.un.org/feed/view/en/story/2026/05/1167423",
     "source": "UN News",
@@ -112,11 +118,5 @@
     "url": "https://www.pbs.org/newshour/show/oil-prices-surge-again-as-trump-weighs-options-to-end-iran-war-and-hegseth-faces-lawmakers",
     "source": "PBS",
     "publishedAt": "2026-04-30T22:50:24Z"
-  },
-  {
-    "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-    "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-02T23:19:27Z"
   }
 ]
