@@ -1,45 +1,33 @@
 [
   {
-    "title": "Shipping bosses nervous over Trump plan to guide vessels from strait of Hormuz",
-    "url": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-04T11:09:06Z"
-  },
-  {
     "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
     "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-04T06:45:13Z"
   },
   {
-    "title": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
-    "url": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss",
+    "title": "New alliances shakes up Nigerian political landscape",
+    "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-04T13:41:37Z"
+  },
+  {
+    "title": "Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran",
+    "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-04T13:29:56Z"
+  },
+  {
+    "title": "War preparations under way in Iran as Hormuz tensions with US escalate",
+    "url": "https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-05-04T03:37:09Z"
+    "publishedAt": "2026-05-04T13:12:52Z"
   },
   {
     "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
     "url": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
     "source": "NPR",
     "publishedAt": "2026-05-03T22:24:37Z"
-  },
-  {
-    "title": "Middle East crisis live: US says no ships hit after Iran claims two missiles hit warship intending to pass through strait of Hormuz",
-    "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-04T11:33:41Z"
-  },
-  {
-    "title": "New alliances shakes up Nigerian political landscape",
-    "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-04T11:32:53Z"
-  },
-  {
-    "title": "UK food prices on track to rise by 50% since start of cost of living crisis",
-    "url": "https://www.theguardian.com/business/2026/may/04/uk-food-prices-rise-cost-of-living-crisis-beef-olive-oil-inflation",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-04T10:51:55Z"
   },
   {
     "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
@@ -72,10 +60,40 @@
     "publishedAt": "2026-05-04T05:00:15Z"
   },
   {
-    "title": "Saplings in prisons and bogs on military ranges: Labour’s plans for nature-friendly state land",
-    "url": "https://www.theguardian.com/environment/2026/may/04/prisons-military-ranges-labour-plans-nature-friendly-land",
+    "title": "Iran executes three men in relation to January anti-regime protests",
+    "url": "https://www.theguardian.com/world/2026/may/04/iran-executes-men-january-anti-regime-protests",
     "source": "The Guardian",
-    "publishedAt": "2026-05-04T11:09:31Z"
+    "publishedAt": "2026-05-04T12:43:23Z"
+  },
+  {
+    "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
+    "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-04T11:44:36Z"
+  },
+  {
+    "title": "‘Israel is not implementing the ceasefire agreement in Gaza’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/israel-is-not-implementing-the-ceasefire-agreement-in?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-04T11:44:25Z"
+  },
+  {
+    "title": "What is the Ukrainian anti-drone system Sky Map being used in the Gulf?",
+    "url": "https://www.aljazeera.com/news/2026/5/4/what-is-the-ukrainian-anti-drone-system-sky-map-being-used-in-the-gulf?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-04T11:27:15Z"
+  },
+  {
+    "title": "Winning peace in Lebanon is harder than winning war",
+    "url": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-04T11:18:12Z"
+  },
+  {
+    "title": "Iran says ships being ‘guided’ by US through Hormuz must work with its armed forces",
+    "url": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-04T11:09:06Z"
   },
   {
     "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
@@ -96,27 +114,9 @@
     "publishedAt": "2026-05-04T09:11:08Z"
   },
   {
-    "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
-    "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-04T09:06:11Z"
-  },
-  {
     "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
     "url": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-04T08:20:54Z"
-  },
-  {
-    "title": "All-round hero Hardie helps Babar Azam’s Peshawar Zalmi win PSL 2026",
-    "url": "https://www.aljazeera.com/sports/2026/5/4/all-round-hero-hardie-helps-babar-azams-peshawar-zalmi-win-psl-2026?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-04T06:20:41Z"
-  },
-  {
-    "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
-    "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-03T14:57:14Z"
   }
 ]
