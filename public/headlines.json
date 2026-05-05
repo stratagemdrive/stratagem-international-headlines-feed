@@ -1,5 +1,11 @@
 [
   {
+    "title": "US-Iran ceasefire holds despite Hormuz standoff: Pentagon chief Hegseth",
+    "url": "https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-05T14:46:45Z"
+  },
+  {
     "title": "First Russian oil reportedly arrives in Japan since Iran war – as it happened",
     "url": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
     "source": "The Guardian",
@@ -12,40 +18,70 @@
     "publishedAt": "2026-05-05T08:18:00Z"
   },
   {
-    "title": "Middle East crisis live: ‘We have not even begun’, Iran warns US amid escalation in strait of Hormuz",
-    "url": "https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-05T11:33:37Z"
-  },
-  {
-    "title": "Romanian government collapses after losing no confidence vote – Europe live",
+    "title": "‘With calm, we will get through this’: Romanian president speaks out after government collapses – Europe live",
     "url": "https://www.theguardian.com/world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-05-05T11:31:16Z"
+    "publishedAt": "2026-05-05T15:33:23Z"
   },
   {
-    "title": "U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+    "title": "Middle East crisis live: Hegseth says US-Iran ceasefire ‘is not over’ despite growing tensions in strait of Hormuz",
+    "url": "https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-05T15:28:07Z"
+  },
+  {
+    "title": "Russia and Ukraine announce rival ceasefires as deadly strikes continue",
+    "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-05T15:08:10Z"
+  },
+  {
+    "title": "Philip Morris uses secret Senate hearing to warn illegal tobacco in Australia could wipe out legal trade by 2030",
+    "url": "https://www.theguardian.com/australia-news/2026/may/05/philip-morris-uses-secret-senate-hearing-to-warn-tobacco-in-australia-could-wipe-out-legal-trade-by-2030",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-05T15:00:43Z"
+  },
+  {
+    "title": "Why Europe’s car industry is at the centre of a new US trade war",
+    "url": "https://www.aljazeera.com/news/2026/5/5/why-europes-car-industry-is-at-the-centre-of-a-new-us-trade-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-05T14:22:55Z"
+  },
+  {
+    "title": "DRC protest in support of US sanctions against former president",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/drc-protest-in-support-of-us-sanctions-against-former-president?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-05T13:19:12Z"
+  },
+  {
+    "title": "Iran war's fragile ceasefire tested in U.S. attempt to open the Strait of Hormuz",
+    "url": "https://www.pbs.org/newshour/world/iran-wars-fragile-ceasefire-tested-in-u-s-attempt-to-open-the-strait-of-hormuz",
+    "source": "PBS",
+    "publishedAt": "2026-05-05T13:18:46Z"
+  },
+  {
+    "title": "US, Iran, UAE trade Hormuz attack claims: What we know",
+    "url": "https://www.aljazeera.com/news/2026/5/5/us-iran-uae-trade-hormuz-attack-claims-what-we-know?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-05T13:00:23Z"
+  },
+  {
+    "title": "UN warns of worsening human rights crisis in Mali after deadly attacks",
+    "url": "https://news.un.org/feed/view/en/story/2026/05/1167441",
+    "source": "UN News",
+    "publishedAt": "2026-05-05T12:00:00Z"
+  },
+  {
+    "title": "The U.S. attempt to open the Strait of Hormuz tests the fragile Iran war ceasefire",
     "url": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
     "source": "NPR",
     "publishedAt": "2026-05-05T10:39:41Z"
   },
   {
-    "title": "UK electric car sales leap ‘could be hit by Iran war inflation and energy price rises’",
-    "url": "https://www.theguardian.com/business/2026/may/05/uk-electric-car-sales--iran-war-inflation-energy-price-bev-smmt",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-05T10:36:24Z"
-  },
-  {
-    "title": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
-    "url": "https://www.aljazeera.com/news/2026/5/5/russian-attack-kills-five-at-ukraines-naftogaz-gas-facility?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-05T09:14:14Z"
-  },
-  {
-    "title": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
-    "url": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-05T06:31:34Z"
+    "title": "Nine coal miners die in gas explosion in Colombia",
+    "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-05T10:09:23Z"
   },
   {
     "title": "Deadly China plane crash was caused by fuel cut-off, says report",
@@ -54,69 +90,33 @@
     "publishedAt": "2026-05-05T04:25:49Z"
   },
   {
-    "title": "U.S. and Iran truce tested over the Strait of Hormuz, threatening to reignite conflict",
-    "url": "https://www.pbs.org/newshour/show/u-s-and-iran-truce-tested-over-the-strait-of-hormuz-threatening-to-reignite-conflict",
-    "source": "PBS",
-    "publishedAt": "2026-05-04T22:55:21Z"
-  },
-  {
-    "title": "Tuareg rebels hold dozens of soldiers in Mali as prisoners",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/tuareg-rebels-hold-dozens-of-soldiers-in-mali-as-prisoners?traffic_source=rss",
+    "title": "What’s happening in Mali one week after attack by armed groups? All we know",
+    "url": "https://www.aljazeera.com/news/2026/5/5/whats-happening-in-mali-one-week-after-attack-by-armed-groups-all-we-know?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-05-05T11:19:38Z"
+    "publishedAt": "2026-05-05T15:25:59Z"
   },
   {
-    "title": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as attack kills five",
-    "url": "https://www.theguardian.com/world/2026/may/05/zelenskyy-russia-parade-truce-poltava-attack",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-05T11:05:23Z"
+    "title": "Sudan accuses Ethiopia, UAE of being behind recent drone attacks",
+    "url": "https://www.aljazeera.com/news/2026/5/5/sudan-accuses-ethiopia-uae-of-being-behind-recent-drone-attacks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-05T15:23:17Z"
   },
   {
-    "title": "Australians are poorer because of war on the other side of the world – Michele Bullock’s logic is hard to fault",
-    "url": "https://www.theguardian.com/business/2026/may/05/australians-are-poorer-because-of-war-on-the-other-side-of-the-world-michele-bullocks-logic-is-hard-to-fault",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-05T10:11:39Z"
+    "title": "Russian strikes kill 5 in Ukraine right before brief ceasefire takes hold",
+    "url": "https://www.cbc.ca/news/world/ukraine-russia-strikes-truce-9.7187926?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-05-05T14:01:43Z"
   },
   {
-    "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
-    "url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-world-4025-rdf",
+    "title": "Japan pivots Indo-Pacific strategy toward Southeast Asia",
+    "url": "https://www.dw.com/en/japan-pivots-indo-pacific-strategy-toward-southeast-asia/a-77054483?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
-    "publishedAt": "2026-05-04T19:31:00Z"
+    "publishedAt": "2026-05-05T13:45:00Z"
   },
   {
-    "title": "NBA semifinal series: Timberwolves stun Spurs in Game 1; Knicks beat 76ers",
-    "url": "https://www.aljazeera.com/sports/2026/5/5/nba-semifinal-series-timberwolves-stun-spurs-in-game-1-knicks-beat-76ers?traffic_source=rss",
+    "title": "Hegseth says US blockade on Iran ‘gift to the world’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-blockade-on-iran-gift-to-the?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-05-05T08:44:22Z"
-  },
-  {
-    "title": "What Iran is saying about attack on UAE",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-05T08:29:51Z"
-  },
-  {
-    "title": "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
-    "url": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-05T08:15:42Z"
-  },
-  {
-    "title": "As summer approaches, skin diseases spread through Gaza’s refugee camps",
-    "url": "https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-05T08:02:00Z"
-  },
-  {
-    "title": "No FIFA World Cup 2026 broadcast deals signed in India, China",
-    "url": "https://www.aljazeera.com/sports/2026/5/5/no-fifa-world-cup-2026-broadcast-deals-signed-in-india-china?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-05T07:05:21Z"
-  },
-  {
-    "title": "Australia eyes security pact with Fiji as pushback from Beijing undermines agreement with Vanuatu",
-    "url": "https://www.theguardian.com/world/2026/may/05/australia-eyes-security-pact-with-fiji-as-pushback-from-beijing-undermines-agreement-with-vanuatu",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-05T05:34:18Z"
+    "publishedAt": "2026-05-05T13:12:43Z"
   }
 ]
