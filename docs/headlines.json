@@ -1,9 +1,9 @@
 [
   {
-    "title": "Middle East crisis live: US and Iran trade strikes in strait of Hormuz but Trump insists ceasefire remains ‘in effect’",
-    "url": "https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-08T02:09:47Z"
+    "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-08T03:03:36Z"
   },
   {
     "title": "US court deals fresh blow to Trump's 10% global tariff policy",
@@ -34,6 +34,12 @@
     "url": "https://www.cbc.ca/news/world/trump-global-tariffs-trade-court-9.7191744?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-05-07T21:26:51Z"
+  },
+  {
+    "title": "From oil giants to banks - these companies are making billions from Iran war",
+    "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-08T05:00:29Z"
   },
   {
     "title": "Oil, plastics and climate: Why higher prices could speed a materials transition",
@@ -112,11 +118,5 @@
     "url": "https://www.npr.org/2026/05/07/nx-s1-5812527-e1/former-u-s-analyst-once-jailed-for-spying-for-israel-to-run-for-israeli-parliament",
     "source": "NPR",
     "publishedAt": "2026-05-07T19:58:04Z"
-  },
-  {
-    "title": "U.S. military says it responded to Iranian attacks on Navy ships in Strait of Hormuz",
-    "url": "https://www.pbs.org/newshour/world/iran-reviewing-u-s-proposal-as-trump-pressures-tehran-for-agreement-on-deal-to-end-war",
-    "source": "PBS",
-    "publishedAt": "2026-05-07T15:13:23Z"
   }
 ]
