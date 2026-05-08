@@ -1,9 +1,9 @@
 [
   {
-    "title": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims were trying to violate blockade",
+    "title": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims tried to violate blockade; US to mediate Israel-Lebanon talks",
     "url": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-05-08T18:11:06Z"
+    "publishedAt": "2026-05-08T20:32:12Z"
   },
   {
     "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
@@ -16,6 +16,12 @@
     "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-08T18:47:02Z"
+  },
+  {
+    "title": "The U.S. fires on Iranian tankers trying to evade its blockade amid a Hormuz standoff",
+    "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
+    "source": "NPR",
+    "publishedAt": "2026-05-08T10:44:36Z"
   },
   {
     "title": "International cyber attack disrupts swathe of universities and schools",
@@ -60,6 +66,12 @@
     "publishedAt": "2026-05-08T12:09:58Z"
   },
   {
+    "title": "Somalia teeters on the brink of catastrophe as hunger crisis deepens",
+    "url": "https://news.un.org/feed/view/en/story/2026/05/1167473",
+    "source": "UN News",
+    "publishedAt": "2026-05-08T12:00:00Z"
+  },
+  {
     "title": "Iran creates new agency to control shipping in Strait of Hormuz while reviewing peace deal with U.S.",
     "url": "https://www.pbs.org/newshour/world/iran-creates-new-agency-to-control-shipping-in-strait-of-hormuz-while-reviewing-peace-deal-with-u-s",
     "source": "PBS",
@@ -78,12 +90,6 @@
     "publishedAt": "2026-05-07T21:26:51Z"
   },
   {
-    "title": "The U.S. fires on 2 Iranian tankers trying to evade its blockade in Gulf of Oman",
-    "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
-    "source": "NPR",
-    "publishedAt": "2026-05-08T10:44:36Z"
-  },
-  {
     "title": "Fallout from the Iran war may include a NATO where the U.S. is no longer its leader",
     "url": "https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany",
     "source": "NPR",
@@ -96,27 +102,21 @@
     "publishedAt": "2026-05-08T08:00:00Z"
   },
   {
+    "title": "Russia's Victory Day celebrations are dampened by ongoing war with Ukraine",
+    "url": "https://www.npr.org/2026/05/08/nx-s1-5810080/russias-victory-day-celebrations-are-dampened-by-ongoing-war-with-ukraine",
+    "source": "NPR",
+    "publishedAt": "2026-05-08T20:09:06Z"
+  },
+  {
+    "title": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-08T19:20:23Z"
+  },
+  {
     "title": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire, prisoner swap",
     "url": "https://www.pbs.org/newshour/world/trump-says-russia-and-ukraine-have-agreed-to-his-request-for-a-3-day-ceasefire-prisoner-swap",
     "source": "PBS",
     "publishedAt": "2026-05-08T19:07:25Z"
-  },
-  {
-    "title": "Russia, Ukraine agree to 3-day ceasefire and prisoner swap",
-    "url": "https://www.cbc.ca/news/world/russia-ukraine-ceasefire-9.7193061?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-08T18:45:10Z"
-  },
-  {
-    "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
-    "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-08T18:15:46Z"
-  },
-  {
-    "title": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
-    "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-08T18:07:49Z"
   }
 ]
