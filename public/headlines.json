@@ -24,12 +24,6 @@
     "publishedAt": "2026-05-09T14:00:59Z"
   },
   {
-    "title": "‘A year of resistance’: Cuba’s private sector faces Trump’s oil blockade",
-    "url": "https://www.aljazeera.com/economy/2026/5/9/a-year-of-resistance-cubas-private-sector-faces-trumps-oil-blockade?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-09T13:18:37Z"
-  },
-  {
     "title": "Tariffs or not? How EU is dealing with US 'dealmaking'",
     "url": "https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -72,8 +66,8 @@
     "publishedAt": "2026-05-09T06:00:49Z"
   },
   {
-    "title": "Putin says he thinks Ukraine war 'coming to an end'",
-    "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-coming-to-an-end/a-77106772?maca=en-rss-en-world-4025-rdf",
+    "title": "Putin says he thinks Ukraine war is 'coming to an end'",
+    "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-05-09T19:16:00Z"
   },
@@ -118,5 +112,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinians-run-west-bank-freedom-marathon-along-separation-wall?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-09T14:53:02Z"
+  },
+  {
+    "title": "The U.S. fires on Iranian tankers trying to evade its blockade amid a Hormuz standoff",
+    "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
+    "source": "NPR",
+    "publishedAt": "2026-05-08T10:44:36Z"
   }
 ]
