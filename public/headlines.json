@@ -30,7 +30,7 @@
     "publishedAt": "2026-05-09T12:39:00Z"
   },
   {
-    "title": "Putin denounces Nato at scaled back Victory Day parade",
+    "title": "Putin denounces Nato at scaled-back Victory Day parade",
     "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-05-09T12:18:58Z"
@@ -46,6 +46,12 @@
     "url": "https://www.theguardian.com/world/2026/may/09/norway-oil-and-gas-production-shortages-middle-east-ukraine",
     "source": "The Guardian",
     "publishedAt": "2026-05-09T06:00:49Z"
+  },
+  {
+    "title": "Israeli attacks across Lebanon kill at least 19",
+    "url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-09T17:07:31Z"
   },
   {
     "title": "International cyber attack disrupts swathe of universities and schools",
@@ -112,11 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-09T10:32:48Z"
-  },
-  {
-    "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
-    "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-09T07:18:27Z"
   }
 ]
