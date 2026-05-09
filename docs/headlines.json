@@ -42,6 +42,12 @@
     "publishedAt": "2026-05-09T06:00:49Z"
   },
   {
+    "title": "Lebanon says Israeli strikes killed 39",
+    "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-09T19:49:49Z"
+  },
+  {
     "title": "Putin says he thinks Ukraine war 'coming to an end'",
     "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-coming-to-an-end/a-77106772?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -72,7 +78,7 @@
     "publishedAt": "2026-05-09T17:21:33Z"
   },
   {
-    "title": "Israeli attacks across Lebanon kill at least 19",
+    "title": "Israeli attacks across Lebanon kill at least 23",
     "url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-09T17:07:31Z"
@@ -112,11 +118,5 @@
     "url": "https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran",
     "source": "NPR",
     "publishedAt": "2026-05-09T11:43:02Z"
-  },
-  {
-    "title": "Prosecutors aim to strip U.S. citizenship from diplomat-turned-spy",
-    "url": "https://www.pbs.org/newshour/politics/prosecutors-aim-to-strip-u-s-citizenship-from-diplomat-turned-cuban-spy",
-    "source": "PBS",
-    "publishedAt": "2026-05-08T21:49:08Z"
   }
 ]
