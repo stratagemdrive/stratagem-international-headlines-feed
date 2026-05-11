@@ -1,5 +1,11 @@
 [
   {
+    "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
+    "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-11T01:12:30Z"
+  },
+  {
     "title": "Trump rejects Iran's latest response to U.S. ceasefire proposal",
     "url": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
     "source": "NPR",
@@ -30,6 +36,18 @@
     "publishedAt": "2026-05-10T16:37:10Z"
   },
   {
+    "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+    "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-11T01:55:13Z"
+  },
+  {
+    "title": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-11T00:00:00Z"
+  },
+  {
     "title": "BBC speaks with civilians inside Iran struggling with impact of war",
     "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -40,12 +58,6 @@
     "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-05-10T21:01:17Z"
-  },
-  {
-    "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-10T20:57:22Z"
   },
   {
     "title": "Two activists detained over leading an aid flotilla to Gaza are deported by Israel",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-10T13:27:14Z"
-  },
-  {
-    "title": "Africa summit in Kenya: France seeks new partners",
-    "url": "https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-05-10T13:17:00Z"
-  },
-  {
-    "title": "Can Asian economies cope with the fallout from the Iran war?",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-10T13:11:10Z"
   }
 ]
