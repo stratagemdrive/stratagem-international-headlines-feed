@@ -1,11 +1,5 @@
 [
   {
-    "title": "Trump vows to pause federal gas tax after Iran war boosts US fuel prices to four-year high",
-    "url": "https://www.theguardian.com/us-news/2026/may/11/trump-federal-gas-tax-prices",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-11T18:30:31Z"
-  },
-  {
     "title": "ICC opens arrest warrant for Philippines senator involved in Duterte's deadly war on drugs",
     "url": "https://www.cbc.ca/news/world/icc-philippine-senator-arrest-warrant-9.7195191?cmp=rss",
     "source": "CBC",
@@ -18,16 +12,22 @@
     "publishedAt": "2026-05-11T09:19:00Z"
   },
   {
+    "title": "Middle East crisis live: Trump rejects Iran’s response to US peace deal; UN urges ‘genuine ceasefire’ as Israel intensifies Lebanon strikes",
+    "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-11T21:26:51Z"
+  },
+  {
+    "title": "EU, UK sanction Russians over deportations of Ukrainian children",
+    "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-11T20:56:26Z"
+  },
+  {
     "title": "EU sanctions violent Israeli settlers after months of deadlock",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-11T20:31:54Z"
-  },
-  {
-    "title": "Middle East crisis live: Trump rejects Iran’s response to US peace deal; UN urges ‘genuine ceasefire’ as Israel intensifies Lebanon strikes",
-    "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-11T19:54:45Z"
   },
   {
     "title": "EU targets Russians with sanctions over the abduction of thousands of Ukrainian children",
@@ -66,10 +66,22 @@
     "publishedAt": "2026-05-11T16:18:10Z"
   },
   {
+    "title": "Middle East: Deadly weekend in Lebanon, continued violence in Gaza",
+    "url": "https://news.un.org/feed/view/en/story/2026/05/1167483",
+    "source": "UN News",
+    "publishedAt": "2026-05-11T12:00:00Z"
+  },
+  {
     "title": "Strait of Hormuz de-escalation is urgent, says UN chief",
     "url": "https://news.un.org/feed/view/en/story/2026/05/1167478",
     "source": "UN News",
     "publishedAt": "2026-05-11T12:00:00Z"
+  },
+  {
+    "title": "Hundreds displaced, medical services suspended amid gang violence in Haiti",
+    "url": "https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-11T21:08:06Z"
   },
   {
     "title": "Israeli troops will spend weeks in military prison for desecration of Virgin Mary statue in Lebanon",
@@ -106,17 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/may/11/israeli-troops-jailed-desecration-virgin-mary-statue-lebanon",
     "source": "The Guardian",
     "publishedAt": "2026-05-11T15:58:55Z"
-  },
-  {
-    "title": "EU preparing to offer key concession to UK in new post-Brexit agricultural deal",
-    "url": "https://www.theguardian.com/world/2026/may/11/brussels-eu-uk-concession-agricultural-deal-live-animal-exports",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-11T15:30:44Z"
-  },
-  {
-    "title": "Iran war ceasefire grows increasingly shaky after Trump calls Tehran's latest proposal 'totally unacceptable'",
-    "url": "https://www.pbs.org/newshour/world/iran-war-ceasefire-grows-increasingly-shaky-after-trump-calls-tehrans-latest-proposal-totally-unacceptable",
-    "source": "PBS",
-    "publishedAt": "2026-05-11T15:09:38Z"
   }
 ]
