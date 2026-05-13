@@ -24,22 +24,28 @@
     "publishedAt": "2026-05-12T21:00:53Z"
   },
   {
+    "title": "Crisis of First Nations children in care will worsen under NT child protection reforms, advocates warn",
+    "url": "https://www.theguardian.com/australia-news/2026/may/13/northern-territory-child-protection-reforms-first-nations-indigenous-children-in-care-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-13T02:53:07Z"
+  },
+  {
     "title": "Iran war oil shortage forces Japan snack giant to use black-and-white packaging",
     "url": "https://www.theguardian.com/world/2026/may/12/calbee-japan-snack-giant-black-white-packaging-iran-war-oil-ink-shortage",
     "source": "The Guardian",
     "publishedAt": "2026-05-12T05:56:03Z"
   },
   {
-    "title": "Middle East crisis live: Cost of US war on Iran mounting – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-12T23:27:47Z"
-  },
-  {
     "title": "Hegseth grilled over direction of Iran war and costs for Americans",
     "url": "https://www.pbs.org/newshour/show/hegseth-grilled-over-direction-of-iran-war-and-costs-for-americans",
     "source": "PBS",
     "publishedAt": "2026-05-12T22:55:23Z"
+  },
+  {
+    "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
+    "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-12T22:15:50Z"
   },
   {
     "title": "'I don't think about Americans' financial situation' when negotiating with Iran, Trump says",
@@ -72,12 +78,6 @@
     "publishedAt": "2026-05-12T18:43:28Z"
   },
   {
-    "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-    "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-12T18:36:58Z"
-  },
-  {
     "title": "Iran: Surge of political prisoners amid US-Israel war",
     "url": "https://www.dw.com/en/iran-surge-of-political-prisoners-amid-us-israel-war/a-77136844?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -88,18 +88,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-12T18:02:35Z"
-  },
-  {
-    "title": "US faces rising costs with Iran war driving energy prices, inflation higher",
-    "url": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-12T17:37:54Z"
-  },
-  {
-    "title": "Can China counter US sanctions with its trade power?",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-12T17:11:42Z"
   },
   {
     "title": "World’s largest prize for a book of poetry to hold town hall about its award format",
@@ -114,9 +102,21 @@
     "publishedAt": "2026-05-12T16:19:24Z"
   },
   {
-    "title": "Chad’s refugee crisis overwhelms maternity care in east, UN agency warns",
-    "url": "https://news.un.org/feed/view/en/story/2026/05/1167494",
-    "source": "UN News",
-    "publishedAt": "2026-05-12T12:00:00Z"
+    "title": "Budget 2026 live updates: Chalmers says Labor ‘the last ones standing in the sensible centre’ as Pauline Hanson warns of ‘communism taking over’",
+    "url": "https://www.theguardian.com/australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-13T03:20:06Z"
+  },
+  {
+    "title": "Argentines protest against Milei’s defunding of public universities",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/argentines-protest-against-mileis-defunding-of-public-universities?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-13T02:43:31Z"
+  },
+  {
+    "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
+    "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-13T01:59:53Z"
   }
 ]
