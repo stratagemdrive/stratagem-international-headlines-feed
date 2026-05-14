@@ -1,9 +1,9 @@
 [
   {
-    "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up?",
-    "url": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-14T10:00:24Z"
+    "title": "A Philippine senator wanted by the International Criminal Court flees from Senate",
+    "url": "https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc",
+    "source": "NPR",
+    "publishedAt": "2026-05-14T13:29:47Z"
   },
   {
     "title": "The importance of pomp and protocol as Trump goes to China",
@@ -12,10 +12,16 @@
     "publishedAt": "2026-05-13T18:51:05Z"
   },
   {
-    "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+    "title": "Anatomy of a speech: how does a Republican leader say no to Trump?",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-14T13:32:43Z"
+  },
+  {
+    "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
     "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-05-14T11:46:26Z"
+    "publishedAt": "2026-05-14T13:16:32Z"
   },
   {
     "title": "Richard Haass talks about accounts from U.S. and China on Trump-Xi meeting",
@@ -48,75 +54,69 @@
     "publishedAt": "2026-05-14T08:49:02Z"
   },
   {
-    "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
-    "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
+    "title": "BRICS meeting overshadowed by war on Iran",
+    "url": "https://www.aljazeera.com/video/2026/5/14/brics-meeting-overshadowed-by-war-on-iran?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-05-14T08:11:39Z"
+    "publishedAt": "2026-05-14T13:45:49Z"
   },
   {
-    "title": "Kyiv building collapses after Russian strike, reportedly trapping residents",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526?traffic_source=rss",
+    "title": "Russian drone attack hits Kyiv apartment block during ceasefire",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/russian-drone-attack-hits-kyiv-apartment-block-during-ceasefire?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-05-14T04:52:40Z"
+    "publishedAt": "2026-05-14T13:31:06Z"
+  },
+  {
+    "title": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan",
+    "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-14T13:23:19Z"
+  },
+  {
+    "title": "Latvia prime minister resigns days after ‘stray’ drone incursion – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-14T13:23:07Z"
+  },
+  {
+    "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
+    "url": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-14T13:18:24Z"
+  },
+  {
+    "title": "What is on the table during Lebanon-Israel direct negotiations?",
+    "url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-14T13:17:28Z"
+  },
+  {
+    "title": "Russia strikes across Ukraine leave 7 dead, dozens injured",
+    "url": "https://www.pbs.org/newshour/world/russia-strikes-across-ukraine-leave-7-dead-dozens-injured",
+    "source": "PBS",
+    "publishedAt": "2026-05-14T13:12:25Z"
+  },
+  {
+    "title": "Latvian prime minister resigns amid row over drone incursions",
+    "url": "https://www.theguardian.com/world/2026/may/14/evika-silina-latvian-prime-minister-resigns-drone-incursions",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-14T13:11:53Z"
+  },
+  {
+    "title": "Iran says ships entering strait of Hormuz must cooperate after vessel seized",
+    "url": "https://www.theguardian.com/world/2026/may/14/iran-strait-of-hormuz-navy-uae",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-14T13:11:37Z"
+  },
+  {
+    "title": "Latvian prime minister resigns after drone incident",
+    "url": "https://www.aljazeera.com/news/2026/5/14/latvian-prime-minister-resigns-after-drone-incident?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-14T13:07:09Z"
   },
   {
     "title": "Trump arrives in China for high-stakes talks on trade, Taiwan and Iran war",
     "url": "https://www.pbs.org/newshour/show/trump-arrives-in-china-for-high-stakes-talks-on-trade-taiwan-and-iran-wartrump-in-china",
     "source": "PBS",
     "publishedAt": "2026-05-13T22:55:41Z"
-  },
-  {
-    "title": "Uganda's open-door refugee policy under strain as regional conflicts intensify",
-    "url": "https://www.pbs.org/newshour/show/ugandas-open-door-refugee-policy-under-strain-as-regional-conflicts-intensify",
-    "source": "PBS",
-    "publishedAt": "2026-05-13T22:35:41Z"
-  },
-  {
-    "title": "Latvia prime minister resigns days after ‘stray’ drone incursion – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-14T11:37:27Z"
-  },
-  {
-    "title": "Trump tries to make deals in China. And, Senate confirms Kevin Warsh as Fed leader",
-    "url": "https://www.npr.org/2026/05/14/g-s1-122014/up-first-newsletter-china-taiwan-trump-law-firms-kevin-warsh-denise-powell-nebraska",
-    "source": "NPR",
-    "publishedAt": "2026-05-14T11:32:21Z"
-  },
-  {
-    "title": "Trump China visit live: ‘US and China should be partners, not rivals’, Xi says after earlier warning on Taiwan",
-    "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-14T11:30:29Z"
-  },
-  {
-    "title": "Sheinbaum denies CIA involvement in assassination of cartel operative on Mexican soil",
-    "url": "https://www.cbc.ca/news/world/mexico-cia-sinaloa-cartel-member-bombing-9.7198270?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-13T21:36:52Z"
-  },
-  {
-    "title": "Taylor vows to run coal ‘long and hard’ and scrap EV concessions in budget reply – as it happened",
-    "url": "https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-14T11:22:28Z"
-  },
-  {
-    "title": "China's leader warns Trump that differences over Taiwan could lead to a clash",
-    "url": "https://www.npr.org/2026/05/14/nx-s1-5822168/trump-xi-summit",
-    "source": "NPR",
-    "publishedAt": "2026-05-14T11:02:00Z"
-  },
-  {
-    "title": "UN urges Equatorial Guinea to halt plans to return US deportees to home countries",
-    "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-14T11:00:25Z"
-  },
-  {
-    "title": "Latvian PM resigns after row over stray Ukrainian drones",
-    "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-14T10:53:56Z"
   }
 ]
