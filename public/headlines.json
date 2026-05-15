@@ -1,5 +1,41 @@
 [
   {
+    "title": "UAE to complete second oil pipeline bypassing strait of Hormuz by 2027",
+    "url": "https://www.theguardian.com/business/2026/may/15/uae-oil-pipeline-strait-of-hormuz-by-2027",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-15T11:28:08Z"
+  },
+  {
+    "title": "British Gas faces record £112m settlement over prepayment meter scandal",
+    "url": "https://www.theguardian.com/business/2026/may/15/british-gas-prepayment-meters-compensation-customers",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-15T11:02:46Z"
+  },
+  {
+    "title": "Trump returns to the U.S. after 2-day trip to China",
+    "url": "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-returns-to-the-u-s-after-2-day-trip-to-china",
+    "source": "NPR",
+    "publishedAt": "2026-05-15T11:00:16Z"
+  },
+  {
+    "title": "Finland ends drone alert amid regional fears of Ukraine war spillover",
+    "url": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-15T10:57:02Z"
+  },
+  {
+    "title": "Ukraine attacks Russia with drones after suffering three days of massive strikes",
+    "url": "https://www.theguardian.com/world/2026/may/15/ukraine-attacks-russia-with-drones-after-suffering-three-days-of-strikes",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-15T10:21:41Z"
+  },
+  {
+    "title": "India hikes fuel prices as Iran crisis bites",
+    "url": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-15T10:14:47Z"
+  },
+  {
     "title": "How the relationship between the U.S. and China has changed under Trump",
     "url": "https://www.npr.org/2026/05/15/nx-s1-5819194/how-the-relationship-between-the-u-s-and-china-has-changed-under-trump",
     "source": "NPR",
@@ -10,12 +46,6 @@
     "url": "https://www.aljazeera.com/news/2026/5/15/scientists-identify-massive-new-dinosaur-following-thailand-dig?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-15T08:02:40Z"
-  },
-  {
-    "title": "British Gas customers to receive up to £112m over prepayment meter scandal",
-    "url": "https://www.theguardian.com/business/2026/may/15/british-gas-prepayment-meters-compensation-customers",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-15T06:53:10Z"
   },
   {
     "title": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
@@ -42,22 +72,40 @@
     "publishedAt": "2026-05-15T02:35:30Z"
   },
   {
-    "title": "Iran war live: China wants swift end to war, Israel escalates in Lebanon",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-15T00:00:00Z"
-  },
-  {
     "title": "U.S.-China diplomatic reset faces unresolved 'contradictions,' expert warns",
     "url": "https://www.pbs.org/newshour/show/u-s-china-diplomatic-reset-faces-unresolved-contradictions-expert-warns",
     "source": "PBS",
     "publishedAt": "2026-05-14T22:50:28Z"
   },
   {
-    "title": "Could Iran war trigger a hunger crisis?",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-14T21:00:00Z"
+    "title": "At least 24 killed in Kyiv in one of deadliest Russian attacks since start of war – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-15T11:41:15Z"
+  },
+  {
+    "title": "Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit",
+    "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-15T11:38:22Z"
+  },
+  {
+    "title": "Minnesota Democratic lawmakers stage sit-in over gun violence protection bill",
+    "url": "https://www.theguardian.com/us-news/2026/may/15/minnesota-house-of-representatives-sit-in-gun-violence",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-15T11:33:22Z"
+  },
+  {
+    "title": "Trump and Xi conclude 'very successful' talks but no deals announced",
+    "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-15T11:18:32Z"
+  },
+  {
+    "title": "China economist shares takeaways from the Trump-Xi summit",
+    "url": "https://www.npr.org/2026/05/15/nx-s1-5822445/china-economist-shares-takeaways-from-the-trump-xi-summit",
+    "source": "NPR",
+    "publishedAt": "2026-05-15T11:00:05Z"
   },
   {
     "title": "Cuba suffers partial grid failure hours after minister reveals country out of fuel oil, diesel",
@@ -70,53 +118,5 @@
     "url": "https://www.pbs.org/newshour/world/cubas-eastern-province-belted-by-major-blackout-after-power-grid-collapse",
     "source": "PBS",
     "publishedAt": "2026-05-14T20:07:34Z"
-  },
-  {
-    "title": "Death toll in attack on Kyiv apartment building now stands at 24",
-    "url": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
-    "source": "NPR",
-    "publishedAt": "2026-05-15T09:28:02Z"
-  },
-  {
-    "title": "Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit",
-    "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-15T09:12:28Z"
-  },
-  {
-    "title": "At least 24 killed in Kyiv in one of deadliest Russian attacks since start of war – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-15T09:10:49Z"
-  },
-  {
-    "title": "How Xi-Trump summit failed to yield Iran war breakthrough",
-    "url": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-15T09:01:20Z"
-  },
-  {
-    "title": "Trump brought top CEOs to Beijing but few big deals emerge",
-    "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-15T08:38:51Z"
-  },
-  {
-    "title": "Xi tells Trump U.S. and China could clash over Taiwan",
-    "url": "https://www.pbs.org/newshour/world/xi-tells-trump-u-s-and-china-could-clash-over-taiwan",
-    "source": "PBS",
-    "publishedAt": "2026-05-14T18:31:12Z"
-  },
-  {
-    "title": "Neo-Nazi group National Socialist Network criminalised under hate laws passed after Bondi terror attack",
-    "url": "https://www.theguardian.com/australia-news/2026/may/15/neo-nazi-group-national-socialist-network-criminalised-under-hate-laws-passed-after-bondi-terror-attack-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-15T06:12:55Z"
-  },
-  {
-    "title": "Why India’s RSS is lobbying the West amid attacks on minorities at home",
-    "url": "https://www.aljazeera.com/news/2026/5/15/why-indias-rss-is-lobbying-the-west-amid-attacks-on-minorities-at-home?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-15T05:50:35Z"
   }
 ]
