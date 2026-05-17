@@ -42,16 +42,22 @@
     "publishedAt": "2026-05-17T12:58:14Z"
   },
   {
-    "title": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
-    "url": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-17T10:29:16Z"
-  },
-  {
     "title": "Aukus nuclear submarine base would ‘place a massive target on our backs’, NSW labour union warns",
     "url": "https://www.theguardian.com/australia-news/2026/may/17/port-kembla-nsw-aukus-nuclear-submarine-base-outcry-nsw-labour-union",
     "source": "The Guardian",
     "publishedAt": "2026-05-17T05:46:46Z"
+  },
+  {
+    "title": "UAE blames Iran or its proxies for drone strike fire near nuclear plant",
+    "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-17T19:33:31Z"
+  },
+  {
+    "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-17T19:15:21Z"
   },
   {
     "title": "Drone attack starts fire at UAE nuclear power plant",
@@ -112,11 +118,5 @@
     "url": "https://www.cbc.ca/news/world/uae-drone-strike-nuclear-power-plant-9.7202750?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-05-17T14:02:27Z"
-  },
-  {
-    "title": "New wave of Israeli strikes pound Lebanon despite ceasefire",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-17T13:36:05Z"
   }
 ]
