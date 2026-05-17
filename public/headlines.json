@@ -1,9 +1,39 @@
 [
   {
+    "title": "WHO declares deadly Ebola outbreak in Congo, Uganda a global health emergency",
+    "url": "https://www.cbc.ca/news/world/congo-ebola-outbreak-9.7202245?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-05-16T12:18:02Z"
+  },
+  {
+    "title": "Israeli strikes kill six in southern Lebanon hours after extension of ceasefire",
+    "url": "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-17T01:09:47Z"
+  },
+  {
+    "title": "Iraq’s new PM Ali al-Zaidi formally takes over",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-17T00:14:03Z"
+  },
+  {
+    "title": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-17T00:00:00Z"
+  },
+  {
     "title": "Bolivia launches early-morning crackdown on roadblocks outside La Paz",
     "url": "https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-16T23:24:54Z"
+  },
+  {
+    "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+    "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-16T23:10:19Z"
   },
   {
     "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
@@ -78,18 +108,6 @@
     "publishedAt": "2026-05-16T16:06:38Z"
   },
   {
-    "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
-    "url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-16T16:02:33Z"
-  },
-  {
-    "title": "Israeli strikes kill six in southern Lebanon hours after extension of ceasefire",
-    "url": "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-16T15:57:44Z"
-  },
-  {
     "title": "Man arrested in London after 30-year-old run over by van near flag protest in Birmingham",
     "url": "https://www.theguardian.com/uk-news/2026/may/16/two-men-arrested-after-man-run-over-by-van-in-birmingham-near-flag-protest",
     "source": "The Guardian",
@@ -100,23 +118,5 @@
     "url": "https://news.un.org/feed/view/en/story/2026/05/1167526",
     "source": "UN News",
     "publishedAt": "2026-05-15T12:00:00Z"
-  },
-  {
-    "title": "Iran warns of readiness for war and economic costs as US talks falter",
-    "url": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-16T15:33:13Z"
-  },
-  {
-    "title": "Trump's comment about negotiations on Taiwan heightens concerns over China",
-    "url": "https://www.pbs.org/newshour/politics/trumps-comment-about-negotiations-on-taiwan-heightens-concerns-over-china",
-    "source": "PBS",
-    "publishedAt": "2026-05-16T15:11:26Z"
-  },
-  {
-    "title": "White House points to 'longstanding unfair trade practices' when asked about Gordie Howe bridge opening",
-    "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-opening-negotiations-trump-windsor-detroit-9.7201921?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-16T00:28:28Z"
   }
 ]
