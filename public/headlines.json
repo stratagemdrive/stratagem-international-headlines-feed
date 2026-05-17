@@ -1,15 +1,27 @@
 [
   {
-    "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-17T08:56:46Z"
+    "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4, wounding 12 others",
+    "url": "https://www.cbc.ca/news/world/ukraine-drone-strikes-russia-9.7202833?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-05-17T15:53:30Z"
+  },
+  {
+    "title": "Taiwan's president defends U.S. arms purchases after Trump sowed doubts following visit to China",
+    "url": "https://www.pbs.org/newshour/world/taiwans-president-defends-u-s-arms-purchases-after-trumps-visit-to-china",
+    "source": "PBS",
+    "publishedAt": "2026-05-17T16:42:13Z"
   },
   {
     "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
     "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-05-17T14:16:00Z"
+    "publishedAt": "2026-05-17T16:25:28Z"
+  },
+  {
+    "title": "DRC faces deadly Ebola resurgence amid worsening humanitarian crisis",
+    "url": "https://www.aljazeera.com/features/2026/5/17/drc-faces-deadly-ebola-resurgence-amid-worsening-humanitarian-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-17T16:09:55Z"
   },
   {
     "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
@@ -36,16 +48,28 @@
     "publishedAt": "2026-05-17T05:46:46Z"
   },
   {
+    "title": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
+    "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-17T16:30:24Z"
+  },
+  {
+    "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+    "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-17T16:25:38Z"
+  },
+  {
+    "title": "Iranian civilians get defence training",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-17T16:08:46Z"
+  },
+  {
     "title": "Big tobacco is exploiting fears of the illicit market to unwind health gains, Australian experts warn",
     "url": "https://www.theguardian.com/australia-news/2026/may/18/big-tobacco-is-exploiting-fears-of-the-illicit-market-to-unwind-health-gains-australian-experts-warn",
     "source": "The Guardian",
     "publishedAt": "2026-05-17T15:00:44Z"
-  },
-  {
-    "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others",
-    "url": "https://www.npr.org/2026/05/17/nx-s1-5824987/ukrainian-drone-strikes-on-russia-kill-4-moscow",
-    "source": "NPR",
-    "publishedAt": "2026-05-17T14:49:07Z"
   },
   {
     "title": "Large Ukrainian drone strikes kill at least 4 people in Russia",
@@ -94,29 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/schoolchildren-flee-israeli-raid-in-occupied-west-bank?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-17T12:58:02Z"
-  },
-  {
-    "title": "Experts sound alarm as North America’s bees start swarm season unusually early",
-    "url": "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-17T12:00:38Z"
-  },
-  {
-    "title": "The strike that changed the geometry of war",
-    "url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-17T10:13:52Z"
-  },
-  {
-    "title": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
-    "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-17T09:48:35Z"
-  },
-  {
-    "title": "Ukrainian drone attacks on Russia kill at least five",
-    "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-17T09:14:31Z"
   }
 ]
