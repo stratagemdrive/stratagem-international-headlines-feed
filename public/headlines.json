@@ -1,9 +1,9 @@
 [
   {
-    "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4, wounding 12 others",
-    "url": "https://www.cbc.ca/news/world/ukraine-drone-strikes-russia-9.7202833?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-17T15:53:30Z"
+    "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+    "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-18T01:10:06Z"
   },
   {
     "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
@@ -16,12 +16,6 @@
     "url": "https://www.theguardian.com/uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders",
     "source": "The Guardian",
     "publishedAt": "2026-05-17T21:30:49Z"
-  },
-  {
-    "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-    "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-17T21:14:27Z"
   },
   {
     "title": "Sudanese army advances in Blue Nile state deepen displacement crisis",
@@ -54,10 +48,28 @@
     "publishedAt": "2026-05-17T12:58:14Z"
   },
   {
-    "title": "News live: Australian health officials to work on ebola outbreak response, minister says; $2bn state-federal deal for new Queensland housing",
+    "title": "Australia news live: judge warns about ‘controversy’ as pianist sues orchestra; NSW landlords fined over no-fault evictions",
     "url": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
     "source": "The Guardian",
-    "publishedAt": "2026-05-17T23:44:36Z"
+    "publishedAt": "2026-05-18T02:41:25Z"
+  },
+  {
+    "title": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-18T01:59:07Z"
+  },
+  {
+    "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-18T00:00:00Z"
+  },
+  {
+    "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-17T23:28:25Z"
   },
   {
     "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
@@ -106,17 +118,5 @@
     "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-05-17T19:23:20Z"
-  },
-  {
-    "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-17T19:15:21Z"
-  },
-  {
-    "title": "Drone attack starts fire at UAE nuclear power plant",
-    "url": "https://www.pbs.org/newshour/world/drone-attack-starts-fire-at-uae-nuclear-power-plant",
-    "source": "PBS",
-    "publishedAt": "2026-05-17T18:40:59Z"
   }
 ]
