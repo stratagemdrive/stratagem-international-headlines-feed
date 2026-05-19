@@ -1,27 +1,39 @@
 [
   {
-    "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4, wounding 12 others",
-    "url": "https://www.cbc.ca/news/world/ukraine-drone-strikes-russia-9.7202833?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-17T15:53:30Z"
+    "title": "Fears of new China shock as EU industry’s reliance on imports grows",
+    "url": "https://www.theguardian.com/business/2026/may/19/china-shock-eu-european-union-industry-imports",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-19T06:00:02Z"
+  },
+  {
+    "title": "Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies",
+    "url": "https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-19T08:02:40Z"
+  },
+  {
+    "title": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
+    "url": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-19T07:38:32Z"
   },
   {
     "title": "Liberal senator breaks ranks to take aim at Angus Taylor’s ‘negative’ rhetoric on immigration",
     "url": "https://www.theguardian.com/australia-news/2026/may/19/liberal-senator-breaks-ranks-to-take-aim-at-angus-taylors-negative-rhetoric-on-immigration",
     "source": "The Guardian",
-    "publishedAt": "2026-05-19T02:54:40Z"
+    "publishedAt": "2026-05-19T06:32:22Z"
+  },
+  {
+    "title": "Trump says he's called off Iran strike at request of Gulf allies",
+    "url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+    "source": "NPR",
+    "publishedAt": "2026-05-19T05:27:58Z"
   },
   {
     "title": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
     "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-19T00:00:00Z"
-  },
-  {
-    "title": "Indian court declares another historical mosque a temple",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/indian-court-declares-another-historical-mosque-a-temple?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-18T21:05:08Z"
   },
   {
     "title": "Trump says he called off Tuesday Iran strike at request of Gulf allies",
@@ -36,87 +48,75 @@
     "publishedAt": "2026-05-18T18:34:46Z"
   },
   {
+    "title": "UN security council meets over Ukraine as Russia and Belarus hold nuclear drills – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-19T08:19:32Z"
+  },
+  {
+    "title": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
+    "url": "https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-19T08:00:06Z"
+  },
+  {
+    "title": "Gunmen abduct 39 students, 7 teachers in attacks on Nigeria schools",
+    "url": "https://www.aljazeera.com/news/2026/5/19/gunmen-abduct-39-students-7-teachers-in-attacks-on-nigeria-schools?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-19T07:58:45Z"
+  },
+  {
+    "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
+    "url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-19T07:44:06Z"
+  },
+  {
+    "title": "Palestine weekly wrap: Jerusalem Day, Nakba mark week of surging attacks",
+    "url": "https://www.aljazeera.com/news/2026/5/19/palestine-weekly-wrap-jerusalem-day-nakba-surging-attacks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-19T07:36:17Z"
+  },
+  {
+    "title": "Russian strike damages Ukraine Danube port as Moscow intercepts drones",
+    "url": "https://www.aljazeera.com/news/2026/5/19/russian-strike-damages-ukraine-danube-port-as-moscow-intercepts-drones?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-19T07:28:19Z"
+  },
+  {
+    "title": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+    "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-19T07:26:51Z"
+  },
+  {
+    "title": "India-Nordic summit: Why is Modi wooing Northern Europe?",
+    "url": "https://www.aljazeera.com/news/2026/5/19/india-nordic-summit-why-is-modi-wooing-northern-europe?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-19T07:15:36Z"
+  },
+  {
+    "title": "No feelgood factor for Reeves as Iran war snuffs out economic upturn",
+    "url": "https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-19T07:07:42Z"
+  },
+  {
     "title": "Four killed in protests during Kenyan strikes over high fuel prices",
     "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-05-18T16:49:45Z"
   },
   {
+    "title": "‘Come in for one minute’: exhibition showing horrors of 7 October attacks opens in London",
+    "url": "https://www.theguardian.com/uk-news/2026/may/19/israel-survivor-appeal-7-october-nova-exhibition-london",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-19T04:00:01Z"
+  },
+  {
     "title": "Russia-China ties ‘stabilising’ force in world, Putin says before Xi talks",
     "url": "https://www.aljazeera.com/news/2026/5/19/russia-china-ties-stabilising-force-in-world-putin-says-before-xi-talks?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-19T03:09:24Z"
-  },
-  {
-    "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-19T02:06:01Z"
-  },
-  {
-    "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
-    "url": "https://news.un.org/feed/view/en/story/2026/05/1167534",
-    "source": "UN News",
-    "publishedAt": "2026-05-18T12:00:00Z"
-  },
-  {
-    "title": "Tributes paid as ‘outstanding’ soldier who died in fall at Royal Windsor Horse Show is named",
-    "url": "https://www.theguardian.com/uk-news/2026/may/19/soldier-who-died-in-fall-at-royal-windsor-horse-show",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-19T01:19:03Z"
-  },
-  {
-    "title": "US suspends joint defence effort with Canada dating back to World War II",
-    "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-18T23:40:16Z"
-  },
-  {
-    "title": "Racist abuse of NHS nurses rising amid ‘normalisation’ of extreme views, RCN warns",
-    "url": "https://www.theguardian.com/society/2026/may/19/racist-abuse-nhs-nurses-jumps-rcn-figures",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-18T23:01:01Z"
-  },
-  {
-    "title": "News Wrap: Trump says he called off strike on Iran planned for Tuesday",
-    "url": "https://www.pbs.org/newshour/show/news-wrap-trump-says-he-called-off-strike-on-iran-planned-for-tuesday",
-    "source": "PBS",
-    "publishedAt": "2026-05-18T22:45:05Z"
-  },
-  {
-    "title": "U.S. and Israel prepare for potential return to full-scale war with Iran",
-    "url": "https://www.npr.org/2026/05/18/nx-s1-5825574/u-s-and-iran-signal-readiness-to-fight-again-as-weekend-tensions-mount",
-    "source": "NPR",
-    "publishedAt": "2026-05-18T08:46:03Z"
-  },
-  {
-    "title": "Trump says he called off new Iran attack at request of Gulf states",
-    "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-18T22:30:58Z"
-  },
-  {
-    "title": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
-    "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-18T21:39:45Z"
-  },
-  {
-    "title": "Clashes as Morales-allied protesters march on Bolivian capital",
-    "url": "https://www.aljazeera.com/news/2026/5/18/clashes-as-morales-allied-protesters-march-on-bolivian-capital?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-18T21:16:22Z"
-  },
-  {
-    "title": "Protest in Greece after Israeli forces storm Gaza aid flotilla",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-18T21:13:24Z"
-  },
-  {
-    "title": "Trump pauses possible Iran strike after Gulf intervention",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-18T21:11:48Z"
   }
 ]
