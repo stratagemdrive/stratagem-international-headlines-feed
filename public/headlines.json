@@ -1,9 +1,33 @@
 [
   {
-    "title": "Outrage grows over treatment of Gaza flotilla activists; US boards Iranian oil tanker – Middle East crisis as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/may/20/us-iran-israel-lebanon-gaza-trump-oil-hormuz-latest-news-updates",
+    "title": "U.S. military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
+    "url": "https://www.pbs.org/newshour/world/u-s-military-boards-iranian-flagged-oil-tanker-suspected-of-trying-to-breach-blockade",
+    "source": "PBS",
+    "publishedAt": "2026-05-20T22:05:52Z"
+  },
+  {
+    "title": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
+    "url": "https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty",
     "source": "The Guardian",
-    "publishedAt": "2026-05-20T18:30:04Z"
+    "publishedAt": "2026-05-20T21:30:52Z"
+  },
+  {
+    "title": "Pentagon watchdog to evaluate U.S. military's boat strikes in Latin America",
+    "url": "https://www.pbs.org/newshour/world/pentagon-watchdog-to-evaluate-us-militarys-boat-strikes-in-latin-america",
+    "source": "PBS",
+    "publishedAt": "2026-05-20T21:21:05Z"
+  },
+  {
+    "title": "Rare Ebola outbreak poses low risk globally but worries mount about its spread in Congo",
+    "url": "https://www.pbs.org/newshour/world/rare-ebola-outbreak-poses-low-risk-globally-but-worries-mount-about-its-spread-in-congo",
+    "source": "PBS",
+    "publishedAt": "2026-05-20T20:30:32Z"
+  },
+  {
+    "title": "Putin and Xi hail their friendship and growing energy trade at their meeting in Beijing",
+    "url": "https://www.pbs.org/newshour/world/putin-and-xi-hail-their-friendship-and-growing-energy-trade-at-their-meeting-in-beijing",
+    "source": "PBS",
+    "publishedAt": "2026-05-20T20:06:59Z"
   },
   {
     "title": "Grey's Anatomy expands into West Texas with new rural hospital spinoff",
@@ -42,6 +66,18 @@
     "publishedAt": "2026-05-20T08:47:39Z"
   },
   {
+    "title": "Bolivian president to reshuffle cabinet amid antigovernment protests",
+    "url": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-20T21:07:38Z"
+  },
+  {
+    "title": "Man charged with stealing camera equipment from Bondi shooting victim in aftermath of terror attack",
+    "url": "https://www.theguardian.com/australia-news/2026/may/21/man-charged-with-stealing-camera-equipment-from-bondi-shooting-victim-in-aftermath-of-terror-attack-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-20T20:29:11Z"
+  },
+  {
     "title": "Ukraine beefs up northern defences, points to risks of new Russian offensive north of Kyiv",
     "url": "https://www.cbc.ca/news/world/ukraine-increases-defenses-belarus-9.7206199?cmp=rss",
     "source": "CBC",
@@ -52,12 +88,6 @@
     "url": "https://www.npr.org/2026/05/20/nx-s1-5828203/bolivia-capital-protests-crisis",
     "source": "NPR",
     "publishedAt": "2026-05-20T05:48:42Z"
-  },
-  {
-    "title": "Michael Bay to direct film based on US military rescue mission in Iran",
-    "url": "https://www.theguardian.com/film/2026/may/20/michael-bay-iran-movie",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-20T19:21:12Z"
   },
   {
     "title": "Israeli security minister stirs diplomatic outrage with flotilla activist abuse video",
@@ -88,35 +118,5 @@
     "url": "https://www.dw.com/en/montenegro-at-20-eu-ambitions-and-serbian-ties/a-77233006?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-05-20T15:43:00Z"
-  },
-  {
-    "title": "US military jets and drones tracked near Cuba as tensions rise",
-    "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-20T15:36:03Z"
-  },
-  {
-    "title": "Trump says he's in 'no hurry' to make an Iran deal",
-    "url": "https://www.pbs.org/newshour/world/watch-trump-says-hes-in-no-hurry-to-make-an-iran-deal",
-    "source": "PBS",
-    "publishedAt": "2026-05-20T15:32:25Z"
-  },
-  {
-    "title": "What is the Power of Siberia 2 pipeline that Russia, China are planning?",
-    "url": "https://www.aljazeera.com/features/2026/5/20/what-is-the-power-of-siberia-2-pipeline-that-russia-china-are-planning?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-20T15:30:43Z"
-  },
-  {
-    "title": "Families demand justice for victims killed in Israeli strikes on Beirut",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-20T15:24:38Z"
-  },
-  {
-    "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
-    "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-20T15:18:12Z"
   }
 ]
