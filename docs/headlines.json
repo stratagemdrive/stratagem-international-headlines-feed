@@ -30,10 +30,22 @@
     "publishedAt": "2026-05-23T11:39:58Z"
   },
   {
+    "title": "UK records hottest day of the year so far, with warnings of more extreme heat this weekend",
+    "url": "https://www.theguardian.com/uk-news/2026/may/23/uk-records-hottest-day-of-the-year-so-far-with-warnings-of-more-extreme-heat-this-weekend",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-23T19:58:28Z"
+  },
+  {
     "title": "Death toll from gas explosion at coal mine in China jumps to 90",
     "url": "https://www.cbc.ca/news/world/gas-explosion-china-9.7209899?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-05-23T06:04:46Z"
+  },
+  {
+    "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+    "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-23T19:46:54Z"
   },
   {
     "title": "Gunmen open fire in 2 separate attacks in Honduras, killing at least 25",
@@ -46,12 +58,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-23T18:37:37Z"
-  },
-  {
-    "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
-    "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-23T18:05:34Z"
   },
   {
     "title": "SpaceX launches massive Starship V3 rocket on test flight",
@@ -112,11 +118,5 @@
     "url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/is-it-time-for-the-u-s-to-reassess-its-iran-strategy",
     "source": "PBS",
     "publishedAt": "2026-05-22T23:30:19Z"
-  },
-  {
-    "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
-    "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-23T13:17:08Z"
   }
 ]
