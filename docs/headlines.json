@@ -1,5 +1,17 @@
 [
   {
+    "title": "Is it time for the U.S. to reassess its Iran strategy?",
+    "url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/is-it-time-for-the-u-s-to-reassess-its-iran-strategy",
+    "source": "PBS",
+    "publishedAt": "2026-05-22T23:30:19Z"
+  },
+  {
+    "title": "News Wrap: Rubio meets with NATO allies amid troop level confusion",
+    "url": "https://www.pbs.org/newshour/show/news-wrap-rubio-meets-with-nato-allies-amid-troop-level-confusion",
+    "source": "PBS",
+    "publishedAt": "2026-05-22T22:45:57Z"
+  },
+  {
     "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
     "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
     "source": "The Guardian",
@@ -48,6 +60,18 @@
     "publishedAt": "2026-05-22T13:52:56Z"
   },
   {
+    "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
+    "url": "https://news.un.org/feed/view/en/story/2026/05/1167579",
+    "source": "UN News",
+    "publishedAt": "2026-05-22T12:00:00Z"
+  },
+  {
+    "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
+    "url": "https://news.un.org/feed/view/en/story/2026/05/1167578",
+    "source": "UN News",
+    "publishedAt": "2026-05-22T12:00:00Z"
+  },
+  {
     "title": "U.S. surprises, confuses NATO with about-face on troop deployment to Poland",
     "url": "https://www.cbc.ca/news/world/nato-sweden-foreign-ministers-friday-9.7208336?cmp=rss",
     "source": "CBC",
@@ -64,6 +88,12 @@
     "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-05-22T10:45:38Z"
+  },
+  {
+    "title": "Israeli blockade traps would-be Hajj pilgrim in Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-22T22:23:44Z"
   },
   {
     "title": "Hunger grows in Gaza as food aid is cut due to higher costs caused by war in Iran",
@@ -88,35 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-22T19:11:05Z"
-  },
-  {
-    "title": "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/displaced-lebanese-amputee-asks-where-am-i-supposed-to?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-22T19:09:05Z"
-  },
-  {
-    "title": "‘I always hear them before I see them’: Drones strike fear in Colombia",
-    "url": "https://www.aljazeera.com/news/longform/2026/5/22/i-always-hear-them-before-i-see-them-drones-strike-fear-in-colombia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-22T18:49:40Z"
-  },
-  {
-    "title": "Putin vows revenge after Ukraine attack kills at least 6, wounds dozens at student dorm",
-    "url": "https://www.cbc.ca/news/world/russia-luhansk-attack-putin-9.7208752?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-22T17:20:17Z"
-  },
-  {
-    "title": "Video shows Israeli strike on Lebanese child and paramedics",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/video-shows-israeli-strike-on-lebanese-child-and-paramedics?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-22T17:04:08Z"
-  },
-  {
-    "title": "Western nations warn Israel to end illegal settlement expansion, violence",
-    "url": "https://www.aljazeera.com/news/2026/5/22/western-nations-warn-israel-to-end-illegal-settlement-expansion-violence?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-22T15:58:42Z"
   }
 ]
