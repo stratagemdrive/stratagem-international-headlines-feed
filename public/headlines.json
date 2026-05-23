@@ -1,5 +1,41 @@
 [
   {
+    "title": "Fraudster trying to sell fake ancient statues to Sotheby’s foiled over bogus invoices",
+    "url": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-23T07:00:23Z"
+  },
+  {
+    "title": "Gas explosion at Chinese coal mine kills at least 90",
+    "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-23T06:57:17Z"
+  },
+  {
+    "title": "Iran war day 85: Tehran says major gaps remain in US talks",
+    "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-23T06:51:45Z"
+  },
+  {
+    "title": "China mine explosion: death toll leaps to 90 after gas blast",
+    "url": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-23T06:21:04Z"
+  },
+  {
+    "title": "Coal mine gas explosion in China kills 82 people, state media say",
+    "url": "https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china",
+    "source": "NPR",
+    "publishedAt": "2026-05-23T06:07:39Z"
+  },
+  {
+    "title": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
+    "url": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-23T05:46:36Z"
+  },
+  {
     "title": "Rubio visits India to sell energy as Iran oil shock persists",
     "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -42,6 +78,12 @@
     "publishedAt": "2026-05-22T19:25:50Z"
   },
   {
+    "title": "Israeli forces attack central Gaza despite ceasefire agreement",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-23T06:40:10Z"
+  },
+  {
     "title": "NATO allies bewildered by Trump's about-face on U.S. troop moves in Europe",
     "url": "https://www.pbs.org/newshour/world/nato-allies-bewildered-by-trumps-about-face-on-u-s-troop-moves-in-europe",
     "source": "PBS",
@@ -76,47 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/may/23/israel-lebanon-strikes-deaths-paramedics-health-ministry-says",
     "source": "The Guardian",
     "publishedAt": "2026-05-23T03:57:27Z"
-  },
-  {
-    "title": "U.S. says 'slight progress' in Iran talks amid uncertainty about whether war will resume",
-    "url": "https://www.pbs.org/newshour/world/u-s-says-slight-progress-in-iran-talks-amid-uncertainty-about-whether-war-will-resume",
-    "source": "PBS",
-    "publishedAt": "2026-05-22T13:52:56Z"
-  },
-  {
-    "title": "Some fear US-Philippines war games are drawing conflict closer to home",
-    "url": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-23T03:19:47Z"
-  },
-  {
-    "title": "Moment SpaceX rocket explodes in the Indian Ocean after splashdown",
-    "url": "https://www.bbc.com/news/videos/c1728ypp15no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-23T03:03:12Z"
-  },
-  {
-    "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
-    "url": "https://news.un.org/feed/view/en/story/2026/05/1167579",
-    "source": "UN News",
-    "publishedAt": "2026-05-22T12:00:00Z"
-  },
-  {
-    "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
-    "url": "https://news.un.org/feed/view/en/story/2026/05/1167578",
-    "source": "UN News",
-    "publishedAt": "2026-05-22T12:00:00Z"
-  },
-  {
-    "title": "U.S. surprises, confuses NATO with about-face on troop deployment to Poland",
-    "url": "https://www.cbc.ca/news/world/nato-sweden-foreign-ministers-friday-9.7208336?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-22T11:54:52Z"
-  },
-  {
-    "title": "The aftermath of Trump-Xi summit: comparing U.S. and China announcements",
-    "url": "https://www.npr.org/2026/05/22/g-s1-123647/comparing-u-s-and-china-announcements",
-    "source": "NPR",
-    "publishedAt": "2026-05-22T11:39:37Z"
   }
 ]
