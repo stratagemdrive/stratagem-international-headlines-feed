@@ -1,5 +1,17 @@
 [
   {
+    "title": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
+    "url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-23T09:26:21Z"
+  },
+  {
+    "title": "China mine blast death toll rises to 90 after gas blast",
+    "url": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-23T08:51:27Z"
+  },
+  {
     "title": "Fraudster trying to sell fake ancient statues to Sotheby’s foiled over bogus invoices",
     "url": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
     "source": "The Guardian",
@@ -18,16 +30,16 @@
     "publishedAt": "2026-05-23T06:51:45Z"
   },
   {
-    "title": "China mine explosion: death toll leaps to 90 after gas blast",
-    "url": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-23T06:21:04Z"
-  },
-  {
-    "title": "Coal mine gas explosion in China kills 82 people, state media say",
+    "title": "Coal mine gas explosion in China kills 90 people, state media say",
     "url": "https://www.npr.org/2026/05/23/nx-s1-5832405/coal-mine-gas-explosion-china",
     "source": "NPR",
     "publishedAt": "2026-05-23T06:07:39Z"
+  },
+  {
+    "title": "Gas explosion at coal mine in China kills 82 people, state media reports",
+    "url": "https://www.cbc.ca/news/world/gas-explosion-china-9.7209899?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-05-23T06:04:46Z"
   },
   {
     "title": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
@@ -66,16 +78,28 @@
     "publishedAt": "2026-05-22T21:51:48Z"
   },
   {
-    "title": "What are the implications of US sanctions in Lebanon?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-22T20:00:36Z"
-  },
-  {
     "title": "Czech president urges Nato to ‘show its teeth’ over Russia’s provocations",
     "url": "https://www.theguardian.com/world/2026/may/22/czech-president-petr-pavel-nato-show-teeth-russia-provocations",
     "source": "The Guardian",
     "publishedAt": "2026-05-22T19:25:50Z"
+  },
+  {
+    "title": "Board of Peace focus on Hamas risks return to war in Gaza, critics say",
+    "url": "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-23T09:00:13Z"
+  },
+  {
+    "title": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+    "url": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-23T08:16:38Z"
+  },
+  {
+    "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+    "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-23T07:56:12Z"
   },
   {
     "title": "Israeli forces attack central Gaza despite ceasefire agreement",
@@ -94,29 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/may/22/marco-rubio-trump-disappointment-with-nato-will-be-discussed-at-summit",
     "source": "The Guardian",
     "publishedAt": "2026-05-22T16:29:09Z"
-  },
-  {
-    "title": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
-    "url": "https://www.pbs.org/newshour/world/at-nato-meeting-rubio-embarks-on-another-mission-to-ease-tensions-with-allies",
-    "source": "PBS",
-    "publishedAt": "2026-05-22T16:09:56Z"
-  },
-  {
-    "title": "Rubio tries to reassure Nato allies over US troop deployments",
-    "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-22T15:18:30Z"
-  },
-  {
-    "title": "Why are anti-migrant attacks increasing in South Africa?",
-    "url": "https://www.aljazeera.com/news/2026/5/23/why-are-anti-migrant-attacks-increasing-in-south-africa?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-23T04:01:17Z"
-  },
-  {
-    "title": "Israeli strikes in Lebanon killed 10, including six paramedics, health ministry says",
-    "url": "https://www.theguardian.com/world/2026/may/23/israel-lebanon-strikes-deaths-paramedics-health-ministry-says",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-23T03:57:27Z"
   }
 ]
