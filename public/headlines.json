@@ -1,15 +1,9 @@
 [
   {
-    "title": "Trump urges Texas Republicans to vote for Ken Paxton as four-term senator John Cornyn fights to hold seat – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/may/26/donald-trump-medical-walter-reed-republicans-texas-runoff-iran-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-26T22:39:57Z"
-  },
-  {
-    "title": "US senator says he was pepper-sprayed by federal agents during protest at ICE facility",
-    "url": "https://www.theguardian.com/us-news/2026/may/26/senator-pepper-sprayed-ice-facility-protest-new-jersey",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-26T22:11:54Z"
+    "title": "Iran says U.S. acting in 'bad faith' after strikes during peace talks",
+    "url": "https://www.pbs.org/newshour/show/iran-says-u-s-acting-in-bad-faith-after-strikes-during-peace-talks",
+    "source": "PBS",
+    "publishedAt": "2026-05-26T22:55:02Z"
   },
   {
     "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
@@ -42,6 +36,12 @@
     "publishedAt": "2026-05-26T14:28:53Z"
   },
   {
+    "title": "‘Makes no sense’: experts doubt pause in US arms sale to Taiwan is due to Iran war",
+    "url": "https://www.theguardian.com/world/2026/may/27/us-arms-sales-to-taiwan-pause-unlikely-due-to-iran-war-experts",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-27T01:24:14Z"
+  },
+  {
     "title": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
     "url": "https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health",
     "source": "NPR",
@@ -54,10 +54,40 @@
     "publishedAt": "2026-05-26T11:19:03Z"
   },
   {
+    "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+    "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-27T00:10:03Z"
+  },
+  {
+    "title": "UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip_-un-chief-deeply-concerned-kyiv-strikes-260526?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-27T00:01:38Z"
+  },
+  {
+    "title": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-27T00:00:00Z"
+  },
+  {
+    "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+    "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-26T23:15:47Z"
+  },
+  {
     "title": "Bridge collapses and car swept away in China river",
     "url": "https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-05-26T09:12:57Z"
+  },
+  {
+    "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
+    "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-26T22:50:46Z"
   },
   {
     "title": "Giving Iran control of Strait of Hormuz would be a mistake, Bolton argues",
@@ -88,35 +118,5 @@
     "url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-26T20:33:56Z"
-  },
-  {
-    "title": "Iran remains in peace talks despite ‘bad faith’ US bombings of Iranian targets",
-    "url": "https://www.theguardian.com/world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-26T20:18:31Z"
-  },
-  {
-    "title": "Did Trump oversell a broken Iran ceasefire deal?",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-26T19:50:51Z"
-  },
-  {
-    "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-    "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-26T19:40:35Z"
-  },
-  {
-    "title": "Russia slams US for not granting visa to diplomat for UN meeting",
-    "url": "https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-26T18:54:24Z"
-  },
-  {
-    "title": "Israel and Hezbollah clash along strategic river after overnight strikes across Lebanon",
-    "url": "https://www.pbs.org/newshour/world/israel-and-hezbollah-clash-along-strategic-river-after-overnight-strikes-across-lebanon",
-    "source": "PBS",
-    "publishedAt": "2026-05-26T17:53:01Z"
   }
 ]
