@@ -1,5 +1,23 @@
 [
   {
+    "title": "China’s EV exports surge 40 percent in April",
+    "url": "https://www.aljazeera.com/economy/2026/5/27/chinas-ev-exports-surge-40-percent-in-april?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-27T05:32:48Z"
+  },
+  {
+    "title": "Kiln-free recycled tile startup agrees pilot deal with major UK supplier",
+    "url": "https://www.theguardian.com/business/2026/may/27/recycled-tile-startup-pilot-deal-dekiln-johnson-tiles",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-27T06:00:19Z"
+  },
+  {
+    "title": "Trump-backed Paxton topples Senator Cornyn in Texas primary run-off",
+    "url": "https://www.aljazeera.com/news/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary-run-off?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-27T03:15:08Z"
+  },
+  {
     "title": "Iran says U.S. acting in 'bad faith' after strikes during peace talks",
     "url": "https://www.pbs.org/newshour/show/iran-says-u-s-acting-in-bad-faith-after-strikes-during-peace-talks",
     "source": "PBS",
@@ -18,10 +36,40 @@
     "publishedAt": "2026-05-26T20:41:51Z"
   },
   {
-    "title": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss",
+    "title": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
+    "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-27T06:24:43Z"
+  },
+  {
+    "title": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
+    "url": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-05-26T17:08:31Z"
+    "publishedAt": "2026-05-27T06:03:41Z"
+  },
+  {
+    "title": "Iran medicine shortages worsened by war",
+    "url": "https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-05-27T05:59:00Z"
+  },
+  {
+    "title": "Trump gathers Cabinet as he looks to seal deal to end war",
+    "url": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
+    "source": "NPR",
+    "publishedAt": "2026-05-27T05:37:20Z"
+  },
+  {
+    "title": "First Ghanaians set to be repatriated from South Africa over anti-immigrant protests",
+    "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-27T05:13:21Z"
+  },
+  {
+    "title": "Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum",
+    "url": "https://www.theguardian.com/world/2026/may/27/iceland-foreign-minister-thorgerthur-katrin-gunnarsdottir-brexit-moment-eu-accession-referendum",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-27T05:00:19Z"
   },
   {
     "title": "Iran denounces U.S. strikes as a sign of bad faith and ceasefire violation",
@@ -30,10 +78,22 @@
     "publishedAt": "2026-05-26T14:55:38Z"
   },
   {
+    "title": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-27T04:25:40Z"
+  },
+  {
     "title": "Iran’s access to global internet starts to resume after 88-day blackout",
     "url": "https://www.theguardian.com/world/2026/may/26/iran-internet-blackout",
     "source": "The Guardian",
     "publishedAt": "2026-05-26T14:28:53Z"
+  },
+  {
+    "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+    "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-27T04:07:27Z"
   },
   {
     "title": "‘Makes no sense’: experts doubt pause in US arms sale to Taiwan is due to Iran war",
@@ -54,69 +114,9 @@
     "publishedAt": "2026-05-26T11:19:03Z"
   },
   {
-    "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-    "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-27T00:10:03Z"
-  },
-  {
     "title": "UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip_-un-chief-deeply-concerned-kyiv-strikes-260526?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-27T00:01:38Z"
-  },
-  {
-    "title": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-27T00:00:00Z"
-  },
-  {
-    "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-    "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-26T23:15:47Z"
-  },
-  {
-    "title": "Bridge collapses and car swept away in China river",
-    "url": "https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-26T09:12:57Z"
-  },
-  {
-    "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
-    "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-26T22:50:46Z"
-  },
-  {
-    "title": "Giving Iran control of Strait of Hormuz would be a mistake, Bolton argues",
-    "url": "https://www.pbs.org/newshour/show/giving-iran-control-of-strait-of-hormuz-would-be-a-mistake-bolton-argues",
-    "source": "PBS",
-    "publishedAt": "2026-05-26T22:50:38Z"
-  },
-  {
-    "title": "At Iranian school devastated by airstrike, grieving families say they will never forget",
-    "url": "https://www.pbs.org/newshour/show/at-iranian-school-devastated-by-airstrike-grieving-families-say-they-will-never-forget",
-    "source": "PBS",
-    "publishedAt": "2026-05-26T22:45:28Z"
-  },
-  {
-    "title": "Congolese aid worker says he narrowly escaped angry mob outside Ebola hospital",
-    "url": "https://www.cbc.ca/radio/asithappens/congo-aid-worker-attacks-9.7212915?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-26T22:01:18Z"
-  },
-  {
-    "title": "Climber carries kite with Palestinian children’s dreams to Everest summit",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-26T20:59:13Z"
-  },
-  {
-    "title": "US picks potential partners for using Cold War-era plutonium as fuel",
-    "url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-26T20:33:56Z"
   }
 ]
