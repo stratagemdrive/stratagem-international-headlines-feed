@@ -6,12 +6,6 @@
     "publishedAt": "2026-05-28T14:45:46Z"
   },
   {
-    "title": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
-    "url": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-28T14:45:42Z"
-  },
-  {
     "title": "The possible return of Somali pirates poses a new problem for the shipping industry",
     "url": "https://www.npr.org/2026/05/28/nx-s1-5815335-e1/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry",
     "source": "NPR",
@@ -24,10 +18,16 @@
     "publishedAt": "2026-05-28T16:17:50Z"
   },
   {
-    "title": "Middle East crisis live: Lebanon’s prime minister condemns latest attacks by Israel as ‘collective punishment’ of peaceful civilians",
+    "title": "Vance says U.S. and Iran make progress, but Trump's backing unclear",
+    "url": "https://www.pbs.org/newshour/show/vance-says-u-s-and-iran-make-progress-but-trumps-backing-unclear",
+    "source": "PBS",
+    "publishedAt": "2026-05-28T22:55:51Z"
+  },
+  {
+    "title": "Middle East crisis live: JD Vance says US ‘not there yet’ on an Iran deal amid question over nuclear program",
     "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
     "source": "The Guardian",
-    "publishedAt": "2026-05-28T20:44:17Z"
+    "publishedAt": "2026-05-28T22:53:50Z"
   },
   {
     "title": "U.S. and Iran trade strikes. How will this affect deal to end war?",
@@ -46,12 +46,6 @@
     "url": "https://www.theguardian.com/world/2026/may/28/eu-discuss-restrictions-chinese-imports-fears-overreliance",
     "source": "The Guardian",
     "publishedAt": "2026-05-28T16:29:59Z"
-  },
-  {
-    "title": "Iran says it targeted American base after fresh US strikes",
-    "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-28T15:53:05Z"
   },
   {
     "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
@@ -84,12 +78,6 @@
     "publishedAt": "2026-05-28T12:12:00Z"
   },
   {
-    "title": "The race for oil: will Jamaica be the next country to drill and what does that mean for its green pledges?",
-    "url": "https://www.theguardian.com/global-development/2026/may/28/the-race-for-oil-will-jamaica-be-the-next-country-to-drill-and-what-does-that-mean-for-its-green-pledges",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-28T12:00:20Z"
-  },
-  {
     "title": "Global temperatures set to stay near record levels: UN weather agency",
     "url": "https://news.un.org/feed/view/en/story/2026/05/1167596",
     "source": "UN News",
@@ -114,9 +102,21 @@
     "publishedAt": "2026-05-28T10:38:07Z"
   },
   {
-    "title": "It's crunch time for Canada's trade deal with the U.S. and Mexico",
-    "url": "https://www.cbc.ca/news/world/cusma-canada-us-mexico-free-trade-agreement-trump-usmca-9.7212486?cmp=rss",
+    "title": "Australia news live: Rowland to ‘reset’ corruption commission after Brereton resigns; Asio warns politicians against classified chats in cars",
+    "url": "https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-28T23:03:21Z"
+  },
+  {
+    "title": "Afghan president voiced concern over civilians killed by SAS troops, inquiry told",
+    "url": "https://www.theguardian.com/uk-news/2026/may/29/afghan-president-voiced-concern-over-civilians-killed-by-sas-troops-inquiry-told",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-28T23:01:33Z"
+  },
+  {
+    "title": "Israeli PM says he's directed military to take more of Gaza under its control",
+    "url": "https://www.cbc.ca/news/world/israel-military-gaza-control-netanyahu-9.7215899?cmp=rss",
     "source": "CBC",
-    "publishedAt": "2026-05-28T08:00:00Z"
+    "publishedAt": "2026-05-28T23:00:44Z"
   }
 ]
