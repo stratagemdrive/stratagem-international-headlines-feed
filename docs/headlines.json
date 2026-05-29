@@ -1,5 +1,29 @@
 [
   {
+    "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+    "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-29T17:27:09Z"
+  },
+  {
+    "title": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
+    "url": "https://www.pbs.org/newshour/world/with-a-stalemate-in-ukraine-and-discontent-at-home-putin-seems-ready-to-escalate-his-war",
+    "source": "PBS",
+    "publishedAt": "2026-05-29T17:14:15Z"
+  },
+  {
+    "title": "Nato says drone that crashed in Romania was ‘of Russian origin’ despite Moscow’s denials – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/may/29/romania-ukraine-russia-galati-drone-strike-europe-live-breaking-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-29T16:55:41Z"
+  },
+  {
+    "title": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
+    "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-29T13:59:25Z"
+  },
+  {
     "title": "U.S. and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks",
     "url": "https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks",
     "source": "PBS",
@@ -10,12 +34,6 @@
     "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
     "source": "NPR",
     "publishedAt": "2026-05-29T12:57:25Z"
-  },
-  {
-    "title": "US designates Brazil’s two largest gangs as terrorist organizations",
-    "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-29T12:31:26Z"
   },
   {
     "title": "UN urges ‘urgent’ action to protect children online",
@@ -36,28 +54,10 @@
     "publishedAt": "2026-05-29T09:47:11Z"
   },
   {
-    "title": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
-    "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-29T09:11:20Z"
-  },
-  {
     "title": "NATO member Romania says Russian drone hit apartment building, injuring 2",
     "url": "https://www.cbc.ca/news/world/drone-romania-russia-9.7216264?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-05-29T08:56:01Z"
-  },
-  {
-    "title": "NATO states slam Russia after drone crashes in Romania",
-    "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-29T07:50:50Z"
-  },
-  {
-    "title": "At least six feared dead after bridge collapses in northern India",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/at-least-six-feared-dead-after-bridge-collapses-in-northern-india?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-29T06:51:02Z"
   },
   {
     "title": "U.S. imposes sanctions on Iranian agency trying to control shipping in the Strait of Hormuz",
@@ -66,57 +66,57 @@
     "publishedAt": "2026-05-28T16:17:50Z"
   },
   {
-    "title": "Donald Trump shares draft Iran peace agreement with Israel and other allies",
-    "url": "https://www.theguardian.com/world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-29T00:09:01Z"
+    "title": "Trump says ‘final determination’ to be made on possible Iran deal",
+    "url": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-29T17:10:10Z"
   },
   {
-    "title": "€16.4bn in funds unlocked for Hungary as part of deal with EU, Magyar says – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/may/29/romania-ukraine-russia-galati-drone-strike-europe-live-breaking-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-29T13:45:32Z"
-  },
-  {
-    "title": "Russian drone targeting Ukraine crashes into Romanian apartment building",
-    "url": "https://www.pbs.org/newshour/world/russian-drone-targeting-ukraine-crashes-into-romanian-apartment-building",
-    "source": "PBS",
-    "publishedAt": "2026-05-29T13:23:43Z"
-  },
-  {
-    "title": "Asda strikes deal to use Ocado software for home deliveries from next year",
-    "url": "https://www.theguardian.com/business/2026/may/29/ocado-to-take-over-all-asda-home-deliveries-from-next-year",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-29T13:01:34Z"
-  },
-  {
-    "title": "Vance says U.S. and Iran make progress, but Trump's backing unclear",
-    "url": "https://www.pbs.org/newshour/show/vance-says-u-s-and-iran-make-progress-but-trumps-backing-unclear",
-    "source": "PBS",
-    "publishedAt": "2026-05-28T22:55:51Z"
-  },
-  {
-    "title": "What does Blue Origin rocket mishap mean for Nasa's Moon mission?",
-    "url": "https://www.bbc.com/news/videos/cg4pd3n30w6o?at_medium=RSS&at_campaign=rss",
+    "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+    "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-05-29T12:48:24Z"
+    "publishedAt": "2026-05-29T17:08:50Z"
   },
   {
-    "title": "Iran war: Oman stuck between Trump and Tehran",
-    "url": "https://www.dw.com/en/iran-war-oman-stuck-between-trump-and-tehran/a-77345795?maca=en-rss-en-world-4025-rdf",
+    "title": "Lone children held at UK-run detention centres in France 284 times last year",
+    "url": "https://www.theguardian.com/uk-news/2026/may/29/lone-children-uk-detention-centres-france-foi-data-2025",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-29T16:55:21Z"
+  },
+  {
+    "title": "Israeli and Russian forces added to UN blacklist for sexual violence in conflict zones",
+    "url": "https://www.pbs.org/newshour/world/israeli-and-russian-forces-added-to-un-blacklist-for-sexual-violence-in-conflict-zones",
+    "source": "PBS",
+    "publishedAt": "2026-05-29T16:36:15Z"
+  },
+  {
+    "title": "Vance says US, Iran have made “a lot of progress” towards deal",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/vance-says-us-iran-have-made-a-lot-of-progress-towards-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-29T16:31:23Z"
+  },
+  {
+    "title": "EU unblocks €16 billion in Hungary assistance as Magyar promises reforms",
+    "url": "https://www.dw.com/en/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
-    "publishedAt": "2026-05-29T12:11:00Z"
+    "publishedAt": "2026-05-29T16:20:00Z"
   },
   {
-    "title": "Student awarded CBS News scholarship explains why he called out network at event: ‘I had to do it’",
-    "url": "https://www.theguardian.com/media/2026/may/29/student-cbs-scholarship-winner",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-29T12:00:50Z"
+    "title": "Trump meeting with aides to make 'final determination' on moving forward with Iran deal",
+    "url": "https://www.pbs.org/newshour/world/trump-meeting-with-aides-to-make-final-determination-on-moving-forward-with-iran-deal",
+    "source": "PBS",
+    "publishedAt": "2026-05-29T15:51:24Z"
   },
   {
-    "title": "Exploding rocket casts doubts over Nasa's Moon plans",
-    "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-29T10:38:46Z"
+    "title": "Israel strikes building in Gaza’s Shati refugee camp",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-29T15:50:40Z"
+  },
+  {
+    "title": "On the road to Rogun Dam, Tajikistan’s ‘greatest dream’",
+    "url": "https://www.aljazeera.com/news/2026/5/29/on-the-road-to-rogun-dam-tajikistans-greatest-dream?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-29T15:40:08Z"
   }
 ]
