@@ -18,16 +18,16 @@
     "publishedAt": "2026-05-28T16:17:50Z"
   },
   {
+    "title": "Donald Trump shares draft Iran peace agreement with Israel and other allies",
+    "url": "https://www.theguardian.com/world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-29T00:09:01Z"
+  },
+  {
     "title": "Vance says U.S. and Iran make progress, but Trump's backing unclear",
     "url": "https://www.pbs.org/newshour/show/vance-says-u-s-and-iran-make-progress-but-trumps-backing-unclear",
     "source": "PBS",
     "publishedAt": "2026-05-28T22:55:51Z"
-  },
-  {
-    "title": "Middle East crisis live: JD Vance says US ‘not there yet’ on an Iran deal amid question over nuclear program",
-    "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-28T22:53:50Z"
   },
   {
     "title": "U.S. and Iran trade strikes. How will this affect deal to end war?",
@@ -48,12 +48,6 @@
     "publishedAt": "2026-05-28T16:29:59Z"
   },
   {
-    "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
-    "url": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-28T15:44:47Z"
-  },
-  {
     "title": "The Suez and Panama canals charge tolls. Why is Iran’s Hormuz fee triggering global outrage?",
     "url": "https://www.dw.com/en/the-suez-and-panama-canals-charge-tolls-why-is-iran-s-hormuz-fee-triggering-global-outrage/a-77325707?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -66,12 +60,6 @@
     "publishedAt": "2026-05-28T15:18:45Z"
   },
   {
-    "title": "Donald Trump shares draft Iran peace agreement with Israel and other allies",
-    "url": "https://www.theguardian.com/world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-28T14:31:33Z"
-  },
-  {
     "title": "A look inside Japan's largest prison for women",
     "url": "https://www.dw.com/en/a-look-inside-japan-s-largest-prison-for-women/a-77329790?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -82,6 +70,12 @@
     "url": "https://news.un.org/feed/view/en/story/2026/05/1167596",
     "source": "UN News",
     "publishedAt": "2026-05-28T12:00:00Z"
+  },
+  {
+    "title": "JD Vance says US ‘not there yet’ on an Iran deal – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-29T01:30:35Z"
   },
   {
     "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
@@ -102,21 +96,27 @@
     "publishedAt": "2026-05-28T10:38:07Z"
   },
   {
-    "title": "Australia news live: Rowland to ‘reset’ corruption commission after Brereton resigns; Asio warns politicians against classified chats in cars",
-    "url": "https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-28T23:03:21Z"
+    "title": "US to designate two Brazilian gangs as ‘terrorist’ organisations",
+    "url": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-29T00:12:42Z"
   },
   {
-    "title": "Afghan president voiced concern over civilians killed by SAS troops, inquiry told",
-    "url": "https://www.theguardian.com/uk-news/2026/may/29/afghan-president-voiced-concern-over-civilians-killed-by-sas-troops-inquiry-told",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-28T23:01:33Z"
+    "title": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-29T00:00:00Z"
   },
   {
-    "title": "Israeli PM says he's directed military to take more of Gaza under its control",
-    "url": "https://www.cbc.ca/news/world/israel-military-gaza-control-netanyahu-9.7215899?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-05-28T23:00:44Z"
+    "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+    "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-28T23:32:19Z"
+  },
+  {
+    "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
+    "url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-28T23:18:19Z"
   }
 ]
