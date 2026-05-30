@@ -1,11 +1,5 @@
 [
   {
-    "title": "Trump claims to be on verge of approving peace deal with major Iranian concessions",
-    "url": "https://www.theguardian.com/world/2026/may/29/trump-on-verge-of-approving-peace-deal-with-major-iranian-concessions",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-29T19:21:58Z"
-  },
-  {
     "title": "UK government divided over minimum wage increase in face of youth jobs crisis",
     "url": "https://www.theguardian.com/society/2026/may/29/cabinet-divided-youth-minimum-wage-uk-employment-crisis",
     "source": "The Guardian",
@@ -60,10 +54,22 @@
     "publishedAt": "2026-05-28T19:56:16Z"
   },
   {
+    "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
+    "url": "https://www.aljazeera.com/news/2026/5/29/trump-pledges-to-withdraw-from-kennedy-center-after-court-strikes-his-name?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-29T23:41:25Z"
+  },
+  {
     "title": "Weather tracker: deadly May heatwave shatters records across Europe",
     "url": "https://www.theguardian.com/environment/2026/may/29/weather-tracker-deadly-may-heatwave-shatters-records-across-europe",
     "source": "The Guardian",
     "publishedAt": "2026-05-29T09:47:11Z"
+  },
+  {
+    "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+    "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-29T23:30:33Z"
   },
   {
     "title": "NATO member Romania says Russian drone hit apartment building, injuring 2",
@@ -108,15 +114,9 @@
     "publishedAt": "2026-05-28T16:17:50Z"
   },
   {
-    "title": "Trump holds meeting to make 'final determination' on Iran deal",
-    "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-29T19:32:24Z"
-  },
-  {
-    "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
-    "url": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-29T19:13:31Z"
+    "title": "Trump claims to be on verge of peace deal but Iran signals no agreement reached",
+    "url": "https://www.theguardian.com/world/2026/may/29/trump-on-verge-of-approving-peace-deal-with-major-iranian-concessions",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-29T19:21:58Z"
   }
 ]
