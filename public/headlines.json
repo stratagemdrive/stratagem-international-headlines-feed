@@ -1,5 +1,11 @@
 [
   {
+    "title": "Asia defense summit opens with China and doubts about U.S. priorities topping concerns",
+    "url": "https://www.pbs.org/newshour/world/asia-defense-summit-opens-with-china-and-doubts-about-u-s-priorities-topping-concerns",
+    "source": "PBS",
+    "publishedAt": "2026-05-30T00:11:46Z"
+  },
+  {
     "title": "UK government divided over minimum wage increase in face of youth jobs crisis",
     "url": "https://www.theguardian.com/society/2026/may/29/cabinet-divided-youth-minimum-wage-uk-employment-crisis",
     "source": "The Guardian",
@@ -24,10 +30,16 @@
     "publishedAt": "2026-05-29T16:55:41Z"
   },
   {
-    "title": "Israeli attacks kill 14 in Lebanon as Pentagon hosts security talks",
-    "url": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-29T15:59:26Z"
+    "title": "US ‘more than capable’ of resuming war against Iran, Pete Hegseth says",
+    "url": "https://www.theguardian.com/world/2026/may/30/us-more-than-capable-of-resuming-war-against-iran-pete-hegseth-says",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-30T04:23:04Z"
+  },
+  {
+    "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+    "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-30T04:19:32Z"
   },
   {
     "title": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
@@ -48,6 +60,24 @@
     "publishedAt": "2026-05-29T12:57:25Z"
   },
   {
+    "title": "Vivid Sydney cancels all drone shows after 83 drones plunged into Darling Harbour",
+    "url": "https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-30T02:06:36Z"
+  },
+  {
+    "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+    "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-30T01:34:38Z"
+  },
+  {
+    "title": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-30T00:00:00Z"
+  },
+  {
     "title": "The possible return of Somali pirates poses a new problem for the shipping industry",
     "url": "https://www.npr.org/2026/05/28/nx-s1-5815335-e1/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry",
     "source": "NPR",
@@ -64,12 +94,6 @@
     "url": "https://www.theguardian.com/environment/2026/may/29/weather-tracker-deadly-may-heatwave-shatters-records-across-europe",
     "source": "The Guardian",
     "publishedAt": "2026-05-29T09:47:11Z"
-  },
-  {
-    "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-    "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-29T23:30:33Z"
   },
   {
     "title": "NATO member Romania says Russian drone hit apartment building, injuring 2",
@@ -94,29 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-29T21:10:54Z"
-  },
-  {
-    "title": "Drones are changing the face of warfare, including battlefield medicine",
-    "url": "https://www.npr.org/2026/05/29/nx-s1-5830382/drones-are-changing-the-face-of-warfare-including-battlefield-medicine",
-    "source": "NPR",
-    "publishedAt": "2026-05-29T20:44:34Z"
-  },
-  {
-    "title": "Canada sidelined in USMCA renegotiations as domestic economy dips",
-    "url": "https://www.aljazeera.com/economy/2026/5/29/canada-sidelined-in-usmca-renegotiations-as-domestic-economy-dips?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-29T20:41:21Z"
-  },
-  {
-    "title": "U.S. imposes sanctions on Iranian agency trying to control shipping in the Strait of Hormuz",
-    "url": "https://www.pbs.org/newshour/world/u-s-imposes-sanctions-on-iranian-agency-trying-to-control-shipping-in-the-strait-of-hormuz",
-    "source": "PBS",
-    "publishedAt": "2026-05-28T16:17:50Z"
-  },
-  {
-    "title": "Trump claims to be on verge of peace deal but Iran signals no agreement reached",
-    "url": "https://www.theguardian.com/world/2026/may/29/trump-on-verge-of-approving-peace-deal-with-major-iranian-concessions",
-    "source": "The Guardian",
-    "publishedAt": "2026-05-29T19:21:58Z"
   }
 ]
