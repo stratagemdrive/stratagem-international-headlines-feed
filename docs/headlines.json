@@ -1,5 +1,11 @@
 [
   {
+    "title": "U.S. says it stopped a merchant ship trying to breach blockade and reach Iran",
+    "url": "https://www.pbs.org/newshour/world/u-s-says-it-stopped-a-merchant-ship-trying-to-breach-blockade-and-reach-iran",
+    "source": "PBS",
+    "publishedAt": "2026-05-30T18:34:02Z"
+  },
+  {
     "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
     "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -10,6 +16,18 @@
     "url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-30T12:04:35Z"
+  },
+  {
+    "title": "22 killed as truck carrying refugees overturns in Afghanistan",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-30T18:06:29Z"
+  },
+  {
+    "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
+    "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-05-30T18:03:40Z"
   },
   {
     "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
@@ -100,23 +118,5 @@
     "url": "https://www.theguardian.com/us-news/2026/may/30/iran-trump-peace-deal-analysis",
     "source": "The Guardian",
     "publishedAt": "2026-05-30T10:00:16Z"
-  },
-  {
-    "title": "Russia recalls Armenia ambassador over EU ties",
-    "url": "https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-05-30T09:27:00Z"
-  },
-  {
-    "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-    "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-05-29T17:27:09Z"
-  },
-  {
-    "title": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-    "url": "https://www.pbs.org/newshour/world/with-a-stalemate-in-ukraine-and-discontent-at-home-putin-seems-ready-to-escalate-his-war",
-    "source": "PBS",
-    "publishedAt": "2026-05-29T17:14:15Z"
   }
 ]
