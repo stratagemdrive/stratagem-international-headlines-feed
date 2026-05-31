@@ -1,9 +1,15 @@
 [
   {
-    "title": "Middle East crisis live: Netanyahu says capture of strategic castle is ‘dramatic shift’ in Israel’s Lebanon offensive",
-    "url": "https://www.theguardian.com/world/live/2026/may/31/middle-east-crisis-live-israel-lebanon-beaufort-castle-us-iran-nuclear-deal-hormuz-oil-latest-news-updates",
+    "title": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
+    "url": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
+    "source": "NPR",
+    "publishedAt": "2026-05-31T13:33:36Z"
+  },
+  {
+    "title": "Could Trump’s Iran ‘excursion’ be a bigger global turning point than Vietnam?",
+    "url": "https://www.theguardian.com/world/ng-interactive/2026/may/31/donald-trump-iran-excursion-vietnam-war",
     "source": "The Guardian",
-    "publishedAt": "2026-05-31T11:37:53Z"
+    "publishedAt": "2026-05-31T12:00:47Z"
   },
   {
     "title": "The strait may reopen, but global confidence may not return",
@@ -16,6 +22,18 @@
     "url": "https://www.aljazeera.com/news/2026/5/31/how-nigerias-algorithmic-apothecary-fuels-a-surge-in-risky-herbal-cures?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-05-31T05:23:00Z"
+  },
+  {
+    "title": "Indian man awarded almost £30,000 after UK employer failed to provide work",
+    "url": "https://www.theguardian.com/law/2026/may/31/indian-citizen-post-brexit-visa-scheme-employment-tribunal-uk",
+    "source": "The Guardian",
+    "publishedAt": "2026-05-31T14:00:50Z"
+  },
+  {
+    "title": "Protesters want to send ‘fascists to Mars’ aboard mock rocket",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/protesters-want-to-send-fascists-to-mars-aboard-mock-rocket?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-05-31T13:41:35Z"
   },
   {
     "title": "Rio’s Forever War",
@@ -84,28 +102,10 @@
     "publishedAt": "2026-05-31T05:02:39Z"
   },
   {
-    "title": "Thousands in Peru protest Fujimori presidential run",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_clip-thousands-in-peru-protest-fujimori-run-300526?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-31T03:58:50Z"
-  },
-  {
     "title": "Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike",
     "url": "https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-05-31T03:04:00Z"
-  },
-  {
-    "title": "Iran war live: Israel to expand Lebanon invasion; US-Tehran deal in limbo",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-31T00:00:50Z"
-  },
-  {
-    "title": "Congress advances US-Israeli military integration plan",
-    "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-30T22:28:09Z"
   },
   {
     "title": "New Aukus drone tech to protect critical undersea cables as Marles warns: ‘seabed is a battlefield’",
@@ -114,9 +114,9 @@
     "publishedAt": "2026-05-30T22:10:04Z"
   },
   {
-    "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-05-30T21:36:42Z"
+    "title": "Trump says a ceasefire extension deal with Iran is near, but core issues remain",
+    "url": "https://www.npr.org/2026/05/30/nx-s1-5839359/trump-says-a-ceasefire-extension-deal-with-iran-is-near-but-core-issues-remain",
+    "source": "NPR",
+    "publishedAt": "2026-05-30T21:08:43Z"
   }
 ]
