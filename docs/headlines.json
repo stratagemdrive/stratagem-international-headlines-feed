@@ -1,45 +1,33 @@
 [
   {
-    "title": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
-    "url": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
-    "source": "NPR",
-    "publishedAt": "2026-06-01T05:53:00Z"
-  },
-  {
-    "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-    "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-01T17:04:36Z"
-  },
-  {
-    "title": "Middle East crisis live: Iran says no more peace talks with US until Israel stops its operations",
+    "title": "Middle East crisis live: Lebanon’s US embassy says Hezbollah has agreed to ‘reciprocal’ ceasefire with Israel under US proposal",
     "url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
     "source": "The Guardian",
-    "publishedAt": "2026-06-01T16:55:00Z"
+    "publishedAt": "2026-06-01T20:57:16Z"
+  },
+  {
+    "title": "Protesters call on Kenyan government to halt femicide crisis",
+    "url": "https://www.aljazeera.com/news/2026/6/1/protesters-call-on-kenyan-government-to-halt-femicide-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-01T20:13:16Z"
+  },
+  {
+    "title": "U.S. bombs Iranian military sites and downs missiles Tehran fired at troops in Kuwait",
+    "url": "https://www.pbs.org/newshour/world/u-s-bombs-iranian-military-sites-and-downs-missiles-tehran-fired-at-troops-in-kuwait",
+    "source": "PBS",
+    "publishedAt": "2026-06-01T17:45:23Z"
+  },
+  {
+    "title": "Nvidia unveils new chip to bring AI directly to personal computers",
+    "url": "https://www.aljazeera.com/economy/2026/6/1/nvidia-unveils-new-chip-to-bring-ai-directly-to-personal-computers?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-01T17:27:38Z"
   },
   {
     "title": "International court rejects Rwanda’s claim over UK migration deal",
     "url": "https://www.aljazeera.com/news/2026/6/1/international-court-rejects-rwandas-claim-over-uk-migration-deal?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-01T16:54:36Z"
-  },
-  {
-    "title": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
-    "url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-01T13:27:32Z"
-  },
-  {
-    "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
-    "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-01T13:12:26Z"
-  },
-  {
-    "title": "Ukraine’s forcibly transferred children must not be a bargaining chip",
-    "url": "https://www.aljazeera.com/opinions/2026/6/1/ukraines-forcibly-transferred-children-must-not-be-a-bargaining-chip?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-01T12:39:41Z"
   },
   {
     "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
@@ -60,40 +48,52 @@
     "publishedAt": "2026-06-01T11:07:22Z"
   },
   {
-    "title": "French Navy seizes Russian oil tanker",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/french-navy-seizes-russian-oil-tanker?traffic_source=rss",
+    "title": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
+    "url": "https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-01T11:05:56Z"
+    "publishedAt": "2026-06-01T20:10:05Z"
   },
   {
-    "title": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes?traffic_source=rss",
+    "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+    "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-01T19:58:36Z"
+  },
+  {
+    "title": "U.S. bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait",
+    "url": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
+    "source": "NPR",
+    "publishedAt": "2026-06-01T05:53:00Z"
+  },
+  {
+    "title": "Gaza-bound aid ship begins voyage from Sweden",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-01T10:45:04Z"
+    "publishedAt": "2026-06-01T19:09:14Z"
   },
   {
-    "title": "French navy, backed by the UK, intercepts Russian oil tanker",
-    "url": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss",
+    "title": "Trump says Israel and Hezbollah have agreed to dial back fighting after mediated talks",
+    "url": "https://www.pbs.org/newshour/world/trump-says-israel-and-hezbollah-have-agreed-to-dial-back-fighting-after-mediated-talks",
+    "source": "PBS",
+    "publishedAt": "2026-06-01T18:41:28Z"
+  },
+  {
+    "title": "Israeli strike damages hospital in southern Lebanon",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-01T10:24:51Z"
+    "publishedAt": "2026-06-01T18:05:12Z"
   },
   {
-    "title": "Iran stopping indirect talks with U.S. in protest of Israeli strikes on Lebanon",
-    "url": "https://www.cbc.ca/news/world/iran-u-s-war-kuwait-9.7218733?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-01T09:27:47Z"
-  },
-  {
-    "title": "London tube strike to go ahead after 11th-hour talks fail to find resolution",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/01/london-tube-strike-to-go-ahead-after-11th-hour-talks-fail-to-find-resolution",
+    "title": "Iran suspends peace talks after ‘violation of ceasefire’ in Lebanon",
+    "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
     "source": "The Guardian",
-    "publishedAt": "2026-06-01T16:39:14Z"
+    "publishedAt": "2026-06-01T17:48:00Z"
   },
   {
-    "title": "Thousands flee as Netanyahu orders Israeli bombing of southern Beirut",
-    "url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-01T16:36:28Z"
+    "title": "Refugees and migration: Is Europe closing its doors?",
+    "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-06-01T16:59:00Z"
   },
   {
     "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
@@ -114,9 +114,9 @@
     "publishedAt": "2026-06-01T01:53:03Z"
   },
   {
-    "title": "Iran suspends all peace talks in protest at Israeli offensive in Lebanon",
-    "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-01T15:41:43Z"
+    "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+    "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-01T15:25:54Z"
   }
 ]
