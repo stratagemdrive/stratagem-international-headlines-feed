@@ -1,9 +1,27 @@
 [
   {
+    "title": "Australia politics live: Chalmers says economic woes driving voters to One Nation; Wong sanctions Israelis over West Bank violence",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-01T23:02:53Z"
+  },
+  {
     "title": "Middle East crisis live: Lebanon’s US embassy says Hezbollah has agreed to ‘reciprocal’ ceasefire with Israel under US proposal",
     "url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
     "source": "The Guardian",
-    "publishedAt": "2026-06-01T20:57:16Z"
+    "publishedAt": "2026-06-01T23:02:46Z"
+  },
+  {
+    "title": "U.S. and Iran send mixed signals as Israel's invasion extends deeper into Lebanon",
+    "url": "https://www.pbs.org/newshour/show/u-s-and-iran-send-mixed-signals-as-israels-invasion-extends-deeper-into-lebanon",
+    "source": "PBS",
+    "publishedAt": "2026-06-01T22:53:55Z"
+  },
+  {
+    "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
+    "url": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
+    "source": "NPR",
+    "publishedAt": "2026-06-01T21:28:48Z"
   },
   {
     "title": "Protesters call on Kenyan government to halt femicide crisis",
@@ -30,6 +48,12 @@
     "publishedAt": "2026-06-01T16:54:36Z"
   },
   {
+    "title": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167619",
+    "source": "UN News",
+    "publishedAt": "2026-06-01T12:00:00Z"
+  },
+  {
     "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
     "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -48,16 +72,22 @@
     "publishedAt": "2026-06-01T11:07:22Z"
   },
   {
+    "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+    "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-01T21:50:52Z"
+  },
+  {
+    "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+    "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-01T21:27:01Z"
+  },
+  {
     "title": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
     "url": "https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-01T20:10:05Z"
-  },
-  {
-    "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
-    "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-01T19:58:36Z"
   },
   {
     "title": "U.S. bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait",
@@ -84,39 +114,9 @@
     "publishedAt": "2026-06-01T18:05:12Z"
   },
   {
-    "title": "Iran suspends peace talks after ‘violation of ceasefire’ in Lebanon",
+    "title": "Iran threatens to suspend peace talks after ‘violation of ceasefire’ in Lebanon",
     "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
     "source": "The Guardian",
     "publishedAt": "2026-06-01T17:48:00Z"
-  },
-  {
-    "title": "Refugees and migration: Is Europe closing its doors?",
-    "url": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-06-01T16:59:00Z"
-  },
-  {
-    "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-    "url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-01T16:15:28Z"
-  },
-  {
-    "title": "Pro-Trump lawyer De la Espriella pulls ahead in Colombia's presidential race with promise of crime crackdown",
-    "url": "https://www.pbs.org/newshour/world/pro-trump-lawyer-de-la-espriella-pulls-ahead-in-colombias-presidential-race-with-promise-of-crime-crackdown",
-    "source": "PBS",
-    "publishedAt": "2026-06-01T15:51:19Z"
-  },
-  {
-    "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-    "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-01T01:53:03Z"
-  },
-  {
-    "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-    "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-01T15:25:54Z"
   }
 ]
