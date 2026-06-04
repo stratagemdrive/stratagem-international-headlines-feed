@@ -1,9 +1,9 @@
 [
   {
-    "title": "Iran strikes Kuwait's main airport and kills 1 as ceasefire is tested again",
-    "url": "https://www.pbs.org/newshour/world/iran-strikes-kuwaits-main-airport-and-kills-1-as-ceasefire-is-tested-again",
+    "title": "News Wrap: Ukraine strikes oil depot deep inside Russia",
+    "url": "https://www.pbs.org/newshour/show/news-wrap-ukraine-strikes-oil-depot-deep-inside-russia",
     "source": "PBS",
-    "publishedAt": "2026-06-03T17:47:43Z"
+    "publishedAt": "2026-06-03T22:40:16Z"
   },
   {
     "title": "Iranian strikes set Kuwait's largest airport ablaze amid fragile ceasefire with the U.S.",
@@ -12,10 +12,10 @@
     "publishedAt": "2026-06-03T22:55:59Z"
   },
   {
-    "title": "Middle East crisis live: US House rebukes Trump over Iran war; Tehran claims it struck American military ship in Gulf of Oman",
+    "title": "Middle East crisis live: Israel and Lebanon agree to renew ceasefire; US House rebukes Trump over Iran war",
     "url": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-06-03T22:44:56Z"
+    "publishedAt": "2026-06-04T02:47:34Z"
   },
   {
     "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
@@ -24,10 +24,10 @@
     "publishedAt": "2026-06-03T05:13:02Z"
   },
   {
-    "title": "Australia politics live: PM says ‘unwarranted’ tariffs announced by US on Australia came without warning; parliament to vote on tax changes",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-03T22:52:04Z"
+    "title": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-03T23:02:34Z"
   },
   {
     "title": "Poland and Lithuania explore playing bigger role in NATO's nuclear deterrence",
@@ -60,16 +60,46 @@
     "publishedAt": "2026-06-03T15:12:28Z"
   },
   {
+    "title": "US House votes to halt Iran war, in rebuke to Trump",
+    "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-04T02:24:08Z"
+  },
+  {
     "title": "Yemen: Hunger crisis deepens as funding cuts leave millions without support",
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167643",
     "source": "UN News",
     "publishedAt": "2026-06-03T12:00:00Z"
   },
   {
-    "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
-    "url": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
+    "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+    "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-04T01:02:24Z"
+  },
+  {
+    "title": "US House passes war powers resolution to curb Trump’s authority in Iran",
+    "url": "https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran",
     "source": "The Guardian",
-    "publishedAt": "2026-06-03T10:41:03Z"
+    "publishedAt": "2026-06-04T00:41:20Z"
+  },
+  {
+    "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+    "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-04T00:16:44Z"
+  },
+  {
+    "title": "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens",
+    "url": "https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-04T00:12:10Z"
+  },
+  {
+    "title": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-04T00:00:00Z"
   },
   {
     "title": "Ukrainian drones strike a St. Petersburg oil terminal ahead of Putin visit",
@@ -78,45 +108,15 @@
     "publishedAt": "2026-06-03T10:04:00Z"
   },
   {
-    "title": "US House votes to halt Iran war, in rebuke to Trump",
-    "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-03T23:01:07Z"
-  },
-  {
-    "title": "US House passes war powers resolution to curb Trump’s authority in Iran",
-    "url": "https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-03T22:38:14Z"
-  },
-  {
-    "title": "She famously battled a gas company and won millions in settlements. Now, Erin Brockovich is taking on AI",
-    "url": "https://www.cbc.ca/news/world/erin-brockovich-ai-data-centres-website-9.7221109?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-03T08:00:00Z"
-  },
-  {
-    "title": "Chinese spies use LinkedIn to target UK officials and military staff",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/03/chinese-spies-linkedin-uk-officials",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-03T21:21:13Z"
-  },
-  {
-    "title": "US plans extra tariffs for 60 countries over forced labor",
-    "url": "https://www.dw.com/en/us-plans-extra-tariffs-for-60-countries-over-forced-labor/a-77400171?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-06-03T07:26:00Z"
-  },
-  {
-    "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-    "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-03T21:19:19Z"
-  },
-  {
-    "title": "Kuwait labels Iran attack ‘heinous aggression’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
+    "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-03T21:16:41Z"
+    "publishedAt": "2026-06-03T23:22:15Z"
+  },
+  {
+    "title": "US House passes Iran war powers resolution in rare pushback against Trump",
+    "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-03T22:10:58Z"
   }
 ]
