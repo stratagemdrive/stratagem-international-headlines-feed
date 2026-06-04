@@ -1,5 +1,11 @@
 [
   {
+    "title": "UK to challenge EU over ‘devastating’ plans for new tariff-free steel import quotas",
+    "url": "https://www.theguardian.com/business/2026/jun/04/uk-challenge-eu--new-tariff-free-steel-import-quotas",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-04T08:00:29Z"
+  },
+  {
     "title": "News Wrap: Ukraine strikes oil depot deep inside Russia",
     "url": "https://www.pbs.org/newshour/show/news-wrap-ukraine-strikes-oil-depot-deep-inside-russia",
     "source": "PBS",
@@ -10,12 +16,6 @@
     "url": "https://www.pbs.org/newshour/show/iranian-strikes-set-kuwaits-largest-airport-ablaze-amid-fragile-ceasefire-with-the-u-s",
     "source": "PBS",
     "publishedAt": "2026-06-03T22:55:59Z"
-  },
-  {
-    "title": "Middle East crisis live: Israel and Lebanon agree to renew ceasefire; US House rebukes Trump over Iran war",
-    "url": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-04T02:47:34Z"
   },
   {
     "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
@@ -36,16 +36,34 @@
     "publishedAt": "2026-06-03T22:43:01Z"
   },
   {
-    "title": "Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed",
-    "url": "https://www.aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-03T17:36:11Z"
+    "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+    "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-04T07:49:33Z"
   },
   {
-    "title": "US cites forced labour concerns as grounds for new tariffs",
-    "url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss",
+    "title": "Israel and Lebanon agree new ceasefire as Trump scrambles to end Iran war",
+    "url": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-04T07:28:55Z"
+  },
+  {
+    "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
+    "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-04T07:23:41Z"
+  },
+  {
+    "title": "Indonesia arrests officials in crackdown on corruption",
+    "url": "https://www.aljazeera.com/news/2026/6/4/indonesia-arrests-officials-in-crackdown-on-corruption?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-03T17:10:40Z"
+    "publishedAt": "2026-06-04T07:09:35Z"
+  },
+  {
+    "title": "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
+    "url": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-04T07:01:19Z"
   },
   {
     "title": "Ukrainian drones hit St. Petersburg oil terminal before city hosts Russian economic forum",
@@ -54,69 +72,51 @@
     "publishedAt": "2026-06-03T17:06:25Z"
   },
   {
+    "title": "What the US-Israel war on Iran will not change in the Middle East",
+    "url": "https://www.aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-04T06:55:11Z"
+  },
+  {
+    "title": "London hit by second day of Tube strike disruption this week",
+    "url": "https://www.theguardian.com/uk-news/2026/jun/03/london-braces-second-day-rmt-tube-strike-disruption",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-04T06:24:44Z"
+  },
+  {
+    "title": "Plans for a Trump family-linked resort spark protests in Albania",
+    "url": "https://www.npr.org/2026/06/04/g-s1-125926/albania-protests-trump-family-linked-resort",
+    "source": "NPR",
+    "publishedAt": "2026-06-04T06:00:17Z"
+  },
+  {
+    "title": "New footage shows moment Iranian drone struck Kuwait airport",
+    "url": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-04T05:30:28Z"
+  },
+  {
     "title": "US announces new tariffs over forced labour concerns",
     "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-06-03T15:12:28Z"
   },
   {
-    "title": "US House votes to halt Iran war, in rebuke to Trump",
-    "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-04T02:24:08Z"
+    "title": "Israeli strikes on residential buildings kill nine in Gaza City",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-04T04:46:17Z"
   },
   {
-    "title": "Yemen: Hunger crisis deepens as funding cuts leave millions without support",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167643",
-    "source": "UN News",
-    "publishedAt": "2026-06-03T12:00:00Z"
-  },
-  {
-    "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
-    "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-04T01:02:24Z"
-  },
-  {
-    "title": "US House passes war powers resolution to curb Trump’s authority in Iran",
-    "url": "https://www.theguardian.com/us-news/2026/jun/03/house-passes-war-power-resolution-trump-iran",
+    "title": "Protests in Albania grow over Jared Kushner-backed luxury resort",
+    "url": "https://www.theguardian.com/world/2026/jun/04/protests-in-albania-grow-over-jared-kushner-backed-luxury-resort",
     "source": "The Guardian",
-    "publishedAt": "2026-06-04T00:41:20Z"
+    "publishedAt": "2026-06-04T04:00:26Z"
   },
   {
-    "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-    "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-04T00:16:44Z"
-  },
-  {
-    "title": "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens",
-    "url": "https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag",
+    "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
+    "url": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
     "source": "The Guardian",
-    "publishedAt": "2026-06-04T00:12:10Z"
-  },
-  {
-    "title": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-04T00:00:00Z"
-  },
-  {
-    "title": "Ukrainian drones strike a St. Petersburg oil terminal ahead of Putin visit",
-    "url": "https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg",
-    "source": "NPR",
-    "publishedAt": "2026-06-03T10:04:00Z"
-  },
-  {
-    "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-03T23:22:15Z"
-  },
-  {
-    "title": "US House passes Iran war powers resolution in rare pushback against Trump",
-    "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-03T22:10:58Z"
+    "publishedAt": "2026-06-04T04:00:25Z"
   }
 ]
