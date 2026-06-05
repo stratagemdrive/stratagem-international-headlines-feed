@@ -1,5 +1,17 @@
 [
   {
+    "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+    "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-05T21:02:52Z"
+  },
+  {
+    "title": "What may happen as oil supplies dwindle and Strait of Hormuz remains mostly closed",
+    "url": "https://www.pbs.org/newshour/show/what-may-happen-as-oil-supplies-dwindle-and-strait-of-hormuz-remains-mostly-closed",
+    "source": "PBS",
+    "publishedAt": "2026-06-05T22:50:31Z"
+  },
+  {
     "title": "Trump hails jobs surge, says Iran talks ‘going well’",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
     "source": "Al Jazeera",
@@ -22,6 +34,12 @@
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167659",
     "source": "UN News",
     "publishedAt": "2026-06-05T12:00:00Z"
+  },
+  {
+    "title": "What Putin's rejection of Ukraine's call for talks means for efforts to end Russia's war",
+    "url": "https://www.pbs.org/newshour/show/what-putins-rejection-of-ukraines-call-for-talks-means-for-efforts-to-end-russias-war",
+    "source": "PBS",
+    "publishedAt": "2026-06-05T22:40:55Z"
   },
   {
     "title": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/6/5/germanys-merz-says-eu-to-initiate-integration-of-western-balkans?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-05T17:40:07Z"
-  },
-  {
-    "title": "Israel strikes southern Lebanon after ordering evacuations of nine villages",
-    "url": "https://www.theguardian.com/world/2026/jun/05/israel-strikes-southern-lebanon-evacuations-nine-villages",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-05T15:56:29Z"
-  },
-  {
-    "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-    "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-05T15:29:39Z"
-  },
-  {
-    "title": "US imposes new sanctions on Cuban president and Castro family members",
-    "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-05T01:07:15Z"
   }
 ]
