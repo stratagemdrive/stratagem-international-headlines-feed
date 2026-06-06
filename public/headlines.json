@@ -1,6 +1,6 @@
 [
   {
-    "title": "Cockroach Janta Party rallies at New Delhi for youth protests",
+    "title": "Cockroach Janta Party rallies in New Delhi for youth protests",
     "url": "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-06T11:07:41Z"
@@ -22,6 +22,42 @@
     "url": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
     "source": "NPR",
     "publishedAt": "2026-06-06T04:15:26Z"
+  },
+  {
+    "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+    "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-06T14:46:20Z"
+  },
+  {
+    "title": "Israeli strike kills at least six people at wedding in Gaza",
+    "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-06T14:38:50Z"
+  },
+  {
+    "title": "‘Free of the shackles’: Michael Grade’s GB News defence raises concerns over relaxing of Ofcom rules",
+    "url": "https://www.theguardian.com/media/2026/jun/06/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-06T14:00:05Z"
+  },
+  {
+    "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+    "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-06T13:38:07Z"
+  },
+  {
+    "title": "Air raid sirens sound in Bahrain as Iranian missiles and drones head for Gulf neighbours",
+    "url": "https://www.cbc.ca/news/world/bahrain-iran-drones-gulf-9.7226112?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-06-06T13:32:21Z"
+  },
+  {
+    "title": "Lebanon and Israel’s perpetual war machine",
+    "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-06T13:31:49Z"
   },
   {
     "title": "U.S. strikes Iranian radar sites after shooting down Iran-launched drones",
@@ -60,12 +96,6 @@
     "publishedAt": "2026-06-06T11:47:45Z"
   },
   {
-    "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-    "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-06T11:37:19Z"
-  },
-  {
     "title": "Palestinian baby shot dead by Israeli troops in occupied West Bank",
     "url": "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
     "source": "The Guardian",
@@ -88,35 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-06T09:13:55Z"
-  },
-  {
-    "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
-    "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-06T09:00:05Z"
-  },
-  {
-    "title": "Man dies in Western Australia after shark attack",
-    "url": "https://www.aljazeera.com/news/2026/6/6/man-dies-in-western-australia-after-shark-attack?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-06T08:17:32Z"
-  },
-  {
-    "title": "As Armenia heads to the polls, Russia warns against electing 'pro-European forces'",
-    "url": "https://www.cbc.ca/news/world/armenia-election-russia-vs-europe-9.7225272?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-06T08:00:00Z"
-  },
-  {
-    "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-    "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-06T07:51:28Z"
-  },
-  {
-    "title": "Man dies after shark attack off Western Australia coast near Albany",
-    "url": "https://www.theguardian.com/australia-news/2026/jun/06/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-06T07:47:50Z"
   }
 ]
