@@ -1,15 +1,21 @@
 [
   {
+    "title": "News live: Albanese says ‘we need to do more’ on house prices; Australia joins sanctions against ‘extremist settlers’ in West Bank",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-09T23:49:59Z"
+  },
+  {
+    "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
+    "url": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-09T23:06:39Z"
+  },
+  {
     "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-09T22:03:45Z"
-  },
-  {
-    "title": "Australia news live: Australia joins sanctions against ‘extremist settlers’ in West Bank; Barbecues Galore no more",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-09T21:57:55Z"
   },
   {
     "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
@@ -72,6 +78,24 @@
     "publishedAt": "2026-06-09T12:00:00Z"
   },
   {
+    "title": "Grim reality of prison conditions laid bare in damning report",
+    "url": "https://www.theguardian.com/society/2026/jun/10/grim-reality-of-prison-conditions-laid-bare-in-damning-report",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-09T23:02:04Z"
+  },
+  {
+    "title": "JD Vance claims US ‘very close’ to peace deal with Iran",
+    "url": "https://www.theguardian.com/us-news/2026/jun/09/jd-vance-iran-peace-deal",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-09T22:45:26Z"
+  },
+  {
+    "title": "Trump launches strikes against Iran after downing of US army helicopter",
+    "url": "https://www.theguardian.com/us-news/2026/jun/09/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-09T22:41:40Z"
+  },
+  {
     "title": "Global violence reaches record levels due to war and attacks on civilians",
     "url": "https://www.npr.org/2026/06/09/nx-s1-5847687/global-violence-reaches-record-levels-due-to-war-and-attacks-on-civilians",
     "source": "NPR",
@@ -84,12 +108,6 @@
     "publishedAt": "2026-06-09T21:43:25Z"
   },
   {
-    "title": "Far right accused of seeking to foment UK-wide unrest over Belfast knife attack",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/09/man-seriously-injured-in-belfast-stabbing-starmer-describes-as-sickening",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-09T21:29:19Z"
-  },
-  {
     "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
     "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -100,23 +118,5 @@
     "url": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-06-09T21:04:20Z"
-  },
-  {
-    "title": "Trump vows to respond after Iran downed a U.S. Army helicopter near Strait of Hormuz",
-    "url": "https://www.npr.org/2026/06/09/nx-s1-5851482/trump-pilots-us-helicopter-crash",
-    "source": "NPR",
-    "publishedAt": "2026-06-09T05:48:30Z"
-  },
-  {
-    "title": "US stadium and hotel workers threaten strikes ‘to make things fair’ during World Cup",
-    "url": "https://www.theguardian.com/football/2026/jun/09/stadium-hotel-workers-strike-world-cup",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-09T19:19:31Z"
-  },
-  {
-    "title": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
-    "url": "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military",
-    "source": "NPR",
-    "publishedAt": "2026-06-09T05:18:46Z"
   }
 ]
