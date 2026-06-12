@@ -1,21 +1,33 @@
 [
   {
-    "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
-    "url": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-12T16:04:21Z"
+    "title": "Venezuela hits out at Trinidad and Tobago in oil spill spat",
+    "url": "https://www.aljazeera.com/news/2026/6/12/venezuela-hits-out-at-trinidad-and-tobago-in-oil-spill-spat?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-12T18:25:49Z"
   },
   {
-    "title": "Oil prices fall after Trump says he is cancelling strikes – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-12T04:12:08Z"
-  },
-  {
-    "title": "Middle East crisis live: Trump says Iran’s version of peace deal has ‘no relation to the truth’",
+    "title": "Middle East crisis live: final text of peace deal between US and Iran agreed, says Pakistan’s prime minister",
     "url": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-06-12T15:48:39Z"
+    "publishedAt": "2026-06-12T18:36:07Z"
+  },
+  {
+    "title": "US-Iran peace deal remains elusive as Trump and Tehran trade conflicting claims",
+    "url": "https://www.theguardian.com/world/2026/jun/12/us-iran-peace-deal-remains-elusive-as-trump-and-tehran-trade-conflicting-claims",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-12T18:23:58Z"
+  },
+  {
+    "title": "US to cut air and naval assets deployed for NATO operations in Europe",
+    "url": "https://www.aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-12T17:13:07Z"
+  },
+  {
+    "title": "China arrests a U.S. scholar with a history of Myanmar activism, suspected of spying",
+    "url": "https://www.npr.org/2026/06/12/nx-s1-5856394/china-arrest-us-citizen-myanmar",
+    "source": "NPR",
+    "publishedAt": "2026-06-12T17:04:38Z"
   },
   {
     "title": "More time needed for deadly Air India crash inquiry, officials say",
@@ -24,10 +36,10 @@
     "publishedAt": "2026-06-12T15:09:40Z"
   },
   {
-    "title": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
-    "url": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-12T12:08:33Z"
+    "title": "U.S. and Iran signal peace deal near despite differences over leaked details",
+    "url": "https://www.cbc.ca/news/world/trump-iran-memorandum-united-states-9.7233089?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-06-12T14:54:02Z"
   },
   {
     "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
@@ -36,16 +48,58 @@
     "publishedAt": "2026-06-12T10:42:59Z"
   },
   {
-    "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
-    "url": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-12T09:35:08Z"
-  },
-  {
     "title": "The 2029 warning: NATO's race to rearm ahead of Russia",
     "url": "https://www.cbc.ca/news/politics/russia-nato-arms-germany-war-canada-9.7232514?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-12T08:00:00Z"
+  },
+  {
+    "title": "How the Gulf will manage collective security after the Iran war ends",
+    "url": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-12T18:48:41Z"
+  },
+  {
+    "title": "Iran says deal to end fighting with US has 'never been closer'",
+    "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-12T18:20:51Z"
+  },
+  {
+    "title": "UN adopts treaty setting standards for gig economy workers",
+    "url": "https://www.aljazeera.com/news/2026/6/12/un-adopts-treaty-setting-standards-for-gig-economy-workers?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-12T18:12:14Z"
+  },
+  {
+    "title": "Chaotic talks on a US-Iran deal continue on the Trump rollercoaster",
+    "url": "https://www.theguardian.com/world/2026/jun/12/trump-rollercoaster-deal-us-iran",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-12T18:05:19Z"
+  },
+  {
+    "title": "Fire rips through the world’s biggest refugee camp in Bangladesh",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/fire-rips-through-the-worlds-biggest-refugee-camp-in-bangladesh?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-12T17:44:48Z"
+  },
+  {
+    "title": "Iran: No timeline yet for signing US deal",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-no-timeline-yet-for-signing-us-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-12T17:39:03Z"
+  },
+  {
+    "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+    "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-12T16:41:53Z"
+  },
+  {
+    "title": "Iran foreign minister says ceasefire deal with US has ‘never been closer’",
+    "url": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-12T16:38:40Z"
   },
   {
     "title": "Palestinian and Israeli civil society groups urge G7 to take action on Gaza",
@@ -64,59 +118,5 @@
     "url": "https://www.theguardian.com/australia-news/2026/jun/13/liberals-are-scaring-first-home-buyers-with-warnings-of-negative-equity-but-experts-believe-theres-little-to-worry-about",
     "source": "The Guardian",
     "publishedAt": "2026-06-12T15:00:51Z"
-  },
-  {
-    "title": "Trump bristles over leaked details of deal that appear to favour Iran",
-    "url": "https://www.cbc.ca/news/world/trump-iran-memorandum-united-states-9.7233089?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-12T14:54:02Z"
-  },
-  {
-    "title": "Tributes paid to David Hockney, a 'giant' and 'true icon' of British art",
-    "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-12T14:03:35Z"
-  },
-  {
-    "title": "Iran-US deal: What are the main sticking points?",
-    "url": "https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-77526613?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-06-12T13:59:00Z"
-  },
-  {
-    "title": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
-    "url": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-12T13:34:49Z"
-  },
-  {
-    "title": "Indonesian students protest gov’t policies amid economic strain",
-    "url": "https://www.aljazeera.com/news/2026/6/12/indonesian-students-protest-govt-policies-amid-economic-strain?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-12T13:33:54Z"
-  },
-  {
-    "title": "Are Iran, US really close to a breakthrough ‘deal’?",
-    "url": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-12T13:16:30Z"
-  },
-  {
-    "title": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
-    "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-12T13:00:45Z"
-  },
-  {
-    "title": "India bets big on domestic drones for future warfare",
-    "url": "https://www.dw.com/en/india-bets-big-on-domestic-drones-for-future-warfare/a-77523962?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-06-12T12:18:00Z"
-  },
-  {
-    "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
-    "url": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-12T12:02:56Z"
   }
 ]
