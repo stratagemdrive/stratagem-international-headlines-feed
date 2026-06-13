@@ -1,5 +1,17 @@
 [
   {
+    "title": "Albania protests escalate over Kushner-backed coastal development",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/albania-protests-escalate-over-kushner-backed-coastal-development?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-13T17:57:16Z"
+  },
+  {
+    "title": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-13T17:10:49Z"
+  },
+  {
     "title": "Officials signal U.S. and Iran expected to sign initial deal, but timeline uncertain",
     "url": "https://www.cbc.ca/news/world/pakistan-us-iran-deal-close-9.7234496?cmp=rss",
     "source": "CBC",
@@ -12,10 +24,34 @@
     "publishedAt": "2026-06-13T12:10:00Z"
   },
   {
-    "title": "Palestinian American woman held without charge by Israeli military",
-    "url": "https://www.theguardian.com/us-news/2026/jun/13/palestinian-held-sama-safi-israeli-military",
+    "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+    "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-13T18:39:26Z"
+  },
+  {
+    "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
+    "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-13T18:17:43Z"
+  },
+  {
+    "title": "US President Trump says US-Iran deal to be signed tomorrow",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-13T18:02:31Z"
+  },
+  {
+    "title": "Trump says Iran peace deal could be signed by Sunday, with strait of Hormuz to open shortly after",
+    "url": "https://www.theguardian.com/world/2026/jun/13/preliminary-peace-deal-could-be-signed-within-days-says-us-iran-and-mediators",
     "source": "The Guardian",
-    "publishedAt": "2026-06-13T10:00:10Z"
+    "publishedAt": "2026-06-13T17:50:27Z"
+  },
+  {
+    "title": "Far-right and anti-racist protesters clash in UK cities after Belfast riots",
+    "url": "https://www.theguardian.com/uk-news/2026/jun/13/far-right-anti-racist-protesters-clash-brighton-liverpool-sheffield-glasgow",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-13T17:30:22Z"
   },
   {
     "title": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
@@ -82,41 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/violence-erupts-at-anti-government-protest-in-dr-congo?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-13T11:16:57Z"
-  },
-  {
-    "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-    "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-13T11:15:18Z"
-  },
-  {
-    "title": "Trump and Netanyahu in lockstep over Iran war, U.S. ambassador to Israel says",
-    "url": "https://www.cbc.ca/news/world/huckabee-trump-netanyahu-iran-9.7233490?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-12T20:33:42Z"
-  },
-  {
-    "title": "Israel attacks Lebanon despite being included in potential peace deal",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-13T10:13:54Z"
-  },
-  {
-    "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
-    "url": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-13T09:13:29Z"
-  },
-  {
-    "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
-    "url": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-13T09:12:30Z"
-  },
-  {
-    "title": "US-Iran peace deal remains elusive as Trump and Tehran trade conflicting claims",
-    "url": "https://www.theguardian.com/world/2026/jun/12/us-iran-peace-deal-remains-elusive-as-trump-and-tehran-trade-conflicting-claims",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-12T18:23:58Z"
   }
 ]
