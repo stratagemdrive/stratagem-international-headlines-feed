@@ -1,9 +1,21 @@
 [
   {
-    "title": "Middle East crisis live: Iran warns of ‘imminent’ response to Israeli strike on Beirut as ceasefire deal looks shaky",
+    "title": "Donald Trump says deal with Iran ‘is now complete’ – Middle East crisis live",
     "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-06-14T20:45:58Z"
+    "publishedAt": "2026-06-14T22:35:24Z"
+  },
+  {
+    "title": "The U.S. and Iran announce a deal to end the war",
+    "url": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz",
+    "source": "NPR",
+    "publishedAt": "2026-06-14T22:30:42Z"
+  },
+  {
+    "title": "Pakistan's PM says U.S., Iran have reached peace deal that also includes Lebanon",
+    "url": "https://www.cbc.ca/news/world/us-iran-peace-deal-9.7235112?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-06-14T21:27:57Z"
   },
   {
     "title": "Israel welcomes Somaliland president in ‘historic’ visit",
@@ -12,22 +24,16 @@
     "publishedAt": "2026-06-14T19:23:04Z"
   },
   {
-    "title": "British armed forces intercept Russian shadow fleet oil tanker in Channel",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-14T15:56:27Z"
-  },
-  {
-    "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-14T15:39:23Z"
-  },
-  {
     "title": "Deadly Philippines earthquake found to have raised seabed by up to 2 metres",
     "url": "https://www.theguardian.com/world/2026/jun/14/philippines-earthquake-raised-seabed-costal-uplift-coral-exposed",
     "source": "The Guardian",
     "publishedAt": "2026-06-14T11:07:18Z"
+  },
+  {
+    "title": "Trump declares victory in Iran talks",
+    "url": "https://www.npr.org/2026/06/14/nx-s1-5857762/trump-declares-victory-in-iran-talks",
+    "source": "NPR",
+    "publishedAt": "2026-06-14T22:53:37Z"
   },
   {
     "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
@@ -36,10 +42,64 @@
     "publishedAt": "2026-06-14T08:45:23Z"
   },
   {
+    "title": "Anger among Iranian hardliners at terms of deal agreed with US",
+    "url": "https://www.theguardian.com/world/2026/jun/14/iranian-hardliners-in-vociferous-push-to-reject-proposed-peace-deal-with-us",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-14T22:34:54Z"
+  },
+  {
+    "title": "Peace deal between US and Iran, Pakistan says, with strait of Hormuz to reopen",
+    "url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-14T22:21:26Z"
+  },
+  {
+    "title": "G7 leaders face wars abroad and divisions at home",
+    "url": "https://www.npr.org/2026/06/14/nx-s1-5854396/g7-leaders-face-wars-abroad-and-divisions-at-home",
+    "source": "NPR",
+    "publishedAt": "2026-06-14T21:24:39Z"
+  },
+  {
+    "title": "As Iranians wait for a peace agreement, their economy is fraying",
+    "url": "https://www.npr.org/2026/06/14/nx-s1-5854607/as-iranians-wait-for-a-peace-agreement-their-economy-is-fraying",
+    "source": "NPR",
+    "publishedAt": "2026-06-14T21:23:24Z"
+  },
+  {
+    "title": "JD Vance says he will discuss 2028 presidential run after midterm elections",
+    "url": "https://www.theguardian.com/us-news/2026/jun/14/jd-vance-2028-presidential-campaign-midterms-talks",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-14T21:03:25Z"
+  },
+  {
+    "title": "Gaza mourns four killed in Israeli strike",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-14T20:57:12Z"
+  },
+  {
+    "title": "Labour MP Lauren Edwards to bring assisted dying bill back to the Commons",
+    "url": "https://www.theguardian.com/society/2026/jun/14/assisted-dying-bill-return-commons-lauren-edwards",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-14T20:54:36Z"
+  },
+  {
+    "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-14T20:45:10Z"
+  },
+  {
     "title": "UK and Japan agree £18bn investment deal",
     "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-06-14T20:29:15Z"
+  },
+  {
+    "title": "Protesters clash with police ahead of G7 summit in Geneva",
+    "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-14T19:46:36Z"
   },
   {
     "title": "Trump reportedly tells Putin he is prepared to help end war in Ukraine",
@@ -58,65 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-14T18:51:49Z"
-  },
-  {
-    "title": "Is the G7 still relevant?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/6/14/is-the-g7-still-relevant?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-14T18:31:58Z"
-  },
-  {
-    "title": "Israeli military says Hezbollah targets struck in Beirut",
-    "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-14T17:52:36Z"
-  },
-  {
-    "title": "Police arrest 14 at rival protests over Israeli property event in London",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/14/rival-protests-take-place-over-israeli-property-event-in-london",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-14T17:47:58Z"
-  },
-  {
-    "title": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
-    "url": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-14T16:49:25Z"
-  },
-  {
-    "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-14T16:49:10Z"
-  },
-  {
-    "title": "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-14T16:32:09Z"
-  },
-  {
-    "title": "‘Let’s not blow it’: Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
-    "url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-14T16:22:48Z"
-  },
-  {
-    "title": "‘Unacceptable’: London protesters slam illegal Israeli settlement land sale",
-    "url": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-14T15:49:33Z"
-  },
-  {
-    "title": "Iranian hardliners in vociferous push to reject proposed peace deal with US",
-    "url": "https://www.theguardian.com/world/2026/jun/14/iranian-hardliners-in-vociferous-push-to-reject-proposed-peace-deal-with-us",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-14T15:47:32Z"
-  },
-  {
-    "title": "Trump condemns Israel’s attack on Beirut as Iran says US responsible",
-    "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-14T15:22:36Z"
   }
 ]
