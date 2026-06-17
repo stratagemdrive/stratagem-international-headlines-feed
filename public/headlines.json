@@ -1,5 +1,11 @@
 [
   {
+    "title": "Carney says he's seen U.S.-Iran framework to end war, calls it a 'game changer' in CNN interview",
+    "url": "https://www.cbc.ca/news/politics/carney-iran-u-s-war-deal-9.7238187?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-06-17T03:08:14Z"
+  },
+  {
     "title": "US and Iran deal to end war allows Tehran to sell oil and fuel – as it happened",
     "url": "https://www.theguardian.com/world/live/2026/jun/16/iran-us-deal-trump-vance-strait-hormuz-israel-lebanon-middle-east-latest-news-updates",
     "source": "The Guardian",
@@ -10,12 +16,6 @@
     "url": "https://www.theguardian.com/society/2026/jun/16/uk-learning-disability-nurses-nhs",
     "source": "The Guardian",
     "publishedAt": "2026-06-16T19:00:10Z"
-  },
-  {
-    "title": "Qatar renews mediation efforts for regional stability after US-Iran deal",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_qatar-renews-mediation-efforts-after-us-iran-deal-160626?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-16T16:51:19Z"
   },
   {
     "title": "European parliament finally approves Trump tariff deal",
@@ -30,6 +30,12 @@
     "publishedAt": "2026-06-16T15:26:45Z"
   },
   {
+    "title": "Russian drone strikes residential building in Ukraine",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-drone-strikes-residential-building-in-ukraine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-17T03:02:05Z"
+  },
+  {
     "title": "Pakistan raises defense spending amid regional conflicts",
     "url": "https://www.dw.com/en/pakistan-raises-defense-spending-amid-regional-conflicts/a-77577772?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -40,6 +46,12 @@
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167728",
     "source": "UN News",
     "publishedAt": "2026-06-16T12:00:00Z"
+  },
+  {
+    "title": "UN reports decline in cross-border fire in southern Lebanon",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/un-reports-decline-in-cross-border-fire-in-southern-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-17T01:24:27Z"
   },
   {
     "title": "Diplomats and abuse — chipping at the shield of immunity",
@@ -66,16 +78,22 @@
     "publishedAt": "2026-06-15T20:41:36Z"
   },
   {
+    "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+    "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-17T00:25:39Z"
+  },
+  {
+    "title": "Iran war live: Israel kills 4 in Lebanon as Trump criticises Netanyahu",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-17T00:00:18Z"
+  },
+  {
     "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
     "url": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-06-16T22:01:34Z"
-  },
-  {
-    "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-    "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-16T21:44:25Z"
   },
   {
     "title": "US-Iran deal may get oil flowing again, but region’s root problems are unsolved",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-ukraine-dominate-g7-summit?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-16T20:36:36Z"
-  },
-  {
-    "title": "Ebola outbreak in DR Congo could become worst in history, Africa CDC warns",
-    "url": "https://www.aljazeera.com/news/2026/6/16/ebola-outbreak-in-dr-congo-could-become-worst-in-history-africa-cdc-warns?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-16T19:43:08Z"
-  },
-  {
-    "title": "G7 allies scramble to put Ukraine back atop Trump's agenda as war drags on",
-    "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
-    "source": "NPR",
-    "publishedAt": "2026-06-16T05:37:59Z"
-  },
-  {
-    "title": "What has Iran won and lost from this war?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-16T19:16:42Z"
   }
 ]
