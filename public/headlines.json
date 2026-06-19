@@ -24,10 +24,16 @@
     "publishedAt": "2026-06-19T01:04:14Z"
   },
   {
-    "title": "US official says Israel-Hezbollah ceasefire agreed as Trump lashes out at Iran deal critics – Middle East crisis live",
-    "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-19T16:49:13Z"
+    "title": "Norway seeks to ban trade with illegal Israeli settlements in Palestine",
+    "url": "https://www.aljazeera.com/news/2026/6/19/norway-seeks-to-ban-trade-with-illegal-israeli-settlements-in-palestine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-19T19:18:35Z"
+  },
+  {
+    "title": "Ukraine keeps striking Russian refineries and supply routes. How close is the country to an energy crisis?",
+    "url": "https://www.cbc.ca/news/world/russia-ukraine-energy-9.7139109?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-06-19T18:44:39Z"
   },
   {
     "title": "U.S. kills 3 people on alleged drug-carrying boat, as senators demand to see unedited video of strikes",
@@ -54,10 +60,40 @@
     "publishedAt": "2026-06-19T10:30:52Z"
   },
   {
+    "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+    "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-19T19:36:10Z"
+  },
+  {
+    "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+    "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-19T19:27:12Z"
+  },
+  {
+    "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
+    "url": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-19T19:05:08Z"
+  },
+  {
+    "title": "How is the Iran-US agreement being viewed in Israel?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-19T18:49:52Z"
+  },
+  {
     "title": "Apple to raise prices as AI boom pushes up chip costs",
     "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-06-18T14:03:27Z"
+  },
+  {
+    "title": "Lebanon: Is US-Iran peace deal a 'victory' for Hezbollah?",
+    "url": "https://www.dw.com/en/lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah/a-77629727?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-06-19T16:59:00Z"
   },
   {
     "title": "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
@@ -82,41 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/6/19/israel-continues-attacks-on-lebanon-despite-agreeing-to-ceasefire?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-19T15:47:15Z"
-  },
-  {
-    "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-    "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-19T15:16:22Z"
-  },
-  {
-    "title": "Trump’s Iran deal: A victory lap before the victory",
-    "url": "https://www.aljazeera.com/opinions/2026/6/19/trumps-iran-deal-a-victory-lap-before-the-victory?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-19T15:14:17Z"
-  },
-  {
-    "title": "As Lebanon tests US-Iran deal, Trump must rein in Netanyahu, analysts say",
-    "url": "https://www.aljazeera.com/news/2026/6/19/as-lebanon-tests-us-iran-deal-trump-must-rein-in-netanyahu-analysts-say?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-19T14:28:49Z"
-  },
-  {
-    "title": "Barack Obama says US is ‘worse off’ than before war with Iran",
-    "url": "https://www.theguardian.com/us-news/2026/jun/19/barack-obama-us-is-worse-off-war-with-iran",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-19T14:14:37Z"
-  },
-  {
-    "title": "Sudanese journalist denied UK visa to collect prestigious award",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/sudanese-journalist-denied-uk-visa-to-collect-prestigious-award?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-19T13:54:14Z"
-  },
-  {
-    "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-    "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-19T13:42:47Z"
   }
 ]
