@@ -1,5 +1,11 @@
 [
   {
+    "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+    "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-21T10:55:05Z"
+  },
+  {
     "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
     "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
     "source": "Al Jazeera",
@@ -18,10 +24,28 @@
     "publishedAt": "2026-06-20T10:19:34Z"
   },
   {
-    "title": "Middle East live: Vance in Switzerland to meet Iran officials as Tehran says it has closed strait of Hormuz",
+    "title": "Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed",
     "url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-06-21T11:28:51Z"
+    "publishedAt": "2026-06-21T13:46:52Z"
+  },
+  {
+    "title": "Why Lebanon may make or break the Iran-US deal",
+    "url": "https://www.aljazeera.com/news/2026/6/21/why-lebanon-may-make-or-break-the-iran-us-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-21T13:11:50Z"
+  },
+  {
+    "title": "US-Iran talks in Switzerland get under way as strait of Hormuz remains closed",
+    "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-21T12:25:52Z"
+  },
+  {
+    "title": "What could make a peace deal with Iran viable? One expert weighs in",
+    "url": "https://www.npr.org/2026/06/21/nx-s1-5863129/what-could-make-a-peace-deal-with-iran-viable-one-expert-weighs-in",
+    "source": "NPR",
+    "publishedAt": "2026-06-21T12:06:10Z"
   },
   {
     "title": "Iran claims Hormuz closure, U.S. says ships still passing",
@@ -48,12 +72,6 @@
     "publishedAt": "2026-06-21T10:06:01Z"
   },
   {
-    "title": "US-Iran talks in Switzerland to get under way as strait of Hormuz remains closed",
-    "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-21T10:04:26Z"
-  },
-  {
     "title": "Albanian protesters rally against Kushner-backed resort in protected area",
     "url": "https://www.aljazeera.com/gallery/2026/6/21/albanian-protesters-rally-against-kushner-backed-resort-in-protected-area?traffic_source=rss",
     "source": "Al Jazeera",
@@ -66,7 +84,7 @@
     "publishedAt": "2026-06-21T09:19:36Z"
   },
   {
-    "title": "JD Vance lands in Switzerland to launch talks with Iran on its nuclear program",
+    "title": "Vance and Iranian officials in Switzerland to launch talks on Tehran's nuclear program",
     "url": "https://www.cbc.ca/news/world/jd-vance-switzerland-iran-talks-9.7243422?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-21T09:13:54Z"
@@ -100,23 +118,5 @@
     "url": "https://www.theguardian.com/artanddesign/2026/jun/21/us-mexico-border-protests-poland-highlights-photoespana-2026-spain",
     "source": "The Guardian",
     "publishedAt": "2026-06-21T06:00:23Z"
-  },
-  {
-    "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
-    "url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-20T16:00:05Z"
-  },
-  {
-    "title": "South Africa’s immigration crackdown divides Johannesburg’s inner city",
-    "url": "https://www.aljazeera.com/economy/2026/6/21/south-africas-immigration-crackdown-divides-johannesburgs-inner-city?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-21T05:42:08Z"
-  },
-  {
-    "title": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-21T05:35:36Z"
   }
 ]
