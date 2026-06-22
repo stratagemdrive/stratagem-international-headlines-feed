@@ -1,11 +1,5 @@
 [
   {
-    "title": "Canada’s inflation hits 29-month high amid heightened oil prices",
-    "url": "https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-22T16:24:55Z"
-  },
-  {
     "title": "China hits back at U.S. sanctions restricting its exports to American defense firms",
     "url": "https://www.npr.org/2026/06/22/nx-s1-5866202/china-sanctions-restricting-exports",
     "source": "NPR",
@@ -18,16 +12,22 @@
     "publishedAt": "2026-06-22T04:37:27Z"
   },
   {
+    "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+    "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-22T23:07:45Z"
+  },
+  {
     "title": "Qatar PM on preventing US-Iran talks from escalation",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-22T20:04:43Z"
   },
   {
-    "title": "Lebanon Latest: Israeli attacks surge despite ceasefire efforts",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-22T16:19:27Z"
+    "title": "U.S. to permit Iranian oil sales, easing decades-old sanctions, as peace talks continue",
+    "url": "https://www.cbc.ca/news/world/united-states-iran-oil-sales-peace-deal-9.7244322?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-06-22T15:23:41Z"
   },
   {
     "title": "At least 13 killed and dozens injured after Qatar gas explosion",
@@ -60,6 +60,24 @@
     "publishedAt": "2026-06-22T12:00:00Z"
   },
   {
+    "title": "Australia politics live: David Pocock rues ‘farcical’ tax review; Pauline Hanson explains stance on paid parental leave",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-22T23:14:57Z"
+  },
+  {
+    "title": "Met to expand use of live facial recognition into central London by Christmas",
+    "url": "https://www.theguardian.com/technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-22T23:01:24Z"
+  },
+  {
+    "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-22T22:03:24Z"
+  },
+  {
     "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
     "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -70,12 +88,6 @@
     "url": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-22T21:21:37Z"
-  },
-  {
-    "title": "Man charged with terrorism-linked attempted murders after Edinburgh attacks",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/22/john-swinney-victims-edinburgh-knife-attacks-deeply-traumatised",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-22T20:08:41Z"
   },
   {
     "title": "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks",
@@ -106,17 +118,5 @@
     "url": "https://www.theguardian.com/world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates",
     "source": "The Guardian",
     "publishedAt": "2026-06-22T16:43:23Z"
-  },
-  {
-    "title": "Iran agrees to UN nuclear inspectors’ return as part of agreement with US",
-    "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-22T16:42:35Z"
-  },
-  {
-    "title": "Zelenskyy pledges to ‘bring war back to Russia’ after drones swarm toward Moscow – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-22T15:40:27Z"
   }
 ]
