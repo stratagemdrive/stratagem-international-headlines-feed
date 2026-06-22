@@ -1,5 +1,23 @@
 [
   {
+    "title": "China hits back at U.S. sanctions restricting its exports to American defense firms",
+    "url": "https://www.npr.org/2026/06/22/nx-s1-5866202/china-sanctions-restricting-exports",
+    "source": "NPR",
+    "publishedAt": "2026-06-22T05:53:18Z"
+  },
+  {
+    "title": "China's import of custard apples is sparking fears in Taiwan",
+    "url": "https://www.bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-22T04:37:27Z"
+  },
+  {
+    "title": "Explosion at Qatar’s Ras Laffan LNG facility injures 54, leaves 18 missing",
+    "url": "https://www.aljazeera.com/economy/2026/6/22/qatar-lng-factory-explosion-injures-54-leaves-18-missing-govt-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-22T03:57:17Z"
+  },
+  {
     "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
     "url": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss",
     "source": "Al Jazeera",
@@ -12,10 +30,10 @@
     "publishedAt": "2026-06-21T15:51:03Z"
   },
   {
-    "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-    "url": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
-    "source": "NPR",
-    "publishedAt": "2026-06-21T13:55:06Z"
+    "title": "Middle East crisis live: Iran’s negotiating team leaves Switzerland after ‘constructive progress’ in first round of talks",
+    "url": "https://www.theguardian.com/world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-22T09:18:29Z"
   },
   {
     "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
@@ -36,87 +54,69 @@
     "publishedAt": "2026-06-21T21:13:29Z"
   },
   {
-    "title": "What’s next in the Strait of Hormuz crisis?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-21T17:36:27Z"
-  },
-  {
-    "title": "Australia politics live: Ryan accuses Labor of ‘1,000 days of harm’ on gambling reform; Greens attack ‘friendless’ NDIS cuts",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb",
+    "title": "Zelenskyy pledges to ‘bring war back to Russia’ after drones swarm toward Moscow – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-06-22T03:34:58Z"
+    "publishedAt": "2026-06-22T09:25:58Z"
   },
   {
-    "title": "First round of US-Iran talks end with 'encouraging progress', mediators say",
+    "title": "UK and France rewrite ‘one in one out’ treaty to stop removed migrants returning",
+    "url": "https://www.theguardian.com/uk-news/2026/jun/22/uk-and-france-rewrite-one-in-one-out-treaty-to-stop-removed-migrants-returning",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-22T09:17:44Z"
+  },
+  {
+    "title": "Child injuries soar in Israeli air strikes in Lebanon",
+    "url": "https://www.npr.org/2026/06/22/nx-s1-5841887/child-injuries-soar-in-israeli-air-strikes-in-lebanon",
+    "source": "NPR",
+    "publishedAt": "2026-06-22T08:50:12Z"
+  },
+  {
+    "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
     "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-06-22T02:34:01Z"
+    "publishedAt": "2026-06-22T08:27:33Z"
   },
   {
-    "title": "US-Iran talks strained as Trump threats spark Iranian walkout",
-    "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-22T01:57:50Z"
-  },
-  {
-    "title": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss",
+    "title": "What are the key outcomes of the Iran-US talks in Switzerland, what next?",
+    "url": "https://www.aljazeera.com/news/2026/6/22/what-are-the-key-outcomes-of-the-iran-us-talks-in-switzerland-what-next?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-22T01:19:05Z"
+    "publishedAt": "2026-06-22T08:17:46Z"
   },
   {
-    "title": "Iran war live: Mediators hail ‘encouraging progress’ in US-Tehran talks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+    "title": "US, Iran agree on ‘roadmap’ towards final deal in Switzerland talks",
+    "url": "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-22T00:00:00Z"
+    "publishedAt": "2026-06-22T08:01:00Z"
   },
   {
-    "title": "Trump threats shake up U.S.-Iran talks in Switzerland on deal's details",
-    "url": "https://www.cbc.ca/news/world/jd-vance-switzerland-iran-talks-9.7243422?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-21T09:13:54Z"
-  },
-  {
-    "title": "Trump faces fresh bipartisan criticism on Iran deal as Vance hails peace talks",
-    "url": "https://www.theguardian.com/world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
+    "title": "Teen accused of planning terror attack on Peter Dutton and Brisbane march was making ‘edgy joke’, court told",
+    "url": "https://www.theguardian.com/australia-news/2026/jun/22/teen-accused-of-planning-terror-attack-on-peter-dutton-and-brisbane-march-was-making-edgy-joke-court-told-ntwnfb",
     "source": "The Guardian",
-    "publishedAt": "2026-06-21T22:07:57Z"
+    "publishedAt": "2026-06-22T07:42:37Z"
   },
   {
-    "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
-    "url": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
-    "source": "NPR",
-    "publishedAt": "2026-06-21T21:37:22Z"
-  },
-  {
-    "title": "Wowcher apologises for email referencing toddler crocodile attack",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/21/wowcher-apologises-for-email-referencing-toddler-crocodile-attack",
+    "title": "Iran hails ‘progress’ as first day of talks with US conclude after shaky start",
+    "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
     "source": "The Guardian",
-    "publishedAt": "2026-06-21T21:34:51Z"
+    "publishedAt": "2026-06-22T07:33:52Z"
   },
   {
-    "title": "Colombia weighs peace talks against a tougher approach",
-    "url": "https://www.npr.org/2026/06/21/nx-s1-5865677/colombia-weighs-peace-talks-against-a-tougher-approach",
-    "source": "NPR",
-    "publishedAt": "2026-06-21T21:13:36Z"
-  },
-  {
-    "title": "Hormuz dispute clouds Iran peace talks",
-    "url": "https://www.npr.org/2026/06/21/nx-s1-5865139/hormuz-dispute-clouds-iran-peace-talks",
-    "source": "NPR",
-    "publishedAt": "2026-06-21T21:13:35Z"
-  },
-  {
-    "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-    "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-20T10:19:34Z"
-  },
-  {
-    "title": "What are the end goals of Iran-US negotiations?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
+    "title": "60-day US-Iran talks will be ‘really hard’",
+    "url": "https://www.aljazeera.com/video/quotable/2026/6/22/60-day-us-iran-talks-will-be-really?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-21T20:59:22Z"
+    "publishedAt": "2026-06-22T07:27:52Z"
+  },
+  {
+    "title": "Iran war day 115: Lebanon truce appears to hold as Switzerland talks end",
+    "url": "https://www.aljazeera.com/news/2026/6/22/iran-war-day-115-lebanon-truce-appears-to-hold-as-switzerland-talks-end?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-22T07:21:10Z"
+  },
+  {
+    "title": "Ethiopia's ruling party wins overwhelming majority in parliament",
+    "url": "https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-06-21T15:45:00Z"
   }
 ]
