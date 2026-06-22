@@ -1,11 +1,5 @@
 [
   {
-    "title": "China adds 10 US firms, including rare-earth miner, to export control list",
-    "url": "https://www.aljazeera.com/news/2026/6/22/china-adds-10-us-firms-including-rare-earth-miner-to-export-control-list?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-22T12:55:59Z"
-  },
-  {
     "title": "Canada’s inflation hits 29-month high amid heightened oil prices",
     "url": "https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices?traffic_source=rss",
     "source": "Al Jazeera",
@@ -24,22 +18,16 @@
     "publishedAt": "2026-06-22T04:37:27Z"
   },
   {
+    "title": "Qatar PM on preventing US-Iran talks from escalation",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-22T20:04:43Z"
+  },
+  {
     "title": "Lebanon Latest: Israeli attacks surge despite ceasefire efforts",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-22T16:19:27Z"
-  },
-  {
-    "title": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks",
-    "url": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-22T15:38:23Z"
-  },
-  {
-    "title": "U.S. to permit Iranian oil sales, easing decades-old sanctions, as peace talks continue",
-    "url": "https://www.cbc.ca/news/world/united-states-iran-oil-sales-peace-deal-9.7244322?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-22T15:23:41Z"
   },
   {
     "title": "At least 13 killed and dozens injured after Qatar gas explosion",
@@ -54,10 +42,16 @@
     "publishedAt": "2026-06-22T13:50:00Z"
   },
   {
-    "title": "Russian-held Crimea halts civilian gasoline sales following Ukrainian attacks",
-    "url": "https://www.cbc.ca/news/world/crimea-halts-gasoline-sales-ukraine-attacks-9.7243579?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-21T15:51:03Z"
+    "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167783",
+    "source": "UN News",
+    "publishedAt": "2026-06-22T12:00:00Z"
+  },
+  {
+    "title": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167775",
+    "source": "UN News",
+    "publishedAt": "2026-06-22T12:00:00Z"
   },
   {
     "title": "Afghanistan in crisis: Drought, malnutrition and a worsening humanitarian situation",
@@ -72,16 +66,22 @@
     "publishedAt": "2026-06-21T10:55:05Z"
   },
   {
+    "title": "Czech public media staff strike, citing government threat to independence",
+    "url": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-22T21:21:37Z"
+  },
+  {
+    "title": "Man charged with terrorism-linked attempted murders after Edinburgh attacks",
+    "url": "https://www.theguardian.com/uk-news/2026/jun/22/john-swinney-victims-edinburgh-knife-attacks-deeply-traumatised",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-22T20:08:41Z"
+  },
+  {
     "title": "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks",
     "url": "https://www.aljazeera.com/news/2026/6/22/lebanon-discusses-de-confliction-mechanism-ahead-of-israel-talks?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-22T18:18:17Z"
-  },
-  {
-    "title": "John Swinney says victims of Edinburgh knife attacks deeply traumatised",
-    "url": "https://www.theguardian.com/uk-news/2026/jun/22/john-swinney-victims-edinburgh-knife-attacks-deeply-traumatised",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-22T18:13:03Z"
   },
   {
     "title": "Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
