@@ -1,15 +1,15 @@
 [
   {
-    "title": "2nd ship struck in Strait of Hormuz as attacks between Iran and U.S. escalate",
-    "url": "https://www.cbc.ca/news/world/iran-united-states-bahrain-drone-attack-9.7251324?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-27T12:25:43Z"
-  },
-  {
     "title": "U.S. strikes Iran in retaliation for attack on cargo ship in Strait of Hormuz",
     "url": "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-26T20:35:00Z"
+  },
+  {
+    "title": "U.S. says it has launched additional strikes on Iran",
+    "url": "https://www.cbc.ca/news/world/iran-united-states-bahrain-drone-attack-9.7251324?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-06-27T12:25:43Z"
   },
   {
     "title": "Venezuela: International rescue teams join the search for survivors as earthquake deaths surpass 1,400",
@@ -28,6 +28,24 @@
     "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-06-27T08:56:30Z"
+  },
+  {
+    "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+    "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-27T21:35:40Z"
+  },
+  {
+    "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+    "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-27T21:33:12Z"
+  },
+  {
+    "title": "New strikes test the Iran ceasefire",
+    "url": "https://www.npr.org/2026/06/27/nx-s1-5869562/new-strikes-test-the-iran-ceasefire",
+    "source": "NPR",
+    "publishedAt": "2026-06-27T21:05:57Z"
   },
   {
     "title": "Why is Crimea critical to the Russia–Ukraine war?",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-27T15:40:47Z"
-  },
-  {
-    "title": "Lebanon-Israel deal may stop war crime victims seeking justice, experts say",
-    "url": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-27T15:07:58Z"
-  },
-  {
-    "title": "Sabalenka defends Wimbledon prize protest, says it’s for struggling players",
-    "url": "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-27T15:05:58Z"
-  },
-  {
-    "title": "Burkina Faso severs diplomatic ties with France",
-    "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-27T14:21:31Z"
   }
 ]
