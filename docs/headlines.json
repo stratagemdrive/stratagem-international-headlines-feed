@@ -1,15 +1,15 @@
 [
   {
-    "title": "US military strikes Iran in response to attack on cargo ship, Pentagon says – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-26T21:50:26Z"
-  },
-  {
     "title": "U.S. strikes Iran in retaliation for attack on cargo ship in Strait of Hormuz",
     "url": "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-26T20:35:00Z"
+  },
+  {
+    "title": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
+    "url": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-26T23:13:03Z"
   },
   {
     "title": "Trump threatens tariffs for countries that levy digital tax on US firms",
@@ -22,12 +22,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-06-26T18:14:36Z"
-  },
-  {
-    "title": "Nine people killed in building collapse in Lagos, Nigeria",
-    "url": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-26T17:40:36Z"
   },
   {
     "title": "Israel, Lebanon sign framework agreement with U.S. in 'first step' toward peace",
@@ -54,22 +48,34 @@
     "publishedAt": "2026-06-25T15:32:04Z"
   },
   {
-    "title": "The Venezuelan diaspora is rallying to send aid after earthquakes",
-    "url": "https://www.npr.org/2026/06/26/nx-s1-5872209/the-venezuelan-diaspora-is-rallying-to-send-aid-after-earthquakes",
-    "source": "NPR",
-    "publishedAt": "2026-06-26T21:50:25Z"
-  },
-  {
-    "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-    "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-26T21:33:34Z"
+    "title": "JD Vance says ‘violence will be met with violence’ after strikes on Iran – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-26T23:21:37Z"
   },
   {
     "title": "US conducts strikes on Iran after attack on cargo ship",
     "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-06-26T21:30:59Z"
+    "publishedAt": "2026-06-26T22:57:30Z"
+  },
+  {
+    "title": "What is the framework agreement signed by Israel and Lebanon?",
+    "url": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-26T22:56:01Z"
+  },
+  {
+    "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+    "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-26T22:55:28Z"
+  },
+  {
+    "title": "US says it struck Iran targets after attack on cargo ship in the strait of Hormuz",
+    "url": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-26T22:21:03Z"
   },
   {
     "title": "Thousands of migrants flee South Africa ahead of anti-immigrant protests",
@@ -90,12 +96,6 @@
     "publishedAt": "2026-06-26T21:08:01Z"
   },
   {
-    "title": "US says it struck Iran targets after attack on cargo ship on the strait of Hormuz",
-    "url": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-26T21:07:05Z"
-  },
-  {
     "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
     "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
     "source": "Al Jazeera",
@@ -114,9 +114,9 @@
     "publishedAt": "2026-06-26T19:49:32Z"
   },
   {
-    "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-26T19:26:16Z"
+    "title": "Lightning strikes seen across UK",
+    "url": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-06-26T19:26:58Z"
   }
 ]
