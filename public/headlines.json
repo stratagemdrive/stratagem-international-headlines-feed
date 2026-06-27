@@ -1,9 +1,27 @@
 [
   {
+    "title": "2nd ship struck in Strait of Hormuz as attacks between Iran and U.S. escalate",
+    "url": "https://www.cbc.ca/news/world/iran-united-states-bahrain-drone-attack-9.7251324?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-06-27T12:25:43Z"
+  },
+  {
     "title": "U.S. strikes Iran in retaliation for attack on cargo ship in Strait of Hormuz",
     "url": "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-26T20:35:00Z"
+  },
+  {
+    "title": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, major roads buckle in Germany",
+    "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-27T13:59:15Z"
+  },
+  {
+    "title": "Three killed as Ukraine and Russia trade attacks overnight",
+    "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-27T11:58:54Z"
   },
   {
     "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
@@ -42,10 +60,10 @@
     "publishedAt": "2026-06-27T04:12:23Z"
   },
   {
-    "title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
-    "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-27T11:50:26Z"
+    "title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
+    "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-27T13:54:14Z"
   },
   {
     "title": "‘Not a culture war’: the council that won its case over England flags on lampposts",
@@ -100,23 +118,5 @@
     "url": "https://www.cbc.ca/news/world/venezuela-earthquake-on-the-ground-9.7251179?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-27T08:00:00Z"
-  },
-  {
-    "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-    "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-27T07:20:15Z"
-  },
-  {
-    "title": "Israel, Lebanon sign framework agreement with U.S. in 'first step' toward peace",
-    "url": "https://www.cbc.ca/news/world/israel-south-lebanon-leaflets-9.7250186?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-26T16:11:16Z"
-  },
-  {
-    "title": "Venezuela earthquakes: 589 confirmed dead so far as international rescue teams arrive – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-26T15:00:07Z"
   }
 ]
