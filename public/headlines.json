@@ -24,12 +24,6 @@
     "publishedAt": "2026-06-27T11:58:54Z"
   },
   {
-    "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-    "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-27T10:32:24Z"
-  },
-  {
     "title": "Trump threatens 100% tariff on European countries that impose digital tax",
     "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
     "source": "The Guardian",
@@ -46,6 +40,18 @@
     "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown",
     "source": "The Guardian",
     "publishedAt": "2026-06-27T05:00:31Z"
+  },
+  {
+    "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-27T18:50:59Z"
+  },
+  {
+    "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
+    "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-27T18:46:23Z"
   },
   {
     "title": "Bahrain accuses Iran of targeted drone attack after U.S. strikes Iran",
@@ -78,7 +84,7 @@
     "publishedAt": "2026-06-27T16:41:00Z"
   },
   {
-    "title": "Israeli drone attack kills young girl in Gaza safe zone",
+    "title": "Israeli drone attack kills young girl in Gaza ‘safe zone’",
     "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-27T15:53:41Z"
@@ -112,11 +118,5 @@
     "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-27T13:54:14Z"
-  },
-  {
-    "title": "US strikes Iran after attack on cargo ship",
-    "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-27T10:40:38Z"
   }
 ]
