@@ -1,5 +1,11 @@
 [
   {
+    "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-28T20:21:47Z"
+  },
+  {
     "title": "US and Iran trade strikes days after peace agreement",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
     "source": "Al Jazeera",
@@ -36,7 +42,25 @@
     "publishedAt": "2026-06-28T08:00:00Z"
   },
   {
-    "title": "Israel kills three Palestinians in Gaza as attacks on tents continue",
+    "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+    "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-28T21:52:52Z"
+  },
+  {
+    "title": "Australia politics live: Vanuatu PM in Canberra as hopes rise over treaty; fossil fuel companies accused of marketing to children",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-28T21:47:01Z"
+  },
+  {
+    "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-28T20:29:18Z"
+  },
+  {
+    "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
     "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-06-28T19:54:39Z"
@@ -94,29 +118,5 @@
     "url": "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-26T20:35:00Z"
-  },
-  {
-    "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
-    "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-28T07:00:03Z"
-  },
-  {
-    "title": "‘Enforcement mode’: Australia must take fight to tech giants to make social media ban stick, experts warn",
-    "url": "https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-28T05:51:15Z"
-  },
-  {
-    "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-    "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-06-28T04:54:50Z"
-  },
-  {
-    "title": "Iran says it has launched retaliatory strikes on U.S. bases in Kuwait, Bahrain",
-    "url": "https://www.cbc.ca/news/world/iran-united-states-bahrain-drone-attack-9.7251324?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-06-27T12:25:43Z"
   }
 ]
