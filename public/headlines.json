@@ -1,5 +1,11 @@
 [
   {
+    "title": "The aftermath of Venezuela’s deadly earthquake",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-aftermath-of-venezuelas-deadly-earthquake?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-28T17:50:38Z"
+  },
+  {
     "title": "Trade tensions shake up Brazil's caipirinha spirit",
     "url": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
     "source": "NPR",
@@ -22,6 +28,18 @@
     "url": "https://www.cbc.ca/news/world/france-fines-discriminatory-young-men-9.7250016?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-28T08:00:00Z"
+  },
+  {
+    "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-28T16:38:04Z"
+  },
+  {
+    "title": "Israel strikes Lebanon, testing days-old peace deal",
+    "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-28T15:53:07Z"
   },
   {
     "title": "Iraq arrests senior officials in anti-corruption raids",
@@ -72,18 +90,6 @@
     "publishedAt": "2026-06-28T12:13:18Z"
   },
   {
-    "title": "Uganda’s military chief orders shutdown of two media outlets",
-    "url": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-28T11:08:27Z"
-  },
-  {
-    "title": "Iraq security forces arrest several officials in anticorruption crackdown",
-    "url": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-28T10:05:16Z"
-  },
-  {
     "title": "U.S. strikes Iran in retaliation for attack on cargo ship in Strait of Hormuz",
     "url": "https://www.cbc.ca/news/world/trump-blames-iran-drone-strike-9.7250777?cmp=rss",
     "source": "CBC",
@@ -112,11 +118,5 @@
     "url": "https://www.cbc.ca/news/world/iran-united-states-bahrain-drone-attack-9.7251324?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-06-27T12:25:43Z"
-  },
-  {
-    "title": "Venezuela earthquakes: International rescue teams join the search for survivors as death toll surpasses 1,400",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167825",
-    "source": "UN News",
-    "publishedAt": "2026-06-27T12:00:00Z"
   }
 ]
