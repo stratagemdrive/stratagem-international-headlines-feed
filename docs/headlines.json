@@ -1,9 +1,15 @@
 [
   {
-    "title": "US says it struck targets in Iran over ‘continued aggression’ against shipping",
+    "title": "US and Iran trade strikes as both sides accuse the other of endangering ceasefire",
     "url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
     "source": "The Guardian",
     "publishedAt": "2026-06-28T03:09:57Z"
+  },
+  {
+    "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+    "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-28T07:39:08Z"
   },
   {
     "title": "U.S. strikes Iran in retaliation for attack on cargo ship in Strait of Hormuz",
@@ -12,16 +18,28 @@
     "publishedAt": "2026-06-26T20:35:00Z"
   },
   {
-    "title": "Gulf countries attacked after US launches second round of strikes on Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
+    "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-06-28T03:40:58Z"
+    "publishedAt": "2026-06-28T06:14:45Z"
+  },
+  {
+    "title": "‘Enforcement mode’: Australia must take fight to tech giants to make social media ban stick, experts warn",
+    "url": "https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn",
+    "source": "The Guardian",
+    "publishedAt": "2026-06-28T05:51:15Z"
   },
   {
     "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
     "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-06-28T03:35:50Z"
+    "publishedAt": "2026-06-28T04:54:50Z"
+  },
+  {
+    "title": "Gulf countries attacked after US launches second round of strikes on Iran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-06-28T03:40:58Z"
   },
   {
     "title": "Iran says it has launched retaliatory strikes on U.S. bases in Kuwait, Bahrain",
@@ -100,23 +118,5 @@
     "url": "https://www.theguardian.com/australia-news/2026/jun/28/pro-one-nation-facebook-groups-foreign-meme-factories-monetised-content-ntwnfb",
     "source": "The Guardian",
     "publishedAt": "2026-06-27T20:00:13Z"
-  },
-  {
-    "title": "Why is Crimea critical to the Russia–Ukraine war?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-27T19:22:00Z"
-  },
-  {
-    "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-06-27T19:12:39Z"
-  },
-  {
-    "title": "Social media bans go global: big tech faces a reckoning after Australia’s crackdown",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown",
-    "source": "The Guardian",
-    "publishedAt": "2026-06-27T05:00:31Z"
   }
 ]
