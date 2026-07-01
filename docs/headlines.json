@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+    "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-01T20:09:01Z"
+  },
+  {
     "title": "Officials fear medical crisis as Venezuelans displaced by quakes crowd shelters, hospitals",
     "url": "https://www.cbc.ca/news/world/venezuela-shelters-earthquake-9.7255337?cmp=rss",
     "source": "CBC",
@@ -12,10 +18,10 @@
     "publishedAt": "2026-07-01T19:00:00Z"
   },
   {
-    "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-    "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-01T18:46:54Z"
+    "title": "US blocks long-term renewal of North American trade deal",
+    "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-01T18:56:36Z"
   },
   {
     "title": "One week on from Venezuela’s deadly earthquakes",
@@ -48,12 +54,6 @@
     "publishedAt": "2026-07-01T14:57:00Z"
   },
   {
-    "title": "‘Never the same’: How war on Iran changed the global energy sector",
-    "url": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-01T14:45:04Z"
-  },
-  {
     "title": "Russia's fuel crisis: Is Putin under pressure?",
     "url": "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -78,6 +78,30 @@
     "publishedAt": "2026-07-01T10:17:00Z"
   },
   {
+    "title": "Australia politics live: defence industry minister to spruik Labor’s ‘progressive patriotism’ as audits reveal waste",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-01T21:15:34Z"
+  },
+  {
+    "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+    "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-01T20:55:04Z"
+  },
+  {
+    "title": "Russian couple arrested after climbing Empire State Building",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-01T20:54:39Z"
+  },
+  {
+    "title": "Maltese businessman paid hitmen €150,000 to kill Daphne Caruana Galizia, jury hears",
+    "url": "https://www.theguardian.com/world/2026/jul/01/malta-yorgen-fenech-hitmen-150000-euros-daphne-caruana-galizia-jury-hears",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-01T20:28:08Z"
+  },
+  {
     "title": "EU slaps €3 duty on low-value imported packages",
     "url": "https://www.dw.com/en/eu-slaps-€3-duty-on-low-value-imported-packages/a-77778850?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -94,29 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/jul/01/man-who-stabbed-three-children-that-triggered-riots-in-dublin-found-guilty-of-attempted",
     "source": "The Guardian",
     "publishedAt": "2026-07-01T18:27:55Z"
-  },
-  {
-    "title": "Albania warned EU accession at risk over Jared Kushner-backed resort plans",
-    "url": "https://www.theguardian.com/world/2026/jul/01/albania-warned-eu-accession-at-risk-jared-kushner-resort-plans",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-01T18:19:37Z"
-  },
-  {
-    "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
-    "url": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
-    "source": "NPR",
-    "publishedAt": "2026-07-01T17:54:10Z"
-  },
-  {
-    "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-    "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-01T17:36:09Z"
-  },
-  {
-    "title": "What military capabilities does Iran possess as it negotiates with US?",
-    "url": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-01T17:19:55Z"
   }
 ]
