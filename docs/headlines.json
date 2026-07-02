@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’",
+    "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T02:15:06Z"
+  },
+  {
+    "title": "At least one killed in major airstrikes on Kyiv",
+    "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-02T01:55:18Z"
+  },
+  {
+    "title": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
+    "url": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T01:24:22Z"
+  },
+  {
     "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
     "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
     "source": "The Guardian",
@@ -30,22 +48,10 @@
     "publishedAt": "2026-07-01T18:35:39Z"
   },
   {
-    "title": "The Iran talks expose the collapse of US diplomacy",
-    "url": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-01T17:05:20Z"
-  },
-  {
     "title": "U.S. declines to extend CUSMA trade deal with Canada, Mexico",
     "url": "https://www.cbc.ca/news/world/cusma-usmca-trump-extension-renewal-9.7255204?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-01T16:57:45Z"
-  },
-  {
-    "title": "Rapid demand for AI datacentres in Australia could stoke inflation, experts warn – and crowd out land for housing",
-    "url": "https://www.theguardian.com/australia-news/2026/jul/02/ai-datacentres-australia-competition-for-industrial-land-frieght-logistics-housing-economy",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-01T15:00:38Z"
   },
   {
     "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
@@ -66,16 +72,40 @@
     "publishedAt": "2026-07-01T14:25:00Z"
   },
   {
+    "title": "Australia politics live: Labor shuts down Andrew Wilkie’s protest against ‘rubbish’ gambling reform bill",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-02T02:19:15Z"
+  },
+  {
+    "title": "Russia targets Kyiv with missiles and drones, setting buildings ablaze and causing injuries",
+    "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-02T02:00:38Z"
+  },
+  {
     "title": "‘The science is here’: UN chief welcomes first global AI assessment",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167853",
     "source": "UN News",
     "publishedAt": "2026-07-01T12:00:00Z"
   },
   {
+    "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+    "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-02T00:26:13Z"
+  },
+  {
     "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
     "url": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-07-01T10:17:00Z"
+  },
+  {
+    "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T00:00:00Z"
   },
   {
     "title": "Student drowns in River Wye while on Duke of Edinburgh’s Award trip to Wales",
@@ -88,35 +118,5 @@
     "url": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
     "source": "The Guardian",
     "publishedAt": "2026-07-01T22:30:01Z"
-  },
-  {
-    "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-    "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-01T21:27:04Z"
-  },
-  {
-    "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-01T21:09:15Z"
-  },
-  {
-    "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-    "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-01T20:55:04Z"
-  },
-  {
-    "title": "Russian couple arrested after climbing Empire State Building",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-01T20:54:39Z"
-  },
-  {
-    "title": "Maltese businessman paid hitmen €150,000 to kill Daphne Caruana Galizia, jury hears",
-    "url": "https://www.theguardian.com/world/2026/jul/01/malta-yorgen-fenech-hitmen-150000-euros-daphne-caruana-galizia-jury-hears",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-01T20:28:08Z"
   }
 ]
