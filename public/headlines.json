@@ -1,15 +1,21 @@
 [
   {
-    "title": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’",
+    "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
+    "url": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T05:17:25Z"
+  },
+  {
+    "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+    "url": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
+    "source": "NPR",
+    "publishedAt": "2026-07-02T05:57:33Z"
+  },
+  {
+    "title": "At least 10 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’",
     "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-02T02:15:06Z"
-  },
-  {
-    "title": "At least one killed in major airstrikes on Kyiv",
-    "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-02T01:55:18Z"
   },
   {
     "title": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
@@ -42,16 +48,34 @@
     "publishedAt": "2026-07-01T18:56:36Z"
   },
   {
-    "title": "One week on from Venezuela’s deadly earthquakes",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/one-week-on-from-venezuelas-deadly-earthquakes?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-01T18:35:39Z"
-  },
-  {
     "title": "U.S. declines to extend CUSMA trade deal with Canada, Mexico",
     "url": "https://www.cbc.ca/news/world/cusma-usmca-trump-extension-renewal-9.7255204?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-01T16:57:45Z"
+  },
+  {
+    "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+    "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-02T06:07:11Z"
+  },
+  {
+    "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+    "url": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine",
+    "source": "NPR",
+    "publishedAt": "2026-07-02T05:47:53Z"
+  },
+  {
+    "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+    "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T05:40:48Z"
+  },
+  {
+    "title": "Survivors look to foreign aid after the earthquakes in Venezuela",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/survivors-look-to-foreign-aid-after-the-earthquakes-in-venezuela?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T04:54:29Z"
   },
   {
     "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
@@ -72,51 +96,27 @@
     "publishedAt": "2026-07-01T14:25:00Z"
   },
   {
-    "title": "Australia politics live: Labor shuts down Andrew Wilkie’s protest against ‘rubbish’ gambling reform bill",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-02T02:19:15Z"
-  },
-  {
-    "title": "Russia targets Kyiv with missiles and drones, setting buildings ablaze and causing injuries",
-    "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-02T02:00:38Z"
-  },
-  {
-    "title": "‘The science is here’: UN chief welcomes first global AI assessment",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167853",
-    "source": "UN News",
-    "publishedAt": "2026-07-01T12:00:00Z"
-  },
-  {
-    "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-    "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-02T00:26:13Z"
-  },
-  {
-    "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
-    "url": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-07-01T10:17:00Z"
-  },
-  {
-    "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
+    "title": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
+    "url": "https://www.aljazeera.com/news/2026/7/2/us-designates-ecuadors-chone-killers-gang-as-terrorist-organisation?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-07-02T00:00:00Z"
+    "publishedAt": "2026-07-02T03:58:07Z"
   },
   {
-    "title": "Student drowns in River Wye while on Duke of Edinburgh’s Award trip to Wales",
-    "url": "https://www.theguardian.com/uk-news/2026/jul/01/student-drowns-in-river-wye-while-on-duke-of-edinburghs-award-trip-to-wales",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-01T22:33:51Z"
+    "title": "EU border rules causing travel chaos ahead of summer peak, industry warns",
+    "url": "https://www.aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T03:14:42Z"
   },
   {
-    "title": "US-UK drug deal could result in 229,000 excess deaths in England, analysis suggests",
-    "url": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-01T22:30:01Z"
+    "title": "On the front line of Congo’s Ebola outbreak",
+    "url": "https://www.aljazeera.com/editorial/2026/7/2/on-the-front-line-of-congos-ebola-outbreak?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T02:58:27Z"
+  },
+  {
+    "title": "USA beat Bosnia 2-0 despite Balogun red card, enter World Cup last 16",
+    "url": "https://www.aljazeera.com/sports/2026/7/2/usa-beat-bosnia-2-0-despite-balogun-red-card-enter-world-cup-last-16?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-02T02:52:03Z"
   }
 ]
