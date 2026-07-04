@@ -6,6 +6,18 @@
     "publishedAt": "2026-07-04T09:02:00Z"
   },
   {
+    "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+    "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-04T14:07:31Z"
+  },
+  {
+    "title": "St. Petersburg oil terminal hit as Ukraine presses long-range drone campaign",
+    "url": "https://www.cbc.ca/news/world/st-petersburg-oil-terminal-ukraine-drone-attack-9.7258503?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-04T12:27:13Z"
+  },
+  {
     "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
     "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
     "source": "Al Jazeera",
@@ -30,16 +42,22 @@
     "publishedAt": "2026-07-04T04:37:24Z"
   },
   {
-    "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-04T02:28:17Z"
+    "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
+    "url": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
+    "source": "NPR",
+    "publishedAt": "2026-07-04T14:07:57Z"
   },
   {
     "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
     "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
     "source": "The Guardian",
-    "publishedAt": "2026-07-04T11:28:18Z"
+    "publishedAt": "2026-07-04T12:43:43Z"
+  },
+  {
+    "title": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
+    "url": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-04T12:17:29Z"
   },
   {
     "title": "Pope urges Europe to do more for migrants while visiting gateway island",
@@ -84,6 +102,12 @@
     "publishedAt": "2026-07-04T06:00:06Z"
   },
   {
+    "title": "Trump promises 'really long' Fourth of July speech despite heat warning",
+    "url": "https://www.cbc.ca/player/play/9.7258442?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-04T02:27:34Z"
+  },
+  {
     "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
     "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
     "source": "NPR",
@@ -94,29 +118,5 @@
     "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-03T16:41:00Z"
-  },
-  {
-    "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
-    "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-03T15:34:32Z"
-  },
-  {
-    "title": "Ukrainian woman suspected of Monaco parcel bombing was ‘disguised as a man’",
-    "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-03T13:24:31Z"
-  },
-  {
-    "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
-    "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-03T12:28:43Z"
-  },
-  {
-    "title": "Civilian dangers multiply as drones transform Ukraine's battlefield",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167854",
-    "source": "UN News",
-    "publishedAt": "2026-07-03T12:00:00Z"
   }
 ]
