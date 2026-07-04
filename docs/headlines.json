@@ -1,5 +1,11 @@
 [
   {
+    "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+    "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-07-04T09:02:00Z"
+  },
+  {
     "title": "Trump set to put NATO unity to the test at Turkey summit",
     "url": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -30,6 +36,18 @@
     "publishedAt": "2026-07-03T20:51:04Z"
   },
   {
+    "title": "Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss",
+    "url": "https://www.aljazeera.com/sports/2026/7/4/cape-verde-fans-overjoyed-with-teams-world-cup-run-despite-argentina-loss?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-04T09:42:30Z"
+  },
+  {
+    "title": "Armed fighters attack multiple towns across Mali",
+    "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-04T09:14:56Z"
+  },
+  {
     "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
     "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
     "source": "The Guardian",
@@ -48,28 +66,10 @@
     "publishedAt": "2026-07-04T00:00:00Z"
   },
   {
-    "title": "Starmer warns Burnham he cannot spend less time on diplomacy",
-    "url": "https://www.theguardian.com/politics/2026/jul/03/starmer-warns-burnham-he-cannot-spend-less-time-on-diplomacy",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-03T22:52:59Z"
-  },
-  {
-    "title": "Is China’s new ethnic unity law a step towards forced assimilation?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-03T19:59:27Z"
-  },
-  {
     "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
     "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
     "source": "NPR",
     "publishedAt": "2026-07-03T19:45:24Z"
-  },
-  {
-    "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-    "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-03T04:41:05Z"
   },
   {
     "title": "Polish PM warns critical months ahead in face of Russian threat",
@@ -82,12 +82,6 @@
     "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
     "source": "The Guardian",
     "publishedAt": "2026-07-03T15:34:32Z"
-  },
-  {
-    "title": "US withdraws troops from Nigeria after Islamic State mission",
-    "url": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-03T14:00:50Z"
   },
   {
     "title": "Ukrainian woman suspected of Monaco parcel bombing was ‘disguised as a man’",
@@ -118,5 +112,11 @@
     "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
     "source": "NPR",
     "publishedAt": "2026-07-03T11:39:07Z"
+  },
+  {
+    "title": "Interpol names suspect in Monaco bombing that reportedly wounded Russia-linked tycoon",
+    "url": "https://www.cbc.ca/news/world/interpol-monaco-bombing-suspect-berezovska-9.7257104?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-03T11:22:45Z"
   }
 ]
