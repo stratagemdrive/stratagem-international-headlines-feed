@@ -1,5 +1,11 @@
 [
   {
+    "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-04T02:28:17Z"
+  },
+  {
     "title": "Deadly, large-scale Russian attack shakes Kyiv as Ukrainian strikes batter Moscow's oil sector",
     "url": "https://www.cbc.ca/news/world/missile-drone-attack-kyiv-russia-war-9.7255625?cmp=rss",
     "source": "CBC",
@@ -16,6 +22,18 @@
     "url": "https://www.theguardian.com/technology/2026/jul/03/nsw-government-openai-arrives-sydney-terminator-films",
     "source": "The Guardian",
     "publishedAt": "2026-07-03T14:54:59Z"
+  },
+  {
+    "title": "Chris Minns admits NSW Labor needs to ‘climb Everest’ to stay in power as protesters interrupt state conference",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/04/chris-minns-admits-nsw-labor-needs-to-climb-everest-to-stay-in-power-as-protesters-interrupt-state-conference-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-04T04:15:38Z"
+  },
+  {
+    "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-04T00:00:00Z"
   },
   {
     "title": "Starmer warns Burnham he cannot spend less time on diplomacy",
@@ -54,22 +72,10 @@
     "publishedAt": "2026-07-03T05:19:33Z"
   },
   {
-    "title": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
-    "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-03T18:34:40Z"
-  },
-  {
     "title": "'Most massive' Russian attack on Kyiv kills at least 30",
     "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-03T04:41:05Z"
-  },
-  {
-    "title": "Pope Leo, Mamdani send pro-immigrant message for US’s 250th anniversary",
-    "url": "https://www.aljazeera.com/news/2026/7/3/pope-leo-mamdani-send-pro-immigrant-message-for-uss-250th-anniversary?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-03T18:30:40Z"
   },
   {
     "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
@@ -88,12 +94,6 @@
     "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
     "source": "The Guardian",
     "publishedAt": "2026-07-03T15:34:32Z"
-  },
-  {
-    "title": "Entire NSW Labor left calls for controversial anti-protest laws to be scrapped ahead of party conference",
-    "url": "https://www.theguardian.com/australia-news/2026/jul/03/nsw-labor-party-conference-anti-protest-laws-aukus-gambling-palestine-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-03T14:53:58Z"
   },
   {
     "title": "US withdraws troops from Nigeria after Islamic State mission",
