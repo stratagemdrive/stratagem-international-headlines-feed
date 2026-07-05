@@ -18,10 +18,22 @@
     "publishedAt": "2026-07-05T06:48:00Z"
   },
   {
+    "title": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskyy",
+    "url": "https://www.cbc.ca/news/world/trump-putin-ukraine-zelenskyy-9.7259039?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-05T09:20:52Z"
+  },
+  {
     "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
     "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
     "source": "The Guardian",
     "publishedAt": "2026-07-04T19:09:06Z"
+  },
+  {
+    "title": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
+    "url": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-05T08:06:15Z"
   },
   {
     "title": "Albania PM Rama: Protests a stage for anti-Trump forces",
@@ -42,7 +54,7 @@
     "publishedAt": "2026-07-04T12:27:13Z"
   },
   {
-    "title": "Iran war live: Millions mourn Khamenei, Trump hints at Netanyahu meeting",
+    "title": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
     "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-05T00:00:00Z"
@@ -64,24 +76,6 @@
     "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-04T20:06:41Z"
-  },
-  {
-    "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-04T19:19:18Z"
-  },
-  {
-    "title": "Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russias-medvedev-says-strait-of-hormuz-is-irans-nuclear?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-04T18:46:13Z"
-  },
-  {
-    "title": "Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal",
-    "url": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-04T18:09:20Z"
   },
   {
     "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
@@ -118,5 +112,11 @@
     "url": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
     "source": "NPR",
     "publishedAt": "2026-07-03T20:51:04Z"
+  },
+  {
+    "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
+    "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-04T06:00:06Z"
   }
 ]
