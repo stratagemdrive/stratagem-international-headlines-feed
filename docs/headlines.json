@@ -1,15 +1,51 @@
 [
   {
-    "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
-    "url": "https://www.cbc.ca/news/world/russian-missile-drone-attack-ukraine-9.7259520?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-07-06T10:23:42Z"
+    "title": "Is NATO at breaking point as it meets in Turkiye?",
+    "url": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-06T15:18:33Z"
   },
   {
-    "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit after Russia kills 14 in overnight strikes on Kyiv – Europe live",
+    "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 21 in overnight strikes on Kyiv – Europe live",
     "url": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-07-06T11:12:46Z"
+    "publishedAt": "2026-07-06T15:16:53Z"
+  },
+  {
+    "title": "Wave of Russian strikes in Ukraine kills at least 21 people on eve of Nato summit",
+    "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-06T15:15:05Z"
+  },
+  {
+    "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
+    "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-06T15:15:03Z"
+  },
+  {
+    "title": "Republican senator Ted Cruz thanks Trump for ‘getting rid of that ridiculous red card’ in apparent reference to Folarin Balogun – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-06T15:10:50Z"
+  },
+  {
+    "title": "Can India, Europe build a clean energy supply chain beyond China?",
+    "url": "https://www.dw.com/en/can-india-europe-build-a-clean-energy-supply-chain-beyond-china/a-77852031?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-07-06T15:02:00Z"
+  },
+  {
+    "title": "Large-scale Russian attack on Ukraine before NATO summit",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-06T12:55:10Z"
+  },
+  {
+    "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167873",
+    "source": "UN News",
+    "publishedAt": "2026-07-06T12:00:00Z"
   },
   {
     "title": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara",
@@ -18,105 +54,69 @@
     "publishedAt": "2026-07-06T11:00:03Z"
   },
   {
-    "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
-    "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-06T10:59:35Z"
-  },
-  {
-    "title": "Weather tracker: Europe braces for another heat surge as tropical nights return",
-    "url": "https://www.theguardian.com/environment/2026/jul/06/weather-tracker-europe-heat-tropical-nights-spain-france-portugal-uk-high-temperatures-typhoon-bavi",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-06T09:40:24Z"
-  },
-  {
-    "title": "At least 14 killed as Russian drones and missiles strike Kyiv on eve of Nato summit",
-    "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-06T08:40:30Z"
-  },
-  {
-    "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
-    "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T06:35:50Z"
-  },
-  {
     "title": "Trump won spending promises from NATO last year. This week, he'll try to enforce them",
     "url": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
     "source": "NPR",
     "publishedAt": "2026-07-06T06:06:17Z"
   },
   {
-    "title": "Haaland inspired Norway stun Brazil in historic World Cup knockout win",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/haaland-inspired-norway-stun-brazil-in-historic-world-cup-knockout-win?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T05:35:46Z"
-  },
-  {
-    "title": "Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region",
-    "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+    "title": "Trump confirms he asked Fifa to review Balogun ban",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-07-06T11:42:03Z"
-  },
-  {
-    "title": "‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind",
-    "url": "https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-06T11:00:01Z"
-  },
-  {
-    "title": "NATO leaders look for unity as Trump attends annual summit",
-    "url": "https://www.npr.org/2026/07/05/nx-s1-5877610/nato-leaders-look-for-unity-as-trump-attends-annual-summit",
-    "source": "NPR",
-    "publishedAt": "2026-07-05T21:03:40Z"
-  },
-  {
-    "title": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
-    "url": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-06T10:15:35Z"
-  },
-  {
-    "title": "UK’s Farage’s gold deal tests his populist brand as Restore Britain rises",
-    "url": "https://www.aljazeera.com/news/2026/7/6/uks-farages-gold-deal-tests-his-populist-brand-as-restore-britain-rises?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T10:14:19Z"
+    "publishedAt": "2026-07-06T15:27:59Z"
   },
   {
     "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
     "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-07-06T09:50:30Z"
+    "publishedAt": "2026-07-06T15:26:29Z"
   },
   {
-    "title": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
-    "url": "https://www.aljazeera.com/sports/2026/7/6/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award?traffic_source=rss",
+    "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
+    "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-06T15:09:57Z"
+  },
+  {
+    "title": "Israeli attack on vehicle in Lebanon kills at least four",
+    "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T09:30:23Z"
+    "publishedAt": "2026-07-06T14:22:31Z"
   },
   {
-    "title": "Moment Israeli soldier hurls stun grenade into Palestinians’ car",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss",
+    "title": "The pitfalls of institutionalising US military aid to Israel",
+    "url": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T08:19:20Z"
+    "publishedAt": "2026-07-06T14:13:20Z"
   },
   {
-    "title": "Israeli command system identified 850,000 targets in Gaza and Lebanon wars, says supplier",
-    "url": "https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-06T08:00:05Z"
-  },
-  {
-    "title": "China missile test draws criticism from Australia, New Zealand, Japan",
-    "url": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss",
+    "title": "Baby dies after Israeli troops block emergency journey to hospital",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T07:28:48Z"
+    "publishedAt": "2026-07-06T13:13:53Z"
   },
   {
-    "title": "Sudan’s maternity wards reopen, bringing hope amid war struggles",
-    "url": "https://www.aljazeera.com/features/2026/7/6/sudans-maternity-wards-reopen-bringing-hope-amid-post-war-struggles?traffic_source=rss",
+    "title": "Refugees killed in landslides at Rohingya camps in Bangladesh",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T06:18:48Z"
+    "publishedAt": "2026-07-06T13:07:55Z"
+  },
+  {
+    "title": "Russian attack leaves gaping hole in Kyiv residential building",
+    "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-06T13:07:23Z"
+  },
+  {
+    "title": "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
+    "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-06T12:21:52Z"
+  },
+  {
+    "title": "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
+    "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-06T12:15:52Z"
   }
 ]
