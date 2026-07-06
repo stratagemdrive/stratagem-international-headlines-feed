@@ -1,9 +1,39 @@
 [
   {
-    "title": "Russia launches deadly attacks on Kyiv on eve of Nato summit",
+    "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
+    "url": "https://www.cbc.ca/news/world/russian-missile-drone-attack-ukraine-9.7259520?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-06T10:23:42Z"
+  },
+  {
+    "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit after Russia kills 14 in overnight strikes on Kyiv – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-06T11:12:46Z"
+  },
+  {
+    "title": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara",
+    "url": "https://www.theguardian.com/world/2026/jul/06/turkey-crackdown-public-life-run-up-nato-summit-ankara",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-06T11:00:03Z"
+  },
+  {
+    "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
+    "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-06T10:59:35Z"
+  },
+  {
+    "title": "Weather tracker: Europe braces for another heat surge as tropical nights return",
+    "url": "https://www.theguardian.com/environment/2026/jul/06/weather-tracker-europe-heat-tropical-nights-spain-france-portugal-uk-high-temperatures-typhoon-bavi",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-06T09:40:24Z"
+  },
+  {
+    "title": "At least 14 killed as Russian drones and missiles strike Kyiv on eve of Nato summit",
     "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
     "source": "The Guardian",
-    "publishedAt": "2026-07-06T06:26:06Z"
+    "publishedAt": "2026-07-06T08:40:30Z"
   },
   {
     "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
@@ -24,34 +54,16 @@
     "publishedAt": "2026-07-06T05:35:46Z"
   },
   {
-    "title": "Ukraine hopes to sign ‘drone deals’ with seven Nato countries by end of year",
-    "url": "https://www.theguardian.com/world/2026/jul/06/ukraine-drone-deals-seven-nato-countries-end-of-year",
+    "title": "Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region",
+    "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-06T11:42:03Z"
+  },
+  {
+    "title": "‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind",
+    "url": "https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy",
     "source": "The Guardian",
-    "publishedAt": "2026-07-06T04:00:03Z"
-  },
-  {
-    "title": "OPEC+ countries say they will expand monthly oil production",
-    "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T03:04:06Z"
-  },
-  {
-    "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-    "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T02:10:37Z"
-  },
-  {
-    "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-    "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-05T22:03:52Z"
-  },
-  {
-    "title": "Turkiye gears up for its first NATO summit in 22 years",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-05T21:42:48Z"
+    "publishedAt": "2026-07-06T11:00:01Z"
   },
   {
     "title": "NATO leaders look for unity as Trump attends annual summit",
@@ -63,60 +75,48 @@
     "title": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
     "url": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
     "source": "The Guardian",
-    "publishedAt": "2026-07-06T06:44:03Z"
+    "publishedAt": "2026-07-06T10:15:35Z"
   },
   {
-    "title": "Australia news live: China conducts long-range missile test in the Pacific as Wong calls it ‘destabilising to region’",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
+    "title": "UK’s Farage’s gold deal tests his populist brand as Restore Britain rises",
+    "url": "https://www.aljazeera.com/news/2026/7/6/uks-farages-gold-deal-tests-his-populist-brand-as-restore-britain-rises?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-06T10:14:19Z"
+  },
+  {
+    "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+    "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-06T09:50:30Z"
+  },
+  {
+    "title": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
+    "url": "https://www.aljazeera.com/sports/2026/7/6/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-06T09:30:23Z"
+  },
+  {
+    "title": "Moment Israeli soldier hurls stun grenade into Palestinians’ car",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-06T08:19:20Z"
+  },
+  {
+    "title": "Israeli command system identified 850,000 targets in Gaza and Lebanon wars, says supplier",
+    "url": "https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
     "source": "The Guardian",
-    "publishedAt": "2026-07-06T06:36:00Z"
+    "publishedAt": "2026-07-06T08:00:05Z"
   },
   {
-    "title": "Sudan’s maternity wards reopen, bringing hope amid post-war struggles",
+    "title": "China missile test draws criticism from Australia, New Zealand, Japan",
+    "url": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-06T07:28:48Z"
+  },
+  {
+    "title": "Sudan’s maternity wards reopen, bringing hope amid war struggles",
     "url": "https://www.aljazeera.com/features/2026/7/6/sudans-maternity-wards-reopen-bringing-hope-amid-post-war-struggles?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-06T06:18:48Z"
-  },
-  {
-    "title": "At least 10 killed in second Russian strikes on Kyiv in a week",
-    "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-06T06:00:27Z"
-  },
-  {
-    "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
-    "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-06T06:00:05Z"
-  },
-  {
-    "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-    "url": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-07-04T17:48:00Z"
-  },
-  {
-    "title": "China's tech rise reshapes the global space race",
-    "url": "https://www.dw.com/en/china-s-tech-rise-reshapes-the-global-space-race/a-77790036?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-07-05T12:31:00Z"
-  },
-  {
-    "title": "As deadly as war and as powerful as governments, global organized crime remains in the shadows",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167867",
-    "source": "UN News",
-    "publishedAt": "2026-07-05T12:00:00Z"
-  },
-  {
-    "title": "Belgium ‘astonished’ at FIFA’s U-turn on Balogun red card for USA match",
-    "url": "https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T00:22:50Z"
-  },
-  {
-    "title": "Iran war live: Khamenei’s funeral procession under way in Tehran",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-06T00:00:00Z"
   }
 ]
