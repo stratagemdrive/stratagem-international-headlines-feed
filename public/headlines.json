@@ -1,5 +1,11 @@
 [
   {
+    "title": "Apple files lawsuit, accuses OpenAI of stealing trade secrets",
+    "url": "https://www.cbc.ca/news/world/apple-lawsuit-open-ai-trade-secrets-9.7266470?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-10T22:10:52Z"
+  },
+  {
     "title": "Lebanon historic sites destroyed by Israeli strikes",
     "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss",
     "source": "Al Jazeera",
@@ -16,12 +22,6 @@
     "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-10T17:21:35Z"
-  },
-  {
-    "title": "Ruthless Zverev spoils Fery’s Wimbledon dream to power into final",
-    "url": "https://www.aljazeera.com/sports/2026/7/10/ruthless-zverev-spoils-ferys-wimbledon-dream-to-power-into-final?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-10T16:20:47Z"
   },
   {
     "title": "‘The worst possible combination’: what has caused Spain’s deadly wildfires?",
@@ -90,12 +90,6 @@
     "publishedAt": "2026-07-10T18:01:25Z"
   },
   {
-    "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-10T16:30:19Z"
-  },
-  {
     "title": "China successfully lands the first stage of a rocket in reusability demonstration",
     "url": "https://www.cbc.ca/news/science/china-first-stage-rocket-landing-9.7265706?cmp=rss",
     "source": "CBC",
@@ -118,5 +112,11 @@
     "url": "https://www.theguardian.com/world/2026/jul/10/protests-west-bengal-state-india-girl-murder-rape",
     "source": "The Guardian",
     "publishedAt": "2026-07-10T13:43:13Z"
+  },
+  {
+    "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167918",
+    "source": "UN News",
+    "publishedAt": "2026-07-10T12:00:00Z"
   }
 ]
