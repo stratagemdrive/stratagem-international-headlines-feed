@@ -6,12 +6,6 @@
     "publishedAt": "2026-07-11T08:21:20Z"
   },
   {
-    "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-    "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-10T23:00:11Z"
-  },
-  {
     "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
     "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -22,6 +16,12 @@
     "url": "https://www.cbc.ca/news/world/apple-lawsuit-open-ai-trade-secrets-9.7266470?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-10T22:10:52Z"
+  },
+  {
+    "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+    "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-11T11:42:46Z"
   },
   {
     "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
@@ -64,12 +64,6 @@
     "url": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-07-11T05:19:00Z"
-  },
-  {
-    "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-    "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-11T04:56:33Z"
   },
   {
     "title": "Are the US and Iran at war again?",
@@ -118,5 +112,11 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-11T00:00:00Z"
+  },
+  {
+    "title": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
+    "url": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-10T23:31:22Z"
   }
 ]
