@@ -6,10 +6,28 @@
     "publishedAt": "2026-07-11T08:21:20Z"
   },
   {
+    "title": "Trump trades threats with Iran’s leader as mediators struggle to save talks",
+    "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-11T08:04:57Z"
+  },
+  {
+    "title": "2 people dead, 19 wounded as Russia strikes Ukraine with missiles and drones",
+    "url": "https://www.cbc.ca/news/world/russia-strikes-ukraine-9.7266882?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-11T12:53:11Z"
+  },
+  {
     "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
     "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-10T22:54:16Z"
+  },
+  {
+    "title": "Runner gored in the face at Spain's San Fermin bull run festival",
+    "url": "https://www.cbc.ca/news/world/runner-gored-spain-bull-run-festival-9.7266863?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-11T12:40:03Z"
   },
   {
     "title": "Apple files lawsuit, accuses OpenAI of stealing trade secrets",
@@ -30,16 +48,10 @@
     "publishedAt": "2026-07-11T09:32:57Z"
   },
   {
-    "title": "Russian missile attacks wound 11 in Kyiv",
+    "title": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
     "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-11T08:53:23Z"
-  },
-  {
-    "title": "'Really frightening, unbelievably quick': Witnesses describe fleeing deadly Spain wildfire",
-    "url": "https://www.bbc.co.uk/news/articles/c932zyex1w2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-10T18:56:06Z"
   },
   {
     "title": "Russian overnight strikes on Kyiv injure ten",
@@ -48,8 +60,8 @@
     "publishedAt": "2026-07-11T08:25:11Z"
   },
   {
-    "title": "Could AI help al-Qaida and other groups plan terror attacks?",
-    "url": "https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-world-4025-rdf",
+    "title": "Could AI help al-Qaeda and other groups plan terror attacks?",
+    "url": "https://www.dw.com/en/could-ai-help-al-qaeda-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-07-11T05:48:00Z"
   },
@@ -106,17 +118,5 @@
     "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-11T00:00:42Z"
-  },
-  {
-    "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-11T00:00:00Z"
-  },
-  {
-    "title": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
-    "url": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-10T23:31:22Z"
   }
 ]
