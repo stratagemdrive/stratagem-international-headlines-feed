@@ -1,5 +1,17 @@
 [
   {
+    "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+    "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-12T07:33:12Z"
+  },
+  {
+    "title": "US Senator Lindsey Graham passes away",
+    "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-12T06:27:06Z"
+  },
+  {
     "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
     "url": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -24,6 +36,12 @@
     "publishedAt": "2026-07-12T00:22:21Z"
   },
   {
+    "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+    "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-12T06:49:46Z"
+  },
+  {
     "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
     "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
     "source": "The Guardian",
@@ -40,12 +58,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-12T04:59:27Z"
-  },
-  {
-    "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-    "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-12T04:39:18Z"
   },
   {
     "title": "Victorian crossbench MP warns voting system overhaul must be backed by broader reform – as it happened",
@@ -106,17 +118,5 @@
     "url": "https://www.cbc.ca/news/world/apple-lawsuit-open-ai-trade-secrets-9.7266470?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-10T22:10:52Z"
-  },
-  {
-    "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
-    "source": "UN News",
-    "publishedAt": "2026-07-11T12:00:00Z"
-  },
-  {
-    "title": "Could AI help al-Qaeda and other groups plan terror attacks?",
-    "url": "https://www.dw.com/en/could-ai-help-al-qaeda-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-07-11T05:48:00Z"
   }
 ]
