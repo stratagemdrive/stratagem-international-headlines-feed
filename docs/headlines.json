@@ -1,9 +1,21 @@
 [
   {
+    "title": "Trump praises Lindsey Graham as ‘one of the greatest people I have ever known’ after senator dies of sudden illness – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/jul/12/lindsey-graham-dies-sudden-illness-trump-politics-live",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-12T12:53:05Z"
+  },
+  {
     "title": "Iran attacks Gulf countries following fresh US strikes – Middle East crisis live",
     "url": "https://www.theguardian.com/world/live/2026/jul/12/iran-gulf-us-strikes-jordan-qatar-uae-strait-hormuz-latest-news-updates-live",
     "source": "The Guardian",
-    "publishedAt": "2026-07-12T11:25:11Z"
+    "publishedAt": "2026-07-12T12:49:57Z"
+  },
+  {
+    "title": "EU defense remains heavily reliant on the United States",
+    "url": "https://www.dw.com/en/eu-defense-remains-heavily-reliant-on-the-united-states/a-77917972?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-07-12T12:37:00Z"
   },
   {
     "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
@@ -12,7 +24,7 @@
     "publishedAt": "2026-07-12T09:47:43Z"
   },
   {
-    "title": "U.S. Republican Senator Lindsey Graham dies at 71",
+    "title": "U.S. Republican Senator Lindsey Graham dead at 71",
     "url": "https://www.cbc.ca/news/world/lindsey-graham-dies-at-71-9.7267259?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-12T09:43:31Z"
@@ -36,16 +48,10 @@
     "publishedAt": "2026-07-12T05:00:09Z"
   },
   {
-    "title": "US allies apprehensive after capricious Trump changes tune at Nato summit",
-    "url": "https://www.theguardian.com/us-news/2026/jul/12/trump-nato-summit-ankara",
+    "title": "US and Iran exchange strikes as Tehran declares strait of Hormuz closed again",
+    "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
     "source": "The Guardian",
-    "publishedAt": "2026-07-12T05:00:09Z"
-  },
-  {
-    "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-12T00:22:21Z"
+    "publishedAt": "2026-07-12T12:49:54Z"
   },
   {
     "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
@@ -58,12 +64,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-12T11:07:26Z"
-  },
-  {
-    "title": "Israel’s war in Gaza dominates US midterm races as Democrats split",
-    "url": "https://www.theguardian.com/us-news/2026/jul/12/israel-gaza-war-democrats-midterms",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-12T10:00:15Z"
   },
   {
     "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
@@ -102,12 +102,6 @@
     "publishedAt": "2026-07-12T06:49:46Z"
   },
   {
-    "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
-    "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-12T05:27:38Z"
-  },
-  {
     "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
     "source": "Al Jazeera",
@@ -118,5 +112,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-12T04:59:27Z"
+  },
+  {
+    "title": "Victorian crossbench MP warns voting system overhaul must be backed by broader reform – as it happened",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-12T04:00:08Z"
   }
 ]
