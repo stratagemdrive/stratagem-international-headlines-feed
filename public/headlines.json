@@ -1,9 +1,21 @@
 [
   {
-    "title": "Middle East crisis live: US launches new wave of strikes; UAE says two tankers in strait of Hormuz hit by Iranian missiles",
-    "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+    "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
+    "url": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-14T03:38:22Z"
+  },
+  {
+    "title": "Middle East crisis live: US strikes Iran for third consecutive night; UAE says Tehran has hit tankers in strait of Hormuz",
+    "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
     "source": "The Guardian",
-    "publishedAt": "2026-07-14T01:23:00Z"
+    "publishedAt": "2026-07-14T04:52:33Z"
+  },
+  {
+    "title": "US burrito giant Chipotle opening first outlet in Mexico",
+    "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-14T02:42:51Z"
   },
   {
     "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
@@ -24,34 +36,46 @@
     "publishedAt": "2026-07-13T21:37:02Z"
   },
   {
-    "title": "What do Israeli settler attacks on Americans reveal?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/what-do-israeli-settler-attacks-on-americans-reveal?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-13T20:35:01Z"
-  },
-  {
-    "title": "US keeping the Strait of Hormuz open is ‘a massive force problem’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-keeping-the-strait-of-hormuz-open-is-a-massive-force?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-13T20:23:27Z"
-  },
-  {
     "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
     "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
     "source": "NPR",
     "publishedAt": "2026-07-13T16:53:40Z"
   },
   {
-    "title": "Britons to use e-gates in Switzerland as Starmer seals £5.2bn trade deal",
-    "url": "https://www.theguardian.com/business/2026/jul/13/brits-e-gates-switzerland-keir-starmer-seals-trade-deal",
+    "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+    "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-14T04:50:48Z"
+  },
+  {
+    "title": "Australia news live: Ed Husic warns AI companies can’t be trusted to regulate themselves; 17-year-old boy injured in alleged fight at school",
+    "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
     "source": "The Guardian",
-    "publishedAt": "2026-07-13T14:00:48Z"
+    "publishedAt": "2026-07-14T04:50:15Z"
+  },
+  {
+    "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-14T04:10:13Z"
+  },
+  {
+    "title": "Trump says US reinstating blockade on Iranian ports – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-14T03:27:16Z"
   },
   {
     "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
     "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
     "source": "NPR",
     "publishedAt": "2026-07-13T12:02:33Z"
+  },
+  {
+    "title": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167924",
+    "source": "UN News",
+    "publishedAt": "2026-07-13T12:00:00Z"
   },
   {
     "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
@@ -72,12 +96,6 @@
     "publishedAt": "2026-07-13T23:54:32Z"
   },
   {
-    "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-    "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-13T23:42:24Z"
-  },
-  {
     "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
     "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
     "source": "Al Jazeera",
@@ -90,7 +108,7 @@
     "publishedAt": "2026-07-13T22:43:12Z"
   },
   {
-    "title": "Indian activist on hunger strike at 'cockroach' protest loses 8.2kg",
+    "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
     "url": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-13T22:03:16Z"
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-13T21:19:28Z"
-  },
-  {
-    "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-    "url": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-13T21:04:56Z"
-  },
-  {
-    "title": "Pakistan urges restraint as its Mideast deal unravels",
-    "url": "https://www.npr.org/2026/07/13/nx-s1-5891718/pakistan-urges-restraint-as-its-mideast-deal-unravels",
-    "source": "NPR",
-    "publishedAt": "2026-07-13T20:55:21Z"
-  },
-  {
-    "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-13T20:48:18Z"
   }
 ]
