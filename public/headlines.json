@@ -1,11 +1,5 @@
 [
   {
-    "title": "Australia news live: Victoria’s police chief arrests man in Melbourne CBD; diesel over $2 a litre as Iran war lifts oil prices",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jul/16/divine-playhouse-josh-thomas-workplace-drug-survey-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-16T05:04:12Z"
-  },
-  {
     "title": "US attacks oil tanker in strait of Hormuz as strikes reported in Tehran",
     "url": "https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes",
     "source": "The Guardian",
@@ -18,10 +12,10 @@
     "publishedAt": "2026-07-15T17:01:59Z"
   },
   {
-    "title": "U.S. fires a new wave of strikes on Iran and hits a tanker trying to skirt its blockade",
-    "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
-    "source": "NPR",
-    "publishedAt": "2026-07-15T09:56:31Z"
+    "title": "US strikes expand to northern Iran as Tehran fires on Bahrain, Kuwait and Jordan – Middle East crisis live",
+    "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-16T07:44:22Z"
   },
   {
     "title": "Brazil condemns US move to impose 25% tariffs next week",
@@ -48,12 +42,6 @@
     "publishedAt": "2026-07-16T03:41:50Z"
   },
   {
-    "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-16T00:00:48Z"
-  },
-  {
     "title": "Sen. Shaheen discusses new Russia sanctions bill",
     "url": "https://www.npr.org/2026/07/15/nx-s1-5893688/sen-shaheen-discusses-new-russia-sanctions-bill",
     "source": "NPR",
@@ -78,6 +66,24 @@
     "publishedAt": "2026-07-15T20:34:30Z"
   },
   {
+    "title": "Iran targets military bases as US launches wave of strikes",
+    "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-16T07:44:08Z"
+  },
+  {
+    "title": "UK economy grew by 0.1% in May despite impact of Iran war",
+    "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-16T07:36:05Z"
+  },
+  {
+    "title": "More than 500 feared dead after reports of two shipwrecks off Myanmar, UN says",
+    "url": "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-16T07:22:41Z"
+  },
+  {
     "title": "India-linked organized crime gangs pose global challenge",
     "url": "https://www.dw.com/en/india-linked-organized-crime-gangs-pose-global-challenge/a-77972547?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -90,22 +96,10 @@
     "publishedAt": "2026-07-16T05:03:15Z"
   },
   {
-    "title": "Burnham must avoid ‘summer of speculation’ on tax, warns CBI chief",
-    "url": "https://www.theguardian.com/business/2026/jul/16/burnham-speculation-tax-cbi-rain-newton-smith",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-16T05:00:14Z"
-  },
-  {
     "title": "Former US Ambassador says Iran miscalculated Trump’s resolve",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-16T04:18:22Z"
-  },
-  {
-    "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-    "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-16T04:06:11Z"
   },
   {
     "title": "Senior Chinese delegation visits North Korea for talks",
@@ -118,5 +112,11 @@
     "url": "https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news",
     "source": "The Guardian",
     "publishedAt": "2026-07-16T03:32:53Z"
+  },
+  {
+    "title": "US military to start screening for testosterone deficiency, Hegseth says",
+    "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-16T02:33:40Z"
   }
 ]
