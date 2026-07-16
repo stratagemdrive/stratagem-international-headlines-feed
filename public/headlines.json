@@ -1,21 +1,33 @@
 [
   {
-    "title": "US attacks oil tanker in strait of Hormuz as strikes reported in Tehran",
-    "url": "https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes",
+    "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
+    "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
     "source": "The Guardian",
-    "publishedAt": "2026-07-16T02:40:19Z"
+    "publishedAt": "2026-07-16T12:26:57Z"
+  },
+  {
+    "title": "Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live",
+    "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-16T14:49:29Z"
+  },
+  {
+    "title": "Israeli strikes kill 5 people in Gaza, medics say, as attacks escalate after ceasefire deal",
+    "url": "https://www.cbc.ca/news/world/israeli-strikes-gaza-deaths-9.7272255?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-16T14:06:23Z"
+  },
+  {
+    "title": "US hosts global meet on ‘far-left terror’: Who’s attending, why it matters",
+    "url": "https://www.aljazeera.com/news/2026/7/16/us-hosts-global-meet-on-far-left-terror-whos-attending-why-it-matters?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-16T12:42:17Z"
   },
   {
     "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
     "url": "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran",
     "source": "The Guardian",
     "publishedAt": "2026-07-16T12:00:39Z"
-  },
-  {
-    "title": "US strikes expand to northern Iran as Tehran fires on Bahrain, Kuwait and Jordan – Middle East crisis live",
-    "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-16T11:45:01Z"
   },
   {
     "title": "Uber to buy Germany’s Delivery Hero in $14.8bn global deal",
@@ -30,7 +42,7 @@
     "publishedAt": "2026-07-16T09:47:00Z"
   },
   {
-    "title": "Brazil condemns US move to impose 25% tariffs next week",
+    "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
     "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
     "source": "The Guardian",
     "publishedAt": "2026-07-16T05:01:23Z"
@@ -40,6 +52,60 @@
     "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
     "source": "The Guardian",
     "publishedAt": "2026-07-16T04:30:13Z"
+  },
+  {
+    "title": "Outrage at sacking of Ukraine’s defence minister overshadows Starmer’s final visit as PM – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-16T14:48:38Z"
+  },
+  {
+    "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+    "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-16T14:22:11Z"
+  },
+  {
+    "title": "US or Iran — Who needs a new truce deal more?",
+    "url": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-16T14:13:10Z"
+  },
+  {
+    "title": "Sudanese minister says war has ‘profoundly reshaped’ nation’s demographics",
+    "url": "https://www.aljazeera.com/news/2026/7/16/sudanese-minister-says-war-has-profoundly-reshaped-nations-demography?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-16T13:45:43Z"
+  },
+  {
+    "title": "Hong Kong official warns booksellers on security risks after raids",
+    "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
+    "source": "NPR",
+    "publishedAt": "2026-07-16T13:31:33Z"
+  },
+  {
+    "title": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-16T12:31:08Z"
+  },
+  {
+    "title": "US strikes first tanker with missiles as it enforces new blockade",
+    "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-16T12:09:26Z"
+  },
+  {
+    "title": "Iran claims strikes on US bases, warns of wider attacks on region",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-16T12:00:45Z"
+  },
+  {
+    "title": "EU court upholds Spanish amnesty law as compatible with EU law",
+    "url": "https://www.aljazeera.com/news/2026/7/16/eu-court-upholds-spanish-amnesty-law-as-compatible-with-eu-law?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-16T11:56:14Z"
   },
   {
     "title": "Iran targets military bases as US launches wave of strikes",
@@ -52,71 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/jul/16/us-intensifies-attacks-on-iran-as-tehran-hits-back-at-gulf-states",
     "source": "The Guardian",
     "publishedAt": "2026-07-16T11:47:12Z"
-  },
-  {
-    "title": "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
-    "url": "https://www.aljazeera.com/features/2026/7/16/destroyed-my-whole-life-lebanese-families-wiped-out-in-israeli?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-16T11:40:05Z"
-  },
-  {
-    "title": "Palestinians fight fires after settler attacks in the occupied West Bank",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-fight-fires-after-settler-attacks-in-the-occupied-west-bank?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-16T11:36:47Z"
-  },
-  {
-    "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
-    "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-    "source": "NPR",
-    "publishedAt": "2026-07-16T11:33:11Z"
-  },
-  {
-    "title": "The EU climate policy the world copied is under fire — what's at stake?",
-    "url": "https://www.dw.com/en/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake/a-77979725?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-07-16T11:33:00Z"
-  },
-  {
-    "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
-    "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-16T11:31:11Z"
-  },
-  {
-    "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
-    "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
-    "source": "NPR",
-    "publishedAt": "2026-07-16T11:29:01Z"
-  },
-  {
-    "title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned",
-    "url": "https://www.bbc.co.uk/news/articles/cn4n9q538z2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-16T11:18:51Z"
-  },
-  {
-    "title": "Sen. Shaheen discusses new Russia sanctions bill",
-    "url": "https://www.npr.org/2026/07/15/nx-s1-5893688/sen-shaheen-discusses-new-russia-sanctions-bill",
-    "source": "NPR",
-    "publishedAt": "2026-07-15T21:23:00Z"
-  },
-  {
-    "title": "First Thing: US attacks tanker in continuing Iran conflict as Tehran releases US citizen",
-    "url": "https://www.theguardian.com/us-news/2026/jul/16/first-thing-us-attacks-tanker-in-continuing-iran-conflict-as-tehran-releases-us-citizen",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-16T11:16:05Z"
-  },
-  {
-    "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-    "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-15T21:21:19Z"
-  },
-  {
-    "title": "The crews stuck at sea as the Strait of Hormuz crisis grows",
-    "url": "https://www.npr.org/2026/07/15/nx-s1-5894731/the-crews-stuck-at-sea-as-the-strait-of-hormuz-crisis-grows",
-    "source": "NPR",
-    "publishedAt": "2026-07-15T20:54:15Z"
   }
 ]
