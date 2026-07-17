@@ -1,5 +1,11 @@
 [
   {
+    "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
+    "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-17T22:19:19Z"
+  },
+  {
     "title": "Strikes on infrastructure by Iran and U.S. raise fears of escalation in war",
     "url": "https://www.cbc.ca/news/world/iran-us-war-infrastructure-attack-9.7274603?cmp=rss",
     "source": "CBC",
@@ -10,6 +16,12 @@
     "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
     "source": "NPR",
     "publishedAt": "2026-07-17T16:50:10Z"
+  },
+  {
+    "title": "Republicans threaten Canada with sanctions over drifting wildfire smoke",
+    "url": "https://www.theguardian.com/us-news/2026/jul/17/republicans-canada-sanctions-wildfire-smoke",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-17T22:32:21Z"
   },
   {
     "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
@@ -42,12 +54,6 @@
     "publishedAt": "2026-07-17T17:15:48Z"
   },
   {
-    "title": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-    "url": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-17T16:26:34Z"
-  },
-  {
     "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
     "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
     "source": "The Guardian",
@@ -64,6 +70,24 @@
     "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
     "source": "NPR",
     "publishedAt": "2026-07-17T11:13:58Z"
+  },
+  {
+    "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+    "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-17T22:14:12Z"
+  },
+  {
+    "title": "US launches seventh straight night of strikes on Iran",
+    "url": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-17T22:11:12Z"
+  },
+  {
+    "title": "Gaza officials say several killed in Israeli strike",
+    "url": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-07-17T21:29:00Z"
   },
   {
     "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
@@ -94,29 +118,5 @@
     "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-17T19:04:09Z"
-  },
-  {
-    "title": "At least three killed and hundreds displaced by heavy rain in Chile",
-    "url": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-17T18:59:03Z"
-  },
-  {
-    "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-    "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-17T18:34:04Z"
-  },
-  {
-    "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-    "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-17T18:33:12Z"
-  },
-  {
-    "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-    "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-17T18:12:54Z"
   }
 ]
