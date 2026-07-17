@@ -1,15 +1,27 @@
 [
   {
-    "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
-    "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-16T12:26:57Z"
-  },
-  {
     "title": "U.S. airstrikes hit Iranian bridges, following Trump's threats to strike infrastructure",
     "url": "https://www.cbc.ca/news/world/iran-us-strikes-strait-hormuz-9.7273067?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-16T21:10:00Z"
+  },
+  {
+    "title": "US strikes on Iran reportedly hit airport and bridges – Middle East crisis live",
+    "url": "https://www.theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-17T07:45:08Z"
+  },
+  {
+    "title": "Why is Pakistan’s Sindh province facing a major child HIV outbreak?",
+    "url": "https://www.aljazeera.com/news/2026/7/17/why-is-pakistans-sindh-province-facing-a-major-child-hiv-outbreak?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-17T07:33:16Z"
+  },
+  {
+    "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
+    "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
+    "source": "NPR",
+    "publishedAt": "2026-07-17T07:17:04Z"
   },
   {
     "title": "Trump accuses China of interfering in 2020 U.S. election during televised address",
@@ -36,14 +48,14 @@
     "publishedAt": "2026-07-16T18:25:48Z"
   },
   {
-    "title": "EU border chaos feared at Dover crossing as busiest summer weekend looms",
-    "url": "https://www.theguardian.com/world/2026/jul/17/eu-border-chaos-feared-dover-crossing-busiest-summer-weekend-looms",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-17T05:00:59Z"
+    "title": "US launches new strikes as Iran says civilian infrastructure hit",
+    "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-17T07:00:31Z"
   },
   {
-    "title": "Weatherwatch: How English summer clouds can warn of trouble ahead",
-    "url": "https://www.theguardian.com/news/2026/jul/17/weatherwatch-english-summer-clouds-warn-bumps-ahead",
+    "title": "EU border chaos feared at Dover crossing as busiest summer weekend looms",
+    "url": "https://www.theguardian.com/world/2026/jul/17/eu-border-chaos-feared-dover-crossing-busiest-summer-weekend-looms",
     "source": "The Guardian",
     "publishedAt": "2026-07-17T05:00:59Z"
   },
@@ -52,12 +64,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-17T04:57:08Z"
-  },
-  {
-    "title": "US launches new strikes as Iran says civilian infrastructure hit",
-    "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-17T04:42:39Z"
   },
   {
     "title": "Israeli settlers attack Sinjil town in occupied West Bank",
@@ -84,12 +90,6 @@
     "publishedAt": "2026-07-17T03:38:28Z"
   },
   {
-    "title": "How testosterone testing will work in Hegseth's 'manly' military",
-    "url": "https://www.bbc.co.uk/news/videos/cy746z15ej3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-17T02:45:48Z"
-  },
-  {
     "title": "Iranian sources say US strikes hit civilian infrastructure",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss",
     "source": "Al Jazeera",
@@ -108,15 +108,15 @@
     "publishedAt": "2026-07-17T01:47:52Z"
   },
   {
-    "title": "Telstra staff unaware of mass outage risk as critical software failure ‘rippled slowly across the network’",
-    "url": "https://www.theguardian.com/business/2026/jul/17/telstra-missing-software-update-undocumented-design-change-outage",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-17T01:00:08Z"
-  },
-  {
     "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-17T00:50:09Z"
+  },
+  {
+    "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-16T23:58:15Z"
   }
 ]
