@@ -1,11 +1,5 @@
 [
   {
-    "title": "U.S. and Iran escalate strikes across Mideast",
-    "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-    "source": "NPR",
-    "publishedAt": "2026-07-18T06:01:20Z"
-  },
-  {
     "title": "Poultry sector growth plan risks UK national security, campaigners warn",
     "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
     "source": "The Guardian",
@@ -24,10 +18,40 @@
     "publishedAt": "2026-07-18T06:03:13Z"
   },
   {
+    "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
+    "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+    "source": "NPR",
+    "publishedAt": "2026-07-18T06:01:20Z"
+  },
+  {
     "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
     "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-18T01:29:47Z"
+  },
+  {
+    "title": "US strikes hit Iran for seventh consecutive night",
+    "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-18T11:48:44Z"
+  },
+  {
+    "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
+    "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-18T11:10:09Z"
+  },
+  {
+    "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+    "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+    "source": "NPR",
+    "publishedAt": "2026-07-18T10:45:43Z"
+  },
+  {
+    "title": "India launches first private rocket into space",
+    "url": "https://www.dw.com/en/india-launches-first-private-rocket-into-space/a-78016562?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-07-18T10:12:00Z"
   },
   {
     "title": "U.S. and Iran each target infrastructure in latest strikes of war",
@@ -46,12 +70,6 @@
     "url": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
     "source": "The Guardian",
     "publishedAt": "2026-07-18T09:00:02Z"
-  },
-  {
-    "title": "US strikes hit Iran for seventh consecutive night",
-    "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-18T07:33:40Z"
   },
   {
     "title": "Space start-up launches India’s first commercial rocket designed for orbit",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-18T02:09:00Z"
-  },
-  {
-    "title": "Targets of latest US strikes on Iran signal strategic shift",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-18T01:54:45Z"
-  },
-  {
-    "title": "U.S. strikes bridges in Iran; Tehran targets U.S. bases in the Gulf",
-    "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-    "source": "NPR",
-    "publishedAt": "2026-07-17T11:13:58Z"
-  },
-  {
-    "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
-    "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-17T22:14:12Z"
   }
 ]
