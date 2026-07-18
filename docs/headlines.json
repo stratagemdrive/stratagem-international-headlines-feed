@@ -24,12 +24,6 @@
     "publishedAt": "2026-07-18T01:29:47Z"
   },
   {
-    "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-    "url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-17T22:47:31Z"
-  },
-  {
     "title": "U.S. and Iran each target infrastructure in latest strikes of war",
     "url": "https://www.cbc.ca/news/world/iran-us-war-infrastructure-attack-9.7274603?cmp=rss",
     "source": "CBC",
@@ -40,6 +34,18 @@
     "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
     "source": "NPR",
     "publishedAt": "2026-07-17T19:16:16Z"
+  },
+  {
+    "title": "US strikes hit Iran for seventh consecutive night",
+    "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-18T07:33:40Z"
+  },
+  {
+    "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+    "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-18T07:05:19Z"
   },
   {
     "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
@@ -64,12 +70,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-18T04:47:44Z"
-  },
-  {
-    "title": "US strikes hit Iran for seventh consecutive night",
-    "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-18T04:40:11Z"
   },
   {
     "title": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
@@ -102,21 +102,21 @@
     "publishedAt": "2026-07-17T11:13:58Z"
   },
   {
-    "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-    "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-18T00:39:18Z"
-  },
-  {
     "title": "Paul Pelosi faces hit-and-run charge after he allegedly crashed into parked vehicle",
     "url": "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge",
     "source": "The Guardian",
     "publishedAt": "2026-07-18T00:12:45Z"
   },
   {
-    "title": "Iran war live: Kuwait, Bahrain and Jordan under attack from Iran",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-18T00:00:00Z"
+    "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+    "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-17T22:14:12Z"
+  },
+  {
+    "title": "Gaza officials say several killed in Israeli strike",
+    "url": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-07-17T21:29:00Z"
   }
 ]
