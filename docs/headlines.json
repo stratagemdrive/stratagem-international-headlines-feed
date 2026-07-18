@@ -1,5 +1,17 @@
 [
   {
+    "title": "Tensions escalate as Iran and U.S. continue to exchange strikes",
+    "url": "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-18T12:22:58Z"
+  },
+  {
+    "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+    "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-18T11:55:54Z"
+  },
+  {
     "title": "Poultry sector growth plan risks UK national security, campaigners warn",
     "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
     "source": "The Guardian",
@@ -30,6 +42,12 @@
     "publishedAt": "2026-07-18T01:29:47Z"
   },
   {
+    "title": "India achieves milestone with launch of first private-sector orbital rocket",
+    "url": "https://www.aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-18T11:50:36Z"
+  },
+  {
     "title": "US strikes hit Iran for seventh consecutive night",
     "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -52,12 +70,6 @@
     "url": "https://www.dw.com/en/india-launches-first-private-rocket-into-space/a-78016562?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-07-18T10:12:00Z"
-  },
-  {
-    "title": "U.S. and Iran each target infrastructure in latest strikes of war",
-    "url": "https://www.cbc.ca/news/world/iran-us-war-infrastructure-attack-9.7274603?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-07-17T20:10:00Z"
   },
   {
     "title": "China signals possible return of U.S. trade privileges for Hong Kong",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-18T03:54:23Z"
-  },
-  {
-    "title": "Substandard work, evasion of oversight helped fuel deadly Hong Kong fire, investigators told",
-    "url": "https://www.cbc.ca/news/world/hong-kong-deadly-fire-investigation-9.7273730?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-07-17T12:35:28Z"
-  },
-  {
-    "title": "Iranian official says the policy of negotiating during war is over",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-18T02:09:00Z"
   }
 ]
