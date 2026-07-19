@@ -1,21 +1,21 @@
 [
   {
-    "title": "Kuwaiti power plant ablaze as Iran hits US Gulf allies",
-    "url": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-19T14:27:53Z"
-  },
-  {
     "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
     "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
     "source": "The Guardian",
-    "publishedAt": "2026-07-19T14:14:57Z"
+    "publishedAt": "2026-07-19T15:21:28Z"
   },
   {
     "title": "US and Iran trade fire after two US soldiers killed in Jordan",
     "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-07-19T13:10:57Z"
+    "publishedAt": "2026-07-19T15:35:18Z"
+  },
+  {
+    "title": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
+    "url": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-19T14:27:53Z"
   },
   {
     "title": "U.S. renews strikes on Iran after 2 American military members killed",
@@ -46,12 +46,6 @@
     "url": "https://www.aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-19T14:12:10Z"
-  },
-  {
-    "title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
-    "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-18T23:37:48Z"
   },
   {
     "title": "EU ban on destroying unsold clothes takes effect",
@@ -118,5 +112,11 @@
     "url": "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-18T12:22:58Z"
+  },
+  {
+    "title": "New EU border system tripling time at passport control, airport boss says",
+    "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-19T01:47:59Z"
   }
 ]
