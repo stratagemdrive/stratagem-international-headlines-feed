@@ -1,9 +1,9 @@
 [
   {
-    "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
+    "title": "Middle East crisis live: US military says service member killed during ‘controlled detonation’ of downed Iranian drone",
     "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
     "source": "The Guardian",
-    "publishedAt": "2026-07-19T18:16:43Z"
+    "publishedAt": "2026-07-19T19:35:25Z"
   },
   {
     "title": "Mission in Iran war has pivoted toward ensuring oil flow, Trump official says",
@@ -18,12 +18,6 @@
     "publishedAt": "2026-07-19T18:25:40Z"
   },
   {
-    "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-    "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-19T17:22:23Z"
-  },
-  {
     "title": "Algeria seeks larger EU energy role amid regional tensions",
     "url": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -36,7 +30,7 @@
     "publishedAt": "2026-07-19T14:27:53Z"
   },
   {
-    "title": "U.S. renews strikes on Iran after 2 American military members killed",
+    "title": "U.S. military death toll rises amid renewed conflict with Iran",
     "url": "https://www.cbc.ca/news/world/u-s-airstrikes-iran-retaliation-9.7275686?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-19T12:24:15Z"
@@ -46,6 +40,12 @@
     "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
     "source": "NPR",
     "publishedAt": "2026-07-19T09:14:38Z"
+  },
+  {
+    "title": "US soldier killed and one injured after Iranian attack in Iraq",
+    "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-19T19:45:12Z"
   },
   {
     "title": "At least 50 Malian soldiers killed in attack on military convoy",
@@ -90,12 +90,6 @@
     "publishedAt": "2026-07-19T13:00:00Z"
   },
   {
-    "title": "Why have India’s Gen Z protesters called for a march to parliament?",
-    "url": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-19T12:45:07Z"
-  },
-  {
     "title": "Russian ballistic missile attack on Kyiv kills 1, wounds 16",
     "url": "https://www.cbc.ca/news/world/ukraine-war-kyiv-russia-attack-9.7275691?cmp=rss",
     "source": "CBC",
@@ -118,5 +112,11 @@
     "url": "https://www.cbc.ca/news/world/ukraine-russia-war-wildlife-birds-9.7272822?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-19T08:00:00Z"
+  },
+  {
+    "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+    "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-18T17:29:50Z"
   }
 ]
