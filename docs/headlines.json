@@ -1,21 +1,15 @@
 [
   {
-    "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
-    "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-18T16:06:06Z"
-  },
-  {
-    "title": "Conservatives around world are ‘at war against leftwing globalists’, Bridget McKenzie tells CPAC London event",
-    "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-18T23:37:48Z"
-  },
-  {
     "title": "Australia news live: Liberal senator Andrew Bragg says he ‘strongly disagrees’ with Tony Abbott on multiculturalism",
     "url": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
     "source": "The Guardian",
-    "publishedAt": "2026-07-18T23:28:36Z"
+    "publishedAt": "2026-07-19T01:22:16Z"
+  },
+  {
+    "title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-18T23:37:48Z"
   },
   {
     "title": "Drone video shows scale of major wildfire in northern Spain",
@@ -24,7 +18,7 @@
     "publishedAt": "2026-07-18T20:18:46Z"
   },
   {
-    "title": "U.S. fires on Iran after attack in Jordan leaves 2 troops killed, 1 missing",
+    "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
     "url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
     "source": "NPR",
     "publishedAt": "2026-07-18T18:14:11Z"
@@ -54,10 +48,28 @@
     "publishedAt": "2026-07-18T12:22:58Z"
   },
   {
+    "title": "New EU border system tripling time at passport control, airport boss says",
+    "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-19T01:47:59Z"
+  },
+  {
     "title": "Two US troops killed and one missing after Iranian attack in Jordan",
     "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-07-18T21:12:28Z"
+    "publishedAt": "2026-07-19T00:18:47Z"
+  },
+  {
+    "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-19T00:00:00Z"
+  },
+  {
+    "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+    "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-18T23:59:26Z"
   },
   {
     "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-18T18:55:05Z"
-  },
-  {
-    "title": "Israeli attacks on residential areas in Gaza kill eight",
-    "url": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-18T18:45:49Z"
-  },
-  {
-    "title": "Damage visible at Iran bridges and water plant after US attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-18T18:09:15Z"
   }
 ]
