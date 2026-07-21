@@ -1,5 +1,11 @@
 [
   {
+    "title": "Middle East crisis live: tankers carrying Saudi oil turned back after Houthi threats; US launches more strikes on Iran",
+    "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-21T23:40:05Z"
+  },
+  {
     "title": "India tunnel collapse kills 10 as toxic gases hamper rescue",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
     "source": "Al Jazeera",
@@ -12,16 +18,16 @@
     "publishedAt": "2026-07-21T17:27:45Z"
   },
   {
-    "title": "Australia news live: Shorten sees ‘national appetite’ for a new gas tax; Watt calls on Hanson to reveal Europe trip funding",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
+    "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-07-21T22:41:20Z"
+    "publishedAt": "2026-07-21T23:44:54Z"
   },
   {
-    "title": "Tankers carrying Saudi oil turned back after Houthi threats; Trump claims US will hit Iran’s nuclear storage facility ‘pretty soon’",
-    "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-21T22:32:07Z"
+    "title": "2 tankers carrying Saudi oil reverse course in Red Sea after Houthi threat, amid widening U.S.-Iran war",
+    "url": "https://www.cbc.ca/news/world/iran-tankers-war-us-9.7278658?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-21T23:32:03Z"
   },
   {
     "title": "US funding cuts deal blow to global HIV treatment: Report",
@@ -60,7 +66,7 @@
     "publishedAt": "2026-07-21T17:33:22Z"
   },
   {
-    "title": "RBA now twice as likely to hike interest rate as US-Iran war drives fuel prices higher",
+    "title": "RBA now twice as likely to hike interest rates as US-Iran war drives fuel prices higher",
     "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
     "source": "The Guardian",
     "publishedAt": "2026-07-21T15:00:51Z"
@@ -90,10 +96,16 @@
     "publishedAt": "2026-07-21T10:00:42Z"
   },
   {
-    "title": "Iran war has cost $37.5bn so far, Hegseth tells Senate – US politics live",
-    "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+    "title": "Hegseth tells Senate war on Iran has so far cost $37.5bn at hearing to request more funds",
+    "url": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate",
     "source": "The Guardian",
-    "publishedAt": "2026-07-21T22:35:33Z"
+    "publishedAt": "2026-07-21T23:15:10Z"
+  },
+  {
+    "title": "Moldova chooses new prime minister as it pushes for EU membership",
+    "url": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-21T22:53:42Z"
   },
   {
     "title": "Zelenskyy replaces Ukraine military chief after protests",
@@ -106,17 +118,5 @@
     "url": "https://www.cbc.ca/news/world/trump-tariffs-canada-why-now-9.7277446?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-21T08:00:00Z"
-  },
-  {
-    "title": "Ukraine's Zelenskyy fires his military chief after protests and names a new one",
-    "url": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests",
-    "source": "NPR",
-    "publishedAt": "2026-07-21T21:30:02Z"
-  },
-  {
-    "title": "Drone shows scorched landscape after Spain wildfire",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-21T21:21:12Z"
   }
 ]
