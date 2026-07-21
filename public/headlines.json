@@ -1,21 +1,39 @@
 [
   {
+    "title": "Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea",
+    "url": "https://www.theguardian.com/world/2026/jul/21/houthis-threaten-attack-tankers-saudi-arabian-ports-red-sea-shipping",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-21T17:27:45Z"
+  },
+  {
+    "title": "Row escalates in Ukraine over army chief's future",
+    "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-21T18:49:19Z"
+  },
+  {
     "title": "‘There’s no way they can survive’: Trump defends new 50% tariffs on most Canadian goods – US politics live",
     "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-07-21T16:59:03Z"
+    "publishedAt": "2026-07-21T18:47:33Z"
   },
   {
-    "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-    "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-21T16:50:51Z"
+    "title": "Netherlands to sanction trade with illegal Israeli settlements",
+    "url": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-21T18:41:52Z"
   },
   {
     "title": "Trump pledges to ‘take care of’ Houthis if group blocks Saudi ships – Middle East crisis live",
     "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
     "source": "The Guardian",
-    "publishedAt": "2026-07-21T16:50:00Z"
+    "publishedAt": "2026-07-21T18:21:10Z"
+  },
+  {
+    "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+    "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-21T17:33:22Z"
   },
   {
     "title": "US eyes new tariffs as existing trade duties near expiration",
@@ -28,30 +46,6 @@
     "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
     "source": "The Guardian",
     "publishedAt": "2026-07-21T15:00:51Z"
-  },
-  {
-    "title": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
-    "url": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-21T13:43:48Z"
-  },
-  {
-    "title": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
-    "url": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-21T13:32:04Z"
-  },
-  {
-    "title": "Trump’s new 50 percent Canada tariffs: What products are affected and why?",
-    "url": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-21T13:25:37Z"
-  },
-  {
-    "title": "Row escalates in Ukraine over army chief's future",
-    "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-21T12:33:15Z"
   },
   {
     "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
@@ -78,6 +72,36 @@
     "publishedAt": "2026-07-21T08:00:00Z"
   },
   {
+    "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+    "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-21T18:07:34Z"
+  },
+  {
+    "title": "Liverpool FC in talks to sell minority stake to Mittal-backed consortium",
+    "url": "https://www.aljazeera.com/sports/2026/7/21/liverpool-fc-in-talks-to-sell-minority-stake-to-mittal-backed-consortium?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-21T17:55:53Z"
+  },
+  {
+    "title": "Iranians struggle to get by amid US war and domestic woes",
+    "url": "https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-21T17:49:33Z"
+  },
+  {
+    "title": "Millions face long-term coastal flooding risk in UK without climate action, scientists warn",
+    "url": "https://www.theguardian.com/environment/2026/jul/21/millions-long-term-coastal-flooding-risk-uk-climate-action",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-21T17:00:51Z"
+  },
+  {
+    "title": "Civilians faced attacks, abuse in joint US-Ecuador operations, HRW says",
+    "url": "https://www.aljazeera.com/news/2026/7/21/civilians-faced-attacks-abuse-in-joint-us-ecuador-operations-hrw-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-21T16:53:24Z"
+  },
+  {
     "title": "Steep rise in civilian casualties in Russia-Ukraine war, UN says",
     "url": "https://www.aljazeera.com/news/2026/7/21/steep-rise-in-civilian-casualties-in-russia-ukraine-war-un-says?traffic_source=rss",
     "source": "Al Jazeera",
@@ -94,29 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/jul/21/india-cockroach-movement-protesters-delhi",
     "source": "The Guardian",
     "publishedAt": "2026-07-21T16:13:04Z"
-  },
-  {
-    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-    "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-21T16:10:56Z"
-  },
-  {
-    "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-    "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-21T16:03:22Z"
-  },
-  {
-    "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-    "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-21T15:54:11Z"
-  },
-  {
-    "title": "Italy’s Meloni slams protesters following clashes in Bologna",
-    "url": "https://www.aljazeera.com/news/2026/7/21/italys-meloni-slams-protesters-following-clashes-in-bologna?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-21T15:44:59Z"
   }
 ]
