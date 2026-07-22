@@ -1,9 +1,9 @@
 [
   {
-    "title": "Middle East crisis live: tankers carrying Saudi oil turned back after Houthi threats; US launches more strikes on Iran",
+    "title": "Middle East crisis live: tankers carrying Saudi oil turned back after Houthi threats; Trump claims US will hit Iran nuclear storage facility ‘pretty soon’",
     "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
     "source": "The Guardian",
-    "publishedAt": "2026-07-21T23:40:05Z"
+    "publishedAt": "2026-07-22T01:50:08Z"
   },
   {
     "title": "India tunnel collapse kills 10 as toxic gases hamper rescue",
@@ -21,7 +21,13 @@
     "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – US politics live",
     "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-07-21T23:44:54Z"
+    "publishedAt": "2026-07-22T01:57:35Z"
+  },
+  {
+    "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+    "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-22T00:58:40Z"
   },
   {
     "title": "2 tankers carrying Saudi oil reverse course in Red Sea after Houthi threat, amid widening U.S.-Iran war",
@@ -54,12 +60,6 @@
     "publishedAt": "2026-07-21T19:57:05Z"
   },
   {
-    "title": "Netherlands to sanction trade with illegal Israeli settlements",
-    "url": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-21T18:41:52Z"
-  },
-  {
     "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
     "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -78,10 +78,28 @@
     "publishedAt": "2026-07-21T12:00:00Z"
   },
   {
+    "title": "India’s Cockroach protests: Rahul Gandhi detained after calling for PM Modi to resign",
+    "url": "https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-22T01:06:25Z"
+  },
+  {
     "title": "Amid U.S.-Iran war, Houthis declare a blockade of another key strait: Bab el-Mandeb",
     "url": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
     "source": "NPR",
     "publishedAt": "2026-07-21T10:21:43Z"
+  },
+  {
+    "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-22T00:00:15Z"
+  },
+  {
+    "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+    "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-21T23:59:34Z"
   },
   {
     "title": "IDF accused of working with settlers after latest deadly West Bank raid",
@@ -96,27 +114,9 @@
     "publishedAt": "2026-07-21T10:00:42Z"
   },
   {
-    "title": "Hegseth tells Senate war on Iran has so far cost $37.5bn at hearing to request more funds",
-    "url": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-21T23:15:10Z"
-  },
-  {
-    "title": "Moldova chooses new prime minister as it pushes for EU membership",
-    "url": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
+    "title": "US attacks Iran for 11th consecutive night",
+    "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-07-21T22:53:42Z"
-  },
-  {
-    "title": "Zelenskyy replaces Ukraine military chief after protests",
-    "url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-21T21:58:32Z"
-  },
-  {
-    "title": "Why Trump is threatening new 50% tariffs on Canadian exports right now",
-    "url": "https://www.cbc.ca/news/world/trump-tariffs-canada-why-now-9.7277446?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-07-21T08:00:00Z"
+    "publishedAt": "2026-07-21T23:46:00Z"
   }
 ]
