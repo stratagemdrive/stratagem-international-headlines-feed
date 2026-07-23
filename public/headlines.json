@@ -1,11 +1,5 @@
 [
   {
-    "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
-    "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-23T11:27:00Z"
-  },
-  {
     "title": "Oil prices hit $100 for the first time since May",
     "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -16,6 +10,12 @@
     "url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-23T14:19:30Z"
+  },
+  {
+    "title": "Oil passes $100 a barrel again and shares slide as Middle East conflict escalates",
+    "url": "https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-23T13:37:42Z"
   },
   {
     "title": "Oil prices jump as Hormuz, Red Sea crises deepen",
@@ -30,10 +30,28 @@
     "publishedAt": "2026-07-23T12:00:00Z"
   },
   {
-    "title": "US-Saudi nuclear deal relies on it recognising Israel, says Trump – Middle East crisis live",
+    "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+    "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-23T17:06:08Z"
+  },
+  {
+    "title": "White House trails announcement on tariffs amid reports of new duties",
+    "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-23T16:53:42Z"
+  },
+  {
+    "title": "‘Customers prefer AI chatbots to humans’ says British Gas boss as 1,300 call centre staff axed",
+    "url": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-23T16:45:56Z"
+  },
+  {
+    "title": "Trump considering ‘massive attack’ on Iran, says report – Middle East crisis live",
     "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
     "source": "The Guardian",
-    "publishedAt": "2026-07-23T15:24:39Z"
+    "publishedAt": "2026-07-23T16:40:48Z"
   },
   {
     "title": "ECB keeps interest rates unchanged amid Iran war inflation",
@@ -54,69 +72,51 @@
     "publishedAt": "2026-07-23T11:36:31Z"
   },
   {
-    "title": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
-    "url": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-23T11:33:24Z"
-  },
-  {
     "title": "Former State Department official on the implications of the U.S.-Saudi nuclear deal",
     "url": "https://www.npr.org/2026/07/23/nx-s1-5903069/former-state-department-official-on-the-implications-of-the-u-s-saudi-nuclear-deal",
     "source": "NPR",
     "publishedAt": "2026-07-23T10:45:56Z"
   },
   {
-    "title": "Tankers make sharp U-turns after Houthi shipping threat",
-    "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-22T14:42:49Z"
-  },
-  {
     "title": "House passes war powers resolution again in pushback over Iran war as $1.15tn defense bill faces uphill Senate battle – live",
     "url": "https://www.theguardian.com/us-news/live/2026/jul/23/us-house-defense-spending-bill-donald-trump-iran-rubio-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-07-23T15:37:47Z"
+    "publishedAt": "2026-07-23T16:53:08Z"
   },
   {
-    "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-23T15:23:24Z"
-  },
-  {
-    "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-    "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+    "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+    "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-07-23T15:22:06Z"
+    "publishedAt": "2026-07-23T16:50:59Z"
+  },
+  {
+    "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah-2?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-23T16:48:55Z"
   },
   {
     "title": "Saudis must recognise Israel for nuclear deal, says Trump",
     "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-07-23T15:05:47Z"
+    "publishedAt": "2026-07-23T16:17:44Z"
   },
   {
-    "title": "US strikes on southern Iran infrastructure widen war",
-    "url": "https://www.dw.com/en/us-strikes-on-southern-iran-infrastructure-widen-war/a-78087402?maca=en-rss-en-world-4025-rdf",
+    "title": "US-Saudi nuclear deal: How will it impact Middle East, US-Iran war?",
+    "url": "https://www.dw.com/en/us-saudi-nuclear-deal-how-will-it-impact-middle-east-us-iran-war/a-78087041?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
-    "publishedAt": "2026-07-23T14:55:00Z"
+    "publishedAt": "2026-07-23T16:14:00Z"
   },
   {
-    "title": "Kuwait-Iraq border crossing hit in drone attack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-23T14:53:56Z"
-  },
-  {
-    "title": "Trump's refugee policy: Only white South Africans welcome?",
-    "url": "https://www.dw.com/en/trump-s-refugee-policy-only-white-south-africans-welcome/a-78075039?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-07-23T14:53:00Z"
-  },
-  {
-    "title": "Burnham pauses prisoner early release scheme before September launch",
-    "url": "https://www.theguardian.com/society/2026/jul/23/burnham-review-of-prison-early-release-causing-chaos-union",
+    "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-07-23T14:44:50Z"
+    "publishedAt": "2026-07-23T16:13:00Z"
+  },
+  {
+    "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
+    "url": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-23T16:12:43Z"
   }
 ]
