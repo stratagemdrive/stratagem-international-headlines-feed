@@ -1,5 +1,11 @@
 [
   {
+    "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
+    "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-24T14:37:00Z"
+  },
+  {
     "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
     "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
     "source": "NPR",
@@ -15,19 +21,25 @@
     "title": "Trump’s new tariffs ‘a sales tax that will make life harder for Americans’, say Democrats – US politics live",
     "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-07-24T12:14:39Z"
+    "publishedAt": "2026-07-24T14:16:50Z"
   },
   {
-    "title": "New York Chinatown fears impact of $8bn casino development, calling it ‘predatory project’",
-    "url": "https://www.theguardian.com/us-news/2026/jul/24/new-yorks-chinatown-casino-fears",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-24T12:00:14Z"
+    "title": "U.S. military base in Iraq targeted by Iran as renewed fighting nears 2-week mark",
+    "url": "https://www.cbc.ca/news/world/us-iran-war-iraq-base-9.7282046?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-07-24T13:13:34Z"
   },
   {
-    "title": "Trump’s latest tariffs put UK at disadvantage to EU, say experts",
-    "url": "https://www.theguardian.com/business/2026/jul/24/trump-tariffs-uk-disadvantage-eu-turnberry-competition",
+    "title": "US hits dozens of countries with new wave of tariffs",
+    "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-24T12:40:44Z"
+  },
+  {
+    "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
+    "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
     "source": "The Guardian",
-    "publishedAt": "2026-07-24T11:52:30Z"
+    "publishedAt": "2026-07-24T11:49:19Z"
   },
   {
     "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
@@ -36,7 +48,7 @@
     "publishedAt": "2026-07-24T11:45:04Z"
   },
   {
-    "title": "Trump threatens Iran with further escalation as tit-for-tat airstrikes continue",
+    "title": "Trump threatens a major escalation in Iran as the war nears the end of Month 5",
     "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
     "source": "NPR",
     "publishedAt": "2026-07-24T11:30:08Z"
@@ -54,13 +66,7 @@
     "publishedAt": "2026-07-24T10:44:01Z"
   },
   {
-    "title": "First Thing: Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
-    "url": "https://www.theguardian.com/us-news/2026/jul/24/first-thing-trump-imposes-fresh-tariffs-on-uk-eu-and-dozens-of-other-trading-partners",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-24T10:43:27Z"
-  },
-  {
-    "title": "US allies hit with new tariffs object to Trump's forced labor claims",
+    "title": "U.S. allies hit with new tariffs object to Trump's forced labor claims",
     "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
     "source": "NPR",
     "publishedAt": "2026-07-24T10:31:08Z"
@@ -78,22 +84,10 @@
     "publishedAt": "2026-07-24T09:13:45Z"
   },
   {
-    "title": "US hits dozens of countries with new wave of tariffs",
-    "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-24T08:59:31Z"
-  },
-  {
     "title": "Donald Trump hits Australian exports to US with new higher trade tariff over claims of ‘forced labour’",
     "url": "https://www.theguardian.com/australia-news/2026/jul/24/donald-trump-hits-australian-exports-to-us-with-new-higher-trade-tariff-over-claims-of-forced-labour",
     "source": "The Guardian",
     "publishedAt": "2026-07-24T07:04:07Z"
-  },
-  {
-    "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
-    "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-24T06:01:39Z"
   },
   {
     "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
@@ -118,5 +112,11 @@
     "url": "https://www.dw.com/en/oil-prices-jump-as-hormuz-red-sea-crises-deepen/a-78078835?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-07-23T13:36:00Z"
+  },
+  {
+    "title": "Middle East crisis is ‘getting out of control’, UN chief warns – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-24T02:33:09Z"
   }
 ]
