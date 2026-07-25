@@ -30,30 +30,6 @@
     "publishedAt": "2026-07-24T21:22:39Z"
   },
   {
-    "title": "US small businesses challenge Trump’s new forced labour tariffs",
-    "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-24T20:49:17Z"
-  },
-  {
-    "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-24T20:40:27Z"
-  },
-  {
-    "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
-    "url": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-24T20:32:12Z"
-  },
-  {
-    "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
-    "url": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-24T20:22:04Z"
-  },
-  {
     "title": "Trump vows tariffs to come for Canada over wildfire smoke that has drifted to U.S.",
     "url": "https://www.cbc.ca/news/world/trump-vows-wildfire-smoke-tariffs-canada-9.7282977?cmp=rss",
     "source": "CBC",
@@ -72,10 +48,22 @@
     "publishedAt": "2026-07-24T18:46:00Z"
   },
   {
+    "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+    "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-25T07:22:47Z"
+  },
+  {
     "title": "Deadly clash near West Bank village kills 4 Palestinians, 2 Israelis as IDF launches major operation",
     "url": "https://www.cbc.ca/news/world/israel-west-bank-settlers-military-confrontation-9.7282403?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-24T16:45:34Z"
+  },
+  {
+    "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+    "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-25T06:34:40Z"
   },
   {
     "title": "World chess chief faces endgame after EU announces Russia war sanctions",
@@ -88,12 +76,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-24T15:22:56Z"
-  },
-  {
-    "title": "Trump pokes fun at press during White House Correspondents' Dinner",
-    "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-25T05:12:57Z"
   },
   {
     "title": "Reclaiming stolen childhoods: swimming classes resume in Gaza after three years of war",
@@ -118,5 +100,23 @@
     "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-24T12:40:44Z"
+  },
+  {
+    "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
+    "source": "UN News",
+    "publishedAt": "2026-07-24T12:00:00Z"
+  },
+  {
+    "title": "Wildfires surge across Europe as Spain and France battle major blazes",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168013",
+    "source": "UN News",
+    "publishedAt": "2026-07-24T12:00:00Z"
+  },
+  {
+    "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
+    "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-24T11:49:19Z"
   }
 ]
