@@ -1,5 +1,11 @@
 [
   {
+    "title": "‘Shameful’: Pentagon accused of cover-up over US military casualties in Iran war",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-25T10:00:41Z"
+  },
+  {
     "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
     "url": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
     "source": "Al Jazeera",
@@ -30,10 +36,22 @@
     "publishedAt": "2026-07-24T23:01:06Z"
   },
   {
-    "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
-    "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+    "title": "India’s education minister resigns amid Cockroach youth movement protests",
+    "url": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement",
     "source": "The Guardian",
-    "publishedAt": "2026-07-24T21:22:39Z"
+    "publishedAt": "2026-07-25T10:37:57Z"
+  },
+  {
+    "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+    "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-25T10:14:41Z"
+  },
+  {
+    "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+    "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-25T09:54:44Z"
   },
   {
     "title": "Trump vows tariffs to come for Canada over wildfire smoke that has drifted to U.S.",
@@ -100,23 +118,5 @@
     "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-07-24T15:22:56Z"
-  },
-  {
-    "title": "Reclaiming stolen childhoods: swimming classes resume in Gaza after three years of war",
-    "url": "https://www.theguardian.com/world/2026/jul/25/swimming-classes-resume-gaza-after-three-years-war",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-25T05:00:36Z"
-  },
-  {
-    "title": "U.S. military says it fired on merchant vessel that tried to breach blockade of Iranian ports",
-    "url": "https://www.cbc.ca/news/world/us-iran-war-iraq-base-9.7282046?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-07-24T13:13:34Z"
-  },
-  {
-    "title": "US hits dozens of countries with new wave of tariffs",
-    "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-24T12:40:44Z"
   }
 ]
