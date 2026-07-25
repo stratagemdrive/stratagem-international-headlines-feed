@@ -1,5 +1,11 @@
 [
   {
+    "title": "Israeli forces tear gas journalists reporting Nablus shootout",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-25T21:08:24Z"
+  },
+  {
     "title": "Israel detains more than 70 suspects after deadly violence in West Bank",
     "url": "https://www.cbc.ca/news/world/israel-detains-suspects-west-bank-violence-9.7283911?cmp=rss",
     "source": "CBC",
@@ -16,6 +22,12 @@
     "url": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
     "source": "The Guardian",
     "publishedAt": "2026-07-24T17:20:09Z"
+  },
+  {
+    "title": "How India’s ‘Cockroach’ protesters shook the Modi government",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-25T20:57:45Z"
   },
   {
     "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
@@ -106,17 +118,5 @@
     "url": "https://www.cbc.ca/news/world/houthis-missiles-saudi-arabia-hodeida-9.7283754?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-25T12:50:40Z"
-  },
-  {
-    "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
-    "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-25T12:49:06Z"
-  },
-  {
-    "title": "Baby rescued after Israeli settlers set home on fire amid raids",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-25T12:41:14Z"
   }
 ]
