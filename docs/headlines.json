@@ -1,9 +1,27 @@
 [
   {
-    "title": "Australia news live: gasps in NSW State Library as AusAlert blares; some users report not receiving emergency warning test",
-    "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
+    "title": "German arms export licences for Israel surge with focus on sub project",
+    "url": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-27T07:20:07Z"
+  },
+  {
+    "title": "Oil price slides as US and Iran pause fire; cancer treatments help AstraZeneca beat profit forecasts – business live",
+    "url": "https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news",
     "source": "The Guardian",
-    "publishedAt": "2026-07-27T06:19:40Z"
+    "publishedAt": "2026-07-27T10:31:04Z"
+  },
+  {
+    "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
+    "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-27T10:19:36Z"
+  },
+  {
+    "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+    "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-27T06:15:01Z"
   },
   {
     "title": "Can the U.S. and Iran take the off-ramp?",
@@ -30,16 +48,10 @@
     "publishedAt": "2026-07-27T03:34:06Z"
   },
   {
-    "title": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
-    "url": "https://www.aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-27T01:59:02Z"
-  },
-  {
-    "title": "Pentagon reports more than 600 Iran war casualties in quiet database update",
-    "url": "https://www.theguardian.com/us-news/2026/jul/26/pentagon-iran-war-troop-deaths-casualty-report",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-26T22:55:06Z"
+    "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+    "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-27T02:08:36Z"
   },
   {
     "title": "U.S., Iran pause attacks for 2nd straight day",
@@ -48,16 +60,16 @@
     "publishedAt": "2026-07-26T21:16:14Z"
   },
   {
-    "title": "Israeli government nods to international stabilisation force in Gaza",
-    "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-26T21:10:07Z"
+    "title": "Republicans have ‘nothing to run on’ in midterms after Trump failures, Jeffries says",
+    "url": "https://www.theguardian.com/us-news/2026/jul/27/hakeem-jeffries-trump-republicans-midterms",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-27T09:00:36Z"
   },
   {
-    "title": "Palestinians hope international peace force can rebuild Gaza",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
+    "title": "The AI military complex: Which are the main companies in it?",
+    "url": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-07-26T21:01:18Z"
+    "publishedAt": "2026-07-27T08:09:54Z"
   },
   {
     "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
@@ -66,22 +78,34 @@
     "publishedAt": "2026-07-26T17:16:06Z"
   },
   {
-    "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
-    "url": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-world-4025-rdf",
+    "title": "Berlin Pride: Latest in string of deadly vehicle attacks",
+    "url": "https://www.dw.com/en/berlin-pride-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-07-26T17:15:00Z"
+  },
+  {
+    "title": "Protesters launch high court challenge to Queensland ban on ‘from the river to the sea’",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/27/protesters-launch-high-court-challenge-to-queensland-ban-on-from-the-river-to-the-sea-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-27T06:57:05Z"
+  },
+  {
+    "title": "US pauses Iran attacks after Trump advised to halt bombing",
+    "url": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-27T06:33:40Z"
+  },
+  {
+    "title": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
+    "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-27T05:59:22Z"
   },
   {
     "title": "Monday briefing: ​How the Cockroach ​protests ​have expose​d the ​cracks in ​India’s government",
     "url": "https://www.theguardian.com/world/2026/jul/27/monday-briefing-how-the-cockroach-protests-have-exposed-the-cracks-in-indias-government",
     "source": "The Guardian",
     "publishedAt": "2026-07-27T05:47:17Z"
-  },
-  {
-    "title": "Seven suspected new bird flu cases are ‘evidence of spread’ into Australian wildlife, experts warn",
-    "url": "https://www.theguardian.com/australia-news/2026/jul/27/h5-bird-flu-suspected-new-cases-south-australia",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-27T05:30:18Z"
   },
   {
     "title": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
@@ -94,29 +118,5 @@
     "url": "https://www.cbc.ca/news/world/berlin-pride-attack-islamic-extremist-terror-9.7284768?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-26T13:00:01Z"
-  },
-  {
-    "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-27T00:00:00Z"
-  },
-  {
-    "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
-    "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-26T23:44:29Z"
-  },
-  {
-    "title": "US and Iran hit pause on strikes for second day",
-    "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-26T20:55:52Z"
-  },
-  {
-    "title": "What we know so far about the Berlin Pride ramming attack",
-    "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-26T20:34:23Z"
   }
 ]
