@@ -6,16 +6,16 @@
     "publishedAt": "2026-07-29T01:07:09Z"
   },
   {
-    "title": "US Senate votes to advance Russia sanctions bill that would give Trump new tariff powers – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-29T01:56:41Z"
-  },
-  {
     "title": "Iran and US trade strikes, shattering brief lull in fighting",
     "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-07-29T00:51:45Z"
+    "publishedAt": "2026-07-29T04:30:08Z"
+  },
+  {
+    "title": "US Senate votes to advance Russia sanctions bill that would give Trump new tariff powers – as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-29T02:01:58Z"
   },
   {
     "title": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops",
@@ -54,6 +54,24 @@
     "publishedAt": "2026-07-28T19:17:10Z"
   },
   {
+    "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
+    "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-29T04:00:22Z"
+  },
+  {
+    "title": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
+    "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+    "source": "The Guardian",
+    "publishedAt": "2026-07-29T03:36:14Z"
+  },
+  {
+    "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-29T02:54:45Z"
+  },
+  {
     "title": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping mall",
     "url": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
     "source": "NPR",
@@ -64,6 +82,12 @@
     "url": "https://news.un.org/feed/view/en/story/2026/07/1168037",
     "source": "UN News",
     "publishedAt": "2026-07-28T12:00:00Z"
+  },
+  {
+    "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+    "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-07-29T01:37:23Z"
   },
   {
     "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
@@ -84,12 +108,6 @@
     "publishedAt": "2026-07-28T10:26:38Z"
   },
   {
-    "title": "US says it intercepted ‘surprise’ Iran missile attack on its forces in Middle East after lull in fighting",
-    "url": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-29T00:12:56Z"
-  },
-  {
     "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
     "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
     "source": "Al Jazeera",
@@ -100,23 +118,5 @@
     "url": "https://www.cbc.ca/news/climate/wildfire-mitigation-communities-9.7286495?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-28T08:00:00Z"
-  },
-  {
-    "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-28T21:24:20Z"
-  },
-  {
-    "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
-    "url": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-07-28T21:01:19Z"
-  },
-  {
-    "title": "Drone video shows homes reduced to ashes, rubble by wildfire in southwestern France",
-    "url": "https://www.cbc.ca/player/play/9.7287930?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-07-28T20:54:46Z"
   }
 ]
