@@ -6,10 +6,16 @@
     "publishedAt": "2026-08-01T03:18:29Z"
   },
   {
-    "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
-    "url": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
+    "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+    "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-01T07:22:30Z"
+  },
+  {
+    "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
+    "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
     "source": "The Guardian",
-    "publishedAt": "2026-08-01T04:00:41Z"
+    "publishedAt": "2026-08-01T07:00:45Z"
   },
   {
     "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
@@ -28,6 +34,12 @@
     "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
     "source": "The Guardian",
     "publishedAt": "2026-07-31T20:57:36Z"
+  },
+  {
+    "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+    "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-01T07:21:46Z"
   },
   {
     "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
@@ -60,7 +72,7 @@
     "publishedAt": "2026-07-31T13:06:00Z"
   },
   {
-    "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+    "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
     "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-01T02:06:00Z"
@@ -76,6 +88,12 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-07-31T23:59:40Z"
+  },
+  {
+    "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+    "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-07-31T23:58:12Z"
   },
   {
     "title": "Cambridge students on why they protested at graduation ceremony",
@@ -100,23 +118,5 @@
     "url": "https://www.cbc.ca/news/world/ceuta-spain-morocco-migrants-9.7292107?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-07-31T19:29:52Z"
-  },
-  {
-    "title": "What triggered the mass migrant crossings into Ceuta?",
-    "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-31T18:29:04Z"
-  },
-  {
-    "title": "India’s monsoon rains in danger as UN chief warns planet is ‘on fire’",
-    "url": "https://www.theguardian.com/environment/2026/jul/31/india-monsoon-el-nino-hot-dry-conditions-meteorologists",
-    "source": "The Guardian",
-    "publishedAt": "2026-07-31T17:37:32Z"
-  },
-  {
-    "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-07-31T17:03:47Z"
   }
 ]
