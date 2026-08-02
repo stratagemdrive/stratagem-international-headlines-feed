@@ -1,11 +1,5 @@
 [
   {
-    "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
-    "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-01T16:43:34Z"
-  },
-  {
     "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
     "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -42,16 +36,22 @@
     "publishedAt": "2026-08-01T19:03:39Z"
   },
   {
-    "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
-    "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-01T17:57:18Z"
-  },
-  {
     "title": "Italy putting nearly all major cities on highest heat alert",
     "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-01T17:51:46Z"
+  },
+  {
+    "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+    "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-02T05:40:42Z"
+  },
+  {
+    "title": "‘This is where democracy beats totalitarianism’: Ukraine’s drone strike force takes the fight to Russia",
+    "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/02/this-is-where-democracy-beats-totalitarianism-ukraines-drone-strike-force-takes-the-fight-to-russia",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-02T05:00:12Z"
   },
   {
     "title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
@@ -60,13 +60,31 @@
     "publishedAt": "2026-08-01T14:58:54Z"
   },
   {
-    "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-    "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-02T00:02:18Z"
+    "title": "Trump climbs down on Iran strikes after Saudi alarm and threats from Tehran",
+    "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-02T04:45:37Z"
   },
   {
-    "title": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
+    "title": "Three dead including female bomber in Moscow restaurant attack",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-02T04:44:55Z"
+  },
+  {
+    "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+    "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-02T03:36:43Z"
+  },
+  {
+    "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+    "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-02T03:05:16Z"
+  },
+  {
+    "title": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
     "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-02T00:00:00Z"
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-01T21:15:50Z"
-  },
-  {
-    "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
-    "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-01T07:00:45Z"
-  },
-  {
-    "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-    "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-01T20:09:27Z"
-  },
-  {
-    "title": "Palestinian children among those detained by Israel in West Bank raids",
-    "url": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-01T18:51:14Z"
   }
 ]
