@@ -1,15 +1,27 @@
 [
   {
+    "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+    "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-04T02:56:26Z"
+  },
+  {
+    "title": "US states sue to block Trump tariffs impacting dozens of countries",
+    "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-04T02:53:00Z"
+  },
+  {
+    "title": "Trump administration sued by 25 states over new tariffs on trading partners",
+    "url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-04T00:29:48Z"
+  },
+  {
     "title": "Abandoned by the US: Palestinian Americans trapped in a surge of Israeli settler violence",
     "url": "https://www.theguardian.com/world/2026/aug/03/palestinian-village-trapped-surge-settler-violence-turmus-ayya-west-bank",
     "source": "The Guardian",
     "publishedAt": "2026-08-03T10:00:14Z"
-  },
-  {
-    "title": "US states sue Trump administration over new tariffs on 60 trading partners",
-    "url": "https://www.theguardian.com/us-news/2026/aug/03/states-sue-trump-administration-tariffs",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-03T22:35:38Z"
   },
   {
     "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
@@ -36,12 +48,6 @@
     "publishedAt": "2026-08-03T17:44:01Z"
   },
   {
-    "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
-    "url": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-03T16:12:55Z"
-  },
-  {
     "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
     "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
     "source": "The Guardian",
@@ -54,10 +60,22 @@
     "publishedAt": "2026-08-03T15:57:27Z"
   },
   {
+    "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+    "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-04T03:37:14Z"
+  },
+  {
     "title": "Greece battles massive wildfire as hot, dry summer maintains its grip on Europe",
     "url": "https://www.cbc.ca/news/world/greece-wildfires-europe-heat-9.7294796?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-08-03T11:31:26Z"
+  },
+  {
+    "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-04T00:00:00Z"
   },
   {
     "title": "Ukrainian drone attacks on Black Sea resort and Crimea kill 11, Russia claims",
@@ -100,23 +118,5 @@
     "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-03T19:42:55Z"
-  },
-  {
-    "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-03T18:55:25Z"
-  },
-  {
-    "title": "Small insects, big damage: The global ant trade is booming",
-    "url": "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-08-02T14:30:00Z"
-  },
-  {
-    "title": "Drone slams into Russian beach, killing at least 7 people",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-03T18:05:23Z"
   }
 ]
