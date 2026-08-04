@@ -1,15 +1,39 @@
 [
   {
-    "title": "BP profits more than double as Iran war sends oil prices soaring",
-    "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-04T06:54:30Z"
-  },
-  {
     "title": "Price of olive oil expected to rise again as European crops feel the heat",
     "url": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
     "source": "The Guardian",
     "publishedAt": "2026-08-04T04:00:13Z"
+  },
+  {
+    "title": "Vote to take place on Blanche nomination after GOP senators drop opposition – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-04T12:41:18Z"
+  },
+  {
+    "title": "Middle East crisis live: Qatar says diplomatic efforts ‘ongoing’ as Iran insists it does not seek to expand war",
+    "url": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-04T12:28:57Z"
+  },
+  {
+    "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+    "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-04T11:26:28Z"
+  },
+  {
+    "title": "Why Israel’s economy hasn’t collapsed during a multi-front war",
+    "url": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-04T11:21:01Z"
+  },
+  {
+    "title": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
+    "url": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-04T10:40:08Z"
   },
   {
     "title": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
@@ -24,7 +48,7 @@
     "publishedAt": "2026-08-04T10:04:53Z"
   },
   {
-    "title": "Colombia’s elephant-costumed anti-corruption activist sworn in as senator",
+    "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
     "url": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
     "source": "The Guardian",
     "publishedAt": "2026-08-04T10:00:47Z"
@@ -54,69 +78,45 @@
     "publishedAt": "2026-08-04T02:56:26Z"
   },
   {
-    "title": "Trump administration sued by 25 states over new tariffs on trading partners",
-    "url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-04T00:29:48Z"
-  },
-  {
-    "title": "Abandoned by the US: Palestinian Americans trapped in a surge of Israeli settler violence",
-    "url": "https://www.theguardian.com/world/2026/aug/03/palestinian-village-trapped-surge-settler-violence-turmus-ayya-west-bank",
+    "title": "Spain says 70,000 out of 72,000 migrants that entered Ceuta in mass border crossing have returned to Morocco – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-08-03T10:00:14Z"
+    "publishedAt": "2026-08-04T12:42:34Z"
   },
   {
-    "title": "More than 150 migrants rescued after boat catches fire in Channel",
-    "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-04T10:23:51Z"
-  },
-  {
-    "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-    "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-04T09:35:06Z"
-  },
-  {
-    "title": "Fresh US-Iran talks are ‘last chance’ for Tehran to avoid war escalating, Trump says",
-    "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-03T19:36:44Z"
-  },
-  {
-    "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
-    "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-04T09:23:06Z"
-  },
-  {
-    "title": "What will happen when a SpaceX rocket collides with the Moon?",
-    "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-04T09:13:37Z"
-  },
-  {
-    "title": "Cars burn in reported settler attack in occupied West Bank",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+    "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
+    "url": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-08-04T08:51:47Z"
+    "publishedAt": "2026-08-04T12:22:19Z"
+  },
+  {
+    "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+    "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-04T12:21:41Z"
   },
   {
     "title": "About 1,000 fewer prisoners to get early release as Burnham tightens rules",
     "url": "https://www.theguardian.com/society/2026/aug/04/fewer-prisoners-early-release-burnham-tightens-rules",
     "source": "The Guardian",
-    "publishedAt": "2026-08-04T08:16:11Z"
+    "publishedAt": "2026-08-04T12:18:17Z"
   },
   {
-    "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-    "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+    "title": "UN experts urge Canada to protect Sikh activist amid credible threats to his life",
+    "url": "https://www.theguardian.com/world/2026/aug/04/un-experts-urge-canada-to-protect-sikh-activist-amid-credible-threats-to-his-life",
     "source": "The Guardian",
-    "publishedAt": "2026-08-03T17:44:01Z"
+    "publishedAt": "2026-08-04T12:17:38Z"
   },
   {
-    "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
-    "url": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+    "title": "Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan",
+    "url": "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-08-04T07:19:29Z"
+    "publishedAt": "2026-08-04T11:30:30Z"
+  },
+  {
+    "title": "More than 150 migrants rescued after boat catches fire in Channel",
+    "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-04T11:19:08Z"
   }
 ]
