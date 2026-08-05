@@ -1,11 +1,5 @@
 [
   {
-    "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
-    "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
-    "source": "NPR",
-    "publishedAt": "2026-08-05T10:15:44Z"
-  },
-  {
     "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
     "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -15,7 +9,19 @@
     "title": "Middle East crisis live: Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry",
     "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-08-05T17:13:10Z"
+    "publishedAt": "2026-08-05T19:08:09Z"
+  },
+  {
+    "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+    "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-05T18:19:51Z"
+  },
+  {
+    "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
+    "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-05T17:32:21Z"
   },
   {
     "title": "Pakistani authorities ban international media from reporting in most of country",
@@ -40,6 +46,30 @@
     "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-05T11:19:42Z"
+  },
+  {
+    "title": "'Scariest night' as Ukraine fails to intercept Russian attack",
+    "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-05T19:00:32Z"
+  },
+  {
+    "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+    "url": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-05T18:40:06Z"
+  },
+  {
+    "title": "It looks like a SpaceX rocket did slam into the moon (as predicted)",
+    "url": "https://www.cbc.ca/news/science/spacex-moon-crash-9.7297190?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-05T18:28:51Z"
+  },
+  {
+    "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+    "url": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-05T17:41:24Z"
   },
   {
     "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
@@ -88,35 +118,5 @@
     "url": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
     "source": "The Guardian",
     "publishedAt": "2026-08-05T01:41:07Z"
-  },
-  {
-    "title": "War on Iran: US-Iran deal edges closer",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-05T15:12:34Z"
-  },
-  {
-    "title": "India's Gen Z protest enters a new online battle",
-    "url": "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-08-05T14:59:00Z"
-  },
-  {
-    "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-05T14:08:46Z"
-  },
-  {
-    "title": "UN rights chief alarmed by rise in Iran executions since March",
-    "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-05T14:04:09Z"
-  },
-  {
-    "title": "UN rights chief says Iran executed at least 56 people since March",
-    "url": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-05T12:58:22Z"
   }
 ]
