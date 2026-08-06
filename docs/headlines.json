@@ -1,11 +1,5 @@
 [
   {
-    "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-    "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-05T21:21:51Z"
-  },
-  {
     "title": "Understanding reached on coordinates for shipping route through Hormuz, Iran says",
     "url": "https://www.theguardian.com/world/2026/aug/05/iran-oman-reach-hormuz-route-coordinates",
     "source": "The Guardian",
@@ -46,6 +40,24 @@
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168082",
     "source": "UN News",
     "publishedAt": "2026-08-05T12:00:00Z"
+  },
+  {
+    "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+    "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-06T01:19:59Z"
+  },
+  {
+    "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-06T00:00:00Z"
+  },
+  {
+    "title": "Man and pregnant woman found dead in outback Queensland home in apparent murder-suicide after long siege",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-05T23:41:44Z"
   },
   {
     "title": "Israeli forces raid camp in occupied West Bank",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-05T18:40:06Z"
-  },
-  {
-    "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-05T18:38:46Z"
-  },
-  {
-    "title": "It looks like a SpaceX rocket did slam into the moon (as predicted)",
-    "url": "https://www.cbc.ca/news/science/spacex-moon-crash-9.7297190?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-05T18:28:51Z"
   }
 ]
