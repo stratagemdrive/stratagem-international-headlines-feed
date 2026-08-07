@@ -1,11 +1,5 @@
 [
   {
-    "title": "Australia news live: Attorney General warns women and children at risk of ‘harmful conduct’ from smartglasses users; major delays at Sydney airport",
-    "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-07T05:18:38Z"
-  },
-  {
     "title": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168094",
     "source": "UN News",
@@ -18,12 +12,6 @@
     "publishedAt": "2026-08-07T01:03:35Z"
   },
   {
-    "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
-    "url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-06T20:59:29Z"
-  },
-  {
     "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
     "url": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
     "source": "NPR",
@@ -34,6 +22,12 @@
     "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-06T17:36:07Z"
+  },
+  {
+    "title": "Australia news live: Attorney general warns women and children at risk of ‘harmful conduct’ from smartglasses users; Victoria puts chickens in lockdown due to bird flu",
+    "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-07T06:54:08Z"
   },
   {
     "title": "Ukraine hits two oil refineries deep in Russian territory",
@@ -114,9 +108,15 @@
     "publishedAt": "2026-08-06T19:15:33Z"
   },
   {
-    "title": "How Ukraine is taking the war 'deeper' into Russia",
-    "url": "https://www.bbc.co.uk/news/videos/ce8l6x3r9gjo?at_medium=RSS&at_campaign=rss",
+    "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+    "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-08-06T17:51:11Z"
+    "publishedAt": "2026-08-06T17:38:51Z"
+  },
+  {
+    "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+    "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-06T15:41:29Z"
   }
 ]
