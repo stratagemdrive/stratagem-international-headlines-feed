@@ -78,12 +78,6 @@
     "publishedAt": "2026-08-08T13:31:00Z"
   },
   {
-    "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
-    "url": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-08T13:00:46Z"
-  },
-  {
     "title": "Russian strikes in Kyiv region kill 4 people, including a 3-year-old",
     "url": "https://www.cbc.ca/news/world/russian-strike-kyiv-child-9.7300564?cmp=rss",
     "source": "CBC",
@@ -118,5 +112,11 @@
     "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
     "source": "The Guardian",
     "publishedAt": "2026-08-08T04:08:18Z"
+  },
+  {
+    "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+    "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+    "source": "NPR",
+    "publishedAt": "2026-08-07T10:56:19Z"
   }
 ]
