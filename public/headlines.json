@@ -12,6 +12,12 @@
     "publishedAt": "2026-08-07T15:02:00Z"
   },
   {
+    "title": "Child among three killed in Russian missile attacks near Kyiv",
+    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-08T15:49:41Z"
+  },
+  {
     "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
     "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
     "source": "Al Jazeera",
@@ -40,12 +46,6 @@
     "url": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-08-08T13:31:00Z"
-  },
-  {
-    "title": "Child among three killed in Russian missile attacks near Kyiv",
-    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-08T13:29:38Z"
   },
   {
     "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
@@ -84,12 +84,6 @@
     "publishedAt": "2026-08-08T09:00:43Z"
   },
   {
-    "title": "Typhoon Dolphin hits Japan, heads towards China",
-    "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-08T08:50:49Z"
-  },
-  {
     "title": "'I woke up and I had lost the baby': Miscarriages in Gaza spike amid harsh conditions, UN report finds",
     "url": "https://www.cbc.ca/news/world/gaza-miscarriages-2026-9.7300001?cmp=rss",
     "source": "CBC",
@@ -118,5 +112,11 @@
     "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-08T00:02:49Z"
+  },
+  {
+    "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-07T23:50:39Z"
   }
 ]
