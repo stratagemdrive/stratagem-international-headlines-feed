@@ -1,9 +1,21 @@
 [
   {
-    "title": "Ukraine confirms strikes on oil refinery in Russia’s Tatarstan – Europe live",
+    "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+    "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-10T15:12:17Z"
+  },
+  {
+    "title": "Ukraine confirms strikes on oil refinery in Russia’s Tatarstan – as it happened",
     "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
     "source": "The Guardian",
-    "publishedAt": "2026-08-10T13:52:09Z"
+    "publishedAt": "2026-08-10T14:32:18Z"
+  },
+  {
+    "title": "7.4-magnitude earthquake strikes Colombia, killing at least 20 and trapping people in collapsed buildings",
+    "url": "https://www.cbc.ca/news/world/colombia-ecuador-earthquake-9.7301513?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-10T14:21:30Z"
   },
   {
     "title": "ASEAN closing ranks as cyberscam threat escalates",
@@ -42,16 +54,34 @@
     "publishedAt": "2026-08-09T14:30:58Z"
   },
   {
-    "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-    "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-10T13:59:58Z"
+    "title": "At least 20 dead as powerful earthquake strikes western Colombia",
+    "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-10T15:38:43Z"
   },
   {
     "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
     "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-08-10T12:54:13Z"
+    "publishedAt": "2026-08-10T14:34:25Z"
+  },
+  {
+    "title": "War on Iran: Phase II: Day 30",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-10T14:07:04Z"
+  },
+  {
+    "title": "Which country is the new Mecca defense pact targeting?",
+    "url": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-08-10T14:00:00Z"
+  },
+  {
+    "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+    "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-10T13:59:58Z"
   },
   {
     "title": "Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports",
@@ -88,35 +118,5 @@
     "url": "https://www.cbc.ca/news/world/ukraine-russia-drone-attack-nizhnekamsk-9.7301433?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-08-10T11:39:00Z"
-  },
-  {
-    "title": "Protesters rally in India’s Jharkhand over alleged exam irregularities",
-    "url": "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-10T11:23:48Z"
-  },
-  {
-    "title": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
-    "url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-10T11:06:22Z"
-  },
-  {
-    "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-    "url": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-10T10:55:38Z"
-  },
-  {
-    "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
-    "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-10T09:09:08Z"
-  },
-  {
-    "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-    "url": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
-    "source": "NPR",
-    "publishedAt": "2026-08-10T08:58:22Z"
   }
 ]
