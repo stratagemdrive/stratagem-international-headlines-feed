@@ -12,12 +12,6 @@
     "publishedAt": "2026-08-10T14:32:18Z"
   },
   {
-    "title": "Oil prices, stocks surge as Hormuz closure drags on",
-    "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-10T15:45:39Z"
-  },
-  {
     "title": "Migrant children go days without food in Ceuta amid asylum crisis",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
     "source": "Al Jazeera",
@@ -28,6 +22,12 @@
     "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-10T18:15:23Z"
+  },
+  {
+    "title": "Flip-flopping Netanyahu rejects Gaza plan but cannot placate all his allies",
+    "url": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-10T17:27:54Z"
   },
   {
     "title": "7.4-magnitude earthquake strikes Colombia, killing more than 100 and trapping people in collapsed buildings",
@@ -52,12 +52,6 @@
     "url": "https://www.theguardian.com/australia-news/2026/aug/10/new-head-australian-trade-union-movement-melissa-donnelly-sally-mcmanus-steps-down",
     "source": "The Guardian",
     "publishedAt": "2026-08-10T10:00:42Z"
-  },
-  {
-    "title": "Australia politics live: parliament returns as Labor seeks deals on NDIS, gambling ads and news bargaining reforms",
-    "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-10T21:19:46Z"
   },
   {
     "title": "Why Russia and Ukraine can't stop each other's air attacks",
@@ -102,12 +96,6 @@
     "publishedAt": "2026-08-10T17:30:36Z"
   },
   {
-    "title": "Benjamin Netanyahu’s rejection of US deal for Gaza is risky move",
-    "url": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-10T17:27:54Z"
-  },
-  {
     "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
     "url": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
     "source": "NPR",
@@ -118,5 +106,17 @@
     "url": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-10T16:03:43Z"
+  },
+  {
+    "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
+    "url": "https://www.theguardian.com/world/2026/aug/10/us-intelligence-russia-leipzig-airport-drone-bomb",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-10T15:55:26Z"
+  },
+  {
+    "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+    "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-10T14:34:25Z"
   }
 ]
