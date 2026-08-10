@@ -3,7 +3,7 @@
     "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
     "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
     "source": "The Guardian",
-    "publishedAt": "2026-08-10T15:12:17Z"
+    "publishedAt": "2026-08-10T16:25:30Z"
   },
   {
     "title": "Ukraine confirms strikes on oil refinery in Russia’s Tatarstan – as it happened",
@@ -12,7 +12,13 @@
     "publishedAt": "2026-08-10T14:32:18Z"
   },
   {
-    "title": "7.4-magnitude earthquake strikes Colombia, killing at least 20 and trapping people in collapsed buildings",
+    "title": "Oil prices, stocks surge as Hormuz closure drags on",
+    "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-10T15:45:39Z"
+  },
+  {
+    "title": "7.4-magnitude earthquake strikes Colombia, killing at least 47 and trapping people in collapsed buildings",
     "url": "https://www.cbc.ca/news/world/colombia-ecuador-earthquake-9.7301513?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-08-10T14:21:30Z"
@@ -52,6 +58,24 @@
     "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
     "source": "The Guardian",
     "publishedAt": "2026-08-09T14:30:58Z"
+  },
+  {
+    "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+    "url": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+    "source": "NPR",
+    "publishedAt": "2026-08-10T16:08:06Z"
+  },
+  {
+    "title": "Sudan’s army chief holds unannounced talks on national dialogue",
+    "url": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-10T16:03:43Z"
+  },
+  {
+    "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
+    "url": "https://www.theguardian.com/world/2026/aug/10/us-intelligence-russia-leipzig-airport-drone-bomb",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-10T15:55:26Z"
   },
   {
     "title": "At least 20 dead as powerful earthquake strikes western Colombia",
@@ -94,29 +118,5 @@
     "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-10T12:32:26Z"
-  },
-  {
-    "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-    "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-10T12:23:21Z"
-  },
-  {
-    "title": "Taiwan holds military drills to prepare for invasion by China",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-10T12:09:08Z"
-  },
-  {
-    "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
-    "url": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
-    "source": "NPR",
-    "publishedAt": "2026-08-10T11:42:58Z"
-  },
-  {
-    "title": "Ukrainian drone attack kills 13 in Russian city of Nizhnekamsk",
-    "url": "https://www.cbc.ca/news/world/ukraine-russia-drone-attack-nizhnekamsk-9.7301433?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-10T11:39:00Z"
   }
 ]
