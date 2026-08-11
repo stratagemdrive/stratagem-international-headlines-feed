@@ -12,7 +12,19 @@
     "publishedAt": "2026-08-11T08:28:24Z"
   },
   {
-    "title": "Houthis kill four in first deadly attack since start of Iran war, Yemen says",
+    "title": "Rights groups sue Trump administration over ICC sanctions",
+    "url": "https://www.cbc.ca/news/world/trump-icc-sanctions-lawsuit-9.7302876?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-11T16:05:00Z"
+  },
+  {
+    "title": "Somalia child hunger surges as aid drops, Doctors Without Borders says",
+    "url": "https://www.cbc.ca/news/health/somalia-malnutrition-funding-drop-9.7302975?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-11T15:54:30Z"
+  },
+  {
+    "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
     "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-11T15:41:13Z"
@@ -46,6 +58,12 @@
     "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
     "source": "NPR",
     "publishedAt": "2026-08-11T05:48:27Z"
+  },
+  {
+    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-11T16:19:44Z"
   },
   {
     "title": "Thailand suspends new gun permits after mass shooting",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-11T12:40:11Z"
-  },
-  {
-    "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
-    "url": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-11T12:27:15Z"
-  },
-  {
-    "title": "Turkey MPs back historic law on reintegrating PKK militants",
-    "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-08-10T22:22:00Z"
-  },
-  {
-    "title": "Houthi attack on small cargo ship in Red Sea kills 4, Yemeni authorities say",
-    "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-9.7302807?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-11T12:02:59Z"
   }
 ]
