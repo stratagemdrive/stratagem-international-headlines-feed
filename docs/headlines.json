@@ -1,5 +1,11 @@
 [
   {
+    "title": "Libyan authorities battle big blaze at major oil refinery",
+    "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-11T08:28:24Z"
+  },
+  {
     "title": "Fire rages after drone strikes Libya’s largest oil refinery",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
     "source": "Al Jazeera",
@@ -18,16 +24,58 @@
     "publishedAt": "2026-08-11T05:48:27Z"
   },
   {
-    "title": "Ceuta mayor calls for migrant detention amid mass influx crisis",
-    "url": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-10T22:41:03Z"
-  },
-  {
     "title": "Turkey MPs back historic law on reintegrating PKK militants",
     "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-08-10T22:22:00Z"
+  },
+  {
+    "title": "Burnham rough-sleeper pledge at risk from failures in housing ex-prisoners, charity warns",
+    "url": "https://www.theguardian.com/society/2026/aug/11/andy-burnham-rough-sleeping-housing-released-prisoners",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-11T09:41:59Z"
+  },
+  {
+    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-11T09:39:58Z"
+  },
+  {
+    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-11T09:34:55Z"
+  },
+  {
+    "title": "Israeli settler violence is ‘clear state terrorism’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-11T09:30:17Z"
+  },
+  {
+    "title": "Coalition divided over tougher gambling laws – with MPs warning Angus Taylor against overreach",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/11/coalition-divided-angus-taylor-gambling-laws-overreach",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-11T08:55:59Z"
+  },
+  {
+    "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
+    "url": "https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-11T08:34:37Z"
+  },
+  {
+    "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
+    "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-11T08:25:41Z"
+  },
+  {
+    "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+    "url": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-11T08:13:31Z"
   },
   {
     "title": "Sunken Nazi warships are resurfacing as Europe's drought deepens",
@@ -42,12 +90,6 @@
     "publishedAt": "2026-08-11T07:56:48Z"
   },
   {
-    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-11T07:50:55Z"
-  },
-  {
     "title": "Flip-flopping Netanyahu rejects Gaza plan but cannot placate all his allies",
     "url": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble",
     "source": "The Guardian",
@@ -58,12 +100,6 @@
     "url": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-11T07:07:51Z"
-  },
-  {
-    "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
-    "url": "https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-11T06:32:13Z"
   },
   {
     "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
@@ -78,45 +114,9 @@
     "publishedAt": "2026-08-11T06:03:49Z"
   },
   {
-    "title": "Coalition divided over tougher gambling laws – with MPs warning Angus Taylor against overreach",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/11/coalition-divided-angus-taylor-gambling-laws-overreach",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-11T05:49:24Z"
-  },
-  {
     "title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
     "url": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-11T04:37:27Z"
-  },
-  {
-    "title": "China’s Long March 7A rocket explodes after lift-off",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-11T04:34:50Z"
-  },
-  {
-    "title": "7.4-magnitude earthquake strikes Colombia, killing more than 100 and trapping people in collapsed buildings",
-    "url": "https://www.cbc.ca/news/world/colombia-ecuador-earthquake-9.7301513?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-10T14:21:30Z"
-  },
-  {
-    "title": "ASEAN closing ranks as cyberscam threat escalates",
-    "url": "https://www.dw.com/en/asean-closing-ranks-as-cyberscam-threat-escalates/a-78304710?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-08-10T12:56:00Z"
-  },
-  {
-    "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-    "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-11T02:32:47Z"
-  },
-  {
-    "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-    "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-11T02:14:32Z"
   }
 ]
