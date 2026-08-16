@@ -1,9 +1,15 @@
 [
   {
-    "title": "Block export of ‘national treasure’ UK fossils, says MP",
-    "url": "https://www.theguardian.com/science/2026/aug/16/block-export-of-national-treasure-uk-fossils-says-mp",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-16T09:00:22Z"
+    "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+    "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-16T12:37:21Z"
+  },
+  {
+    "title": "Belgium’s largest wildfire on record spreads towards German border",
+    "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-16T12:35:31Z"
   },
   {
     "title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow",
@@ -22,12 +28,6 @@
     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
     "source": "NPR",
     "publishedAt": "2026-08-16T10:12:09Z"
-  },
-  {
-    "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-    "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-16T08:23:38Z"
   },
   {
     "title": "BBC visits smouldering Kyiv market after Russian strikes",
@@ -84,12 +84,6 @@
     "publishedAt": "2026-08-16T04:44:30Z"
   },
   {
-    "title": "Israel strikes south Lebanon again as families flee north",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-16T04:43:21Z"
-  },
-  {
     "title": "Trump's Latin America allies open arms to Israel",
     "url": "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -118,5 +112,11 @@
     "url": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
     "source": "The Guardian",
     "publishedAt": "2026-08-15T05:00:49Z"
+  },
+  {
+    "title": "Morocco arrests 111 migrants headed to Spain's Ceuta as sides step up crackdown",
+    "url": "https://www.cbc.ca/news/world/morocco-arrest-migrants-spain-ceuta-9.7308697?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-15T18:01:34Z"
   }
 ]
