@@ -18,16 +18,16 @@
     "publishedAt": "2026-08-16T01:43:57Z"
   },
   {
+    "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-16T10:09:10Z"
+  },
+  {
     "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
     "url": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
     "source": "The Guardian",
     "publishedAt": "2026-08-15T20:00:06Z"
-  },
-  {
-    "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-16T09:04:14Z"
   },
   {
     "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
@@ -90,18 +90,6 @@
     "publishedAt": "2026-08-16T00:44:59Z"
   },
   {
-    "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-16T00:00:45Z"
-  },
-  {
-    "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
-    "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-15T23:27:10Z"
-  },
-  {
     "title": "Australian state to launch gun buyback after Bondi Beach attack",
     "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -118,5 +106,17 @@
     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-15T20:21:14Z"
+  },
+  {
+    "title": "Morocco arrests 111 migrants headed to Spain's Ceuta as sides step up crackdown",
+    "url": "https://www.cbc.ca/news/world/morocco-arrest-migrants-spain-ceuta-9.7308697?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-15T18:01:34Z"
+  },
+  {
+    "title": "Lebanon says 11 killed in Israeli airstrikes",
+    "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-08-15T15:35:00Z"
   }
 ]
