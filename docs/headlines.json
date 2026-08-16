@@ -1,11 +1,5 @@
 [
   {
-    "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-    "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-16T04:54:33Z"
-  },
-  {
     "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
     "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
     "source": "Al Jazeera",
@@ -24,6 +18,18 @@
     "publishedAt": "2026-08-15T20:00:06Z"
   },
   {
+    "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-16T08:14:56Z"
+  },
+  {
+    "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-16T08:11:47Z"
+  },
+  {
     "title": "Troops from North Korea to boost Russia's Ukraine forces",
     "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -34,6 +40,12 @@
     "url": "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-08-16T05:31:00Z"
+  },
+  {
+    "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+    "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-16T04:54:33Z"
   },
   {
     "title": "Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
@@ -106,17 +118,5 @@
     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-15T20:21:14Z"
-  },
-  {
-    "title": "Moroccan police intercept migrants heading for Ceuta enclave",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-15T20:07:07Z"
-  },
-  {
-    "title": "Morocco arrests 111 migrants headed to Spain's Ceuta as sides step up crackdown",
-    "url": "https://www.cbc.ca/news/world/morocco-arrest-migrants-spain-ceuta-9.7308697?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-15T18:01:34Z"
   }
 ]
