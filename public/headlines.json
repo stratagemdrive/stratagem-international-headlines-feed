@@ -1,5 +1,11 @@
 [
   {
+    "title": "Australia politics live: Greens senator accuses Labor of backing gas industry and billionaires over ‘disabled people and our families’",
+    "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-17T02:08:57Z"
+  },
+  {
     "title": "Republican senator denounces Trump’s ‘crazy, stupid’ claims about MMR vaccine safety",
     "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
     "source": "The Guardian",
@@ -36,10 +42,16 @@
     "publishedAt": "2026-08-16T12:37:21Z"
   },
   {
+    "title": "Trump orders joint military exercises with South Korea to be scaled back",
+    "url": "https://www.cbc.ca/news/world/trump-joint-military-exercises-south-korea-9.7309317?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-17T01:55:02Z"
+  },
+  {
     "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
     "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
     "source": "The Guardian",
-    "publishedAt": "2026-08-17T00:19:53Z"
+    "publishedAt": "2026-08-17T01:49:36Z"
   },
   {
     "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-16T20:55:19Z"
-  },
-  {
-    "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-    "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-    "source": "NPR",
-    "publishedAt": "2026-08-16T20:20:22Z"
-  },
-  {
-    "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-16T19:29:31Z"
   }
 ]
