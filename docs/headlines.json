@@ -1,5 +1,17 @@
 [
   {
+    "title": "Russian enriched uranium shipped to Canadian-owned Westinghouse in U.S.",
+    "url": "https://www.cbc.ca/news/canada/russian-enriched-uranium-westinghouse-9.7296239?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-17T08:00:00Z"
+  },
+  {
+    "title": "Where do Canada-U.S. trade negotiations stand? Here's a sector-by-sector breakdown",
+    "url": "https://www.cbc.ca/news/politics/canada-united-states-trade-negotiations-tariffs-9.7309218?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-17T08:00:00Z"
+  },
+  {
     "title": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
     "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
     "source": "The Guardian",
@@ -22,6 +34,24 @@
     "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
     "source": "The Guardian",
     "publishedAt": "2026-08-16T19:58:31Z"
+  },
+  {
+    "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-17T08:18:05Z"
+  },
+  {
+    "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+    "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-17T08:00:05Z"
+  },
+  {
+    "title": "JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks",
+    "url": "https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-17T07:55:31Z"
   },
   {
     "title": "Ukrainian strikes kill six in Russia, acting governor says",
@@ -88,35 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-17T00:05:34Z"
-  },
-  {
-    "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-    "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-    "source": "NPR",
-    "publishedAt": "2026-08-16T10:12:09Z"
-  },
-  {
-    "title": "Iran war live: Tehran warns of shift to offensive posture as US MoU expires",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-17T00:00:35Z"
-  },
-  {
-    "title": "Thailand has a gun problem - 10 million of them",
-    "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-16T22:09:04Z"
-  },
-  {
-    "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-    "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-16T22:07:32Z"
-  },
-  {
-    "title": "What could stop Israeli settler attacks on Palestinians?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-16T21:54:58Z"
   }
 ]
