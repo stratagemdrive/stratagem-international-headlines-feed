@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+    "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+    "source": "NPR",
+    "publishedAt": "2026-08-17T05:21:39Z"
+  },
+  {
     "title": "Republican senator denounces Trump’s ‘crazy, stupid’ claims about MMR vaccine safety",
     "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
     "source": "The Guardian",
@@ -12,10 +18,28 @@
     "publishedAt": "2026-08-16T19:03:04Z"
   },
   {
-    "title": "Nazi artefacts still being sold online years after trade outlawed across Australia",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
+    "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-17T05:16:18Z"
+  },
+  {
+    "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+    "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-17T05:06:47Z"
+  },
+  {
+    "title": "More women will die if domestic abusers leave prison early, victim’s parents warn",
+    "url": "https://www.theguardian.com/society/2026/aug/17/more-women-will-die-if-domestic-abusers-leave-prison-early-victims-parents-warn",
     "source": "The Guardian",
-    "publishedAt": "2026-08-16T15:00:30Z"
+    "publishedAt": "2026-08-17T05:00:47Z"
+  },
+  {
+    "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-17T04:50:56Z"
   },
   {
     "title": "'European capital of corgis' hosts 150 dogs in international competition",
@@ -34,12 +58,6 @@
     "url": "https://www.theguardian.com/australia-news/2026/aug/17/alan-jones-allegedly-kissed-driver-in-wardrobe-james-packer-personal-suite-crown-towers-ntwnfb",
     "source": "The Guardian",
     "publishedAt": "2026-08-17T03:24:21Z"
-  },
-  {
-    "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-    "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-17T02:51:27Z"
   },
   {
     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-16T21:51:39Z"
-  },
-  {
-    "title": "Anwar Ibrahim: Malaysia between the superpowers",
-    "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-16T21:23:03Z"
-  },
-  {
-    "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-16T20:55:19Z"
-  },
-  {
-    "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-    "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-    "source": "NPR",
-    "publishedAt": "2026-08-16T20:20:22Z"
   }
 ]
