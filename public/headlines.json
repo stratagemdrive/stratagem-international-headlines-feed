@@ -1,5 +1,11 @@
 [
   {
+    "title": "Australia politics live: Coalition MPs cross floor in protest against gambling bill; Liberals target Labor on housing crisis in question time",
+    "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-18T05:08:47Z"
+  },
+  {
     "title": "Top economists urge Burnham to sign UK up to UN initiative on global inequality",
     "url": "https://www.theguardian.com/inequality/2026/aug/18/economists-andy-burnham-uk-un-initiative-global-international-panel-inequality",
     "source": "The Guardian",
@@ -36,10 +42,16 @@
     "publishedAt": "2026-08-17T16:01:47Z"
   },
   {
-    "title": "Australia politics live: Coalition MPs cross floor in protest against gambling bill; Greens leader says Labor ‘should hang their heads in shame’",
-    "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-18T03:59:41Z"
+    "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+    "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-18T05:07:06Z"
+  },
+  {
+    "title": "Russia warns UK over supplying drones to Ukraine",
+    "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-18T04:59:25Z"
   },
   {
     "title": "Belgian wildfire approaches Germany despite rain as Greece probes deadly blaze",
@@ -58,12 +70,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168155",
     "source": "UN News",
     "publishedAt": "2026-08-17T12:00:00Z"
-  },
-  {
-    "title": "Russia warns UK over supplying drones to Ukraine",
-    "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-18T01:16:41Z"
   },
   {
     "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
@@ -112,11 +118,5 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-17T19:34:20Z"
-  },
-  {
-    "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-17T19:32:06Z"
   }
 ]
