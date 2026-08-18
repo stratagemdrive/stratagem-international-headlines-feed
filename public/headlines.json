@@ -1,9 +1,15 @@
 [
   {
-    "title": "Coalition MPs cross floor over ‘weak’ gambling crackdown as major parties strike deal",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/18/gambling-reforms-betting-ads-labor-coalition-strike-deal",
+    "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
+    "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
     "source": "The Guardian",
-    "publishedAt": "2026-08-18T06:09:05Z"
+    "publishedAt": "2026-08-18T07:04:12Z"
+  },
+  {
+    "title": "UK pay growth slows as Iran war prompts cost of living squeeze",
+    "url": "https://www.theguardian.com/business/2026/aug/18/uk-pay-growth-ons-iran-war-cost-of-living-unemployment-rate",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-18T07:18:19Z"
   },
   {
     "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
@@ -36,6 +42,36 @@
     "publishedAt": "2026-08-17T17:46:00Z"
   },
   {
+    "title": "Moscow warns UK over reports Ukraine using British drones to attack Russia",
+    "url": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-18T07:27:29Z"
+  },
+  {
+    "title": "David Pocock condemns Labor-Coalition deal on gambling bill as ‘betrayal of all Australians’",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/18/gambling-reforms-betting-ads-labor-coalition-strike-deal",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-18T07:11:32Z"
+  },
+  {
+    "title": "Russia says more than 600 drones targeted Moscow region",
+    "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-18T06:47:40Z"
+  },
+  {
+    "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+    "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-18T06:40:00Z"
+  },
+  {
+    "title": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+    "url": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-18T06:35:43Z"
+  },
+  {
     "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
     "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
     "source": "The Guardian",
@@ -52,12 +88,6 @@
     "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-18T05:07:06Z"
-  },
-  {
-    "title": "Russia warns UK over supplying drones to Ukraine",
-    "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-18T04:59:25Z"
   },
   {
     "title": "Belgian wildfire approaches Germany despite rain as Greece probes deadly blaze",
@@ -88,35 +118,5 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-18T00:00:00Z"
-  },
-  {
-    "title": "Russian enriched uranium shipped to Canadian-owned Westinghouse in U.S.",
-    "url": "https://www.cbc.ca/news/canada/russian-enriched-uranium-westinghouse-9.7296239?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-17T08:00:00Z"
-  },
-  {
-    "title": "Where do Canada-U.S. trade negotiations stand? Here's a sector-by-sector breakdown",
-    "url": "https://www.cbc.ca/news/politics/canada-united-states-trade-negotiations-tariffs-9.7309218?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-17T08:00:00Z"
-  },
-  {
-    "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-    "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-17T20:54:03Z"
-  },
-  {
-    "title": "Trump says Iran will not make the deal he believes is necessary",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-17T20:49:30Z"
-  },
-  {
-    "title": "Trump threatens to bomb Oman if it 'gets in the way' with Iran",
-    "url": "https://www.cbc.ca/news/world/iran-us-conflict-trump-oman-9.7310060?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-17T20:40:51Z"
   }
 ]
