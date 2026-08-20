@@ -1,5 +1,17 @@
 [
   {
+    "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-20T08:01:32Z"
+  },
+  {
+    "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+    "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-20T07:38:22Z"
+  },
+  {
     "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
     "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
     "source": "The Guardian",
@@ -24,22 +36,10 @@
     "publishedAt": "2026-08-19T12:00:00Z"
   },
   {
-    "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-20T00:00:00Z"
-  },
-  {
     "title": "$30K US dead or alive: Iran's new bounty on U.S. soldiers | About That",
     "url": "https://www.cbc.ca/player/play/9.7313319?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-08-19T23:44:41Z"
-  },
-  {
-    "title": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
-    "url": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-19T23:24:43Z"
   },
   {
     "title": "Amid the Iran war, the U.S. has pivoted it's geopolitical attention away from Asia",
@@ -54,6 +54,30 @@
     "publishedAt": "2026-08-19T20:15:25Z"
   },
   {
+    "title": "Video shows Russian missile strike on Ukrainian capital",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-20T08:18:15Z"
+  },
+  {
+    "title": "Ex-defence minister's call for a wartime election puts pressure on Ukraine's Zelenskyy",
+    "url": "https://www.cbc.ca/news/world/zelenskyy-fedorov-ukraine-politics-war-9.7312955?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-20T08:00:00Z"
+  },
+  {
+    "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+    "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-20T07:59:55Z"
+  },
+  {
+    "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-20T07:50:07Z"
+  },
+  {
     "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
     "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -64,12 +88,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-20T07:33:11Z"
-  },
-  {
-    "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
-    "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-20T07:19:40Z"
   },
   {
     "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
@@ -100,23 +118,5 @@
     "url": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
     "source": "NPR",
     "publishedAt": "2026-08-19T16:18:35Z"
-  },
-  {
-    "title": "Zomi Frankcom: Penny Wong condemns ‘insulting’ decision to clear IDF over Gaza strikes that killed Australian aid worker",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-20T06:11:31Z"
-  },
-  {
-    "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
-    "source": "NPR",
-    "publishedAt": "2026-08-20T05:50:53Z"
-  },
-  {
-    "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-20T04:59:22Z"
   }
 ]
