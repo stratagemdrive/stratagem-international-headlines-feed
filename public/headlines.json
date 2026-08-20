@@ -6,10 +6,16 @@
     "publishedAt": "2026-08-20T10:14:30Z"
   },
   {
+    "title": "How Myanmar’s war drives the Rohingya crisis",
+    "url": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-20T11:00:00Z"
+  },
+  {
     "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
     "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-08-20T09:47:19Z"
+    "publishedAt": "2026-08-20T10:33:22Z"
   },
   {
     "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
@@ -22,12 +28,6 @@
     "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
     "source": "The Guardian",
     "publishedAt": "2026-08-20T04:53:44Z"
-  },
-  {
-    "title": "Deadly Russian missile attack in Kyiv leaves parts of capital without power",
-    "url": "https://www.cbc.ca/news/world/russian-missiles-attack-kyiv-9.7313497?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-20T02:38:51Z"
   },
   {
     "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
@@ -46,6 +46,24 @@
     "url": "https://www.cbc.ca/player/play/9.7313319?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-08-19T23:44:41Z"
+  },
+  {
+    "title": "More than a dozen killed as Kyiv comes under intense Russian bombardment",
+    "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-20T11:10:50Z"
+  },
+  {
+    "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+    "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-20T11:06:54Z"
+  },
+  {
+    "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+    "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-20T10:25:29Z"
   },
   {
     "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
@@ -70,12 +88,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-20T10:07:48Z"
-  },
-  {
-    "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-    "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-20T09:37:31Z"
   },
   {
     "title": "North Korea fires a suspected missile toward the sea, Japan says",
@@ -106,17 +118,5 @@
     "url": "https://www.cbc.ca/news/world/zelenskyy-fedorov-ukraine-politics-war-9.7312955?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-08-20T08:00:00Z"
-  },
-  {
-    "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-20T07:50:07Z"
-  },
-  {
-    "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-    "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-19T17:46:01Z"
   }
 ]
