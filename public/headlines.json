@@ -1,11 +1,5 @@
 [
   {
-    "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-    "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-21T00:04:10Z"
-  },
-  {
     "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
     "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
     "source": "Al Jazeera",
@@ -54,6 +48,24 @@
     "publishedAt": "2026-08-20T20:10:42Z"
   },
   {
+    "title": "Russia’s missile tests around disputed islands anger Japan",
+    "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-21T04:54:01Z"
+  },
+  {
+    "title": "Morrocco: migrants caught between Ceuta dreams and reality",
+    "url": "https://www.dw.com/en/morrocco-migrants-caught-between-ceuta-dreams-and-reality/a-78443537?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-08-21T04:49:00Z"
+  },
+  {
+    "title": "Dozens of migrants land on Spanish coast surprising beachgoers",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-21T04:47:56Z"
+  },
+  {
     "title": "Antigovernment protesters take to Tunisia’s streets for second month",
     "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
     "source": "Al Jazeera",
@@ -64,6 +76,12 @@
     "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-21T00:44:46Z"
+  },
+  {
+    "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
+    "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-21T00:04:10Z"
   },
   {
     "title": "The cost of rebuilding family homes in war-ravaged Syria",
@@ -100,23 +118,5 @@
     "url": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
     "source": "NPR",
     "publishedAt": "2026-08-20T20:05:10Z"
-  },
-  {
-    "title": "Israel clears itself in killing of Canadian during airstrikes on World Central Kitchen convoy",
-    "url": "https://www.cbc.ca/news/politics/israeli-airstrike-quebec-aid-worker-gaza-investigation-9.7314335?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-20T19:04:17Z"
-  },
-  {
-    "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
-    "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-20T04:53:44Z"
-  },
-  {
-    "title": "Leaders attack ‘demotivating’ plan to make pupils who fail GCSEs retake maths and English",
-    "url": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-20T18:21:32Z"
   }
 ]
