@@ -1,9 +1,21 @@
 [
   {
+    "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
+    "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-21T01:12:02Z"
+  },
+  {
     "title": "Could US sanctions destroy the International Criminal Court?",
     "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-20T19:38:29Z"
+  },
+  {
+    "title": "US sanctions more Cuban companies and officials",
+    "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-21T02:06:28Z"
   },
   {
     "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
@@ -30,34 +42,22 @@
     "publishedAt": "2026-08-20T20:10:42Z"
   },
   {
-    "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
-    "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-20T19:11:44Z"
-  },
-  {
-    "title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-20T19:09:33Z"
-  },
-  {
     "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – as it happened",
     "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
     "source": "The Guardian",
     "publishedAt": "2026-08-20T15:21:52Z"
   },
   {
+    "title": "Antigovernment protesters take to Tunisia’s streets for second month",
+    "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-21T01:06:30Z"
+  },
+  {
     "title": "Taliban release two detained UN staff members in Afghanistan",
     "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-21T00:44:46Z"
-  },
-  {
-    "title": "Australia news live: Israel ambassador insists IDF strike that killed Zomi Frankcom a ‘reasonable mistake’; body of hiker Lily Hooper recovered from bush",
-    "url": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-21T00:42:59Z"
   },
   {
     "title": "The cost of rebuilding family homes in war-ravaged Syria",
@@ -102,12 +102,6 @@
     "publishedAt": "2026-08-20T19:04:17Z"
   },
   {
-    "title": "James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report",
-    "url": "https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-20T19:03:30Z"
-  },
-  {
     "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
     "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
     "source": "The Guardian",
@@ -118,5 +112,11 @@
     "url": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
     "source": "The Guardian",
     "publishedAt": "2026-08-20T18:21:32Z"
+  },
+  {
+    "title": "Why is Israel's military presence growing in Syria?",
+    "url": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-08-20T17:33:00Z"
   }
 ]
