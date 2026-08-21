@@ -1,15 +1,21 @@
 [
   {
-    "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-    "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-20T19:52:48Z"
-  },
-  {
     "title": "Could US sanctions destroy the International Criminal Court?",
     "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-20T19:38:29Z"
+  },
+  {
+    "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+    "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-20T23:19:56Z"
   },
   {
     "title": "US pummels Cuban economy with new sanctions on mining, construction",
@@ -36,22 +42,22 @@
     "publishedAt": "2026-08-20T19:09:33Z"
   },
   {
-    "title": "Thai schools hold shooter drills after deadly attack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-20T18:59:08Z"
-  },
-  {
     "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – as it happened",
     "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
     "source": "The Guardian",
     "publishedAt": "2026-08-20T15:21:52Z"
   },
   {
+    "title": "Taliban release two detained UN staff members in Afghanistan",
+    "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-21T00:44:46Z"
+  },
+  {
     "title": "Australia news live: Israel ambassador insists IDF strike that killed Zomi Frankcom a ‘reasonable mistake’; body of hiker Lily Hooper recovered from bush",
     "url": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
     "source": "The Guardian",
-    "publishedAt": "2026-08-20T22:53:19Z"
+    "publishedAt": "2026-08-21T00:42:59Z"
   },
   {
     "title": "The cost of rebuilding family homes in war-ravaged Syria",
@@ -64,12 +70,6 @@
     "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
     "source": "The Guardian",
     "publishedAt": "2026-08-20T22:15:02Z"
-  },
-  {
-    "title": "Website behind widely shared fake election polls run by 21-year-old",
-    "url": "https://www.theguardian.com/us-news/2026/aug/20/fake-polling-website-median-strategies",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-20T21:33:59Z"
   },
   {
     "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
@@ -108,15 +108,15 @@
     "publishedAt": "2026-08-20T19:03:30Z"
   },
   {
-    "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
-    "url": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-20T18:55:52Z"
-  },
-  {
     "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
     "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
     "source": "The Guardian",
     "publishedAt": "2026-08-20T04:53:44Z"
+  },
+  {
+    "title": "Leaders attack ‘demotivating’ plan to make pupils who fail GCSEs retake maths and English",
+    "url": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-20T18:21:32Z"
   }
 ]
