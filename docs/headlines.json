@@ -1,5 +1,11 @@
 [
   {
+    "title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
+    "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-22T06:05:58Z"
+  },
+  {
     "title": "Russia imports gas as Ukrainian strikes result in shortages",
     "url": "https://www.npr.org/2026/08/21/nx-s1-5939990/russia-imports-gas-as-ukrainian-strikes-result-in-shortages",
     "source": "NPR",
@@ -24,12 +30,6 @@
     "publishedAt": "2026-08-22T04:36:27Z"
   },
   {
-    "title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
-    "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-22T04:23:38Z"
-  },
-  {
     "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
     "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
     "source": "Al Jazeera",
@@ -46,12 +46,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-21T23:19:37Z"
-  },
-  {
-    "title": "Global Sumud Flotilla joins Albania’s anti-resort protest",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-21T21:11:13Z"
   },
   {
     "title": "Zelenskyy vows response to deadly Russian multi-drone attack on shopping centre in central Ukraine",
@@ -118,5 +112,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-22T00:32:35Z"
+  },
+  {
+    "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-22T00:06:48Z"
   }
 ]
