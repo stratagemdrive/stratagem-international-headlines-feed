@@ -1,9 +1,27 @@
 [
   {
+    "title": "US threatens severe sanctions against countries with economic ties to Iran",
+    "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-24T18:57:57Z"
+  },
+  {
+    "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+    "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-24T18:55:43Z"
+  },
+  {
     "title": "US treasury secretary announces ‘onslaught’ of sanctions to isolate Iran from world economy – live",
     "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-08-24T18:13:56Z"
+    "publishedAt": "2026-08-24T18:48:16Z"
+  },
+  {
+    "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+    "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-24T18:22:14Z"
   },
   {
     "title": "Trump administration announces global economic war on Iran",
@@ -66,6 +84,18 @@
     "publishedAt": "2026-08-23T17:24:46Z"
   },
   {
+    "title": "Israel threatens attacks in Gaza over children’s kites",
+    "url": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-24T19:00:55Z"
+  },
+  {
+    "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
+    "url": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-24T18:22:18Z"
+  },
+  {
     "title": "Israeli strike on Gaza shelter extends casualty list",
     "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
     "source": "Al Jazeera",
@@ -88,35 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-24T15:29:14Z"
-  },
-  {
-    "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
-    "url": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T15:17:36Z"
-  },
-  {
-    "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-    "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-24T15:14:14Z"
-  },
-  {
-    "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-    "url": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T15:02:34Z"
-  },
-  {
-    "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
-    "url": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-24T15:00:36Z"
-  },
-  {
-    "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-24T14:01:35Z"
   }
 ]
