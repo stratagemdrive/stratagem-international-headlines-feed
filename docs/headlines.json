@@ -1,15 +1,15 @@
 [
   {
-    "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T00:00:00Z"
-  },
-  {
     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-23T19:11:30Z"
+  },
+  {
+    "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
+    "url": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-24T08:45:10Z"
   },
   {
     "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
@@ -42,22 +42,16 @@
     "publishedAt": "2026-08-24T03:56:59Z"
   },
   {
-    "title": "Will Donald Trump’s new sanctions against Iran work?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-23T21:34:53Z"
+    "title": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-24T09:28:26Z"
   },
   {
     "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
     "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
     "source": "The Guardian",
     "publishedAt": "2026-08-23T19:32:59Z"
-  },
-  {
-    "title": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-24T08:22:42Z"
   },
   {
     "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
@@ -118,5 +112,11 @@
     "url": "https://www.cbc.ca/news/canada/trump-canada-trade-dispute-9.7317333?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-08-23T12:33:01Z"
+  },
+  {
+    "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
+    "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-23T23:01:45Z"
   }
 ]
