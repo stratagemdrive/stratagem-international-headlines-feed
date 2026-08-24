@@ -42,12 +42,6 @@
     "publishedAt": "2026-08-24T17:53:00Z"
   },
   {
-    "title": "US launches ‘D-day sanctions’ aimed at cutting Iran’s economic lifeline",
-    "url": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T17:10:37Z"
-  },
-  {
     "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
     "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
     "source": "NPR",
@@ -84,6 +78,24 @@
     "publishedAt": "2026-08-23T19:11:30Z"
   },
   {
+    "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+    "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-24T21:40:48Z"
+  },
+  {
+    "title": "US public support for Iran war falls as Trump approval at record low: Poll",
+    "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-24T21:35:10Z"
+  },
+  {
+    "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-24T21:12:06Z"
+  },
+  {
     "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
     "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
     "source": "The Guardian",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-24T20:23:39Z"
-  },
-  {
-    "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-    "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-24T20:23:26Z"
-  },
-  {
-    "title": "Israel attacks desalination plant and mosque in Gaza",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T19:21:01Z"
   }
 ]
