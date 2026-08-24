@@ -1,5 +1,11 @@
 [
   {
+    "title": "US treasury secretary announces ‘onslaught’ of sanctions to isolate Iran from world economy – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-24T19:55:12Z"
+  },
+  {
     "title": "US threatens severe sanctions against countries with economic ties to Iran",
     "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
     "source": "The Guardian",
@@ -10,12 +16,6 @@
     "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
     "source": "The Guardian",
     "publishedAt": "2026-08-24T18:55:43Z"
-  },
-  {
-    "title": "US treasury secretary announces ‘onslaught’ of sanctions to isolate Iran from world economy – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-24T18:48:16Z"
   },
   {
     "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
@@ -84,6 +84,18 @@
     "publishedAt": "2026-08-23T17:24:46Z"
   },
   {
+    "title": "Yemen’s Houthis report attack on Saudi ship",
+    "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-24T19:44:23Z"
+  },
+  {
+    "title": "Israel attacks desalination plant and mosque in Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-24T19:21:01Z"
+  },
+  {
     "title": "Israel threatens attacks in Gaza over children’s kites",
     "url": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
     "source": "Al Jazeera",
@@ -106,17 +118,5 @@
     "url": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-24T16:02:50Z"
-  },
-  {
-    "title": "Are humanoid robots the future of warfare?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T15:30:54Z"
-  },
-  {
-    "title": "Russia launches rocket into space with military satellite",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T15:29:14Z"
   }
 ]
