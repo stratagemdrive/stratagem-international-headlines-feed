@@ -1,11 +1,5 @@
 [
   {
-    "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-    "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-23T15:38:16Z"
-  },
-  {
     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -36,12 +30,6 @@
     "publishedAt": "2026-08-23T19:32:59Z"
   },
   {
-    "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-    "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-23T15:54:36Z"
-  },
-  {
     "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
     "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -60,10 +48,16 @@
     "publishedAt": "2026-08-23T12:33:01Z"
   },
   {
-    "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
-    "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+    "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-24T00:00:00Z"
+  },
+  {
+    "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
+    "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
     "source": "The Guardian",
-    "publishedAt": "2026-08-23T22:40:36Z"
+    "publishedAt": "2026-08-23T23:01:45Z"
   },
   {
     "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
@@ -102,12 +96,6 @@
     "publishedAt": "2026-08-23T16:07:01Z"
   },
   {
-    "title": "Gaza families search for children missing after years of war",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-23T15:42:04Z"
-  },
-  {
     "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
     "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
     "source": "The Guardian",
@@ -118,5 +106,17 @@
     "url": "https://www.cbc.ca/news/world/zelenskyy-elections-destroy-ukraine-9.7317388?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-08-23T13:41:41Z"
+  },
+  {
+    "title": "Russia withdraws ambassador to UK as Kremlin raises pressure over Ukraine support",
+    "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-23T13:01:11Z"
+  },
+  {
+    "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+    "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-23T12:52:08Z"
   }
 ]
