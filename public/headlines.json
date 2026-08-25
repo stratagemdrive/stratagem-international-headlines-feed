@@ -1,11 +1,5 @@
 [
   {
-    "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
-    "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T19:44:23Z"
-  },
-  {
     "title": "How US sanctions on Iran ripple through global markets and consumers",
     "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
     "source": "Al Jazeera",
@@ -16,6 +10,12 @@
     "url": "https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse",
     "source": "NPR",
     "publishedAt": "2026-08-24T20:40:32Z"
+  },
+  {
+    "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-25T03:29:38Z"
   },
   {
     "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
@@ -52,6 +52,12 @@
     "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
     "source": "The Guardian",
     "publishedAt": "2026-08-24T18:22:14Z"
+  },
+  {
+    "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-25T02:53:48Z"
   },
   {
     "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
@@ -112,11 +118,5 @@
     "url": "https://www.npr.org/2026/08/24/nx-s1-5928030/american-doctor-documentary-gaza-healthcare",
     "source": "NPR",
     "publishedAt": "2026-08-24T08:45:40Z"
-  },
-  {
-    "title": "US removes Syria from ‘state sponsor of terrorism’ list",
-    "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T22:32:26Z"
   }
 ]
