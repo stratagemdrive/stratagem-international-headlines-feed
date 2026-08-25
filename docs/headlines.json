@@ -6,16 +6,10 @@
     "publishedAt": "2026-08-25T12:17:56Z"
   },
   {
-    "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-    "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-25T02:51:53Z"
-  },
-  {
     "title": "Trump claims US could rename Lake Ontario as Lake America amid Canada trade war – live",
     "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
     "source": "The Guardian",
-    "publishedAt": "2026-08-25T13:18:08Z"
+    "publishedAt": "2026-08-25T14:28:35Z"
   },
   {
     "title": "Iran defiant in face of new U.S. sanctions, promises to respond forcefully",
@@ -48,8 +42,8 @@
     "publishedAt": "2026-08-25T11:30:08Z"
   },
   {
-    "title": "Will tougher US sanctions disrupt Iran's shadow economy?",
-    "url": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-iran-s-shadow-economy/a-78494630?maca=en-rss-en-world-4025-rdf",
+    "title": "Can new US sanctions cripple Iran's shadow economy?",
+    "url": "https://www.dw.com/en/can-new-us-sanctions-cripple-iran-s-shadow-economy/a-78494630?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-08-25T10:34:00Z"
   },
@@ -64,6 +58,12 @@
     "url": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter",
     "source": "The Guardian",
     "publishedAt": "2026-08-25T10:00:34Z"
+  },
+  {
+    "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-25T14:22:46Z"
   },
   {
     "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
@@ -82,12 +82,6 @@
     "url": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-25T13:10:24Z"
-  },
-  {
-    "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-25T13:01:44Z"
   },
   {
     "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
@@ -118,5 +112,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-25T12:15:19Z"
+  },
+  {
+    "title": "Will Iran withdraw from nuclear non-proliferation treaty?",
+    "url": "https://www.dw.com/en/will-iran-withdraw-from-nuclear-non-proliferation-treaty/a-78495930?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-08-25T12:01:00Z"
   }
 ]
