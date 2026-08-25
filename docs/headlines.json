@@ -1,11 +1,5 @@
 [
   {
-    "title": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
-    "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-25T04:29:08Z"
-  },
-  {
     "title": "How US sanctions on Iran ripple through global markets and consumers",
     "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
     "source": "Al Jazeera",
@@ -22,12 +16,6 @@
     "url": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
     "source": "The Guardian",
     "publishedAt": "2026-08-25T03:29:38Z"
-  },
-  {
-    "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-25T00:00:00Z"
   },
   {
     "title": "Iran reacts to US ‘economic D-Day’ sanctions",
@@ -58,6 +46,12 @@
     "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
     "source": "The Guardian",
     "publishedAt": "2026-08-24T18:22:14Z"
+  },
+  {
+    "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+    "source": "NPR",
+    "publishedAt": "2026-08-25T05:14:03Z"
   },
   {
     "title": "Sydney shark attack survivor describes moment she came to face-to-face with ‘monster’",
@@ -118,5 +112,11 @@
     "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-25T00:17:25Z"
+  },
+  {
+    "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-25T00:00:00Z"
   }
 ]
