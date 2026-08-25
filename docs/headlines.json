@@ -1,15 +1,15 @@
 [
   {
+    "title": "Nvidia, Supermicro employees charged over export of AI servers to China",
+    "url": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-25T08:51:48Z"
+  },
+  {
     "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
     "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-08-25T02:51:53Z"
-  },
-  {
-    "title": "How US sanctions on Iran ripple through global markets and consumers",
-    "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-24T22:46:02Z"
   },
   {
     "title": "The view from Canada after U.S. trade negotiations collapse",
@@ -30,6 +30,36 @@
     "publishedAt": "2026-08-25T07:14:06Z"
   },
   {
+    "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-25T09:11:59Z"
+  },
+  {
+    "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+    "source": "NPR",
+    "publishedAt": "2026-08-25T09:07:09Z"
+  },
+  {
+    "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-25T09:05:54Z"
+  },
+  {
+    "title": "Woman allegedly repeatedly stabbed with scissors while protecting son from ‘random’ Melbourne CBD attack",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/25/woman-allegedly-repeatedly-stabbed-with-scissors-while-protecting-son-from-random-melbourne-cbd-attack-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-25T09:01:44Z"
+  },
+  {
+    "title": "Heatwave health risks threaten insurer earnings, rating agency S&P warns",
+    "url": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-25T08:52:08Z"
+  },
+  {
     "title": "US threatens severe sanctions against countries with economic ties to Iran",
     "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
     "source": "The Guardian",
@@ -40,6 +70,12 @@
     "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
     "source": "The Guardian",
     "publishedAt": "2026-08-24T18:55:43Z"
+  },
+  {
+    "title": "Pakistan says significant progress made in talks on Iran-US war",
+    "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-25T08:32:52Z"
   },
   {
     "title": "Burnham plans trip to New York as Ukraine pleads for US-made missiles",
@@ -82,41 +118,5 @@
     "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
     "source": "NPR",
     "publishedAt": "2026-08-25T05:14:03Z"
-  },
-  {
-    "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-    "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-25T04:06:34Z"
-  },
-  {
-    "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-25T02:53:48Z"
-  },
-  {
-    "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-    "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-    "source": "NPR",
-    "publishedAt": "2026-08-24T12:26:00Z"
-  },
-  {
-    "title": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168188",
-    "source": "UN News",
-    "publishedAt": "2026-08-24T12:00:00Z"
-  },
-  {
-    "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-    "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-24T11:53:10Z"
-  },
-  {
-    "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-25T01:46:26Z"
   }
 ]
