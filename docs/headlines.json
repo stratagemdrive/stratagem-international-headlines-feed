@@ -1,9 +1,45 @@
 [
   {
+    "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
+    "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-27T02:17:59Z"
+  },
+  {
+    "title": "Syria’s president makes first Visa payment after sanctions removal",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-27T01:08:19Z"
+  },
+  {
     "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
     "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
     "source": "The Guardian",
     "publishedAt": "2026-08-26T10:00:41Z"
+  },
+  {
+    "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+    "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-26T23:11:24Z"
+  },
+  {
+    "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+    "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-26T23:01:25Z"
+  },
+  {
+    "title": "Where Trump’s trade war with Canada could backfire | About That",
+    "url": "https://www.cbc.ca/player/play/9.7321982?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-26T22:32:12Z"
+  },
+  {
+    "title": "‘Work is good for you’: how UK scheme could help tackle youth mental health crisis",
+    "url": "https://www.theguardian.com/society/2026/aug/26/work-good-for-you-jobs-guarantee-youth-mental-health-crisis-pat-mcfadden",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-26T21:30:23Z"
   },
   {
     "title": "Trump's top trade negotiator disputes Canadian assertion that U.S. made last-minute demands",
@@ -24,18 +60,6 @@
     "publishedAt": "2026-08-26T18:15:21Z"
   },
   {
-    "title": "US imposes sanctions on Palestine Action and other left-wing groups",
-    "url": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-26T18:08:50Z"
-  },
-  {
-    "title": "US issues sanctions against UK-based direct action group Palestine Action",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/26/us-issues-sanctions-uk-based-palestine-action",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-26T17:45:04Z"
-  },
-  {
     "title": "How ugly will the Canada-U.S. trade war get?",
     "url": "https://www.cbc.ca/radio/trade-war-canada-united-states-tariffs-9.7320016?cmp=rss",
     "source": "CBC",
@@ -46,6 +70,36 @@
     "url": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-08-25T18:04:00Z"
+  },
+  {
+    "title": "Canada’s resistance to Trump’s trade demands offers Europe a blueprint. Will the EU take it?",
+    "url": "https://www.cbc.ca/news/world/canadas-resistance-to-trumps-trade-demands-offers-europe-a-blueprint-will-the-eu-take-it-9.7320845?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-26T14:50:16Z"
+  },
+  {
+    "title": "Australia news live: most banks now predict another rate hike; Ken Henry delivers warning over ‘stupid’ GST deal",
+    "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-27T02:42:43Z"
+  },
+  {
+    "title": "Nepal flash flood live updates: search on for hundreds missing near Tibet border as officials warn death toll could rise higher",
+    "url": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-27T02:25:57Z"
+  },
+  {
+    "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-27T02:07:32Z"
+  },
+  {
+    "title": "Red Sea nations step up maritime cooperation as regional threats grow",
+    "url": "https://news.un.org/feed/view/en/story/2026/08/1168211",
+    "source": "UN News",
+    "publishedAt": "2026-08-26T12:00:00Z"
   },
   {
     "title": "Deadly floods cause widespread destruction in China, Nepal",
@@ -64,59 +118,5 @@
     "url": "https://www.dw.com/en/india-assam-tea-industry-faces-climate-driven-labor-crisis/a-78506414?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-08-26T11:03:00Z"
-  },
-  {
-    "title": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/26-08-sv-unrwa-responds-to-aljazeera-fm?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-26T21:09:57Z"
-  },
-  {
-    "title": "What’s behind the SDF’s deal with Damascus?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-26T20:37:11Z"
-  },
-  {
-    "title": "8 migrants buried in Tunisia’s coastal town of Ben Guerdane",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/8-migrants-buried-in-tunisias-coastal-town-of-ben-guerdane?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-26T20:05:57Z"
-  },
-  {
-    "title": "Ukrainian drones target Wildberries e-commerce hub in Russia",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-26T19:41:35Z"
-  },
-  {
-    "title": "Israel-Hamas truce failure ‘point of no return’, envoy warns",
-    "url": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-26T19:31:34Z"
-  },
-  {
-    "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-    "source": "NPR",
-    "publishedAt": "2026-08-25T15:20:18Z"
-  },
-  {
-    "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
-    "url": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-26T18:19:14Z"
-  },
-  {
-    "title": "Amol Rajan warns BBC destined to shrink at ‘accelerating rate’",
-    "url": "https://www.theguardian.com/media/2026/aug/26/amol-rajan-warns-bbc-destined-to-shrink-at-accelerating-rate",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-26T18:15:19Z"
-  },
-  {
-    "title": "Trump says Iran war will continue for as long as necessary",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-26T18:07:37Z"
   }
 ]
