@@ -1,15 +1,39 @@
 [
   {
-    "title": "The Trump administration claims America will soon get a majority of its oil from Venezuela with new deal",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5948708/the-trump-administration-claims-america-will-soon-get-a-majority-of-its-oil-from-venezuela-with-new-deal",
-    "source": "NPR",
-    "publishedAt": "2026-08-30T12:02:27Z"
+    "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
+    "url": "https://www.cbc.ca/news/world/nepal-warns-possible-fresh-flooding-9.7325828?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-30T13:27:52Z"
   },
   {
-    "title": "Israel says Netanyahu’s son ‘urgently evacuated’ from the US after threat",
-    "url": "https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat?traffic_source=rss",
+    "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
+    "url": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-08-30T09:47:56Z"
+    "publishedAt": "2026-08-30T13:23:48Z"
+  },
+  {
+    "title": "Rohingya crisis: Aid falls and hope fades",
+    "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/30/rohingya-crisis-aid-falls-and-hope-fades?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-30T16:00:11Z"
+  },
+  {
+    "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
+    "url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-30T15:50:45Z"
+  },
+  {
+    "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+    "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-30T15:08:33Z"
+  },
+  {
+    "title": "Energy experts have doubts about Trump's newly proposed Venezuelan oil deal",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5948708/energy-experts-have-doubts-about-trumps-newly-proposed-venezuelan-oil-deal",
+    "source": "NPR",
+    "publishedAt": "2026-08-30T12:02:27Z"
   },
   {
     "title": "Pacific Islands Forum meeting in turmoil after several leaders pull out of Palau summit",
@@ -18,105 +42,81 @@
     "publishedAt": "2026-08-30T07:22:01Z"
   },
   {
-    "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
-    "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+    "title": "Russia says it helped to repel Niger attempted coup",
+    "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-30T16:33:17Z"
+  },
+  {
+    "title": "Iceland votes against restarting EU membership talks",
+    "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-08-30T16:11:44Z"
+  },
+  {
+    "title": "Israeli soldiers participate in Sydney Marathon despite protests",
+    "url": "https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-30T16:09:16Z"
+  },
+  {
+    "title": "3-year-old boy among 2 Palestinians killed by Israeli strike, Gaza medics say",
+    "url": "https://www.cbc.ca/news/world/israeli-strike-gaza-dead-9.7325793?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-30T15:50:19Z"
+  },
+  {
+    "title": "Iceland rejects EU accession talks after divisive referendum campaign",
+    "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
     "source": "The Guardian",
-    "publishedAt": "2026-08-30T06:00:48Z"
+    "publishedAt": "2026-08-30T14:57:49Z"
+  },
+  {
+    "title": "Iceland votes to reject EU accession talks: What happens next?",
+    "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-30T13:37:54Z"
+  },
+  {
+    "title": "Icelanders vote to stay out of EU in close-fought referendum",
+    "url": "https://www.cbc.ca/news/world/iceland-votes-against-eu-accession-talks-9.7325797?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-08-30T13:05:22Z"
+  },
+  {
+    "title": "Niger’s military-led government says it contained mutiny: What next?",
+    "url": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-30T13:01:20Z"
+  },
+  {
+    "title": "Ben-Gvir taunts Palestinian women prisoners over prison conditions",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/ben-gvir-taunts-palestinian-women-prisoners-over-prison-conditions?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-30T12:51:20Z"
+  },
+  {
+    "title": "Andy Burnham pledge to end indefinite prison terms ‘a step towards healing’",
+    "url": "https://www.theguardian.com/society/2026/aug/30/andy-burnham-end-indefinite-jail-terms-ipp",
+    "source": "The Guardian",
+    "publishedAt": "2026-08-30T12:36:46Z"
+  },
+  {
+    "title": "Palestinian mother in agony as Israeli attack kills her son",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/palestinian-mother-in-agony-as-israeli-attack-kills-her-son?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-30T12:33:56Z"
+  },
+  {
+    "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+    "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-08-30T12:26:48Z"
   },
   {
     "title": "How has life changed for Iranians six months into the war?",
     "url": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-08-30T12:08:12Z"
-  },
-  {
-    "title": "Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners",
-    "url": "https://www.aljazeera.com/news/2026/8/30/israels-ben-gvir-lauds-harsh-conditions-for-palestinian-female-prisoners?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-30T11:52:27Z"
-  },
-  {
-    "title": "Six months on, what did the strikes on Iran achieve?",
-    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-30T11:24:21Z"
-  },
-  {
-    "title": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
-    "url": "https://www.cbc.ca/news/world/trump-venezuela-oil-deal-explainer-9.7325621?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-29T21:28:52Z"
-  },
-  {
-    "title": "Protesters in Argentina urge tech billionaire Peter Thiel to leave",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-30T11:15:51Z"
-  },
-  {
-    "title": "Iceland votes against restarting talks on joining EU",
-    "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-08-30T10:49:11Z"
-  },
-  {
-    "title": "Train drivers secure 3.6% pay rise after threat of strikes on busy UK routes",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/30/train-drivers-pay-rise-avanti-aslef-uk",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-30T10:32:51Z"
-  },
-  {
-    "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
-    "source": "NPR",
-    "publishedAt": "2026-08-30T09:52:41Z"
-  },
-  {
-    "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-    "url": "https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-30T09:32:26Z"
-  },
-  {
-    "title": "Iceland appears to have rejected EU accession talks in referendum, reports say",
-    "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-    "source": "The Guardian",
-    "publishedAt": "2026-08-30T08:51:05Z"
-  },
-  {
-    "title": "Iceland rejects EU accession talks in referendum",
-    "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-30T07:57:18Z"
-  },
-  {
-    "title": "Toxic waste of war on Gaza reached Israel",
-    "url": "https://www.aljazeera.com/opinions/2026/8/30/the-toxic-waste-of-the-gaza-war-has-reached-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-08-30T07:41:08Z"
-  },
-  {
-    "title": "Nepal issues fresh flood warning as 3,000 still missing",
-    "url": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-08-30T06:59:00Z"
-  },
-  {
-    "title": "Russian-American heads Trump's planned Caucasus trade route",
-    "url": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-08-29T16:20:00Z"
-  },
-  {
-    "title": "Icelanders vote 'no' to talks aimed at joining the EU in close referendum",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
-    "source": "NPR",
-    "publishedAt": "2026-08-30T01:47:44Z"
-  },
-  {
-    "title": "U.S. may seek win with Mexico in wake of collapsed trade talks with Canada, says ex-negotiator",
-    "url": "https://www.cbc.ca/news/world/mexico-canada-us-trade-9.7324372?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-08-28T19:02:07Z"
   }
 ]
