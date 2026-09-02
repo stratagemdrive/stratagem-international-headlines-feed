@@ -12,6 +12,12 @@
     "publishedAt": "2026-09-01T14:29:00Z"
   },
   {
+    "title": "Day of attacks by U.S. and Iran marks most serious escalation of conflict in weeks",
+    "url": "https://www.cbc.ca/news/world/saudi-oil-tankers-strait-of-hormuz-hit-9.7327688?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-01T12:19:42Z"
+  },
+  {
     "title": "US urges G20 to cut trade imbalances, focus on China",
     "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
     "source": "Al Jazeera",
@@ -22,12 +28,6 @@
     "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-01T21:54:14Z"
-  },
-  {
-    "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
-    "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-01T21:28:00Z"
   },
   {
     "title": "Canada’s Carney says US must ‘start being serious’ to resolve trade dispute",
@@ -60,12 +60,6 @@
     "publishedAt": "2026-09-01T12:40:00Z"
   },
   {
-    "title": "U.S. military launches new attacks against Iran",
-    "url": "https://www.cbc.ca/news/world/saudi-oil-tankers-strait-of-hormuz-hit-9.7327688?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-01T12:19:42Z"
-  },
-  {
     "title": "At SCO summit In Kyrgyzstan, Guterres calls for more representative global governance",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168239",
     "source": "UN News",
@@ -76,6 +70,36 @@
     "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-09-01T10:30:55Z"
+  },
+  {
+    "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+    "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-02T00:13:26Z"
+  },
+  {
+    "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-02T00:00:00Z"
+  },
+  {
+    "title": "Germany blames Russia for drone attack at Leipzig airport",
+    "url": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-01T23:48:14Z"
+  },
+  {
+    "title": "British aid worker mistakenly identified as a survivor of Nepal-Tibet disaster",
+    "url": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-01T22:58:32Z"
+  },
+  {
+    "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+    "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-01T22:55:00Z"
   },
   {
     "title": "Global finance ministers gather in North Carolina for G20 summit",
@@ -94,29 +118,5 @@
     "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
     "source": "The Guardian",
     "publishedAt": "2026-09-01T21:49:45Z"
-  },
-  {
-    "title": "US strikes Iran as state media reports four killed at wedding party",
-    "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-01T21:48:28Z"
-  },
-  {
-    "title": "Germany says Russia behind Leipzig airport drone attack",
-    "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-01T21:05:22Z"
-  },
-  {
-    "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-01T21:03:45Z"
-  },
-  {
-    "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-01T20:59:43Z"
   }
 ]
