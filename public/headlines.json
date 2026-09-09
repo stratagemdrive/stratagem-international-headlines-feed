@@ -1,6 +1,18 @@
 [
   {
-    "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
+    "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+    "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-09T07:28:53Z"
+  },
+  {
+    "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+    "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-09T04:26:38Z"
+  },
+  {
+    "title": "US strikes 5 Iranian oil tankers; Tehran targets Jordan base, US warships",
     "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-09T00:08:37Z"
@@ -12,16 +24,34 @@
     "publishedAt": "2026-09-09T00:33:56Z"
   },
   {
+    "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+    "url": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-09T07:14:12Z"
+  },
+  {
+    "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+    "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-09T06:28:57Z"
+  },
+  {
     "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
     "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
     "source": "NPR",
     "publishedAt": "2026-09-08T09:09:46Z"
   },
   {
-    "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-    "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-09T01:45:15Z"
+    "title": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
+    "url": "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-09T05:46:18Z"
+  },
+  {
+    "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+    "source": "NPR",
+    "publishedAt": "2026-09-09T05:20:45Z"
   },
   {
     "title": "Australia considers new Israel sanctions but won’t join UK in banning trade with ‘settler terrorists’",
@@ -30,28 +60,10 @@
     "publishedAt": "2026-09-09T01:38:02Z"
   },
   {
-    "title": "US slaps import ban on Canadian alcohol and other goods",
-    "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-09T01:09:15Z"
-  },
-  {
     "title": "US says Iranian tankers ‘destroyed’ after missile attacks on American warship",
     "url": "https://www.theguardian.com/us-news/2026/sep/08/iran-underwater-drone-strait-of-hormuz",
     "source": "The Guardian",
     "publishedAt": "2026-09-09T01:04:38Z"
-  },
-  {
-    "title": "US increases pressure on Iran with sanctions targeting aviation sector",
-    "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-08T23:51:29Z"
-  },
-  {
-    "title": "US bombs five Iranian oil tankers after its navy is attacked",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-08T23:49:25Z"
   },
   {
     "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
@@ -72,16 +84,16 @@
     "publishedAt": "2026-09-08T19:55:43Z"
   },
   {
-    "title": "Burnham says Britain will ‘continue to act in support of our values’ after UK launches sanctions on Israel – as it happened",
-    "url": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-08T19:06:30Z"
-  },
-  {
     "title": "Canada, U.K., France to ban trade of goods from Israeli settlements in occupied West Bank",
     "url": "https://www.cbc.ca/news/world/canada-uk-france-ban-goods-israeli-settlements-9.7335551?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-09-08T18:17:04Z"
+  },
+  {
+    "title": "Australia news live: three-day manhunt ends as man charged over family axe attack",
+    "url": "https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-09T07:17:02Z"
   },
   {
     "title": "Israel to close British consulate in Jerusalem after sanctions announced",
@@ -90,33 +102,21 @@
     "publishedAt": "2026-09-08T16:55:26Z"
   },
   {
-    "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-    "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-08T15:36:34Z"
-  },
-  {
-    "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-    "url": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-08T15:06:56Z"
-  },
-  {
-    "title": "Flushing the toilet can release a ‘plume’ of breathable pathogens – and closing the lid won’t stop their escape",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/09/flushing-the-toilet-releases-pathogens-inhaled",
+    "title": "Reform UK says migrant deal was ratified by far-right National Rally president",
+    "url": "https://www.theguardian.com/world/2026/sep/09/reform-uk-national-rally-migrants-deal-farage-bardella",
     "source": "The Guardian",
-    "publishedAt": "2026-09-08T15:00:43Z"
+    "publishedAt": "2026-09-09T06:00:02Z"
   },
   {
-    "title": "U.A.E. warned Netanyahu of major Hamas operation days before Oct. 7 attack: Israeli newspaper",
-    "url": "https://www.cbc.ca/news/world/united-arab-emirates-hamas-october-7-netanyahu-9.7335494?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-08T14:00:39Z"
+    "title": "Andrew Hastie accuses Pauline Hanson and Barnaby Joyce of being ‘lying cowards’ over One Nation ‘traitor’ cartoon",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/09/andrew-hastie-accuses-pauline-hanson-and-barnaby-joyce-of-being-lying-cowards-over-one-nation-traitor-cartoon-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-09T05:53:35Z"
   },
   {
-    "title": "Nicaragua challenges German arms exports to Israel at ICJ",
-    "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-09-07T16:26:00Z"
+    "title": "Why US-Iran war over Hormuz is threatening the Gulf’s waters",
+    "url": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-09T05:47:58Z"
   }
 ]
