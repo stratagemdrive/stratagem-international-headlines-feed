@@ -1,15 +1,15 @@
 [
   {
-    "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-    "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-09T19:09:13Z"
-  },
-  {
     "title": "Renewed U.S.-Iran exchanges send oil price back over $100 US for first time in several weeks",
     "url": "https://www.cbc.ca/news/world/iran-war-day-194-oil-price-9.7336774?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-09-09T11:56:24Z"
+  },
+  {
+    "title": "Can Canada actually win a trade war with the U.S.? | About That",
+    "url": "https://www.cbc.ca/player/play/9.7337970?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-09T22:56:46Z"
   },
   {
     "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -28,12 +28,6 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-reported-iraq-grad-protests?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-09T20:05:22Z"
-  },
-  {
-    "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
-    "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-09T18:40:38Z"
   },
   {
     "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
@@ -96,27 +90,33 @@
     "publishedAt": "2026-09-09T11:12:27Z"
   },
   {
-    "title": "Australia politics live: Malinauskas warns Albanese not to follow One Nation down rabbit hole of migration cuts",
-    "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
+    "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
+    "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
     "source": "The Guardian",
-    "publishedAt": "2026-09-09T21:34:29Z"
+    "publishedAt": "2026-09-10T00:19:36Z"
   },
   {
-    "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-    "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
+    "title": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-09-09T21:09:45Z"
+    "publishedAt": "2026-09-10T00:00:00Z"
   },
   {
-    "title": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss",
+    "title": "Trump says the US-Iran war will end right after midterms",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-09-09T21:03:21Z"
+    "publishedAt": "2026-09-09T23:22:46Z"
   },
   {
-    "title": "Trump says Putin wants to make a deal to end Ukraine war",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
+    "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+    "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-09-09T20:56:05Z"
+    "publishedAt": "2026-09-09T23:15:38Z"
+  },
+  {
+    "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+    "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-09T22:19:25Z"
   }
 ]
