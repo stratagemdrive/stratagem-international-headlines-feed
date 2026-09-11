@@ -1,9 +1,93 @@
 [
   {
+    "title": "Why Houthi gains in Yemen could push gas prices even higher",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+    "source": "NPR",
+    "publishedAt": "2026-09-11T07:32:27Z"
+  },
+  {
+    "title": "Houthis take control of Yemen’s Red Sea coast, key shipping route",
+    "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-11T10:11:17Z"
+  },
+  {
+    "title": "9/11 families to gather at World Trade Center and Pentagon to remember victims on 25th anniversary – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-11T10:16:02Z"
+  },
+  {
+    "title": "Six Nigerians accused of romance scams to be extradited to the US",
+    "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-11T09:54:51Z"
+  },
+  {
+    "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+    "source": "NPR",
+    "publishedAt": "2026-09-11T09:00:00Z"
+  },
+  {
     "title": "Anthropic claims Claude AI used for missile projects, global espionage",
     "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-11T04:48:25Z"
+  },
+  {
+    "title": "Greens select Zack Polanski to run in Holborn and St Pancras byelection",
+    "url": "https://www.theguardian.com/politics/2026/sep/11/zack-polanski-selected-green-party-holborn-st-pancras-byelection",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-11T10:18:05Z"
+  },
+  {
+    "title": "Russia accused of ‘rapidly growing’ attacks on civilian infrastructure after five killed in Ukraine – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-11T09:31:39Z"
+  },
+  {
+    "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
+    "url": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-11T09:11:42Z"
+  },
+  {
+    "title": "What did 25 years of the “war on terror” leave behind?",
+    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-11T08:20:32Z"
+  },
+  {
+    "title": "Magyar vs. Moscow: Hungary's new tough stance toward Russia",
+    "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-s-new-tough-stance-toward-russia/a-79223424?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-11T08:20:00Z"
+  },
+  {
+    "title": "How 9/11 helped Israel sell its war on Palestinians to America",
+    "url": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-11T08:18:18Z"
+  },
+  {
+    "title": "Anthropic warns of bids to use AI to build biological weapons",
+    "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-11T08:08:43Z"
+  },
+  {
+    "title": "BRICS summit: Is the bloc truly challenging a Western-dominated world?",
+    "url": "https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-11T07:42:24Z"
+  },
+  {
+    "title": "Germany's connection to the 9/11 attacks",
+    "url": "https://www.dw.com/en/germany-s-connection-to-the-9-11-attacks/a-79202918?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-11T06:26:00Z"
   },
   {
     "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
@@ -12,16 +96,16 @@
     "publishedAt": "2026-09-10T16:31:30Z"
   },
   {
-    "title": "Do Republicans blame Trump for high oil prices?",
-    "url": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-10T01:37:31Z"
+    "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+    "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+    "source": "NPR",
+    "publishedAt": "2026-09-11T05:40:21Z"
   },
   {
-    "title": "Australia news live: One fight cancelled every three days due to staff shortages; ASX set for worst week since US-Iran war began",
-    "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-11T05:07:58Z"
+    "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-11T05:35:12Z"
   },
   {
     "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – as it happened",
@@ -30,93 +114,9 @@
     "publishedAt": "2026-09-10T15:07:57Z"
   },
   {
-    "title": "Speed up electricity grid upgrade or else face higher bills, warns UK watchdog",
-    "url": "https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-11T05:00:02Z"
-  },
-  {
-    "title": "Young republicans break with Trump over Iran war",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-11T02:45:52Z"
-  },
-  {
-    "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-    "url": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-11T02:40:19Z"
-  },
-  {
     "title": "Myanmar seeks closer foreign ties amid global isolation",
     "url": "https://www.dw.com/en/myanmar-seeks-closer-foreign-ties-amid-global-isolation/a-79212234?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-09-10T12:09:00Z"
-  },
-  {
-    "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-11T00:24:24Z"
-  },
-  {
-    "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-11T00:00:00Z"
-  },
-  {
-    "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
-    "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-10T23:46:07Z"
-  },
-  {
-    "title": "Renewed U.S.-Iran exchanges send oil price back over $100 US for first time in several weeks",
-    "url": "https://www.cbc.ca/news/world/iran-war-day-194-oil-price-9.7336774?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-09T11:56:24Z"
-  },
-  {
-    "title": "Tens of millions of people fail to get humanitarian aid as global system crumbles",
-    "url": "https://www.theguardian.com/global-development/2026/sep/10/global-humanitarian-aid-crisis-64m-fewer-people-received-help-report",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-10T08:00:19Z"
-  },
-  {
-    "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-    "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-10T20:35:06Z"
-  },
-  {
-    "title": "Deadly Philippines ferry fire triggers search for scores of missing",
-    "url": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-10T05:54:14Z"
-  },
-  {
-    "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-    "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-10T18:15:47Z"
-  },
-  {
-    "title": "Canada, Ukraine forge 100-year pact built on drones and defence",
-    "url": "https://www.cbc.ca/news/politics/ukraine-canada-drones-defence-russia-9.7339040?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-10T18:15:05Z"
-  },
-  {
-    "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-    "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-10T15:54:17Z"
-  },
-  {
-    "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
-    "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-10T15:12:08Z"
   }
 ]
