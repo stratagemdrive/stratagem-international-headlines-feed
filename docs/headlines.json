@@ -30,10 +30,16 @@
     "publishedAt": "2026-09-11T16:13:39Z"
   },
   {
-    "title": "Republican senator fires aide who used Nazi soldiers as Facebook profile picture",
-    "url": "https://www.theguardian.com/us-news/2026/sep/11/republican-senator-aide-nazi-ss-picture",
+    "title": "How Canadians are bracing for the impact of Trump’s trade war",
+    "url": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-12T00:52:00Z"
+  },
+  {
+    "title": "As China rises, Australia is increasingly enmeshed in the US war machine. Is the alliance still worth the risk?",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/12/rise-of-china-is-australia-us-alliance-still-worth-the-risk-kevin-rudd",
     "source": "The Guardian",
-    "publishedAt": "2026-09-11T23:21:19Z"
+    "publishedAt": "2026-09-12T00:00:18Z"
   },
   {
     "title": "Six Nigerians accused of romance scams to be extradited to the US",
@@ -46,12 +52,6 @@
     "url": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
     "source": "NPR",
     "publishedAt": "2026-09-11T19:39:35Z"
-  },
-  {
-    "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-    "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-11T18:14:29Z"
   },
   {
     "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
@@ -70,6 +70,18 @@
     "url": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-09-11T14:54:00Z"
+  },
+  {
+    "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+    "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-12T02:25:59Z"
+  },
+  {
+    "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-12T02:18:52Z"
   },
   {
     "title": "Houthis seize strategic island, Saudis close pipeline as fighting escalates",
@@ -96,27 +108,15 @@
     "publishedAt": "2026-09-11T11:52:00Z"
   },
   {
-    "title": "UN extends partial Sudan arms embargo for a month",
-    "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-11T23:08:05Z"
-  },
-  {
-    "title": "Military aircraft reportedly blamed for UK air traffic control outage",
-    "url": "https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage",
+    "title": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
+    "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
     "source": "The Guardian",
-    "publishedAt": "2026-09-11T23:04:27Z"
+    "publishedAt": "2026-09-12T01:37:17Z"
   },
   {
-    "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
-    "source": "NPR",
-    "publishedAt": "2026-09-11T09:00:00Z"
-  },
-  {
-    "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
-    "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+    "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+    "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-09-11T21:30:47Z"
+    "publishedAt": "2026-09-12T00:04:23Z"
   }
 ]
