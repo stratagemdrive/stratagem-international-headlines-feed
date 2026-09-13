@@ -1,5 +1,11 @@
 [
   {
+    "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
+    "url": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T02:32:12Z"
+  },
+  {
     "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
     "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
     "source": "The Guardian",
@@ -48,10 +54,28 @@
     "publishedAt": "2026-09-12T16:00:38Z"
   },
   {
+    "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T02:44:32Z"
+  },
+  {
     "title": "Deadly Russian strikes hit Ukraine after Putin's warning to European leaders",
     "url": "https://www.cbc.ca/news/world/russia-ukraine-strikes-putin-warning-9.7341677?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-09-12T12:16:18Z"
+  },
+  {
+    "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T01:32:56Z"
+  },
+  {
+    "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+    "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-13T01:27:49Z"
   },
   {
     "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
@@ -84,12 +108,6 @@
     "publishedAt": "2026-09-12T20:27:25Z"
   },
   {
-    "title": "NSW government paid for homeless man to be sent back to New Zealand instead of offering housing",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/13/nsw-government-paid-for-homeless-man-to-be-sent-back-to-new-zealand-instead-of-offering-housing",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-12T20:00:43Z"
-  },
-  {
     "title": "How global trade and oil prices could be hit by Houthi advance",
     "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-12T19:56:09Z"
-  },
-  {
-    "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-12T19:17:37Z"
-  },
-  {
-    "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-    "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-12T18:53:31Z"
-  },
-  {
-    "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-12T18:36:17Z"
   }
 ]
