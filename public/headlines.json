@@ -1,21 +1,33 @@
 [
   {
-    "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
-    "url": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-13T02:32:12Z"
-  },
-  {
     "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
     "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
     "source": "The Guardian",
     "publishedAt": "2026-09-12T04:45:28Z"
   },
   {
+    "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T13:26:45Z"
+  },
+  {
+    "title": "The Houthis’ escalation in Yemen could flop",
+    "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T12:39:50Z"
+  },
+  {
     "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
     "url": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
     "source": "The Guardian",
     "publishedAt": "2026-09-12T15:35:12Z"
+  },
+  {
+    "title": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
+    "url": "https://www.cbc.ca/news/world/lithuania-airport-closed-possible-drone-9.7342142?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-13T12:16:32Z"
   },
   {
     "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
@@ -30,28 +42,70 @@
     "publishedAt": "2026-09-12T12:40:20Z"
   },
   {
-    "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-    "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-12T12:15:50Z"
-  },
-  {
     "title": "Niger military government reshuffles army command weeks after deadly mutiny",
     "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-13T08:54:32Z"
   },
   {
+    "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+    "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T13:59:27Z"
+  },
+  {
+    "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+    "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T13:05:40Z"
+  },
+  {
+    "title": "Israeli strike kills 2 people in Gaza, medics say",
+    "url": "https://www.cbc.ca/news/world/israeli-stike-kills-2-gaza-9.7342158?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-13T12:56:10Z"
+  },
+  {
+    "title": "The Iran war reveals the limits of BRICS",
+    "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T12:46:58Z"
+  },
+  {
+    "title": "BRICS summit 2026: What are the key takeaways?",
+    "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T12:04:39Z"
+  },
+  {
+    "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
+    "url": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-13T11:50:00Z"
+  },
+  {
+    "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
+    "url": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T11:45:24Z"
+  },
+  {
+    "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+    "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-13T11:26:06Z"
+  },
+  {
+    "title": "Iran war reshapes Brics ties but also exposes divisions",
+    "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-13T11:23:42Z"
+  },
+  {
     "title": "Israeli attack on Gaza kills two Palestinians",
     "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-13T10:22:01Z"
-  },
-  {
-    "title": "Carer’s allowance scandal victims could wait until 2054 for justice, charities warn",
-    "url": "https://www.theguardian.com/society/2026/sep/13/carers-allowance-scandal-victims-could-wait-until-2054-for-justice-charities-warn",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-13T10:12:47Z"
   },
   {
     "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
@@ -64,59 +118,5 @@
     "url": "https://www.cbc.ca/news/world/iranian-commercial-ship-struck-near-strait-of-hormuz-9.7342136?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-09-13T09:08:16Z"
-  },
-  {
-    "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-13T08:13:56Z"
-  },
-  {
-    "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-13T02:44:32Z"
-  },
-  {
-    "title": "Deadly Russian strikes hit Ukraine after Putin's warning to European leaders",
-    "url": "https://www.cbc.ca/news/world/russia-ukraine-strikes-putin-warning-9.7341677?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-12T12:16:18Z"
-  },
-  {
-    "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-13T01:32:56Z"
-  },
-  {
-    "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
-    "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-13T01:27:49Z"
-  },
-  {
-    "title": "Iran war live: Commercial ship attacked in Hormuz, killing 1, wounding 4",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-13T00:00:40Z"
-  },
-  {
-    "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-    "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-12T10:00:05Z"
-  },
-  {
-    "title": "Who are the Houthis? How they could send oil prices surging even further",
-    "url": "https://www.cbc.ca/news/world/houthi-explainer-9.7340370?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-11T18:09:40Z"
-  },
-  {
-    "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-    "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-12T20:27:25Z"
   }
 ]
