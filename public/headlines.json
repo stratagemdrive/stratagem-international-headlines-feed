@@ -1,11 +1,5 @@
 [
   {
-    "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-13T16:11:43Z"
-  },
-  {
     "title": "Tehran and Muscat delay talks, citing regional consensus need",
     "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
     "source": "Al Jazeera",
@@ -16,6 +10,12 @@
     "url": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-13T21:10:07Z"
+  },
+  {
+    "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+    "source": "NPR",
+    "publishedAt": "2026-09-13T21:03:12Z"
   },
   {
     "title": "Can a warming Arctic become an important commercial highway?",
@@ -84,16 +84,22 @@
     "publishedAt": "2026-09-13T12:16:32Z"
   },
   {
+    "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-14T00:00:00Z"
+  },
+  {
+    "title": "Israeli quadcopter terrorises homes in Gaza City",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-13T23:33:23Z"
+  },
+  {
     "title": "Iraq scrambles to address fallout from alleged militia attack on Saudi oil pipeline",
     "url": "https://www.cbc.ca/news/world/iraq-saudi-pipeline-9.7341679?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-09-12T12:40:20Z"
-  },
-  {
-    "title": "Tehran postpones regional talks; Iran media says cargo ship struck near Strait of Hormuz",
-    "url": "https://www.cbc.ca/news/world/iranian-commercial-ship-struck-near-strait-of-hormuz-9.7342136?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-13T09:08:16Z"
   },
   {
     "title": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
@@ -112,11 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-13T21:02:14Z"
-  },
-  {
-    "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-13T19:41:01Z"
   }
 ]
