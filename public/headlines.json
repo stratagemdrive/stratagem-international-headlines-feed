@@ -1,5 +1,53 @@
 [
   {
+    "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+    "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-15T06:53:50Z"
+  },
+  {
+    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T10:49:11Z"
+  },
+  {
+    "title": "UK state pension set to top £13,000 a year as wage growth slows to 3.9%",
+    "url": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T10:47:00Z"
+  },
+  {
+    "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+    "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T10:37:40Z"
+  },
+  {
+    "title": "NATO fighter jet shoots down drone over Lithuania",
+    "url": "https://www.cbc.ca/news/world/nato-response-lithuania-drone-9.7344227?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-15T10:07:12Z"
+  },
+  {
+    "title": "Nato jets down drone that entered Lithuanian airspace",
+    "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-15T09:07:35Z"
+  },
+  {
+    "title": "NATO jets down drone in Lithuanian airspace",
+    "url": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+    "source": "NPR",
+    "publishedAt": "2026-09-15T09:06:30Z"
+  },
+  {
+    "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
+    "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T07:40:10Z"
+  },
+  {
     "title": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026",
     "url": "https://www.cbc.ca/news/canada/canada-china-trade-export-up-2026-9.7340408?cmp=rss",
     "source": "CBC",
@@ -18,105 +66,57 @@
     "publishedAt": "2026-09-15T04:01:00Z"
   },
   {
-    "title": "Nato jets shoot down drone violating Lithuania’s airspace",
-    "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T03:36:56Z"
-  },
-  {
-    "title": "Nato jets down drone that entered Lithuanian airspace",
-    "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-15T02:22:07Z"
-  },
-  {
     "title": "US scraps limits on emissions from coal and gas power plants",
     "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-09-14T22:04:14Z"
   },
   {
+    "title": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites",
+    "source": "NPR",
+    "publishedAt": "2026-09-15T10:42:10Z"
+  },
+  {
+    "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+    "source": "NPR",
+    "publishedAt": "2026-09-15T10:26:08Z"
+  },
+  {
+    "title": "UN experts say Belarus justice system used to target Lukashenko opponents",
+    "url": "https://www.aljazeera.com/news/2026/9/15/un-experts-say-belarus-justice-system-used-to-target-lukashenko-opponents?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-15T10:21:22Z"
+  },
+  {
+    "title": "Denmark says Russian warship fired flares at military helicopter",
+    "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-15T10:12:49Z"
+  },
+  {
+    "title": "Louise Haigh: UK must heed warnings from AI experts",
+    "url": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T09:33:17Z"
+  },
+  {
+    "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+    "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-15T08:11:09Z"
+  },
+  {
+    "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
+    "url": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-15T07:40:37Z"
+  },
+  {
     "title": "European Parliament to open Ottawa office as Carney seeks 'unique alliance' with EU",
     "url": "https://www.cbc.ca/news/politics/european-parliament-ottawa-office-9.7343334?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-09-14T17:37:40Z"
-  },
-  {
-    "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-    "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-14T16:56:53Z"
-  },
-  {
-    "title": "Experts quit Lucy Letby’s defence team over ‘scientific credibility’ as public inquiry reports",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/14/experts-quit-lucy-letby-defence-team-scientific-credibility-concerns",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T05:05:25Z"
-  },
-  {
-    "title": "Australia’s dependence on gas generation during evening energy peak falls by almost 70%",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/15/australias-dependence-on-gas-generation-during-evening-energy-peak-falls-by-almost-70",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-14T15:00:12Z"
-  },
-  {
-    "title": "Intruder on the run after allegedly breaking into RAAF base in Darwin and assaulting defence force member",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/15/intruder-on-the-run-after-allegedly-breaking-into-raaf-base-in-darwin-and-assaulting-defence-force-member-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T04:36:57Z"
-  },
-  {
-    "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-    "url": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T04:00:27Z"
-  },
-  {
-    "title": "Youngest Snowtown murderer to walk free from jail after 26-year sentence as parole upheld",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/15/snowtown-murders-james-vlassakis-parole-decision-upheld-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T03:57:14Z"
-  },
-  {
-    "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-    "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-15T03:50:06Z"
-  },
-  {
-    "title": "Houthis attack more Saudi targets as regional talks with Iran postponed",
-    "url": "https://www.cbc.ca/news/world/iran-war-yemen-houthis-saudi-arabia-9.7342898?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-14T13:48:57Z"
-  },
-  {
-    "title": "The London hospital funded by donors who invested in the slave trade",
-    "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-14T13:00:58Z"
-  },
-  {
-    "title": "Viral hit-and-run raises road rage questions in India",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-15T02:07:17Z"
-  },
-  {
-    "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168331",
-    "source": "UN News",
-    "publishedAt": "2026-09-14T12:00:00Z"
-  },
-  {
-    "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
-    "source": "UN News",
-    "publishedAt": "2026-09-14T12:00:00Z"
-  },
-  {
-    "title": "Gavin Newsom says he will not run for president in 2028 if Kamala Harris does",
-    "url": "https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T01:34:57Z"
   }
 ]
