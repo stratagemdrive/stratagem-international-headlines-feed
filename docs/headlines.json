@@ -6,12 +6,6 @@
     "publishedAt": "2026-09-14T17:42:33Z"
   },
   {
-    "title": "Why Middle East tensions are pushing oil prices above $100",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-14T16:36:05Z"
-  },
-  {
     "title": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026",
     "url": "https://www.cbc.ca/news/canada/canada-china-trade-export-up-2026-9.7340408?cmp=rss",
     "source": "CBC",
@@ -24,7 +18,7 @@
     "publishedAt": "2026-09-14T19:51:26Z"
   },
   {
-    "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+    "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
     "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-14T18:40:23Z"
@@ -48,6 +42,12 @@
     "publishedAt": "2026-09-14T15:00:12Z"
   },
   {
+    "title": "Houthis attack more Saudi targets as regional talks with Iran postponed",
+    "url": "https://www.cbc.ca/news/world/iran-war-yemen-houthis-saudi-arabia-9.7342898?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-14T13:48:57Z"
+  },
+  {
     "title": "The London hospital funded by donors who invested in the slave trade",
     "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
     "source": "The Guardian",
@@ -66,10 +66,28 @@
     "publishedAt": "2026-09-14T11:20:07Z"
   },
   {
+    "title": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms",
+    "url": "https://www.cbc.ca/news/world/donald-trump-jr-wife-wedding-russian-oligarch-9.7343617?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-14T21:52:03Z"
+  },
+  {
     "title": "Can Iran replace sea trade with land routes?",
     "url": "https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
     "publishedAt": "2026-09-14T07:50:00Z"
+  },
+  {
+    "title": "Israeli attack targets Gaza displacement camp",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-14T21:37:04Z"
+  },
+  {
+    "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-14T21:20:00Z"
   },
   {
     "title": "Inside the Houthis’ expanding war economy in Yemen",
@@ -100,23 +118,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-14T18:46:25Z"
-  },
-  {
-    "title": "Ukraine, Russia set for new round of US-mediated talks",
-    "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-09-14T18:46:00Z"
-  },
-  {
-    "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
-    "url": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-09-14T17:59:00Z"
-  },
-  {
-    "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier",
-    "url": "https://www.aljazeera.com/news/2026/9/14/eu-states-to-raise-game-as-arctic-becomes-strategic-geopolitical-frontier?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-14T17:30:36Z"
   }
 ]
