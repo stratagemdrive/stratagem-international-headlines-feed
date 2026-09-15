@@ -1,27 +1,81 @@
 [
   {
-    "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-    "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-15T06:53:50Z"
-  },
-  {
-    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T10:49:11Z"
-  },
-  {
-    "title": "UK state pension set to top £13,000 a year as wage growth slows to 3.9%",
-    "url": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T10:47:00Z"
+    "title": "Satellite image reveals major damage that shut crucial oil pipeline",
+    "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-15T14:21:14Z"
   },
   {
     "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
     "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
     "source": "The Guardian",
-    "publishedAt": "2026-09-15T10:37:40Z"
+    "publishedAt": "2026-09-15T15:18:20Z"
+  },
+  {
+    "title": "Health secretary says plans for cot cams in baby wards being developed ‘urgently’ after Lucy Letby inquiry report – latest updates",
+    "url": "https://www.theguardian.com/uk-news/live/2026/sep/15/lucy-letby-thirlwall-inquiry-report-findings-published-latest-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T15:14:40Z"
+  },
+  {
+    "title": "Pauline Hanson’s daughter Lee working for a NSW One Nation senator remotely from Tasmania without ministerial approval",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/16/pauline-hanson-daughter-lee-working-remotely-for-one-nation-without-ministerial-approval-ntwnfb",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T15:00:55Z"
+  },
+  {
+    "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
+    "url": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-15T14:49:42Z"
+  },
+  {
+    "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
+    "url": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-15T14:33:29Z"
+  },
+  {
+    "title": "South Korea embraces Central Asian leaders, looking to boost regional clout",
+    "url": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-15T13:30:03Z"
+  },
+  {
+    "title": "US allies in Asia alarmed as think tank calls for pullback",
+    "url": "https://www.dw.com/en/us-allies-in-asia-alarmed-as-think-tank-calls-for-pullback/a-79275554?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-15T12:32:00Z"
+  },
+  {
+    "title": "World fears major war more than any other global risk, UN survey finds",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168332",
+    "source": "UN News",
+    "publishedAt": "2026-09-15T12:00:00Z"
+  },
+  {
+    "title": "‘Super El Niño’ deepens hunger crisis in South Sudan – WFP",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168334",
+    "source": "UN News",
+    "publishedAt": "2026-09-15T12:00:00Z"
+  },
+  {
+    "title": "UK sanctions on Israel ‘fall far short’ of its obligations, legal experts say",
+    "url": "https://www.theguardian.com/politics/2026/sep/15/legal-experts-say-sanctions-israel-fall-far-short-uk-obligations",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T11:54:14Z"
+  },
+  {
+    "title": "Several U.S. military bases, diplomatic buildings have been damaged in Iran war: inspector general report",
+    "url": "https://www.cbc.ca/news/world/us-pentagon-iran-war-report-9.7344243?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-15T11:51:26Z"
+  },
+  {
+    "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
+    "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-15T11:35:41Z"
   },
   {
     "title": "NATO fighter jet shoots down drone over Lithuania",
@@ -36,16 +90,10 @@
     "publishedAt": "2026-09-15T09:07:35Z"
   },
   {
-    "title": "NATO jets down drone in Lithuanian airspace",
+    "title": "NATO jets shoot down a drone in Lithuanian airspace",
     "url": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
     "source": "NPR",
     "publishedAt": "2026-09-15T09:06:30Z"
-  },
-  {
-    "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-    "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T07:40:10Z"
   },
   {
     "title": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026",
@@ -66,57 +114,9 @@
     "publishedAt": "2026-09-15T04:01:00Z"
   },
   {
-    "title": "US scraps limits on emissions from coal and gas power plants",
-    "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-14T22:04:14Z"
-  },
-  {
-    "title": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites",
-    "source": "NPR",
-    "publishedAt": "2026-09-15T10:42:10Z"
-  },
-  {
-    "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
-    "source": "NPR",
-    "publishedAt": "2026-09-15T10:26:08Z"
-  },
-  {
-    "title": "UN experts say Belarus justice system used to target Lukashenko opponents",
-    "url": "https://www.aljazeera.com/news/2026/9/15/un-experts-say-belarus-justice-system-used-to-target-lukashenko-opponents?traffic_source=rss",
+    "title": "Russia warns Denmark after near miss in Baltic Sea",
+    "url": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-09-15T10:21:22Z"
-  },
-  {
-    "title": "Denmark says Russian warship fired flares at military helicopter",
-    "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-15T10:12:49Z"
-  },
-  {
-    "title": "Louise Haigh: UK must heed warnings from AI experts",
-    "url": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T09:33:17Z"
-  },
-  {
-    "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
-    "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-15T08:11:09Z"
-  },
-  {
-    "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
-    "url": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-15T07:40:37Z"
-  },
-  {
-    "title": "European Parliament to open Ottawa office as Carney seeks 'unique alliance' with EU",
-    "url": "https://www.cbc.ca/news/politics/european-parliament-ottawa-office-9.7343334?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-14T17:37:40Z"
+    "publishedAt": "2026-09-15T14:51:22Z"
   }
 ]
