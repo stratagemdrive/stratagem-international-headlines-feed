@@ -6,10 +6,40 @@
     "publishedAt": "2026-09-15T14:21:14Z"
   },
   {
+    "title": "Company behind failed Surrey oilfield project sells site at massive loss",
+    "url": "https://www.theguardian.com/environment/2026/sep/16/company-behind-failed-surrey-oilfield-project-sells-massive-loss",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-16T09:00:15Z"
+  },
+  {
     "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-16T01:53:27Z"
+  },
+  {
+    "title": "At least 20 killed after war-damaged Gaza building collapses",
+    "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-16T10:40:36Z"
+  },
+  {
+    "title": "At least 19 killed, including children, as unstable Gaza building collapses",
+    "url": "https://www.cbc.ca/news/world/gaza-building-collapse-9.7345835?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-16T10:34:45Z"
+  },
+  {
+    "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-16T10:16:59Z"
+  },
+  {
+    "title": "At least 12 killed after building in Gaza City damaged by Israeli strikes collapses",
+    "url": "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-16T10:10:42Z"
   },
   {
     "title": "At least 10 dead, dozens missing in Gaza building collapse",
@@ -24,7 +54,7 @@
     "publishedAt": "2026-09-16T05:00:12Z"
   },
   {
-    "title": "Gaza residential building collapses, six families reportedly trapped",
+    "title": "Gaza building collapse kills 16, traps dozens under rubble",
     "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-09-16T04:30:52Z"
@@ -42,10 +72,10 @@
     "publishedAt": "2026-09-16T01:28:20Z"
   },
   {
-    "title": "Iran war increasing inflation, straining US munitions: congressional report",
-    "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-16T00:38:12Z"
+    "title": "EU chief opens door for Canada to become 'associate member'",
+    "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-16T10:28:45Z"
   },
   {
     "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
@@ -54,69 +84,39 @@
     "publishedAt": "2026-09-15T20:34:12Z"
   },
   {
+    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-16T10:02:05Z"
+  },
+  {
+    "title": "Former Kosovo President Hashim Thaci convicted of war crimes",
+    "url": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-convicted-of-war-crimes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-16T09:46:24Z"
+  },
+  {
+    "title": "At least five killed in Russian drone strike near Ukraine front line",
+    "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-16T09:32:52Z"
+  },
+  {
+    "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+    "url": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+    "source": "NPR",
+    "publishedAt": "2026-09-16T09:04:27Z"
+  },
+  {
     "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
     "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
     "source": "The Guardian",
     "publishedAt": "2026-09-15T19:08:37Z"
   },
   {
-    "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
-    "url": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-15T18:49:45Z"
-  },
-  {
-    "title": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
-    "url": "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
+    "title": "Iranian security forces coordinated killing, torture and sexual abuse of protesters, says Amnesty",
+    "url": "https://www.theguardian.com/global-development/2026/sep/16/iran-killing-torture-sexual-abuse-protesters-amnesty",
     "source": "The Guardian",
-    "publishedAt": "2026-09-15T17:25:02Z"
-  },
-  {
-    "title": "Sydney man who allegedly called 13-year-old Muslim girl a ‘terrorist’ berates judge after bail refused",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/16/sydney-man-alleged-racial-abuse-muslim-girl-13-terrorist-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-16T05:27:34Z"
-  },
-  {
-    "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-    "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-15T15:18:19Z"
-  },
-  {
-    "title": "People protecting nature and land set up self-defence units amid threat of murder",
-    "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-16T05:00:10Z"
-  },
-  {
-    "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-    "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-16T03:39:50Z"
-  },
-  {
-    "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
-    "url": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-16T03:38:57Z"
-  },
-  {
-    "title": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-    "url": "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-16T02:56:37Z"
-  },
-  {
-    "title": "US allies in Asia alarmed as think tank calls for pullback",
-    "url": "https://www.dw.com/en/us-allies-in-asia-alarmed-as-think-tank-calls-for-pullback/a-79275554?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-09-15T12:32:00Z"
-  },
-  {
-    "title": "The Palestinian school under siege – podcast",
-    "url": "https://www.theguardian.com/news/audio/2026/sep/16/palestinian-school-al-mughayyir-under-siege-podcast",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-16T02:00:06Z"
+    "publishedAt": "2026-09-16T09:00:16Z"
   }
 ]
