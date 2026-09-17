@@ -1,9 +1,27 @@
 [
   {
+    "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168352",
+    "source": "UN News",
+    "publishedAt": "2026-09-16T12:00:00Z"
+  },
+  {
     "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
     "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-09-15T14:21:14Z"
+  },
+  {
+    "title": "Congress passes sweeping US sanctions bill targeting Russia",
+    "url": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-17T00:55:13Z"
+  },
+  {
+    "title": "US lawmakers pass bill giving Trump more power to sanction Russia and its enablers",
+    "url": "https://www.theguardian.com/us-news/2026/sep/16/us-lawmakers-pass-bill-giving-trump-more-power-to-sanction-russia-and-its-enablers",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-16T22:41:51Z"
   },
   {
     "title": "Can Iran replicate a U.S. underwater drone? | About That",
@@ -36,18 +54,6 @@
     "publishedAt": "2026-09-16T18:26:18Z"
   },
   {
-    "title": "UK trade unions back motion to boycott and sanction Israel",
-    "url": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-16T17:42:00Z"
-  },
-  {
-    "title": "Belarus frees 25 political prisoners in return for US sanctions relief",
-    "url": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-16T17:38:09Z"
-  },
-  {
     "title": "Sky-high crude and diesel prices are fuelling protests worldwide",
     "url": "https://www.cbc.ca/news/world/gas-price-protests-worldwide-9.7346031?cmp=rss",
     "source": "CBC",
@@ -58,18 +64,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-09-16T17:16:47Z"
-  },
-  {
-    "title": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
-    "url": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-16T17:07:50Z"
-  },
-  {
-    "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
-    "url": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-16T16:45:04Z"
   },
   {
     "title": "At least 21 killed after Israeli-hit building in Gaza City collapses",
@@ -108,15 +102,21 @@
     "publishedAt": "2026-09-16T11:50:09Z"
   },
   {
-    "title": "At least 21 killed in Gaza, including many children, as unstable building collapses",
-    "url": "https://www.cbc.ca/news/world/gaza-building-collapse-9.7345835?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-16T10:34:45Z"
+    "title": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-17T00:32:54Z"
   },
   {
-    "title": "Displaced Syrians dig through hills of garbage to make a living",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss",
+    "title": "EU chief backs plan for Canada to become 'associate member'",
+    "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-17T00:32:05Z"
+  },
+  {
+    "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
+    "url": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-09-16T20:29:41Z"
+    "publishedAt": "2026-09-17T00:30:23Z"
   }
 ]
