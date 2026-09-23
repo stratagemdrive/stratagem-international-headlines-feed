@@ -1,9 +1,39 @@
 [
   {
-    "title": "As Xi meets Trump, who’s winning their trade war?",
-    "url": "https://www.aljazeera.com/features/2026/9/23/as-xi-meets-trump-whos-winning-their-trade-war?traffic_source=rss",
+    "title": "Iran’s president says his country’s people have been ‘victims of terrorism’ by the United States - live",
+    "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-23T18:02:07Z"
+  },
+  {
+    "title": "Unhappy couples staying put due to cost of living crisis, say divorce lawyers",
+    "url": "https://www.theguardian.com/money/2026/sep/23/couples-putting-off-divorce-due-to-cost-of-living-crisis-in-england-and-wales",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-23T15:46:17Z"
+  },
+  {
+    "title": "Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?",
+    "url": "https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T12:20:40Z"
+    "publishedAt": "2026-09-23T14:38:28Z"
+  },
+  {
+    "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+    "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-23T14:32:42Z"
+  },
+  {
+    "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
+    "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-23T13:32:00Z"
+  },
+  {
+    "title": "Zelenskyy to address UN, as Rubio of U.S. says Ukraine, Russia have interest in limited ceasefire",
+    "url": "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-09-23T12:52:49Z"
   },
   {
     "title": "As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?",
@@ -12,111 +42,81 @@
     "publishedAt": "2026-09-23T11:49:00Z"
   },
   {
-    "title": "US senator condemns Netanyahu as a ‘chronic liar’ ahead of UNGA visit",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-senator-condemns-netanyahu-as-a-chronic-liar-ahead-of-unga-visit?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T08:44:44Z"
-  },
-  {
     "title": "Reports of violence against women in Gaza surge, UN agency finds",
     "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-09-23T05:02:26Z"
   },
   {
-    "title": "Can an AI 'red phone' stop a U.S.-China war? | About That",
-    "url": "https://www.cbc.ca/player/play/9.7354616?cmp=rss",
+    "title": "No signs Chagos deal can be adapted to suit Trump, say UK officials",
+    "url": "https://www.theguardian.com/world/2026/sep/23/no-signs-chagos-deal-adapted-suit-donald-trump-officials-believe",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-23T17:26:00Z"
+  },
+  {
+    "title": "Ethiopia faces renewed war as armed groups launch offensive",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-23T17:10:33Z"
+  },
+  {
+    "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+    "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-09-23T16:53:37Z"
+  },
+  {
+    "title": "Iran’s president hits out at ‘bully’ Trump in UN speech but signals willingness to talk",
+    "url": "https://www.theguardian.com/world/2026/sep/23/iranian-leader-hits-back-at-bully-trump-signals-willingness-to-talk",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-23T16:44:57Z"
+  },
+  {
+    "title": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
+    "url": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-23T16:44:01Z"
+  },
+  {
+    "title": "How and why the UN General Assembly is gaining prominence",
+    "url": "https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-23T16:36:09Z"
+  },
+  {
+    "title": "US envoy walks out on Pezeshkian UN speech slamming war on Iran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-envoy-walks-out-on-pezeshkian-un-speech-slamming-war-on-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-23T16:34:47Z"
+  },
+  {
+    "title": "Scientists warn super El Nino could cause 450,000 deaths: Should we worry?",
+    "url": "https://www.aljazeera.com/features/2026/9/23/scientists-warn-super-el-nino-could-cause-450000-deaths-should-we-worry?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-23T16:29:55Z"
+  },
+  {
+    "title": "Yemeni government in military and diplomatic push to reverse Houthi gains",
+    "url": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-23T16:21:18Z"
+  },
+  {
+    "title": "Trump's 'Board of Peace' earmarks $2.45B US in blueprint to rebuild war-torn Gaza",
+    "url": "https://www.cbc.ca/news/world/trump-board-of-peace-gaza-reconstruction-9.7355242?cmp=rss",
     "source": "CBC",
-    "publishedAt": "2026-09-23T00:00:32Z"
+    "publishedAt": "2026-09-23T16:20:49Z"
   },
   {
-    "title": "Iran’s president Pezeshkian to address UN general assembly before Zelenskyy takes the stage - live",
-    "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-23T13:05:10Z"
+    "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+    "source": "NPR",
+    "publishedAt": "2026-09-23T16:13:52Z"
   },
   {
-    "title": "Modi to visit Canada as Carney looks to finalize trade deal with India by end of year",
-    "url": "https://www.cbc.ca/news/politics/modi-canada-trade-deal-visit-9.7354352?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-22T22:08:43Z"
-  },
-  {
-    "title": "Trump addresses UN with mixture of boasts, threats and jibes | First Thing",
-    "url": "https://www.theguardian.com/us-news/2026/sep/23/first-thing-trump-addresses-un-boasts-threats-jibes-us-iran-meeting",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-23T12:01:55Z"
-  },
-  {
-    "title": "OpenAI gives cyber defence tools to Ukraine",
-    "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-23T12:01:37Z"
-  },
-  {
-    "title": "UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T12:00:00Z"
-  },
-  {
-    "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T11:03:35Z"
-  },
-  {
-    "title": "Iran denies dropping preconditions amid ‘very productive’ three-hour UN talks in New York",
-    "url": "https://www.theguardian.com/world/2026/sep/23/iran-denies-dropping-preconditions-very-productive-three-hour-un-talks-new-york",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-23T10:41:41Z"
-  },
-  {
-    "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
-    "url": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T10:27:38Z"
-  },
-  {
-    "title": "World leaders say UN Security Council failing to function",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/world-leaders-say-un-security-council-failing-to-function?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T10:04:35Z"
-  },
-  {
-    "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-    "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-22T19:47:44Z"
-  },
-  {
-    "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
-    "url": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T09:40:20Z"
-  },
-  {
-    "title": "UN General Assembly quiz: Who said these 10 famous quotes?",
-    "url": "https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T09:06:41Z"
-  },
-  {
-    "title": "Middle East crisis: Trump says Iran will make a deal after US midterms – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-22T19:09:42Z"
-  },
-  {
-    "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-    "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-09-22T19:06:06Z"
-  },
-  {
-    "title": "Qatar says ‘no alternative to diplomacy’ as Belgium and Rwanda restore ties",
-    "url": "https://www.aljazeera.com/news/2026/9/23/qatar-says-no-alternative-to-diplomacy-as-belgium-and-rwanda-restore-ties?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-23T08:40:35Z"
+    "title": "Who is skipping the UN General Assembly — and why",
+    "url": "https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-09-23T15:54:00Z"
   }
 ]
