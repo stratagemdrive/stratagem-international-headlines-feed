@@ -1,5 +1,17 @@
 [
   {
+    "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
+    "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-28T00:52:19Z"
+  },
+  {
+    "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
+    "url": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-27T23:40:34Z"
+  },
+  {
     "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
     "url": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
     "source": "NPR",
@@ -24,12 +36,6 @@
     "publishedAt": "2026-09-27T20:21:30Z"
   },
   {
-    "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
-    "url": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-27T19:54:03Z"
-  },
-  {
     "title": "Swiss voters reject stricter neutrality rules that would have curbed Nato cooperation",
     "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
     "source": "The Guardian",
@@ -40,6 +46,24 @@
     "url": "https://www.cbc.ca/news/world/swiss-voters-reject-tighter-neutrality-9.7360123?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-09-27T13:04:33Z"
+  },
+  {
+    "title": "Protesters disperse after blocking route for loyalist march in Portadown",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
+    "source": "The Guardian",
+    "publishedAt": "2026-09-28T00:46:58Z"
+  },
+  {
+    "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
+    "url": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-28T00:29:25Z"
+  },
+  {
+    "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-09-28T00:00:00Z"
   },
   {
     "title": "Late-night drive and a 999 call: farmer’s chance encounter that led to terrorism arrests at RAF base",
@@ -90,33 +114,9 @@
     "publishedAt": "2026-09-27T19:09:38Z"
   },
   {
-    "title": "Stuck between Israeli military checkpoints",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-27T19:04:21Z"
-  },
-  {
-    "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-09-27T17:46:04Z"
-  },
-  {
     "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
     "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
     "source": "The Guardian",
     "publishedAt": "2026-09-27T16:28:05Z"
-  },
-  {
-    "title": "Tensions run high in Northern Ireland after contentious march given go-ahead",
-    "url": "https://www.cbc.ca/news/world/northern-ireland-orange-order-march-9.7360241?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-27T16:20:55Z"
-  },
-  {
-    "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
-    "source": "The Guardian",
-    "publishedAt": "2026-09-27T15:00:07Z"
   }
 ]
