@@ -1,9 +1,39 @@
 [
   {
-    "title": "South Korea’s exports hit record high on AI boom",
-    "url": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-01T04:08:15Z"
+    "title": "Ukraine persists with Russian oil refinery strikes in defiance of Trump",
+    "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-01T12:09:34Z"
+  },
+  {
+    "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+    "url": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-01T15:52:14Z"
+  },
+  {
+    "title": "French high school protests escalate with violence reported – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-01T15:44:56Z"
+  },
+  {
+    "title": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’ as largest coal project in NSW history greenlit",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-01T15:00:54Z"
+  },
+  {
+    "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
+    "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-01T14:48:45Z"
+  },
+  {
+    "title": "North and South Korea trade accusations over landmines that injured three soldiers",
+    "url": "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-10-01T13:57:00Z"
   },
   {
     "title": "Trump says 'very bad' Canada is being 'taught a little lesson' as trade action escalates",
@@ -12,16 +42,16 @@
     "publishedAt": "2026-09-30T23:21:04Z"
   },
   {
+    "title": "Minaret of Indian mosque collapses during controversial demolition",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-clip-shahi-mosque-demolition-minaret-in?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-01T11:39:56Z"
+  },
+  {
     "title": "Africa's richest man launches Kenya oil refinery despite land protests",
     "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-10-01T07:04:27Z"
-  },
-  {
-    "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs",
-    "url": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-01T05:37:39Z"
   },
   {
     "title": "New Google Maps images reveal massive scale of devastation in Gaza",
@@ -30,93 +60,63 @@
     "publishedAt": "2026-10-01T04:00:28Z"
   },
   {
-    "title": "Pentagon confirms U.S. military will cut 20% of generals and admirals",
-    "url": "https://www.cbc.ca/news/world/hegseth-military-cuts-admirals-generals-9.7364379?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-09-30T21:02:54Z"
-  },
-  {
-    "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-01T08:00:44Z"
-  },
-  {
-    "title": "Australian couple on plane diverted after flydubai pilot’s alleged attack on co-pilot",
-    "url": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-01T07:55:50Z"
-  },
-  {
-    "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-    "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+    "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+    "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-10-01T07:27:25Z"
+    "publishedAt": "2026-10-01T15:38:13Z"
   },
   {
-    "title": "First home buyers with big loans among those most at risk of falling into negative equity, RBA warns",
-    "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-01T07:26:51Z"
-  },
-  {
-    "title": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
-    "url": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-01T07:23:18Z"
-  },
-  {
-    "title": "How Ukrainians are coping with new, more deadly Russian attacks",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-    "source": "NPR",
-    "publishedAt": "2026-09-30T15:33:19Z"
-  },
-  {
-    "title": "Prisoners freed early in England and Wales risk living on the streets, say probation officers",
-    "url": "https://www.theguardian.com/society/2026/oct/01/prisoners-early-release-england-wales-probation-officers",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-01T05:00:29Z"
-  },
-  {
-    "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-    "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+    "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+    "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-09-30T15:04:32Z"
+    "publishedAt": "2026-10-01T15:05:36Z"
   },
   {
-    "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-    "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+    "title": "Million-dollar public servants: 11 staff at Australia’s Future Fund paid significantly more than the PM",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/02/public-servants-australia-future-fund-paid-more-than-pm-albanese",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-01T15:00:55Z"
+  },
+  {
+    "title": "Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news",
+    "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-01T15:00:53Z"
+  },
+  {
+    "title": "Western militaries are undermining Ukraine’s defence, experts say",
+    "url": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-01T15:00:44Z"
+  },
+  {
+    "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+    "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-09-30T14:53:02Z"
+    "publishedAt": "2026-10-01T14:05:55Z"
   },
   {
-    "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
-    "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+    "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+    "url": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-01T13:57:28Z"
+  },
+  {
+    "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+    "url": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-10-01T04:16:19Z"
+    "publishedAt": "2026-10-01T13:06:42Z"
   },
   {
-    "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
-    "source": "UN News",
-    "publishedAt": "2026-09-30T12:00:00Z"
+    "title": "Why are students protesting at schools in France?",
+    "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-01T12:31:18Z"
   },
   {
-    "title": "Could a new global panel defuse inequality’s ‘ticking time bomb’?",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168489",
-    "source": "UN News",
-    "publishedAt": "2026-09-30T12:00:00Z"
-  },
-  {
-    "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-    "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-    "source": "NPR",
-    "publishedAt": "2026-09-30T11:13:17Z"
-  },
-  {
-    "title": "Iran parades Shahed drones through capital",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+    "title": "How was the Flydubai co-pilot who attacked his captain cleared to fly?",
+    "url": "https://www.aljazeera.com/news/2026/10/1/how-was-the-flydubai-pilot-who-attacked-his-co-pilot-cleared-to-fly?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-10-01T00:39:04Z"
+    "publishedAt": "2026-10-01T11:50:25Z"
   }
 ]
