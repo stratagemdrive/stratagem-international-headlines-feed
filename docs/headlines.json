@@ -1,5 +1,11 @@
 [
   {
+    "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+    "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-15T23:57:20Z"
+  },
+  {
     "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
     "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -10,6 +16,18 @@
     "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-10-15T11:25:19Z"
+  },
+  {
+    "title": "Peshawar mourns children killed in school roof collapse",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T02:01:43Z"
+  },
+  {
+    "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+    "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-15T23:49:57Z"
   },
   {
     "title": "Letters with 'suspicious substances' sent to US senators and election offices",
@@ -36,28 +54,28 @@
     "publishedAt": "2026-10-15T04:19:00Z"
   },
   {
-    "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-    "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-15T18:09:14Z"
-  },
-  {
     "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
     "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-10-15T15:26:16Z"
   },
   {
-    "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-15T15:25:51Z"
+    "title": "Argentine students protest on campus over Milei’s austerity",
+    "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T02:11:33Z"
   },
   {
-    "title": "Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
-    "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-10-15T15:05:29Z"
+    "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+    "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T01:34:47Z"
+  },
+  {
+    "title": "Clashes erupt at protest over university funding law in Argentina",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T01:19:25Z"
   },
   {
     "title": "Ukraine resumes attacks on Russian refineries, as Zelenskyy expresses frustration with U.S.",
@@ -66,57 +84,39 @@
     "publishedAt": "2026-10-15T11:11:36Z"
   },
   {
+    "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+    "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T00:31:18Z"
+  },
+  {
+    "title": "Houthi missiles strike Yemen presidential palace, killing five",
+    "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-16T00:27:21Z"
+  },
+  {
+    "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T00:02:37Z"
+  },
+  {
     "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
     "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
     "source": "NPR",
     "publishedAt": "2026-10-15T10:05:58Z"
   },
   {
-    "title": "School roof collapses in Pakistan, killing at least 28 children and teacher",
-    "url": "https://www.cbc.ca/news/world/school-pakistan-roof-collapse-fatalities-9.7381454?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-10-15T08:46:43Z"
+    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+    "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-15T23:38:46Z"
   },
   {
-    "title": "Pakistan school roof collapse kills at least 34 children and teacher",
-    "url": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-15T08:25:33Z"
-  },
-  {
-    "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-    "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
-    "source": "NPR",
-    "publishedAt": "2026-10-15T08:22:07Z"
-  },
-  {
-    "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
-    "url": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
+    "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+    "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-10-15T21:54:26Z"
-  },
-  {
-    "title": "Uncertainty is the point: The growing drone campaign stalking NATO’s skies",
-    "url": "https://www.cbc.ca/news/world/growing-drone-campaign-nato-9.7381020?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-10-15T08:00:00Z"
-  },
-  {
-    "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-15T21:05:01Z"
-  },
-  {
-    "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-15T20:29:52Z"
-  },
-  {
-    "title": "Why are migrants risking their lives at sea to reach Yemen?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-15T20:13:01Z"
+    "publishedAt": "2026-10-15T23:35:26Z"
   }
 ]
