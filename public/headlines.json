@@ -1,11 +1,5 @@
 [
   {
-    "title": "EU rallies in support of Ukraine amid Trump standoff",
-    "url": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T16:02:13Z"
-  },
-  {
     "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
     "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
     "source": "The Guardian",
@@ -28,18 +22,6 @@
     "url": "https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-10-16T14:34:39Z"
-  },
-  {
-    "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
-    "url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T14:19:36Z"
-  },
-  {
-    "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-    "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T14:12:13Z"
   },
   {
     "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
@@ -84,6 +66,18 @@
     "publishedAt": "2026-10-15T11:25:19Z"
   },
   {
+    "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+    "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T21:56:07Z"
+  },
+  {
+    "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T21:08:44Z"
+  },
+  {
     "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
     "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf",
     "source": "DW",
@@ -118,5 +112,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-10-16T17:59:48Z"
+  },
+  {
+    "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+    "url": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-10-16T17:46:00Z"
   }
 ]
