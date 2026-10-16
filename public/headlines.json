@@ -1,15 +1,51 @@
 [
   {
-    "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’",
-    "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-16T10:01:58Z"
+    "title": "EU rallies in support of Ukraine amid Trump standoff",
+    "url": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T16:02:13Z"
   },
   {
-    "title": "British food and drink exports to EU collapse by more than a third since Brexit",
-    "url": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
+    "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+    "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
     "source": "The Guardian",
-    "publishedAt": "2026-10-16T12:34:37Z"
+    "publishedAt": "2026-10-16T16:34:58Z"
+  },
+  {
+    "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+    "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+    "source": "NPR",
+    "publishedAt": "2026-10-16T15:57:27Z"
+  },
+  {
+    "title": "Israeli settlers attack Palestinians, American journalist during West Bank olive harvest",
+    "url": "https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-10-16T14:34:39Z"
+  },
+  {
+    "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+    "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-16T14:19:50Z"
+  },
+  {
+    "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+    "url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T14:19:36Z"
+  },
+  {
+    "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+    "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-16T14:12:13Z"
+  },
+  {
+    "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
+    "url": "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-rdf",
+    "source": "DW",
+    "publishedAt": "2026-10-16T14:03:00Z"
   },
   {
     "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
@@ -18,40 +54,22 @@
     "publishedAt": "2026-10-15T16:50:18Z"
   },
   {
+    "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+    "url": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
+    "source": "NPR",
+    "publishedAt": "2026-10-16T13:26:43Z"
+  },
+  {
     "title": "Pakistan orders school inspections following deadly roof collapse",
     "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-10-16T12:18:06Z"
   },
   {
-    "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-    "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-10-16T12:16:42Z"
-  },
-  {
-    "title": "India vs West Indies: Fifth T20 International – teams, start, lineups, Hope",
-    "url": "https://www.aljazeera.com/sports/2026/10/16/india-vs-west-india-firth-t20-international-teams-prediction-lineups?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T10:37:48Z"
-  },
-  {
-    "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-    "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-10-16T10:37:47Z"
-  },
-  {
-    "title": "China-North Korea border bridge may do little to spur trade, experts say",
-    "url": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T09:21:40Z"
-  },
-  {
-    "title": "Man Utd veering towards crisis as Man City cloud hangs over Premier League",
-    "url": "https://www.aljazeera.com/sports/2026/10/16/man-utd-veering-towards-crisis-as-man-city-cloud-hangs-over-premier-league?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T09:17:50Z"
+    "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+    "source": "UN News",
+    "publishedAt": "2026-10-16T12:00:00Z"
   },
   {
     "title": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
@@ -72,51 +90,33 @@
     "publishedAt": "2026-10-15T11:25:19Z"
   },
   {
-    "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
-    "url": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T05:51:40Z"
-  },
-  {
     "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
     "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-10-16T05:00:17Z"
   },
   {
-    "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-    "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-10-15T22:46:49Z"
+    "title": "Von der Leyen and Costa brief the media after two-day EU summit – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-16T17:09:04Z"
   },
   {
-    "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-    "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-10-16T11:40:41Z"
-  },
-  {
-    "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
-    "url": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
+    "title": "Iran’s president condemns environmental impact of war in Middle East",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T11:28:12Z"
+    "publishedAt": "2026-10-16T16:45:03Z"
   },
   {
-    "title": "EU debates Ukraine funding, as Zelenskyy's relations with the Trump administration ebb again",
-    "url": "https://www.cbc.ca/news/world/eu-summit-ukraine-russia-war-9.7383053?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-10-16T11:23:45Z"
+    "title": "India’s Cockroach Janta party leader detained amid crackdown on protests",
+    "url": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-16T16:22:32Z"
   },
   {
-    "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-    "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
+    "title": "Indian protest leaders detained ahead of flag march in New Delhi",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T10:56:20Z"
-  },
-  {
-    "title": "At the scene of a school roof collapse in Pakistan",
-    "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-10-15T20:31:02Z"
+    "publishedAt": "2026-10-16T16:16:13Z"
   }
 ]
