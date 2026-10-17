@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-17T06:39:40Z"
+  },
+  {
+    "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T04:58:32Z"
+  },
+  {
+    "title": "Trump puts on hold new Russia sanctions he signed into law",
+    "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T04:45:03Z"
+  },
+  {
     "title": "Trump pauses sanctions package targeted at Russian economy",
     "url": "https://www.cbc.ca/news/world/trump-waiver-russia-sanctions-ukraine-9.7385045?cmp=rss",
     "source": "CBC",
@@ -24,6 +42,18 @@
     "publishedAt": "2026-10-16T18:09:34Z"
   },
   {
+    "title": "Israeli raids and arrests in southern Syria push population to the brink",
+    "url": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T07:17:06Z"
+  },
+  {
+    "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+    "url": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-17T07:00:24Z"
+  },
+  {
     "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
     "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
     "source": "The Guardian",
@@ -36,10 +66,22 @@
     "publishedAt": "2026-10-16T15:57:27Z"
   },
   {
+    "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+    "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T05:19:19Z"
+  },
+  {
     "title": "Israeli settlers attack Palestinians, American journalist during West Bank olive harvest",
     "url": "https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-10-16T14:34:39Z"
+  },
+  {
+    "title": "Albania’s PM blames ‘foreign hands’ for protests",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T04:21:18Z"
   },
   {
     "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
@@ -76,47 +118,5 @@
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-10-17T00:00:00Z"
-  },
-  {
-    "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
-    "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T23:27:01Z"
-  },
-  {
-    "title": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
-    "url": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s",
-    "source": "NPR",
-    "publishedAt": "2026-10-16T08:51:17Z"
-  },
-  {
-    "title": "How Putin may react to the rift between the U.S. and Ukraine",
-    "url": "https://www.npr.org/2026/10/16/nx-s1-6003665/how-putin-may-react-to-the-rift-between-the-u-s-and-ukraine",
-    "source": "NPR",
-    "publishedAt": "2026-10-16T08:50:29Z"
-  },
-  {
-    "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
-    "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T21:56:07Z"
-  },
-  {
-    "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T21:08:44Z"
-  },
-  {
-    "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
-    "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-10-16T19:42:00Z"
-  },
-  {
-    "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-16T19:18:13Z"
   }
 ]
