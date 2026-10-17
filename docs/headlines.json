@@ -1,5 +1,29 @@
 [
   {
+    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+    "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+    "source": "NPR",
+    "publishedAt": "2026-10-17T14:25:10Z"
+  },
+  {
+    "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
+    "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-17T13:28:41Z"
+  },
+  {
+    "title": "Zelenskyy urges support for new U.S. sanctions on Russia hours after Trump paused them",
+    "url": "https://www.cbc.ca/news/world/zelenskyy-trump-russia-sanctions-9.7385125?cmp=rss",
+    "source": "CBC",
+    "publishedAt": "2026-10-17T12:27:41Z"
+  },
+  {
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-17T11:56:06Z"
+  },
+  {
     "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
     "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
     "source": "Al Jazeera",
@@ -12,22 +36,10 @@
     "publishedAt": "2026-10-17T09:54:49Z"
   },
   {
-    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-10-17T09:42:13Z"
-  },
-  {
     "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
     "url": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-10-17T09:31:47Z"
-  },
-  {
-    "title": "Honeybees are barging aside wild pollinators in hunt for pollen and nectar, study finds",
-    "url": "https://www.theguardian.com/environment/2026/oct/17/honeybees-are-barging-aside-wild-pollinators-in-hunt-for-pollen-and-nectar-study-finds",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-17T09:00:27Z"
   },
   {
     "title": "Trump pauses sanctions package targeted at Russian economy",
@@ -40,6 +52,42 @@
     "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "publishedAt": "2026-10-17T01:18:08Z"
+  },
+  {
+    "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+    "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T14:28:07Z"
+  },
+  {
+    "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+    "url": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T14:00:24Z"
+  },
+  {
+    "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-17T13:00:31Z"
+  },
+  {
+    "title": "France tackles new wave of nationwide protests",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T12:18:55Z"
+  },
+  {
+    "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+    "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-17T12:15:37Z"
+  },
+  {
+    "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+    "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T12:10:56Z"
   },
   {
     "title": "Russian strikes kill civilians, injure dozens across Ukraine",
@@ -70,53 +118,5 @@
     "url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-10-17T10:12:01Z"
-  },
-  {
-    "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
-    "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T09:44:47Z"
-  },
-  {
-    "title": "Houthis strike Yemen’s Aden: What that means",
-    "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T09:16:48Z"
-  },
-  {
-    "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-    "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-16T18:09:34Z"
-  },
-  {
-    "title": "France braces for nationwide protests",
-    "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf",
-    "source": "DW",
-    "publishedAt": "2026-10-17T08:02:00Z"
-  },
-  {
-    "title": "Israeli raids and arrests in southern Syria push population to the brink",
-    "url": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T07:17:06Z"
-  },
-  {
-    "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
-    "url": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-17T07:00:24Z"
-  },
-  {
-    "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
-    "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-16T16:34:58Z"
-  },
-  {
-    "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-    "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-    "source": "NPR",
-    "publishedAt": "2026-10-16T15:57:27Z"
   }
 ]
