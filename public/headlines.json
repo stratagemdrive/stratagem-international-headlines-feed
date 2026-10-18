@@ -1,5 +1,11 @@
 [
   {
+    "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T23:40:59Z"
+  },
+  {
     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -34,6 +40,36 @@
     "url": "https://www.cbc.ca/news/world/zelenskyy-trump-russia-sanctions-9.7385125?cmp=rss",
     "source": "CBC",
     "publishedAt": "2026-10-17T12:27:41Z"
+  },
+  {
+    "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-18T00:00:11Z"
+  },
+  {
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-17T23:52:38Z"
+  },
+  {
+    "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
+    "url": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-17T23:24:40Z"
+  },
+  {
+    "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+    "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-17T23:21:57Z"
+  },
+  {
+    "title": "How day of protests unfolded as disorder breaks out across France",
+    "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-17T21:33:17Z"
   },
   {
     "title": "Student protests widen into greater social unrest in France",
@@ -78,45 +114,9 @@
     "publishedAt": "2026-10-17T18:41:30Z"
   },
   {
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "publishedAt": "2026-10-17T18:38:57Z"
-  },
-  {
     "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
     "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-10-17T18:26:59Z"
-  },
-  {
-    "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T17:18:50Z"
-  },
-  {
-    "title": "Al Jazeera reports from Paris as protests turn violent",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T16:56:40Z"
-  },
-  {
-    "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T16:49:07Z"
-  },
-  {
-    "title": "Trump pauses sanctions package targeted at Russian economy",
-    "url": "https://www.cbc.ca/news/world/trump-waiver-russia-sanctions-ukraine-9.7385045?cmp=rss",
-    "source": "CBC",
-    "publishedAt": "2026-10-17T02:36:07Z"
-  },
-  {
-    "title": "Buildings and cars set on fire as cost of living protests rock France",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T16:00:40Z"
   }
 ]
