@@ -1,27 +1,21 @@
 [
   {
-    "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-    "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T23:40:59Z"
+    "title": "Deaths confirmed in major fire at Canada military base",
+    "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "publishedAt": "2026-10-18T04:00:50Z"
   },
   {
     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "publishedAt": "2026-10-17T19:19:19Z"
+    "publishedAt": "2026-10-18T01:10:25Z"
   },
   {
-    "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-    "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+    "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
     "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T17:24:07Z"
-  },
-  {
-    "title": "Why are Latin American countries building closer ties with Israel?",
-    "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T16:54:44Z"
+    "publishedAt": "2026-10-17T23:40:59Z"
   },
   {
     "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
@@ -30,10 +24,34 @@
     "publishedAt": "2026-10-17T15:38:17Z"
   },
   {
+    "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
+    "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-18T04:59:29Z"
+  },
+  {
+    "title": "St Petersburg under attack from Ukrainian drone swarm",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-18T04:51:01Z"
+  },
+  {
     "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
     "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
     "source": "NPR",
     "publishedAt": "2026-10-17T14:25:10Z"
+  },
+  {
+    "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
+    "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-18T04:00:50Z"
+  },
+  {
+    "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+    "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+    "source": "The Guardian",
+    "publishedAt": "2026-10-18T02:50:29Z"
   },
   {
     "title": "Zelenskyy urges support for new U.S. sanctions on Russia hours after Trump paused them",
@@ -42,7 +60,31 @@
     "publishedAt": "2026-10-17T12:27:41Z"
   },
   {
-    "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+    "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-18T01:54:18Z"
+  },
+  {
+    "title": "Buildings burn as French protests go into the night",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-18T01:30:46Z"
+  },
+  {
+    "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-18T01:12:44Z"
+  },
+  {
+    "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+    "source": "Al Jazeera",
+    "publishedAt": "2026-10-18T01:02:37Z"
+  },
+  {
+    "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
     "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
     "source": "Al Jazeera",
     "publishedAt": "2026-10-18T00:00:11Z"
@@ -76,47 +118,5 @@
     "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
     "source": "NPR",
     "publishedAt": "2026-10-17T21:18:52Z"
-  },
-  {
-    "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-    "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T21:02:26Z"
-  },
-  {
-    "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T20:20:25Z"
-  },
-  {
-    "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T20:02:22Z"
-  },
-  {
-    "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T19:03:49Z"
-  },
-  {
-    "title": "Israeli settlers attack European diplomats in West Bank",
-    "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-    "source": "The Guardian",
-    "publishedAt": "2026-10-17T18:57:56Z"
-  },
-  {
-    "title": "Is the US Embassy in Jerusalem for Israel or America?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T18:41:30Z"
-  },
-  {
-    "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-    "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-    "source": "Al Jazeera",
-    "publishedAt": "2026-10-17T18:26:59Z"
   }
 ]
